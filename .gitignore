@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# IDE metadata
+.idea/
+
+# Local runtime state
+.processed_files.json
+.tmpstate*.json
+

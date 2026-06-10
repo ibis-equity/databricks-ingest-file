@@ -1,0 +1,2501 @@
+cust_id,first_name,last_name,address,city,state,zip,amount_paid
+CUST-11718,Timothy,Gomez,Woodland Rd,Austin,,,1428.06
+CUST-11437,Margaret,Scott,4167 Spring St,Milwaukee,WI,53204,1334.54
+CUST-10910,Samantha,Smith,,Philadelphia,PA,19102,
+CUST-10266,Pamela,Diaz,6844 Hill St,Omaha,NE,68104,$701.24
+CUST-10141,Emma,Ortiz,Apt 338,Raleigh,NC,27603,1279.22
+CUST-10707,William,Flores,Elm St,Bakersfield,CA,,60.24
+CUST-11736,Sarah,Adams,Unit 321,Minneapolis,MN,55404,1349.44
+CUST-11130,William,Flores,Suite 668,Nashville,,37205,52.94
+CUST-11713,Laura,Hill,1710 School Rd,Philadelphia,PA,19102,145.56
+CUST-11642,Sharon,Brown,4103 Park Ave,,,,21.94
+CUST-10488,Gregory,Jones,257 Lake Blvd,Jacksonville,FL,32202,1121.47
+CUST-11548,Nicholas,PEREZ,6102 Mill Rd,Philadelphia,PA,19103,
+CUST-10330,Jason,Hernandez,2957 Woodland Rd,Las Vegas,NV,89105,N/A
+CUST-10775,Joseph,Evans,1038 River Rd Suite 77,Milwaukee,WI,53201,714.19
+CUST-11082,,Scott,1750 Elm St,San Jose,CA,95102,
+CUST-11604,Michael  ,Sanchez,9602 Park Ave,San Francisco,CA,94105,466.9
+CUST-10018,,Jackson,4041 Grove Ave,Indianapolis,IN,46202,
+CUST-10014,Ashley,Lee,4423 Church St,Albuquerque,NM,87104,830.94
+CUST-11067,Richard,Green,,Fresno,CA,93704,40.5
+CUST-11695,Raymond,Martinez,,Washington,DC,20001,958.63
+CUST-11447,Jason,Gonzalez,8296 Maple Dr,Austin,TX,,368.16
+CUST-10693,,Kim,1098 Maple Dr,Indianapolis,IN,46203,535.39
+CUST-11147,Donna,Garcia,1427 Forest Dr,Tampa,FL,33605,737.23
+CUST-10380,Melissa,Baker,2364 Lake Blvd,Atlanta,GA,30303,314.54
+CUST-10764,ANGELA,,,Aurora,CO,80010,458.5
+CUST-11240,Matthew,Hill,,New Orleans,,70115,666.53
+CUST-11395,Ryan,,9121 School Rd,Chicago,IL,60602,199.35
+,,Hernandez,5053 Sunset Blvd c/o 41,Tucson,AZ,,770.73
+,Pamela,,,San Diego,CA,92105,301.73
+CUST-11363,Betty,Wilson,9719 Oak Ave,Chicago,,60605,12.45
+,John,Morgan,7552 School Rd,,OK,73101,1389.11
+CUST-11730,Christine,Rodriguez,,New Orleans,LA,,-376.54
+CUST-11659,Charles,,9885 Forest Dr,Tucson,AZ,85703,1466.81
+CUST-10733,Melissa,King,7599 Cedar Ln,CO,Colorado Springs,80903,1327.41
+CUST-11374,,Green,1808 Highland Ave,,CA,92104,156689.6
+CUST-11347,,Jackson,2220 Valley Rd,Oklahoma City,,73104,282.27
+CUST-10843,,CRUZ,505 Summit Dr,Memphis,TN,38103,
+CUST-11565,Frank,Cook,783 Ridge Rd Suite 44,,DC,20001,VOID
+CUST-11603,Charles,Evans,6153 Cedar Ln,Oklahoma City,OK,73103,321.26
+CUST-11458,Helen,Diaz,2446 Maple Dr,Raleigh,NC,27603,769.42
+CUST-11056,Charles,Cruz  ,School Rd,Chicago,IL,60602,371.26
+CUST-10796,Rebecca,Garcia,2019 Ridge Rd,Cleveland,OH,44105,$51.42
+CUST-10875,LARRY,thompson,5986 Spring St,Memphis,TN,38103,125.33
+CUST-10876,Katherine,Martinez,6166 Park Ave,Kansas City,MO,64103,851.12
+CUST-11358,Kevin  ,Flores,,New Orleans,LA,70114,1143.63
+CUST-10263,Amy,Parker,6230 Woodland Rd,Jacksonville,FL,32201,349.62
+CUST-10976,,,8768 Main St,Denver,CO,80204,179.82
+CUST-11301,Jason,Scott,6109 Valley Rd,Houston,TX,77001,0
+CUST-11328,Laura,Lopez,3186 Summit Dr,,CA,94205,91.36
+CUST-10574,,,7033 Church St,CO,Aurora,80011,310.0
+,Timothy,Walker,617 Brook Ln,Jacksonville,FL,32204,-1454.43
+CUST-10747,Emily,Collins,9771 Highland Ave,CO,,80014,1445.44
+CUST-10445,Anthony,Rodriguez,551 Meadow Ln,San Antonio,TX,78205,
+CUST-10938,Ronald,,888 Highland Ave,Omaha,NE,68102,N/A
+,Pamela,Carter,Unit 556,Louisville,KY,40202,$618.4
+CUST-10732,,lewis,,Baltimore,MD,21203,158.05
+CUST-10670,Richard,Morris,2665 Meadow Ln,Omaha,NE,68102,298.04
+CUST-10624,Dorothy,Green,5212 Meadow Ln,,KY,40203,1080.36
+CUST-10729,Jacob,,2786 School Rd,CA,Sacramento,94204,N/A
+CUST-11451,Pamela,HERNANDEZ,4090 Highland Ave,San Diego,CA,92102,1171.68
+,Charles,,9870 Elm St,Fort Worth,TX,76102,72.22
+CUST-11531,Debra,Baker,2149 Hill St,Raleigh,NC,27604,577.38
+CUST-10353,,White,8239 Oak Ave,Dallas,,75204,413.56
+CUST-11082,Jeffrey,scott,1750 Elm St,San Jose,CA,95102,594.69
+CUST-11616,Kenneth,Lopez,2289 Grove Ave,Louisville,KY,40201,
+CUST-10222,Jeffrey,WALKER,6019 Woodland Rd,,MA,02101,
+CUST-11252,Carol,Phillips,9437 Woodland Rd,Oklahoma City,OK,73101,480.31
+CUST-10777,Larry,Lewis,8505 Highland Ave,Minneapolis,MN,55403,1483.42
+CUST-11657,,Taylor,7141 Highland Ave,Nashville,,37205,N/A
+CUST-11276,Deborah,Mitchell,3182 Church St,Dallas,TX,75204,TBD
+CUST-10652,Larry,,Woodland Rd,Omaha,NE,68102,-470.48
+CUST-11565,Frank,,783 Ridge Rd,Washington,DC,20001,1383.67
+CUST-11494,,Clark,Hill St,Austin,TX,78702,113.83
+CUST-11124,Shirley,Kelly,2126 Brook Ln,,FL,33103,407.15
+CUST-10811,Debra,Allen,4836 Lake Blvd,,,,1425.2
+CUST-11091,Jason,phillips,6233 Grove Ave,Chicago,IL,60605,N/A
+CUST-10652,Larry,Jackson,,Omaha,NE,68102,156611.24
+CUST-11378,Stephen,Evans  ,3094 Maple Dr,Denver,CO,80204,1060.75
+CUST-10048,Andrew,Diaz,7974 Elm St,New Orleans,LA,70116,477.94
+CUST-10286,Carol,Kim,1080 Forest Dr,Houston,TX,77003,758.76
+CUST-10345,GEORGE,,9012 Woodland Rd,Bakersfield,CA,93301,770.34
+CUST-11457,Betty,King,,,LA,70113,576.16
+CUST-10305,Christopher,Wright,2415 Sunrise Ave,Milwaukee,WI,,156.08
+,,WILLIAMS,5435 Valley Rd,Columbus,OH,43204,409.16
+,Justin,Wilson  ,2694 Meadow Ln,San Jose,CA,95101,753.86
+CUST-10775,Joseph,Evans,1038 River Rd,Milwaukee,WI,53201,$553.71
+CUST-11591,Patricia,Kelly,9193 Church St,Cleveland,OH,44103,$50.93
+CUST-10010,William,Garcia,4742 Maple Dr,Minneapolis,MN,55402,1044.6
+CUST-11434,Shirley,Allen  ,Brook Ln,Fresno,CA,93650,1274.98
+CUST-11226,BARBARA,Scott,6367 Forest Dr,Houston,TX,77004,478.24
+,betty,COOPER,105 Sunrise Ave,,CA,94102,577.97
+CUST-10871,gary,Robinson,6053 Park Ave,Phoenix,AZ,,0
+CUST-10581,,Perez,3491 Church St,Milwaukee,WI,53203,808.78
+CUST-11136,Jonathan,,5435 Valley Rd,Columbus,,43204,$697.64
+CUST-10471,Lisa,Rivera,8955 Summit Dr,Austin,TX,73344,758.89
+CUST-11447,Jason,,8296 Maple Dr,Austin,TX,78701,$1039.58
+CUST-11601,Benjamin,Perez,5330 Pine Rd,Houston,TX,77005,
+CUST-10726,Sarah,Brown,4844 River Rd,Virginia Beach,VA,23453,TBD
+CUST-11550,Shirley,Turner,Fl 364,Charlotte,NC,28202,129.08
+CUST-11776,Karen,Morris,7003 Maple Dr,Los Angeles,CA,90004,130.86
+CUST-10869,Laura,Lee,9271 School Rd,Jacksonville,FL,32204,-739.54
+CUST-11731,Stephen,Thomas,1724 Highland Ave,Boston,,02101,733.67
+CUST-11103,Joseph,Edwards,1398 Highland Ave,Cleveland,OH,44103,$1037.58
+,Jacob,Kelly,8981 Sunset Blvd,MD,,21201,1199.08
+CUST-10948,Charles,Martin,2894 Sunrise Ave,Tucson,AZ,85701,1218.16
+CUST-10531,Joseph,Williams,2693 Grove Ave,El Paso,TX,79901,174.36
+CUST-11185,Deborah,,,Portland,OR,97202,633.18
+CUST-11500,,Lopez,5600 Meadow Ln # 35,Chicago,IL,60605,0
+CUST-11243,Deborah,Rodriguez,8187 Woodland Rd,,AZ,85203,139.44
+CUST-10828,Katherine,Johnson,7302 Park Ave,San Diego,CA,92103,$1259.53
+CUST-10497,Helen,Nguyen,,San Francisco,CA,94101,-1162.32
+CUST-11765,Patricia,Robinson,5616 Park Ave,Aurora,CO,80012,659.04
+CUST-10367,Brenda,Wilson,7643 Cedar Ln,Oklahoma City,OK,,1232.77
+CUST-11484,Gregory,Howard,68 Highland Ave,OH,Columbus,43204,95.93
+CUST-10043,Jonathan,,3007 River Rd,Dallas,TX,75204,202.35
+CUST-11666,Susan,Collins,3595 Main St,,IL,60604,774.0
+,Kimberly  ,Lopez,8516 Sunrise Ave,Chicago,,60602,1464.85
+CUST-11745,Melissa  ,Walker  ,No. 572,Fort Worth,TX,76101,1150.99
+CUST-10489,Emma,Jackson,1261 Hill St,Bakersfield,CA,93304,-12.41
+CUST-11646,Robert,Carter,2090 Oak Ave,Oklahoma City,,,296.91
+CUST-11320,Stephanie,Murphy,5247 Elm St,CA,San Jose,95104,-486.66
+CUST-10088,Andrew,CLARK,9940 Church St,Las Vegas,NV,89105,-497.35
+,Benjamin,anderson,43 Oak Ave,Charlotte,NC,28205,1162.4
+CUST-10953,Joshua,King,9181 Woodland Rd,Boston,MA,02103,
+CUST-11238,jonathan,,4751 Church St,Philadelphia,PA,19104,141.62
+CUST-10840,Benjamin,Thomas,1037 Ridge Rd,Mesa,AZ,85201,$1304.49
+CUST-11070,Gary,Gomez,302 Valley Rd,,MD,21202,$386.32
+,Pamela,Carter,5479 Valley Rd,Philadelphia,PA,19101,696.67
+CUST-11013,Amy,Peterson,4639 Forest Dr Bldg 48,San Jose,CA,95105,-542.11
+CUST-11100,Ronald,Evans,Pine Rd,Oklahoma City,OK,73104,1159.73
+CUST-10318,William,ORTIZ,Woodland Rd,Mesa,AZ,85205,$439.67
+CUST-10027,,Martin,8838 Ridge Rd,Boston,MA,02102,1228.61
+CUST-11358,Kevin,Flores,2278 Meadow Ln,New Orleans,LA,70114,
+CUST-11448,Amanda,,,Raleigh,NC,27605,232.15
+CUST-10419,Stephanie,Gonzalez,,Jacksonville,FL,32201,1287.31
+CUST-10358,Raymond,PEREZ,2527 Pine Rd,Colorado Springs,CO,80905,1370.93
+CUST-10960,Barbara,Hernandez,3740 Forest Dr,Austin,TX,78701,0
+CUST-11367,Charles,Scott,5771 Pine Rd,Colorado Springs,CO,80903,1386.18
+,George,Nguyen,9919 Church St,Bakersfield,CA,93303,123.77
+CUST-10960,Barbara,Hernandez,,Austin,TX,78701,12.75
+CUST-11507,Larry,allen,,Washington,DC,20003,1073.86
+CUST-11312,Larry  ,Taylor,4260 Park Ave,Nashville,TN,,1060573.57
+CUST-11292,Barbara,Roberts,8699 Oak Ave,LA,New Orleans,70114,
+CUST-11242,ROBERT,harris,,,CA,90005,1201.16
+CUST-11185,deborah,Campbell,Suite 146,Portland,OR,97202,721.99
+CUST-10433,Rebecca,Collins,9156 Meadow Ln,Omaha,NE,68101,$272.42
+CUST-11097,Lisa,Diaz,,Denver,CO,80205,101.25
+CUST-11648,Susan,Davis,Sunset Blvd,Atlanta,GA,30301,1043.82
+CUST-11756,Deborah,Moore,5210 School Rd,El Paso,TX,,0
+CUST-10365,Anthony,BAKER,5122 Mill Rd,Raleigh,,27602,1104.23
+CUST-11482,Charles,Thomas,3338 Hill St,Washington,DC,20001,911.93
+CUST-10082,Steven,garcia,28 Highland Ave,Bakersfield,CA,93304,
+CUST-11138,,Morgan,9924 Sunset Blvd,Austin,TX,78703,1415.46
+CUST-10154,Christopher,Smith,9730 Summit Dr,Portland,OR,97204,1008.35
+,,Scott,,Houston,TX,77004,1255.8
+CUST-10574,FRANK,Flores,7033 Church St,Aurora,CO,80011,605.61
+CUST-10921,mark,Cox,6619 Spring St,Fort Worth,TX,76104,1283.75
+CUST-10066,Elizabeth,Diaz,Forest Dr,Seattle,WA,98101,610.23
+CUST-11450,Sarah,Smith,5007 Forest Dr,Louisville,KY,40202,1483.06
+CUST-10909,Stephen,Ward,2634 Sunset Blvd,New Orleans,LA,70112,
+CUST-10660,George,Thompson,5847 Park Ave,Bakersfield,CA,93305,
+CUST-10948,Charles,Martin,2894 Sunrise Ave,Tucson,AZ,85701,488.93
+CUST-11134,Karen,Collins,Unit 125,Mesa,AZ,85203,827.32
+CUST-10853,,Morales,2101 School Rd,El Paso,TX,79903,49.03
+CUST-10710,Betty,Scott,,Boston,MA,2104,1311.47
+CUST-11338,Larry,Moore,6255 Hill St,,TX,76102,1064.91
+CUST-10173,Andrew,Cruz,1990 Main St,New Orleans,LA,70115,N/A
+CUST-11127,Jessica,brown,3397 Brook Ln,Albuquerque,NM,87101,
+CUST-11229,Gary,Wilson,,San Jose,CA,,286220.15
+CUST-11206,Karen,,4281 Mill Rd,Boston,MA,02102,
+CUST-11736,Sarah,Adams,,Minneapolis,,55404,#REF!
+CUST-10267,Joseph,Phillips,2816 Brook Ln,Los Angeles,CA,90003,#REF!
+CUST-10815,Rebecca,Green,,Atlanta,GA,30301,unknown
+CUST-11262,Nancy,Murphy,Fl 649,Miami,,33101,$1055.43
+,Sandra,,1181 Sunset Blvd,Atlanta,GA,30303,257.54
+CUST-11118,justin,Campbell,4904 Forest Dr,Chicago,IL,60601,0
+CUST-10870,CHARLES,,,Washington,DC,20001,-1474.21
+CUST-11641,,Flores,457 Summit Dr,Phoenix,AZ,85001,1061.23
+CUST-11291,Stephanie,White,23 Church St,Boston,,02104,384.3
+CUST-10082,Steven,Garcia,28 Highland Ave Unit 25,Bakersfield,CA,93304,96.85
+CUST-10707,William,Flores,6610 Elm St,Bakersfield,CA,93305,#REF!
+CUST-11454,Andrew,,6023 Pine Rd,Philadelphia,PA,19104,-419.31
+CUST-10860,,Morales  ,2880 Church St Bldg 21,Atlanta,GA,30301,$1067.39
+CUST-11103,Joseph,edwards,1398 Highland Ave,Cleveland,,44103,1048.1
+CUST-11044,George,Cooper,5355 Highland Ave,Omaha,NE,68102,-1240.54
+CUST-11381,Charles,Gomez,1667 Grove Ave,Louisville,KY,40205,1101.92
+CUST-10086,Thomas,Harris,P.O. Box 482,Portland,,97204,408.32
+CUST-10044,Cynthia,Young,9017 Cedar Ln,Phoenix,AZ,85004,1160.92
+CUST-10858,Raymond,PARKER,2201 School Rd,Seattle,WA,98103,559.9
+CUST-11161,Ryan,Flores,7710 Park Ave,FL,Tampa,33604,676.82
+,Donald,Hernandez,Lake Blvd,Atlanta,GA,30301,VOID
+CUST-11660,Emily,Mitchell,School Rd,New York,,10005,52.54
+CUST-11271,Jeffrey,Ramos,Lake Blvd,Colorado Springs,CO,80903,VOID
+,Michelle,Williams,,San Jose,CA,95101,$567.78
+CUST-10594,Frank,Cook,6591 Maple Dr P.O. Box 53,Portland,,97204,1415.64
+CUST-10238,Shirley,Nguyen,9920 Sunrise Ave,Albuquerque,NM,87105,0
+CUST-10573,David,Mitchell,,Minneapolis,MN,55402,-630.41
+CUST-11558,Raymond,,7245 Mill Rd,Mesa,,85205,1327.2
+CUST-11789,NICOLE,Howard,203 Cedar Ln,Minneapolis,MN,55402,1378.35
+CUST-11594,John,Thomas,Main St,Minneapolis,MN,55405,-1281.68
+,NICHOLAS,Williams,2942 Pine Rd,San Diego,CA,92104,304.99
+CUST-10604,,KING,1263 Summit Dr,Bakersfield,CA,93305,
+CUST-11681,Michelle,Young,2072 Highland Ave,Houston,TX,77003,617.61
+CUST-11427,Donna,Reyes,7146 Sunrise Ave,,Fresno,93704,0
+CUST-11149,Pamela,Flores,,Cleveland,OH,,765.79
+CUST-11571,BRIAN,Collins,6975 Sunrise Ave,San Antonio,TX,78202,793.62
+CUST-10182,Jonathan,Morris,9043 Ridge Rd,Washington,DC,20003,102.17
+CUST-10246,MICHAEL,,5762 Cedar Ln,Raleigh,NC,,-1372.89
+CUST-10039,Pamela,Kelly,7750 Sunrise Ave,,AZ,85702,1038.49
+CUST-10846,Brenda,Jackson,83 Spring St,San Diego,CA,92101,82.56
+CUST-10755,Steven,Stewart,3367 Mill Rd,New Orleans,LA,70113,$1087.49
+CUST-10103,Joshua,Green,2268 Elm St Rm 68,Mesa,AZ,85201,497.08
+CUST-10626,Justin,Wilson,2694 Meadow Ln,,CA,95101,
+CUST-11552,charles,Johnson,Maple Dr,CA,Bakersfield,93305,1018.38
+CUST-10717,,,3667 River Rd,Raleigh,NC,27601,839.14
+CUST-10985,Michelle,Williams,8765 Main St,San Jose,CA,95101,187.07
+CUST-10116,Anna,Miller,1125 Ridge Rd,Washington,DC,20002,1026.97
+CUST-10670,Richard,Morris,2665 Meadow Ln # 90,Omaha,NE,68102,$180.93
+CUST-10127,Karen,Parker,Brook Ln,Jacksonville,FL,32204,761.69
+,Gary,Rogers,7449 Cedar Ln,Seattle,,98102,392.91
+CUST-10697,,Howard,9220 Ridge Rd,San Antonio,,78201,
+CUST-10191,Frank,Morales,1122 Park Ave,,AZ,85201,1323.9
+,Patricia,Taylor,3899 Spring St,,NY,10003,619.77
+CUST-10611,Pamela,Mitchell,863 Pine Rd,San Diego,CA,92105,129.26
+,Sharon,Jackson,,Virginia Beach,VA,,1094.51
+CUST-11434,Shirley,,3901 Brook Ln Ste 71,Fresno,CA,93650,0
+CUST-10410,Andrew,Davis,3805 Woodland Rd,PA,Philadelphia,19105,1064.83
+CUST-10222,Jeffrey,Walker,6019 Woodland Rd PO Box 31,Boston,MA,02101,1445.17
+CUST-11760,Donald,Diaz,,San Francisco,CA,94105,760.03
+CUST-10876,Katherine,Martinez,6166 Park Ave,Kansas City,MO,64103,1239.89
+CUST-11406,John,Morgan,7552 School Rd,Oklahoma City,OK,73101,-121.72
+CUST-10078,,Phillips,,Tampa,FL,33605,$860.63
+CUST-11331,Melissa,Johnson,5757 Hill St,Denver,CO,80203,1048.57
+CUST-10546,Sarah,White,879 Valley Rd,Oklahoma City,,73104,
+CUST-11001,Amy,Lopez,5545 Ridge Rd,Tampa,FL,33605,176.46
+CUST-10908,Christopher,Gonzalez,6563 Forest Dr,OH,Columbus,43204,1433.4
+CUST-10554,,Diaz,4878 Oak Ave,TX,San Antonio,78202,295.18
+CUST-10598,,Walker,1413 Sunrise Ave,Houston,TX,77002,$1314.42
+CUST-10807,Joseph,,9549 Spring St,Atlanta,GA,30304,$1418.85
+CUST-11093,Shirley,Jones,7400 Meadow Ln,Kansas City,MO,64101,473.79
+,Ryan,Richardson,,Omaha,NE,68101,67.36
+CUST-11331,Melissa,Johnson,5757 Hill St,Denver,CO,80203,0
+CUST-11581,Melissa,Hill,P.O. Box 314,Denver,CO,80204,12.31
+CUST-11326,Linda,Cox,c/o 770,Virginia Beach,VA,23451,640.41
+CUST-11054,Kevin,Harris,9731 Church St,Oklahoma City,OK,73103,338.14
+CUST-10327,JOSHUA,Wright,7160 Sunset Blvd,San Diego,CA,92103,624.9
+CUST-11092,George,Gomez,Suite 717,Miami,,33125,89.23
+CUST-10926,Carol,Collins,Main St,Tampa,FL,33604,
+CUST-11543,Jennifer,,1935 Lake Blvd,San Antonio,TX,,0
+CUST-11430,Jennifer,Morales,1376 Forest Dr,Los Angeles,CA,90001,170.0
+CUST-11317,Jeffrey,king,3362 Woodland Rd,Boston,MA,2102,159.43
+CUST-10499,Brian,Wilson,5051 Meadow Ln,Philadelphia,PA,,1168.71
+CUST-10580,Sarah,JACKSON,,AZ,Phoenix,85005,
+CUST-11047,Emily,Gomez,5508 Maple Dr,San Jose,,95102,1233.62
+CUST-10164,Benjamin,Wright,2871 Summit Dr,Omaha,NE,68101,1132.63
+CUST-11091,Jason,Phillips,6233 Grove Ave,Chicago,,,
+CUST-11593,Michael  ,Reed,7797 Highland Ave,Kansas City,MO,64102,287.1
+CUST-10105,Rebecca,,,El Paso,TX,79905,
+CUST-10990,Charles,Davis,1170 Woodland Rd,Seattle,WA,98104,216.1
+CUST-10185,George,STEWART,6326 School Rd,Bakersfield,CA,93304,-682.32
+CUST-10257,David,wright,,Milwaukee,WI,53204,929.59
+CUST-11155,Donna  ,,7269 Oak Ave,El Paso,TX,79905,278.92
+CUST-10084,Joshua,Richardson,4921 Highland Ave,Oklahoma City,OK,73101,83.62
+CUST-11039,Barbara,Adams,,Tucson,,85702,576.24
+CUST-10956,Katherine,MORGAN,5819 Forest Dr,Jacksonville,FL,32202,1431.85
+CUST-10090,Jacob,Perez,4650 Highland Ave,Minneapolis,MN,55401,229.56
+CUST-10464,jonathan,Rivera,5893 Highland Ave,Nashville,TN,37203,133.73
+CUST-11191,James,Kelly,8221 River Rd,,CA,93701,512.12
+CUST-11064,Helen,Wright,137 Maple Dr,Houston,TX,77004,884.58
+,Richard,Garcia,Spring St,,Nashville,37204,1379.27
+CUST-10233,Mark,Ward,4942 Meadow Ln,Chicago,IL,60605,$715.88
+CUST-10653,Donna,Thompson,1479 Oak Ave,Fresno,CA,93650,1012.89
+CUST-10844,Christopher,Morgan,6407 Woodland Rd,Charlotte,NC,28202,
+CUST-10728,Pamela,Harris,8760 Church St,El Paso,TX,79902,$1143.35
+CUST-11784,Deborah  ,Reed,7149 River Rd,Austin,TX,73344,927.61
+CUST-10929,Jonathan,Johnson,4068 Hill St,New Orleans,LA,,187681.48
+,,PARKER,1276 Forest Dr,Los Angeles,CA,90004,656.24
+CUST-10084,Joshua,Richardson,4921 Highland Ave,Oklahoma City,,73101,1109.94
+CUST-10425,Brandon,LEWIS,Elm St,Charlotte,NC,28202,492.96
+CUST-10083,Jonathan,Sanchez,1147 School Rd,Boston,,02104,744.07
+CUST-10637,Joshua,,830 Pine Rd,IL,Chicago,60604,-20.34
+CUST-10748,Carol,Parker,,,FL,33602,0
+CUST-10560,Pamela,,2222 Ridge Rd,Sacramento,CA,94201,1438.15
+CUST-10515,Joseph,Reed,8940 Pine Rd,Fort Worth,TX,76105,pending
+CUST-10494,Michelle,Brown,Summit Dr,Cleveland,OH,44103,-359.16
+CUST-11018,emma,Allen,3617 Brook Ln,Houston,TX,77003,890.14
+CUST-10229,Patricia,Taylor,3899 Spring St,New York,NY,10003,557.66
+CUST-10951,Michael,Gomez,P.O. Box 875,San Antonio,TX,78202,184.93
+,jeffrey,Johnson,2469 Main St,Charlotte,NC,,0
+CUST-11316,Donald,ANDERSON,9414 Elm St,Chicago,IL,60603,451.63
+CUST-10513,Daniel,Gomez,8045 Spring St,Oklahoma City,OK,73103,767.97
+CUST-11126,Brandon,Robinson  ,3172 Main St,Bakersfield,CA,93303,1482.52
+CUST-11530,Kevin,Cruz,3600 Spring St,Charlotte,NC,28205,1021.42
+CUST-10932,Paul,White,8176 Grove Ave,Baltimore,MD,21202,491.33
+CUST-10041,Timothy,Reyes,1613 Oak Ave,Aurora,CO,80010,$1276.44
+CUST-11676,Donna,,6101 School Rd,San Francisco,CA,,1012.3
+CUST-11470,Steven,,4957 Sunset Blvd,Miami,FL,,213.3
+CUST-10951,Michael,Gomez,984 Lake Blvd,San Antonio,TX,,1289.76
+CUST-10992,Jessica,Young,4050 Grove Ave,,TN,38103,1113.61
+CUST-10860,Donna,,2880 Church St,Atlanta,GA,30301,1205.78
+CUST-11707,Mary,murphy,5568 Park Ave,Minneapolis,,55403,$1074.0
+CUST-10084,Joshua,Richardson,,Oklahoma City,OK,73101,27.55
+CUST-11239,,thompson,,Atlanta,GA,30301,1439.89
+,Jeffrey,Scott,2714 Mill Rd,Virginia Beach,VA,23450,pending
+CUST-11494,John,,6593 Hill St,Austin,TX,78702,$910.61
+CUST-10502,susan,Brown,9081 Maple Dr,Philadelphia,,19103,$1380.93
+CUST-10544,pamela,,Church St,Las Vegas,NV,89102,1162.18
+CUST-10932,Paul,White,8176 Grove Ave,,MD,21202,VOID
+CUST-11248,Jennifer,Young,236 Pine Rd P.O. Box 14,New Orleans,LA,70113,517.59
+CUST-10728,Pamela,Harris,8760 Church St,El Paso,TX,79902,VOID
+CUST-11725,,Lopez  ,5682 Mill Rd,Denver,CO,80204,686.91
+CUST-11195,Eric,Hernandez,1450 Park Ave Rm 24,,MO,64105,358.57
+CUST-10529,anthony,Gutierrez,7802 Cedar Ln,Tucson,AZ,85703,1218.94
+CUST-10376,Brian,,,Boston,MA,2101,997.84
+CUST-10249,Kimberly,Kelly,9191 Ridge Rd,Charlotte,NC,28204,
+CUST-10093,Ashley,Stewart,Sunrise Ave,Miami,FL,33101,447.88
+CUST-10777,Larry,Lewis,,Minneapolis,MN,55403,688.65
+CUST-10827,Emily,RAMIREZ,7781 Woodland Rd,Miami,FL,,-789.59
+CUST-11298,Anthony,Moore,8842 Cedar Ln,El Paso,TX,79902,192.13
+CUST-11138,Frank,Morgan,,Austin,TX,78703,18.84
+CUST-11052,Ashley,Martinez,5299 School Rd,Seattle,WA,98104,0
+CUST-10407,Timothy,Nelson,1648 School Rd,Bakersfield,,93304,868.81
+CUST-10765,,Collins,7607 Oak Ave,Denver,CO,80203,114.24
+CUST-11356,Shirley,morgan,1868 Sunrise Ave,Bakersfield,CA,93305,1026.17
+CUST-10404,Jonathan,Wright,Cedar Ln,Atlanta,GA,30303,1434.42
+CUST-11746,Patricia,Johnson,1036 Park Ave,El Paso,TX,79902,0
+CUST-10383,RYAN,Martin,2291 Forest Dr,Raleigh,NC,27605,1474.21
+CUST-11229,,Wilson,7066 Lake Blvd,San Jose,CA,,N/A
+CUST-10319,John,Roberts,6339 Valley Rd,Tucson,,85701,16.41
+CUST-10947,Paul,,6241 Lake Blvd,,,30304,1174.99
+CUST-11093,Shirley,Jones,,Kansas City,MO,64101,1296.21
+CUST-11793,Timothy,Lopez,5643 Elm St c/o 1,TX,San Antonio,,1404.91
+CUST-10311,James,Hernandez,3534 Elm St,Los Angeles,CA,90003,450.84
+CUST-11159,Joshua,Sanchez,1287 Ridge Rd,Bakersfield,CA,93305,$756.34
+CUST-10655,James,,No. 524,Miami,FL,33102,
+CUST-10821,Steven,Smith,2537 Oak Ave,El Paso,TX,79904,489.31
+CUST-10525,Justin,KELLY,No. 622,Charlotte,NC,,104.93
+,Ryan,Cooper,2199 Highland Ave,Kansas City,MO,64104,137928.87
+CUST-11639,Matthew,Nelson,,Philadelphia,PA,,N/A
+CUST-11564,Jason  ,Cook,6111 River Rd Unit 63,San Diego,CA,92101,171.7
+CUST-11431,nicole,Hill,5955 School Rd,Phoenix,AZ,,$1216.62
+CUST-11648,Susan,Davis,4832 Sunset Blvd,Atlanta,,30301,$1239.41
+CUST-11121,Shirley,Evans,3426 Brook Ln,Kansas City,MO,64102,492.15
+CUST-10825,Rebecca,Cooper,1507 Valley Rd,Mesa,AZ,,100.46
+CUST-11717,Linda,Mitchell,Forest Dr,Kansas City,MO,64101,85.96
+CUST-10113,nancy,Miller,5364 Lake Blvd,Indianapolis,IN,46204,1417.56
+CUST-11312,Larry,Taylor,4260 Park Ave,Nashville,TN,37202,1053.41
+CUST-10295,Nicholas,Cooper,619 School Rd,Baltimore,MD,21205,831099.89
+CUST-11432,Gregory,Lopez,3868 Cedar Ln,Louisville,KY,40202,1137.15
+CUST-10361,Katherine,Clark,497 Summit Dr,Omaha,NE,,$901.07
+CUST-11022,Barbara,Hill,,Phoenix,AZ,85002,961.39
+CUST-11273,Richard,Walker,3277 Sunset Blvd,Baltimore,MD,21204,0
+CUST-11563,Anna,Ramos,,Indianapolis,IN,46202,198.16
+CUST-10921,,Cox,6619 Spring St,Fort Worth,TX,76104,$19.85
+CUST-10319,John,Roberts,6339 Valley Rd,Tucson,AZ,85701,-355.6
+CUST-11763,scott,Cruz,2200 River Rd,Baltimore,MD,21203,392.92
+CUST-11609,Brenda,Taylor,6665 Meadow Ln Rm 83,Nashville,TN,37205,1494.52
+CUST-10392,,Cruz,,Oklahoma City,OK,73104,1084.4
+CUST-10192,Frank,Torres,7111 Cedar Ln Fl 43,Charlotte,,28201,1094.73
+CUST-11284,Mark,Ramos,,San Jose,CA,95105,161.47
+CUST-10525,Justin,Kelly,6130 Sunset Blvd,Charlotte,NC,28204,
+CUST-10620,Kimberly,LOPEZ,8516 Sunrise Ave,,IL,60602,-595.78
+CUST-10803,Timothy,Cox,Mill Rd,,LA,70116,743.11
+CUST-11004,,,350 Mill Rd Suite 67,Milwaukee,WI,53202,303.78
+CUST-11784,,reed,7149 River Rd,Austin,TX,73344,
+CUST-11509,Ronald,Garcia,4877 Forest Dr,Philadelphia,,19104,unknown
+CUST-10764,Angela,Martinez,,Aurora,,80010,1176.05
+CUST-11745,,Walker,263 Sunrise Ave,Fort Worth,TX,76101,909.94
+CUST-10142,Emily,Robinson,4953 Main St,Boston,MA,02102,$866.95
+CUST-10253,Larry,Phillips,503 Maple Dr,Phoenix,AZ,85002,$934.46
+CUST-11795,LISA,,1145 Ridge Rd,New York,NY,10001,428.75
+CUST-10798,,Smith,9065 Sunrise Ave,Kansas City,MO,64101,126.33
+CUST-11400,Emma,Carter,4661 Forest Dr,Miami,FL,33103,1478.72
+CUST-10017,Larry,Green,c/o 417,Columbus,OH,43203,#REF!
+CUST-10086,Thomas,Harris,,Portland,OR,97204,$73.33
+CUST-10186,Katherine,Martin,,Fresno,CA,93650,1117.32
+CUST-10591,Rebecca,Campbell,7718 Ridge Rd,,AZ,85202,VOID
+CUST-11408,Jacob,Ramos,6189 Spring St,Los Angeles,CA,,-1108.66
+CUST-10721,James,Rogers,9199 Church St,Minneapolis,MN,55403,829.64
+CUST-11484,Gregory,Howard,68 Highland Ave,Columbus,OH,43204,118.59
+CUST-11216,Paul,Wright  ,,San Antonio,TX,,733.23
+CUST-11698,,nelson,Bldg 285,Fort Worth,TX,76103,0
+CUST-11515,Brandon,Campbell,4959 Maple Dr # 75,,LA,70115,394.55
+CUST-10044,Cynthia,Young,Ste 619,AZ,,85004,
+,Emma,Ortiz,Hill St,Atlanta,GA,30304,1399.43
+,Brian,Taylor,,,PA,,1408.33
+CUST-11761,Sarah,Mitchell,,Fresno,CA,93702,-885.66
+CUST-10934,Sandra,,5834 Elm St,San Francisco,CA,94105,816.96
+CUST-11091,Jason,Phillips,6233 Grove Ave,Chicago,IL,60605,-1055.03
+CUST-11308,Jacob,Hall,352 Hill St,Portland,,,
+CUST-11774,David,Campbell,2749 Summit Dr,Louisville,,,$1131.7
+CUST-11265,,Reyes,4529 Oak Ave,Cleveland,OH,44102,$371.1
+CUST-10081,Nicole,Rogers,9447 Lake Blvd,San Diego,CA,92104,309.45
+CUST-10733,Melissa,King,7599 Cedar Ln,Colorado Springs,CO,80903,
+CUST-11695,Raymond,Martinez,4826 Highland Ave,Washington,DC,20001,$205.41
+CUST-10533,Brenda,Diaz,,Albuquerque,NM,87102,965.87
+CUST-10417,Carol,Nguyen,2876 Brook Ln,Omaha,NE,68102,0
+CUST-10398,Kimberly,Bailey,,Nashville,TN,37202,$1397.58
+CUST-11486,Amy,Gonzalez,4658 School Rd Ste 62,El Paso,TX,79901,1295.38
+CUST-11691,,Rivera  ,675 Meadow Ln,Charlotte,NC,28205,VOID
+CUST-11495,Raymond,Martin,8043 Sunrise Ave,San Diego,CA,92103,
+CUST-11555,Frank,Gutierrez  ,6587 School Rd,CO,Denver,80204,1215.34
+CUST-11485,Pamela,White,Ridge Rd,Portland,OR,97201,-414.53
+CUST-11280,Nicole  ,,2785 Spring St,OH,Cleveland,44105,694.81
+CUST-10225,MICHAEL,,# 545,San Francisco,CA,94102,1299.7
+CUST-11499,Jason,mitchell,7113 Church St,Miami,FL,33102,$903.68
+CUST-10449,Scott,Adams,2348 School Rd,San Francisco,CA,,-1004.24
+CUST-10850,JOSEPH,White,892 Ridge Rd,Minneapolis,,55405,440.04
+CUST-11070,Gary,Gomez,302 Valley Rd,Baltimore,MD,21202,$901.51
+,Anthony,Hill,No. 346,Tucson,AZ,85705,1034.44
+CUST-11221,Matthew,Jones,1507 Oak Ave # 67,Los Angeles,CA,,-212.97
+CUST-10374,Andrew,Murphy,4682 Woodland Rd,Raleigh,NC,27604,672.03
+CUST-10468,REBECCA,Nguyen,5405 Park Ave,San Jose,CA,95102,1216.41
+CUST-11483,Nancy,,4470 Spring St,Baltimore,MD,21205,381.89
+,Sandra,Cox,8626 Summit Dr,Charlotte,NC,28201,473.19
+,Kathleen,Nelson,209 School Rd,San Francisco,CA,94101,1414.95
+CUST-10307,Michael,Gomez,,CA,Sacramento,94204,1034.81
+CUST-11213,Charles,Ortiz,Meadow Ln,Las Vegas,NV,89101,-598.75
+CUST-11064,HELEN,Wright,Maple Dr,TX,Houston,77004,$64.04
+CUST-11714,Stephen,thompson,8006 Main St,Chicago,IL,60605,366.03
+CUST-10608,Mary,Young,,Chicago,IL,60604,0
+CUST-10519,Barbara,Edwards,9540 Sunset Blvd,,NC,27604,0
+CUST-10106,Linda,Clark,9570 Mill Rd,Portland,OR,97204,$277.51
+CUST-11738,Jacob,Scott,Brook Ln,Austin,TX,73344,442.19
+CUST-11413,Andrew,King,Unit 552,Houston,TX,77003,883.18
+CUST-10044,Cynthia,Young,9017 Cedar Ln PO Box 93,Phoenix,AZ,85004,637.73
+CUST-10473,Barbara,Miller,2253 Church St,New York,NY,10004,334.27
+CUST-10943,Stephen,,Fl 90,San Francisco,CA,94103,unknown
+CUST-11602,Patricia,Davis,1618 Forest Dr,Nashville,TN,37204,425.66
+CUST-11037,Brian,Howard,4199 Hill St,San Francisco,CA,94102,768.45
+CUST-11545,Nicholas,MURPHY,2528 Church St,Aurora,CO,,1066.88
+CUST-10880,Nancy,Lee,1939 School Rd,Boston,MA,02105,315743.15
+CUST-10049,Matthew,Nguyen,9490 Grove Ave,Columbus,OH,43085,VOID
+CUST-10169,Ryan,Lopez,5297 Cedar Ln Bldg 52,Oklahoma City,OK,73103,977.79
+CUST-10695,Eric,Collins,9627 Highland Ave,,NY,10005,$184.44
+CUST-10426,ryan,Cox  ,8999 Summit Dr,Boston,MA,2104,1240.28
+CUST-10615,helen,Young,Summit Dr,Albuquerque,NM,87103,-272.09
+CUST-10255,Christopher,Mitchell,,Nashville,TN,37203,1043.41
+CUST-10335,Samantha,PHILLIPS,Main St,Boston,MA,02105,
+CUST-11442,Stephen,roberts,2000 Woodland Rd,Nashville,TN,37203,1121.47
+CUST-10900,james,smith,1931 Highland Ave,NE,Omaha,68105,1337.63
+CUST-11317,,King,3362 Woodland Rd,Boston,MA,02102,817.11
+CUST-11754,,KIM,,Fresno,CA,93650,336.73
+CUST-10376,Brian,Phillips,6564 Oak Ave,Boston,MA,02101,1328.46
+CUST-11773,Pamela,Edwards,4455 Summit Dr,Cleveland,,44102,$1414.08
+CUST-10144,Emily,Taylor,1681 Main St,Cleveland,OH,44104,-14.93
+CUST-10777,larry,lewis,8505 Highland Ave,Minneapolis,MN,55403,
+CUST-10157,Emma,Sanchez,,Las Vegas,NV,89101,1497.1
+CUST-11298,Anthony,Moore,8842 Cedar Ln,El Paso,,79902,501.56
+CUST-11057,Melissa,Martin,1842 Grove Ave,Aurora,CO,80010,
+CUST-10345,George,Hall,9012 Woodland Rd,Bakersfield,CA,93301,786.24
+CUST-10778,Helen,gonzalez,7896 Valley Rd,Las Vegas,NV,89102,724.07
+,Larry,Parker,,Indianapolis,IN,,170.77
+CUST-10529,Anthony,Gutierrez,7802 Cedar Ln,,AZ,85703,494.1
+CUST-10077,Joshua,scott,5754 Church St,AZ,Phoenix,85003,55.83
+CUST-10585,David,,9831 Grove Ave,Atlanta,,,$1377.77
+CUST-10060,Ashley,,7180 Woodland Rd,Denver,CO,80202,348.73
+CUST-11235,Stephanie,Rodriguez,55 Sunset Blvd,Mesa,AZ,85202,0
+CUST-11259,Katherine,Ramos  ,7799 Mill Rd,Denver,CO,80204,-926.69
+CUST-11642,Sharon,Brown,4103 Park Ave Rm 59,Colorado Springs,CO,80903,TBD
+CUST-10773,Larry,Cruz,6222 Ridge Rd,FL,Jacksonville,32204,1005.01
+CUST-11567,James,collins,9529 Spring St,TX,El Paso,79902,967.61
+CUST-11174,Scott  ,Wilson,,Tampa,FL,,345.94
+CUST-10308,DAVID,,5222 Cedar Ln,Charlotte,NC,28201,438.76
+CUST-10327,Joshua,Wright,,San Diego,CA,,1055.27
+CUST-10094,Frank,Kelly,8100 Sunset Blvd,Fort Worth,TX,76104,388.34
+CUST-10032,Dorothy,Ortiz  ,3471 Woodland Rd,Raleigh,NC,27604,
+CUST-11664,Cynthia,,Spring St,,LA,70114,-638.85
+CUST-11030,Michelle,cox,8940 Lake Blvd,San Francisco,CA,94105,225.84
+,Jason,Lewis,Ste 286,,FL,,-105.38
+CUST-11470,Steven,Cook,4957 Sunset Blvd,Miami,FL,33104,1466.62
+,Katherine,Cooper,7360 Spring St,Portland,OR,97202,$867.08
+CUST-10168,timothy,murphy,,Denver,CO,80204,628.68
+CUST-10733,Melissa,King,7599 Cedar Ln,CO,Colorado Springs,80903,674.08
+CUST-10682,Jacob,Morales,1494 Church St,Minneapolis,MN,55403,1083.83
+CUST-11177,Emily,Roberts,Lake Blvd,Miami,FL,33125,-220.19
+,,Wilson,7753 Woodland Rd,San Antonio,TX,,1377.65
+,Jessica,Reyes,6595 River Rd,New Orleans,LA,70114,413.29
+CUST-11455,Ronald,Carter,340 Main St,Omaha,NE,68102,1066.13
+CUST-10466,Melissa,,9217 Park Ave,Portland,,97201,1220.08
+CUST-10924,ANGELA,Allen,4099 Mill Rd,Mesa,AZ,85205,481.15
+CUST-10379,Helen,Ward,1585 Sunset Blvd,San Diego,CA,92102,VOID
+CUST-11110,,Cox,3554 Spring St,Fresno,CA,93701,0
+CUST-10452,Amy,Miller,,Washington,DC,,
+CUST-11105,Edward,Garcia,Unit 928,Austin,,78701,954.46
+CUST-10562,Charles,Adams,8020 Elm St,San Francisco,CA,94104,unknown
+CUST-11010,Anna,Campbell,8290 Sunset Blvd,Albuquerque,NM,87101,0
+CUST-10905,Kathleen,Thompson,9092 Summit Dr,Boston,MA,,624.84
+CUST-11234,James,Rogers,7834 Sunrise Ave,Bakersfield,CA,93304,566.79
+CUST-11762,edward,Clark,,Virginia Beach,VA,23450,973.99
+CUST-10096,Jason,Lewis,# 14,Jacksonville,FL,32204,1167.91
+CUST-10886,Stephanie,Kim,4645 Maple Dr,Omaha,NE,68101,-117.59
+CUST-10983,Nancy,MOORE,7461 Brook Ln,Denver,,80201,405.64
+CUST-10142,Emily,ROBINSON,4953 Main St,,MA,02102,1460.06
+CUST-11548,Nicholas,Perez,6102 Mill Rd,,PA,19103,526.56
+CUST-11429,Patricia,King,,Seattle,WA,98105,-892.68
+CUST-11601,,Perez,,Houston,TX,77005,$542.46
+,ryan,,5297 Cedar Ln,Oklahoma City,OK,73103,855.65
+CUST-10380,Melissa,,2364 Lake Blvd,Atlanta,GA,30303,-1161.73
+CUST-10514,Ashley,adams,6438 Valley Rd,Memphis,TN,38102,494.38
+CUST-10536,james,Ramirez,,Columbus,OH,43202,10.3
+CUST-11770,Emma,Peterson,8314 Maple Dr,Columbus,OH,43201,1256.96
+CUST-10379,Helen,WARD,1585 Sunset Blvd,San Diego,CA,92102,232.85
+CUST-10660,,Thompson,5847 Park Ave,Bakersfield,CA,93305,1268.86
+CUST-10378,barbara,Roberts,9009 River Rd,Sacramento,CA,94205,1089663.8
+,Michelle,,,Milwaukee,WI,53204,683.88
+CUST-10097,Brenda,Young  ,2185 Meadow Ln,San Diego,CA,,1081.65
+CUST-10443,Ashley,Collins,4517 Lake Blvd,Washington,DC,20002,-1168.89
+CUST-11237,Debra,,1486 Valley Rd Fl 4,,KY,40201,1028.49
+,Brian,PHILLIPS,PO Box 554,Boston,,02101,-390.78
+,Pamela,Gonzalez,613 Grove Ave,,NC,27603,263.47
+CUST-10957,Benjamin,Rogers,1285 Sunset Blvd,Fresno,CA,93703,$1184.84
+CUST-10168,timothy,Murphy,9013 Oak Ave,Denver,CO,80204,227.55
+CUST-10523,,Phillips,1736 Main St,El Paso,TX,79904,0
+CUST-10210,Shirley,Cook,Ste 592,Seattle,WA,98102,N/A
+CUST-11393,,Cooper,518 Sunrise Ave,Mesa,AZ,85201,1118.6
+,Pamela,,5535 Sunset Blvd,Omaha,NE,68104,461.56
+CUST-11387,jessica,ALLEN,3782 Church St,Fresno,,93703,626.6
+CUST-11643,Susan,Stewart,892 Forest Dr,San Francisco,CA,,561.43
+CUST-11672,Patricia,SANCHEZ,,,TX,76103,549.13
+CUST-11728,Gregory,white,1566 Sunset Blvd,New Orleans,LA,70116,968.8
+CUST-10858,raymond,Parker,2201 School Rd,,WA,98103,
+CUST-10511,Jeffrey,Nelson,2231 Hill St,Las Vegas,NV,89105,808.91
+CUST-10154,Christopher,Smith,9730 Summit Dr,Portland,OR,97204,-1324.36
+,Donald,Thompson,,Minneapolis,MN,,479.24
+CUST-11715,Nancy,Sanchez,4651 Lake Blvd,Phoenix,AZ,,178.85
+CUST-10915,,Torres,9823 Highland Ave,Fort Worth,TX,76101,880.06
+CUST-10587,Eric,Cox,6419 Hill St Rm 80,,CA,,
+CUST-10811,Debra,Allen,4836 Lake Blvd,San Jose,CA,95101,175.88
+CUST-11031,Edward,Peterson,5899 Meadow Ln,Baltimore,MD,,902.15
+CUST-10775,,Evans,River Rd,Milwaukee,WI,53201,1365.88
+CUST-11295,Benjamin,Campbell,6275 Valley Rd,Houston,TX,77001,1361.91
+CUST-11195,Eric,hernandez,1450 Park Ave,Kansas City,,64105,1045.3
+CUST-10288,Gregory,Cox,1336 Spring St,San Jose,CA,95103,688.61
+CUST-10222,Jeffrey,,,Boston,MA,02101,754.34
+CUST-11318,ROBERT,Green,,Washington,DC,20002,918.78
+CUST-11478,Gregory,Cruz,2436 Oak Ave Rm 44,Houston,TX,77002,307.77
+CUST-10786,,Peterson,,New York,NY,10001,1355.18
+CUST-10977,,Morris,7053 Hill St,Nashville,TN,37201,118.86
+CUST-10042,Stephanie,Baker,3140 Lake Blvd,San Antonio,TX,78202,1151.59
+CUST-10884,Emma,Lee,643 Spring St,Dallas,,75205,471.61
+CUST-11316,Donald,Anderson,,Chicago,IL,60603,1477.78
+CUST-11054,Kevin,Harris,9731 Church St,Oklahoma City,OK,73103,143.1
+CUST-11078,DEBRA,Sanchez,8583 Elm St No. 77,Dallas,,75203,936.34
+CUST-10419,Stephanie,Gonzalez,7823 Forest Dr,FL,Jacksonville,32201,50.97
+CUST-10434,Benjamin,Flores,6488 River Rd,Aurora,,80010,$197.73
+CUST-10031,Jonathan,Taylor,9008 Pine Rd,Dallas,TX,75204,292.39
+CUST-10503,Scott  ,Kim,203 Hill St,Oklahoma City,,73104,79078.04
+CUST-11169,Christopher,Morris,5583 Lake Blvd,Memphis,TN,37501,1110.93
+CUST-10041,TIMOTHY,Reyes,1613 Oak Ave PO Box 47,Aurora,CO,,-1127.08
+CUST-10433,rebecca,Collins,9156 Meadow Ln,Omaha,NE,68101,1242.7
+CUST-10266,Pamela,Diaz,6844 Hill St,Omaha,NE,68104,30.81
+CUST-11148,cynthia,Garcia,5120 Main St,San Antonio,,78205,1293.51
+CUST-10332,Emily,Flores,,Milwaukee,WI,53205,545.72
+CUST-11448,Amanda,Turner,5354 Meadow Ln,,NC,27605,1148.79
+CUST-11008,Michelle,,Fl 322,Seattle,WA,98105,$684.64
+CUST-10860,Donna,Morales,,,GA,,677.68
+CUST-10835,,Morgan,1182 Grove Ave,New Orleans,LA,70115,1214.65
+CUST-11738,Jacob  ,Scott,296 Brook Ln,Austin,TX,73344,1482.78
+CUST-11248,Jennifer,Young,236 Pine Rd,New Orleans,LA,70113,
+CUST-10906,Steven,Flores,6523 Grove Ave,Omaha,,68103,930.51
+CUST-10013,PAUL,Martinez,,Raleigh,,27602,
+,Susan  ,,109 Ridge Rd,Philadelphia,,19104,-781.43
+CUST-10262,Sarah,Allen,Bldg 621,Denver,CO,80203,1032.47
+CUST-10561,Timothy,Davis,2175 Park Ave,Seattle,WA,98102,
+CUST-11567,James  ,,9529 Spring St,El Paso,TX,79902,580849.36
+CUST-11015,William,garcia,513 Lake Blvd,Dallas,TX,75202,-595.78
+CUST-10040,MATTHEW,Gonzalez,5805 Sunrise Ave,San Antonio,TX,78204,1075.4
+CUST-10581,Brandon,Perez,,WI,,53203,1030.13
+CUST-11248,Jennifer,Young,236 Pine Rd P.O. Box 63,,LA,70113,$614.83
+CUST-11152,JOSEPH,Johnson,8423 Cedar Ln,Miami,FL,33125,793.57
+CUST-10321,Gregory,Wilson,2186 Oak Ave,Colorado Springs,CO,80903,unknown
+CUST-11629,James,sanchez,1818 River Rd,Cleveland,OH,,214.68
+CUST-11229,Gary,Wilson,,CA,San Jose,95105,1455.38
+CUST-10758,Susan,Rogers,1929 Hill St,,CO,80014,520.78
+CUST-11359,Scott  ,Gutierrez,,El Paso,TX,79902,1272.25
+CUST-10121,Christopher,Flores,Hill St,San Antonio,TX,78205,12.08
+CUST-11333,Rebecca,Cruz,6945 Grove Ave,Denver,CO,,-1338.21
+CUST-10860,Donna,Morales,2880 Church St,Atlanta,GA,30301,1151.34
+CUST-11791,Matthew,Diaz,4144 Mill Rd,Austin,TX,78702,67.43
+CUST-10723,William,Baker,,Seattle,WA,98103,1157.59
+CUST-10151,Jason,flores,987 Brook Ln,Omaha,,68105,407219.11
+,Angela,Anderson,3177 Ridge Rd Unit 97,Kansas City,MO,64105,336.29
+CUST-10839,Laura,Phillips,277 Sunset Blvd,Las Vegas,NV,89103,189593.8
+CUST-11311,Emma,Ortiz,,Atlanta,GA,30304,1131.75
+CUST-11750,Jessica,Robinson,5843 Forest Dr,Columbus,OH,43085,607.88
+CUST-11610,David,Cook,6117 Woodland Rd,Columbus,OH,43201,675.11
+CUST-10948,Charles,Martin,2894 Sunrise Ave,Tucson,AZ,85701,
+CUST-10967,Dorothy,Richardson,,San Jose,,95101,990.4
+CUST-10879,,Martinez,3466 Elm St,Sacramento,CA,,544.63
+CUST-10973,Samantha,Morgan,,Nashville,TN,37203,0
+CUST-11538,,Anderson,1978 Woodland Rd,Miami,FL,33102,476.96
+CUST-10722,,,1772 Summit Dr,Denver,CO,80203,538.11
+CUST-10014,Ashley,Lee,4423 Church St,Albuquerque,NM,87104,$1480.09
+CUST-11267,Christopher,Garcia,,Houston,TX,77003,$648.46
+CUST-10870,Charles,Morris,3586 Ridge Rd,Washington,DC,20001,563.48
+CUST-10496,Debra,Howard,1405 Ridge Rd,Minneapolis,MN,55404,526.68
+CUST-10494,Michelle,Brown,7382 Summit Dr,Cleveland,OH,44103,$376.88
+,Emily  ,Peterson,,Kansas City,MO,64103,1453.01
+CUST-10174,Frank,Cox  ,5092 Woodland Rd,San Francisco,CA,94102,228.7
+CUST-10095,Ashley,Jackson,1747 Ridge Rd # 26,Virginia Beach,VA,23450,$1295.62
+CUST-10458,Elizabeth,Morgan,845 River Rd,Aurora,CO,,866.41
+CUST-10260,Shirley  ,Flores,6476 Brook Ln,Chicago,IL,,1396.61
+CUST-11065,Deborah,Wright,1768 Main St,Minneapolis,MN,55403,-585.98
+CUST-11357,Ryan  ,Martinez,285 Summit Dr,San Diego,CA,92102,
+CUST-10497,Helen  ,Nguyen,,,CA,94101,
+CUST-10290,Scott,Hernandez,6172 Church St,Nashville,TN,37205,0
+CUST-10425,Brandon,Lewis,7835 Elm St,Charlotte,NC,28202,1060.77
+CUST-10179,Matthew,Kim,1144 River Rd,Sacramento,CA,94203,1069.78
+CUST-10683,Anna,Roberts,6250 Valley Rd P.O. Box 29,,FL,32202,895.16
+CUST-10307,Michael,Gomez,3863 Sunset Blvd,Sacramento,CA,94204,1437.16
+CUST-11716,Sandra,Nguyen,Ste 783,Minneapolis,MN,55405,558.98
+,Jeffrey,Turner,8395 Cedar Ln,Seattle,WA,,0
+CUST-11760,donald,Diaz,1301 Oak Ave,San Francisco,,94105,95.41
+CUST-10578,Barbara,,1679 Cedar Ln,Memphis,TN,37501,135.38
+CUST-10247,Pamela,Cook,7901 Park Ave,Columbus,OH,43201,$473.58
+CUST-10520,Jonathan,Cook,8908 Oak Ave Unit 33,New Orleans,LA,70115,$1167.77
+CUST-10458,Elizabeth,Morgan,845 River Rd,Aurora,CO,80011,24.4
+CUST-10236,Michelle  ,Cox,2068 River Rd,San Jose,CA,95101,0
+CUST-11121,Shirley,Evans,3426 Brook Ln,Kansas City,MO,64102,900.49
+CUST-10437,Robert,Torres,2219 Ridge Rd,Portland,OR,97202,84.58
+CUST-11413,Andrew,King,9397 Sunset Blvd,Houston,TX,77003,-1366.64
+CUST-11094,Jennifer,Young,6482 Grove Ave,Kansas City,MO,64105,994.87
+,Pamela,,3388 River Rd,Charlotte,NC,28202,443.61
+CUST-11723,laura,Rodriguez,4045 Highland Ave,Louisville,KY,,462.33
+CUST-10127,Karen,Parker,Brook Ln,Jacksonville,FL,32204,441.58
+CUST-10518,Kenneth,Walker,6933 Sunset Blvd,IN,Indianapolis,46202,299.48
+CUST-11291,Stephanie,White,Church St,,MA,2104,1291.68
+CUST-11145,,Jackson,2175 Lake Blvd,San Antonio,TX,78205,825.66
+CUST-11108,Nancy,Thomas,Suite 53,Dallas,TX,75202,$216.29
+CUST-11116,Susan,Turner,4660 Brook Ln,Jacksonville,FL,32201,
+CUST-10192,Frank,Torres,7111 Cedar Ln,Charlotte,NC,28201,1065.32
+CUST-10971,Paul,Peterson,,Milwaukee,WI,53202,756.44
+CUST-11396,Kenneth,Perez,2204 Hill St,CA,Fresno,93703,1061.22
+CUST-10762,Kathleen,NELSON,,San Francisco,CA,94101,#REF!
+CUST-11398,Stephen,Cooper,7798 Woodland Rd,Omaha,,68104,1186.36
+CUST-11763,Scott,Cruz,2200 River Rd,Baltimore,MD,21203,484.21
+CUST-11603,Charles,Evans,6153 Cedar Ln,,OK,,188.07
+CUST-10599,Joseph,collins,902 Hill St,Miami,FL,33125,
+,George,Thompson,5847 Park Ave,,CA,93305,1077.58
+CUST-11044,George,Cooper,5355 Highland Ave c/o 92,Omaha,,68102,122.16
+CUST-10639,EDWARD,Diaz,3518 Pine Rd,Jacksonville,FL,32202,$322.3
+CUST-10375,Mary,Wilson,4334 Grove Ave,Las Vegas,NV,89102,200.66
+CUST-11706,Patricia,Mitchell,2103 Hill St,,TX,75205,0
+CUST-10765,Sandra,Collins,7607 Oak Ave,Denver,CO,80203,1221.9
+CUST-10510,James,Gomez,6225 Forest Dr,El Paso,TX,79905,1163.53
+CUST-10808,,Turner,Ste 918,Tampa,FL,33605,71.95
+CUST-10498,Karen,carter,6384 Forest Dr,Bakersfield,CA,93302,36.65
+CUST-11371,Richard,Ramirez,,Sacramento,CA,94205,$798.75
+CUST-11639,Matthew,Nelson,416 Grove Ave Unit 69,Philadelphia,PA,19105,1077.89
+CUST-11065,,Wright,1768 Main St,,,,-1012.41
+CUST-10241,Rebecca,Gonzalez,,Oklahoma City,OK,73104,$1379.69
+CUST-11495,,MARTIN,8043 Sunrise Ave # 11,San Diego,CA,92103,809.03
+CUST-10439,Edward,Hernandez,2179 Church St,Tampa,FL,33605,1256.45
+CUST-10197,Edward,Richardson,8154 Spring St Ste 65,Tampa,,33602,524.45
+CUST-11226,Barbara,Scott,6367 Forest Dr,Houston,TX,77004,1455.72
+CUST-11557,Kimberly,Ortiz,6619 Meadow Ln,,FL,33102,1165.59
+CUST-11115,Pamela,Cox,Oak Ave,Nashville,TN,37203,1148063.2
+CUST-11434,Shirley,,3901 Brook Ln,Fresno,CA,93650,1068.97
+CUST-11762,edward,Clark,3901 Grove Ave,Virginia Beach,VA,23450,1143.27
+CUST-11167,Katherine,Martinez,7553 Sunset Blvd,Nashville,,37205,344.38
+CUST-11790,,Roberts,1317 Highland Ave,,KY,40205,1018.49
+CUST-11137,William,,5557 Sunset Blvd,Seattle,WA,98101,
+CUST-11544,Brian,Lee,Ste 382,Aurora,CO,80012,388.53
+CUST-10324,Emily,SANCHEZ,687 Forest Dr,Chicago,IL,60602,$1118.2
+CUST-10324,Emily,Sanchez,687 Forest Dr,Chicago,IL,60602,-583.0
+CUST-10462,Kathleen  ,Young,,New Orleans,,70116,#REF!
+CUST-11242,Robert,Harris,,Los Angeles,CA,90005,415.0
+,Ronald,Wilson,7753 Woodland Rd,San Antonio,,,1308.41
+CUST-11793,Timothy,Lopez,5643 Elm St,San Antonio,TX,78205,407.61
+CUST-10834,James  ,Rodriguez,6951 Cedar Ln,Columbus,OH,43201,1215.63
+CUST-10302,,Turner,9907 Elm St,Austin,TX,73344,1455.25
+CUST-10133,Mary,Gutierrez,3955 Grove Ave,Fort Worth,TX,76101,149.07
+CUST-10205,Amy,,,Charlotte,NC,28205,63.54
+CUST-10466,Melissa,Green,Rm 32,Portland,OR,97201,1241.64
+,Jonathan,WILSON,,Dallas,,75204,19.53
+CUST-10808,Christine,Turner,4685 Sunrise Ave,Tampa,FL,33605,1050.3
+,cynthia,Reed,7673 Cedar Ln,Dallas,,75201,577700.76
+CUST-10046,TIMOTHY,,6571 Oak Ave,Tucson,AZ,85702,649.56
+CUST-11787,Robert,Campbell  ,2423 River Rd,Cleveland,OH,44101,975.59
+CUST-10786,Brenda,Peterson,9900 Brook Ln Unit 2,,NY,10001,359.59
+CUST-10506,Paul,Hill,2391 Maple Dr,Seattle,WA,98104,$1042.99
+CUST-10106,Linda,Clark,9570 Mill Rd,Portland,OR,97204,$1117.28
+CUST-10440,Kevin,Thomas,6440 Highland Ave,Jacksonville,FL,32204,264772.75
+,Joshua,Wright,7160 Sunset Blvd,San Diego,CA,,1185.0
+CUST-11713,Laura,Hill,,Philadelphia,PA,,638.2
+CUST-10756,Debra,Johnson,1655 School Rd,Nashville,TN,37204,115.58
+CUST-10035,,Ramos,9642 Park Ave,Atlanta,GA,30302,
+CUST-10828,Katherine,Johnson,7302 Park Ave,San Diego,CA,92103,389.96
+CUST-10403,Jeffrey,Allen,3506 Lake Blvd,Baltimore,MD,21204,VOID
+CUST-11602,Patricia,Davis,1618 Forest Dr,Nashville,,37204,130.17
+CUST-10961,,Nguyen,9919 Church St,Bakersfield,CA,93303,615.36
+CUST-10114,Ryan,Adams,4559 Ridge Rd,El Paso,TX,79904,165.76
+CUST-10199,Christine,Johnson,8956 Pine Rd,Albuquerque,NM,87103,944.98
+CUST-11626,John,,3138 Maple Dr,Tampa,FL,33603,pending
+CUST-11562,Eric,Baker,384 Main St,Cleveland,OH,44102,$566.17
+CUST-10892,Betty,Gutierrez,2451 Brook Ln,Sacramento,,94205,
+CUST-10744,John,,3708 Mill Rd,Cleveland,OH,44102,$1118.26
+CUST-10092,Donna,Lewis,401 Oak Ave,Fort Worth,TX,76102,268.98
+CUST-10901,James,Carter,5176 Sunrise Ave,VA,,23451,276.87
+CUST-10966,Michael,BROWN,1364 Cedar Ln,KY,Louisville,40205,393.26
+,GEORGE,Mitchell,6271 Ridge Rd,Nashville,TN,37202,$460.11
+CUST-11012,william,Morgan,8587 School Rd,Memphis,TN,38101,
+CUST-10196,DEBRA,White,1294 Brook Ln Rm 79,Austin,TX,73344,737.74
+CUST-10924,Angela,allen,4099 Mill Rd Fl 80,Mesa,AZ,85205,544.04
+CUST-10479,Richard,Ortiz,3145 Brook Ln,San Jose,CA,95102,-798.27
+CUST-11547,Rebecca,Smith,Bldg 301,San Francisco,CA,94104,61.4
+CUST-11249,Frank,Miller,7475 Brook Ln,Nashville,TN,37201,860.81
+,,Harris,1766 Ridge Rd,Bakersfield,CA,,943.98
+CUST-11094,,Young,6482 Grove Ave,Kansas City,MO,64105,708.59
+CUST-10865,Anna,Stewart,,Virginia Beach,VA,23451,719.71
+CUST-10159,Lisa,Flores,4729 Meadow Ln,Raleigh,NC,27605,889.29
+CUST-10431,,Clark,8009 Maple Dr,Bakersfield,CA,93305,279.26
+CUST-10793,LISA,Murphy,River Rd,Dallas,TX,75204,$1189.94
+CUST-10005,Kimberly,Smith,5575 River Rd Rm 66,Austin,TX,78702,480.45
+CUST-10041,Timothy,Reyes,1613 Oak Ave,Aurora,,80010,
+CUST-10248,Susan,Hall,1883 Ridge Rd P.O. Box 83,Atlanta,GA,30303,424.09
+CUST-10431,Joseph,Clark,P.O. Box 175,Bakersfield,CA,93305,-1357.19
+CUST-11485,Pamela,White,4034 Ridge Rd,Portland,OR,97201,782.76
+CUST-11473,Cynthia,Taylor,,Philadelphia,PA,19103,517.27
+CUST-10264,Sandra,Cook,,GA,,30303,544.4
+CUST-11112,Scott,,8968 River Rd,New York,NY,10002,
+CUST-11648,Susan,davis,4832 Sunset Blvd,Atlanta,GA,30301,595.9
+CUST-10991,Jacob,White,Main St,Fort Worth,,76103,
+CUST-10253,Larry,Phillips,503 Maple Dr,Phoenix,AZ,85002,869.73
+CUST-10070,charles,Parker,5051 Valley Rd,Dallas,TX,75201,820.79
+,Mary,Campbell,6338 Spring St,OK,Oklahoma City,73102,954.84
+CUST-10503,Scott,Kim,203 Hill St,Oklahoma City,OK,73104,150.03
+CUST-10461,Kenneth,,1923 Grove Ave,Columbus,OH,,977.89
+CUST-10555,Laura,King,7194 Cedar Ln,Washington,DC,20001,-616.53
+CUST-11199,Amanda,nguyen,Mill Rd,Denver,CO,80202,745.58
+CUST-11196,Jacob,,9497 Hill St P.O. Box 55,FL,Tampa,33605,168.86
+CUST-11744,Scott,Smith,3306 Park Ave,TX,Houston,77004,522.02
+CUST-10012,Brian,Lee,3433 School Rd No. 53,,MA,,1317.57
+CUST-10981,Jason,,4455 Hill St,Kansas City,MO,64105,562.3
+CUST-11241,Amanda,Morales,3105 Elm St,Philadelphia,PA,19104,1020.76
+CUST-10911,Sharon,Lopez,Valley Rd,Phoenix,AZ,85003,301.28
+CUST-11719,Rebecca  ,Morris,,Baltimore,MD,21201,0
+CUST-11635,James,Diaz,5293 Sunrise Ave,Virginia Beach,VA,23450,781.02
+CUST-11457,Betty  ,King  ,816 Sunset Blvd,,LA,70113,59.17
+CUST-10267,Joseph,phillips,2816 Brook Ln,Los Angeles,CA,90003,546.56
+CUST-10628,anthony,Edwards,4342 Cedar Ln,Nashville,TN,37204,485.82
+CUST-11046,Scott,Kelly,3639 Sunrise Ave,Sacramento,CA,94201,70.9
+CUST-11347,Linda,Jackson,2220 Valley Rd,Oklahoma City,OK,73104,198.61
+CUST-11395,Ryan,Jones,9121 School Rd,Chicago,IL,60602,503.09
+CUST-10504,Timothy,Roberts,,Philadelphia,PA,19105,$762.48
+CUST-10221,Timothy,Scott,,Chicago,IL,,
+CUST-10379,Helen,Ward,1585 Sunset Blvd,San Diego,CA,92102,#REF!
+CUST-10961,George,Nguyen,9919 Church St,Bakersfield,CA,93303,1320.17
+CUST-10335,Samantha,,Unit 587,Boston,MA,,844.0
+CUST-10002,Jason,Jones,3583 Park Ave,Los Angeles,CA,90001,$418.21
+CUST-10622,NICHOLAS,Moore,Spring St,Cleveland,OH,44104,701.59
+CUST-10329,,Mitchell,Bldg 883,Kansas City,MO,64103,0
+CUST-10815,Rebecca,Green,213 Grove Ave,,GA,30301,417.8
+CUST-11618,,Baker,7418 River Rd,Cleveland,OH,,204.77
+CUST-11451,Pamela,hernandez,4090 Highland Ave,San Diego,CA,92102,1183.76
+CUST-10079,Joseph,King,No. 415,Jacksonville,FL,32204,1418.73
+CUST-11709,Michelle,Ramos  ,528 Elm St,Los Angeles,CA,90005,1001.37
+CUST-10561,Timothy,DAVIS,# 995,Seattle,WA,98102,382.87
+CUST-11708,Rebecca,Diaz,8809 Hill St,Tampa,FL,33604,$202.39
+CUST-10700,Daniel,Scott,School Rd,Louisville,KY,40202,129.4
+CUST-10897,Kathleen,Carter,9440 Cedar Ln,Washington,DC,20005,1221.81
+CUST-10892,Betty,Gutierrez,2451 Brook Ln,Sacramento,CA,94205,989.19
+CUST-10984,Laura,Wright,,New Orleans,LA,70116,1459.78
+CUST-10064,Andrew,,3336 School Rd,Columbus,,43202,1458.47
+CUST-11515,,Campbell,4959 Maple Dr,New Orleans,LA,70115,648.2
+CUST-10075,Robert,Stewart,Bldg 38,Charlotte,NC,28202,1258.59
+CUST-10875,Larry,Thompson,5986 Spring St,Memphis,TN,38103,1192.94
+CUST-10309,Katherine,Nelson,628 Hill St,San Jose,,95102,947.49
+,Steven,Taylor,4510 River Rd,Miami,FL,33103,-296.62
+,Emily,Flores,Unit 335,Milwaukee,WI,53205,$1131.4
+CUST-11279,,,3603 Hill St Bldg 38,Austin,TX,78701,225.35
+CUST-10487,Jennifer,Martinez,8898 Spring St,Tampa,FL,33603,0
+CUST-11081,Charles,Brown,Hill St,Oklahoma City,OK,,$778.04
+CUST-11421,Jonathan,Ward,982 Highland Ave,Las Vegas,NV,,782.62
+CUST-10748,Carol,Parker,,Tampa,FL,33602,240.18
+CUST-10401,Pamela,,5655 Ridge Rd,Memphis,TN,38103,1218.81
+CUST-10317,Pamela,Turner,Valley Rd,Jacksonville,FL,32099,1445.51
+CUST-11077,,Clark,9520 Woodland Rd,Virginia Beach,VA,23451,$104.73
+CUST-10816,steven,,3696 Church St,Miami,FL,33104,681.55
+CUST-11020,,Davis,,Boston,MA,02105,1232.77
+CUST-10555,Laura,,7194 Cedar Ln,Washington,DC,20001,$331.14
+CUST-11170,EMMA,Parker,5607 Woodland Rd,Las Vegas,NV,89105,1349.63
+CUST-11469,Jacob,Rivera,746 Main St,Raleigh,NC,27605,943.09
+CUST-11492,Linda,Martinez,Maple Dr,Atlanta,,30305,$500.48
+CUST-10629,Elizabeth,Lee,9885 Oak Ave,Tampa,FL,33603,1447.18
+CUST-11378,Stephen,Evans,3094 Maple Dr Ste 24,,CO,80204,
+CUST-11329,GEORGE,,,Raleigh,NC,27605,-184.83
+CUST-10178,jacob,Young,2370 Sunset Blvd,Albuquerque,NM,87105,609636.46
+CUST-11346,Angela,,Apt 923,Los Angeles,CA,90003,1421.21
+CUST-10138,Amanda,Collins,4119 Park Ave,Seattle,WA,98103,988.88
+CUST-11219,Mary  ,Rodriguez,1601 Highland Ave,New York,,10004,
+CUST-11557,Kimberly,Ortiz,6619 Meadow Ln,Miami,FL,33102,$1421.15
+CUST-11071,Debra,Rivera,3870 Highland Ave,Washington,DC,20003,1218.82
+CUST-11335,anthony,Hill,5496 Maple Dr,Tucson,AZ,85705,931.21
+CUST-11648,Susan,Davis,4832 Sunset Blvd,Atlanta,GA,30301,891.79
+,Donald,Kelly,6731 Oak Ave,Memphis,TN,38101,1409.65
+CUST-11612,Jennifer,Smith,4740 Church St,Albuquerque,NM,87105,715.75
+CUST-11431,Nicole,Hill,,AZ,,85004,754.9
+CUST-10555,Laura,King,7194 Cedar Ln,,DC,20001,898.96
+CUST-10949,Amy,Moore,8749 Grove Ave,Cleveland,OH,44105,987.19
+CUST-11607,Kathleen,Brown,306 River Rd,Portland,,97202,261.47
+,Pamela,Cook,9510 Ridge Rd,San Diego,CA,92105,
+CUST-10009,Emily,Richardson,3151 Mill Rd,Boston,MA,02105,-1035.81
+CUST-11378,Stephen,Evans,,Denver,CO,80204,617.46
+CUST-10794,Brandon,Sanchez,6438 Lake Blvd,Fort Worth,TX,76101,144.98
+CUST-11658,,Rivera,8867 Ridge Rd,Nashville,TN,37205,776.85
+CUST-10122,Pamela,Carter,1246 Spring St,Louisville,KY,40202,356.48
+CUST-11379,Jacob,,8056 School Rd,Jacksonville,FL,32099,202.21
+,Gary,,Church St,Miami,FL,,238.41
+CUST-10811,,allen,,San Jose,CA,95101,1429.61
+CUST-11178,Anthony,Green,4990 Sunrise Ave,Nashville,TN,37205,$1453.72
+CUST-10697,Emma,,Suite 609,San Antonio,,78201,1133.41
+CUST-10463,,Peterson,6237 Meadow Ln,Oklahoma City,OK,73103,-1128.69
+,Charles,Davis,,Seattle,WA,98104,137.99
+,Laura,Lee,7374 River Rd,Baltimore,,21204,191.73
+CUST-11083,,Brown,4373 Brook Ln,Miami,FL,33125,934.18
+CUST-10230,Michelle,williams,Elm St,Jacksonville,FL,32202,846.27
+CUST-10386,Larry,Hill,6036 Forest Dr,AZ,Tucson,85701,384.73
+CUST-11612,,Smith,4740 Church St,Albuquerque,NM,87105,232.16
+CUST-11537,Christopher,Thompson,1044 Forest Dr,Sacramento,,94201,618.58
+CUST-11419,Christine,Peterson,8458 Pine Rd,Jacksonville,,32099,693.1
+,Nancy,Kelly,3745 Cedar Ln,Dallas,TX,75205,95.0
+CUST-11630,Larry,cook,,Fresno,CA,93701,129.95
+CUST-10617,PATRICIA,Robinson  ,,Mesa,AZ,85203,0
+CUST-10496,Debra,Howard,1405 Ridge Rd,Minneapolis,MN,55404,28.01
+CUST-11042,Sharon,Turner,9869 Main St,San Diego,,92102,617.04
+CUST-10344,Laura,Thompson,1439 School Rd,,CA,93304,685.6
+CUST-11088,Robert,Evans,6768 Park Ave,New York,NY,10003,
+CUST-10920,Andrew,Bailey,5694 River Rd,Colorado Springs,CO,80903,1036.08
+CUST-10134,TIMOTHY,,7801 Church St,,GA,30302,707.83
+CUST-10148,Karen,,Cedar Ln,Nashville,TN,37201,17.6
+CUST-10302,Shirley,Turner,9907 Elm St,,TX,73344,956.29
+CUST-11123,,,5186 River Rd,Las Vegas,NV,89105,798.93
+CUST-10042,Stephanie,Baker,,TX,San Antonio,78202,-692.73
+CUST-10671,,Jones,5222 River Rd,Denver,CO,80201,927.72
+CUST-10345,George,Hall,9012 Woodland Rd Fl 30,Bakersfield,CA,93301,913.77
+CUST-11369,,Howard,3556 Mill Rd,New York,NY,10005,1206.67
+CUST-10516,Debra,Peterson,3435 Meadow Ln,Los Angeles,CA,90004,404.8
+CUST-10261,Linda,Smith,3461 Ridge Rd,,OH,43202,950.83
+CUST-10185,George,STEWART,6326 School Rd,Bakersfield,CA,93304,1096.83
+CUST-11397,Deborah,Morales,8038 School Rd Ste 43,CA,,92105,490.11
+CUST-10477,Mary,Williams,8778 Hill St,Kansas City,MO,64103,500.43
+CUST-11500,Jason,Lopez,5600 Meadow Ln No. 43,Chicago,IL,60605,102.3
+CUST-11536,Michael,Williams,Suite 439,Washington,DC,20003,1237.13
+CUST-11082,Jeffrey,scott,,San Jose,CA,95102,842.91
+CUST-11718,Timothy,GOMEZ,2116 Woodland Rd,Austin,TX,73301,1463.81
+CUST-10636,John,Rodriguez  ,Maple Dr,Fort Worth,TX,76104,TBD
+CUST-10552,Angela,Anderson,4390 Ridge Rd,Omaha,NE,68101,908.01
+CUST-10507,Lisa,Parker,4912 Summit Dr,Seattle,WA,98104,1410.16
+CUST-10527,,Morris,6816 Maple Dr,San Antonio,TX,78203,318.09
+CUST-11198,Ryan,ROGERS,5432 Sunrise Ave,,AZ,,
+,Paul,Martinez,8752 Grove Ave Rm 12,Raleigh,NC,27602,1041.14
+CUST-11411,christine,Baker,,Austin,TX,78703,
+CUST-10754,Joseph,Turner,2025 Woodland Rd,Milwaukee,,53204,-1129.57
+CUST-10871,Gary,Robinson,6053 Park Ave,Phoenix,AZ,85003,105.48
+CUST-10656,Daniel,Adams,# 434,Houston,TX,77001,unknown
+CUST-11420,Pamela,,4390 Church St,Columbus,OH,43203,179.24
+CUST-11632,William,Ramos,2088 River Rd,Dallas,TX,75201,65.7
+CUST-10216,Brandon,Lewis,,VA,Virginia Beach,23450,$546.01
+CUST-10163,Patricia,Lopez,9620 Main St,Charlotte,NC,28205,949.02
+CUST-10175,Mary,,3682 Cedar Ln,Portland,OR,97201,830.2
+CUST-11682,Justin,morales,7712 School Rd,OH,Columbus,43085,$413.32
+CUST-10806,Thomas,Thompson,5282 Mill Rd,Sacramento,CA,95814,859.05
+CUST-11073,Brenda,Scott,5600 Sunset Blvd,Charlotte,NC,28202,1067.4
+CUST-10759,Joseph,Wilson,9978 Lake Blvd Bldg 73,Fresno,CA,,631.95
+CUST-11336,Emma,Carter,6709 Church St,,PA,19101,608.19
+,Daniel,Stewart,Spring St,Oklahoma City,OK,73103,N/A
+CUST-10995,frank,Garcia,8535 Cedar Ln,Baltimore,MD,,
+CUST-11228,Gary,Sanchez,,Miami,FL,33104,41.46
+CUST-10291,Joshua,Taylor,1532 Church St,Minneapolis,MN,55405,857.31
+CUST-10520,jonathan,Cook,Oak Ave,New Orleans,LA,70115,1324.93
+CUST-10219,Sarah,Roberts,8851 Sunrise Ave,NM,Albuquerque,87103,VOID
+CUST-10693,Charles,Kim,1098 Maple Dr,Indianapolis,IN,46203,$592.14
+CUST-10986,NANCY,,2049 Mill Rd,Denver,CO,80203,-577.04
+CUST-10259,Kevin,Parker,9718 Summit Dr,San Diego,CA,92103,1329.88
+CUST-11154,Charles,Torres,2807 Maple Dr,Omaha,NE,68102,1070.28
+CUST-10316,Charles,Nguyen,5781 Park Ave,NV,,89101,-1385.05
+CUST-11041,Pamela,Carter,5479 Valley Rd,Philadelphia,PA,19101,1199.97
+CUST-11383,Scott,Phillips,6959 Grove Ave,San Diego,CA,92102,1385.36
+CUST-10671,Barbara,Jones,5222 River Rd,Denver,CO,80201,$1165.63
+CUST-10360,JENNIFER,Brown,9450 River Rd,Philadelphia,PA,19101,
+,,Allen,9594 Maple Dr,Washington,DC,20003,541.95
+CUST-10608,Mary,YOUNG,5964 Sunset Blvd Bldg 43,Chicago,IL,60604,
+CUST-11790,Elizabeth,Roberts,1317 Highland Ave,,,40205,743.86
+,Jason,Reed,4369 Main St,Sacramento,CA,94205,1316.02
+CUST-10878,Nicole,,7208 Pine Rd,Sacramento,CA,94203,
+CUST-11750,Jessica,Robinson,5843 Forest Dr,Columbus,OH,43085,1175.71
+CUST-10500,Brian,Wright,1431 Pine Rd,,,78202,1206.11
+CUST-10640,Kimberly,Scott,568 Brook Ln,Milwaukee,WI,53202,1163.77
+,Jonathan,Williams,c/o 907,Columbus,OH,43204,1147.91
+CUST-11130,William,flores,,Nashville,TN,37205,594.17
+CUST-11171,,Thompson,9408 Summit Dr,Minneapolis,MN,55401,110.63
+CUST-11099,Nicholas,ANDERSON,8953 Elm St,Jacksonville,,32204,842.66
+CUST-11522,Larry,Gomez,130 Cedar Ln,Houston,TX,77003,51.12
+CUST-10023,Cynthia,Ortiz,189 School Rd,Indianapolis,IN,,580.28
+CUST-10898,Jason,Moore,3810 Maple Dr,,IN,46204,140.41
+CUST-11394,Jessica,ROBERTS,,Milwaukee,,53203,0
+CUST-10196,debra,white,1294 Brook Ln,,TX,,1172.87
+CUST-10344,Laura,Thompson,1439 School Rd # 12,Bakersfield,CA,93304,181.5
+CUST-10474,Sandra,Rodriguez,150 Lake Blvd,,CA,93302,$887.91
+,Frank,Torres,7111 Cedar Ln,Charlotte,NC,28201,289232.36
+CUST-10688,Rebecca,Morgan,9384 Park Ave,Tampa,FL,33604,59.37
+CUST-10751,Lisa,,6148 Church St,,MA,02101,$937.33
+CUST-10768,Jennifer,Johnson,,,TX,75202,867.14
+CUST-11019,,Johnson,1311 Meadow Ln,Columbus,OH,43203,1097.08
+CUST-11599,Joseph,Gonzalez,4676 Elm St,Mesa,AZ,85202,358.05
+CUST-11243,Deborah,Rodriguez,,Mesa,AZ,85203,706.91
+CUST-11224,Nancy,Allen,P.O. Box 14,Denver,CO,80204,774.24
+CUST-11568,,Morgan,5740 Hill St,Raleigh,NC,27602,830.82
+CUST-10294,Mark,Moore  ,,San Jose,CA,95101,1429.39
+CUST-10853,Justin,Morales,2101 School Rd,El Paso,TX,79903,
+CUST-10176,Cynthia,Thomas,8166 Mill Rd,Virginia Beach,VA,23451,173.02
+CUST-10500,Brian,wright,1431 Pine Rd,San Antonio,TX,78202,1430.48
+CUST-10665,Barbara,Walker,# 864,Washington,DC,20003,130.35
+CUST-10669,TIMOTHY,,,Memphis,TN,38102,318.55
+CUST-10340,Brian  ,Gomez,4090 Cedar Ln Bldg 85,Oklahoma City,OK,73103,
+,Sharon,Evans,5195 River Rd,Boston,MA,,1125517.8
+CUST-11235,Stephanie,Rodriguez,55 Sunset Blvd,Mesa,AZ,85202,1033.78
+,Brandon,Sanchez,6438 Lake Blvd,Fort Worth,TX,76101,490.66
+CUST-10313,ANDREW,Walker,783 Park Ave,Nashville,TN,37201,1276.71
+CUST-10668,James,miller,,Memphis,TN,,427.58
+CUST-11514,Stephanie,Cox,4962 Brook Ln,Aurora,CO,80013,434.66
+CUST-10209,Rebecca,Thompson  ,8838 Valley Rd,Fort Worth,TX,76102,20.95
+CUST-10353,Emma,,,Dallas,,75204,unknown
+CUST-11573,Margaret,Edwards,,Phoenix,AZ,85003,72.39
+CUST-11000,,Martin,4076 Pine Rd,Boston,MA,2101,1009.01
+CUST-10832,LAURA,Morales,3155 Forest Dr,,IL,60603,1007.29
+CUST-10334,Sharon,Scott,1230 School Rd,Cleveland,OH,,$1432.52
+CUST-11401,Linda,brown,2101 Valley Rd,Colorado Springs,CO,,115.49
+CUST-10350,Ronald,Morris,6709 Spring St,,MO,64104,97.44
+CUST-10758,Susan,Rogers,Hill St,Aurora,CO,80014,1190.51
+CUST-11157,Michael,lopez,2933 Mill Rd,Las Vegas,NV,89104,1019.97
+CUST-10945,,Mitchell,4582 Meadow Ln,Boston,MA,02104,949.76
+CUST-10732,Amanda,Lewis,6890 Forest Dr,Baltimore,MD,21203,153.0
+CUST-10110,Patricia,Roberts,,El Paso,TX,79904,0
+CUST-10781,,Morales,,Oklahoma City,,73102,$1355.27
+CUST-10625,Paul,robinson,Apt 248,Phoenix,AZ,85002,1198.59
+,Gary,Evans,Lake Blvd,El Paso,TX,79902,1261.53
+CUST-10519,Barbara,Edwards,9540 Sunset Blvd,Raleigh,NC,27604,pending
+CUST-11279,Ryan,Turner,3603 Hill St,Austin,TX,,33816.82
+CUST-10003,Nicholas,Cox,3258 Mill Rd,Los Angeles,CA,90005,-980.4
+CUST-10185,George,Stewart,School Rd,,CA,93304,-1328.53
+CUST-11398,Stephen,Cooper,7798 Woodland Rd,Omaha,,68104,0
+CUST-11339,Stephen,Morales,9589 Hill St,Chicago,IL,,-366.39
+CUST-10849,Christopher,White,4141 Lake Blvd,,NC,28205,253.45
+CUST-11696,Angela,Cooper,4529 Park Ave,Virginia Beach,VA,23450,363.99
+CUST-11048,Jacob,Kelly,8981 Sunset Blvd,Baltimore,MD,21201,993.69
+CUST-11006,Gary,Cruz,8893 Mill Rd,Atlanta,GA,30303,unknown
+CUST-10291,,taylor,1532 Church St,Minneapolis,MN,55405,
+CUST-10152,,Clark,Ste 940,Cleveland,,44102,1031.87
+CUST-11714,Stephen,Thompson,8006 Main St,Chicago,IL,60605,1300.33
+CUST-10971,Paul,Peterson,8836 Pine Rd,Milwaukee,WI,53202,493.22
+CUST-10304,Susan,Gutierrez,1375 Ridge Rd,,,92103,1287.13
+CUST-11187,Gary,,2249 Church St,Dallas,TX,75201,21.56
+CUST-10658,Gregory,Gomez,5515 Hill St,,CO,80901,353.57
+CUST-10122,Pamela,Carter,,Louisville,KY,40202,1018.34
+CUST-10929,Jonathan,Johnson,4068 Hill St,New Orleans,LA,70114,464.79
+,Charles,Kim,1098 Maple Dr,Indianapolis,IN,46203,VOID
+CUST-10755,Steven,,3367 Mill Rd,New Orleans,LA,70113,
+CUST-10985,Michelle,williams,8765 Main St,San Jose,CA,95101,481.48
+CUST-10116,Anna,Miller,1125 Ridge Rd,Washington,DC,20002,1330.53
+CUST-11501,Benjamin,Lewis,8116 Highland Ave,Virginia Beach,VA,23451,1481.26
+CUST-10042,Stephanie,Baker,3140 Lake Blvd,San Antonio,TX,78202,24.86
+CUST-10611,Pamela,MITCHELL,863 Pine Rd,San Diego,CA,92105,pending
+CUST-11077,Thomas,Clark,9520 Woodland Rd,,Virginia Beach,23451,431.12
+,Carol,cook,8026 Mill Rd,,CA,95814,608.64
+CUST-10372,Amy,Williams,8282 Meadow Ln,Philadelphia,PA,19104,394.41
+CUST-11386,GARY,,7449 Cedar Ln,Seattle,WA,98102,152.06
+CUST-11588,Michelle,Lopez,6712 Sunset Blvd No. 20,Miami,,33125,450.02
+CUST-11507,Larry  ,Allen,,Washington,DC,20003,1005.12
+CUST-11301,,,,,TX,77001,416.57
+CUST-11474,Charles,King,724 Elm St,CA,San Diego,92103,944.31
+CUST-10923,Brenda,Martinez,,Sacramento,CA,94204,1478.8
+CUST-10285,Brian,Mitchell,Ste 953,Denver,CO,80204,552.91
+,George,Johnson,6217 Spring St,New York,NY,10002,827.99
+CUST-11017,Raymond,Roberts,8616 Brook Ln,Minneapolis,MN,55404,864.64
+CUST-10496,Debra,Howard,1405 Ridge Rd,Minneapolis,,55404,1079.1
+CUST-10016,Robert,GREEN,1085 Lake Blvd,Louisville,KY,40203,166.21
+CUST-10162,Jennifer,Parker,River Rd,,,21203,
+CUST-11443,Donald,Cruz,,Memphis,,37501,1415.67
+CUST-11563,Anna,Ramos,Grove Ave,Indianapolis,IN,46202,$133.16
+CUST-10333,Jeffrey,Hall,5777 Brook Ln,Milwaukee,WI,53201,335.83
+CUST-11461,Anthony,Harris,8097 Sunset Blvd,Seattle,WA,98103,1295.97
+CUST-11798,Nancy,Cook,9292 Lake Blvd,San Diego,CA,92104,
+CUST-11026,Benjamin,Collins,1706 Pine Rd,New Orleans,LA,70115,886.99
+,Amy,Davis,2277 Spring St,Philadelphia,PA,19102,424.32
+CUST-10651,George,Rivera,5762 Spring St,Colorado Springs,CO,80901,
+CUST-10625,Paul,Robinson,2231 Ridge Rd,Phoenix,AZ,85002,$1443.49
+CUST-10826,Mark,Ramirez,5425 Valley Rd,Minneapolis,MN,55403,0
+CUST-10505,Eric,Perez,2778 Elm St,Tampa,FL,33604,687.83
+CUST-10080,Susan  ,Kim,5140 Sunrise Ave Fl 33,,NV,89103,737.79
+CUST-10873,Ryan,Garcia,1692 Mill Rd,Chicago,IL,60603,-1141.41
+CUST-11448,Amanda,turner,,Raleigh,NC,27605,1430.56
+CUST-10119,,,4199 Ridge Rd P.O. Box 91,Columbus,OH,,$8.96
+CUST-10338,Larry,JONES,7372 Valley Rd,Raleigh,NC,27602,961.92
+CUST-11059,CAROL,Anderson,7720 Main St,Nashville,TN,,-777.75
+CUST-10469,,Reed,9022 Church St,San Francisco,CA,94104,520.71
+CUST-10103,Joshua,Green,,Mesa,AZ,85201,358.26
+CUST-11687,Samantha,HOWARD,3395 Park Ave,Virginia Beach,,23450,285.84
+CUST-10992,Jessica,Young,4050 Grove Ave,Memphis,TN,38103,553.11
+CUST-11497,Angela,Sanchez,6359 Summit Dr,Fresno,CA,93703,543.21
+CUST-11005,Edward,Rivera,4108 Oak Ave,Aurora,CO,80011,594.79
+,Stephen,,4835 Meadow Ln,,TX,75201,-881.18
+CUST-11786,Linda,Roberts,3971 Summit Dr,Las Vegas,NV,89102,354.78
+CUST-10731,Dorothy,Bailey,1464 Park Ave,Jacksonville,FL,32202,352.52
+CUST-11503,David,Morris,2094 School Rd,Nashville,TN,37202,253.41
+CUST-10345,George,,9012 Woodland Rd,,CA,93301,$1020.76
+CUST-10071,Jennifer,Rivera,1685 Valley Rd,Columbus,OH,43201,pending
+CUST-11749,,richardson,6473 Sunrise Ave,Columbus,OH,43204,1091.26
+CUST-10611,Pamela,mitchell,863 Pine Rd,San Diego,CA,92105,TBD
+CUST-10686,Christine,Gonzalez,,Philadelphia,PA,19103,$1226.5
+CUST-10903,Dorothy,Morgan,5991 Brook Ln c/o 88,Las Vegas,,89105,947.99
+CUST-10785,Katherine,Williams,6756 Oak Ave,San Antonio,,78204,182.27
+,Thomas,Lewis,4889 Meadow Ln,New York,NY,10001,1421.41
+CUST-10424,Nicholas,Flores,Valley Rd,,LA,70112,$819.45
+CUST-11670,Amanda,Brown,,Atlanta,GA,,-1105.52
+CUST-10129,Michelle,Young,7386 Park Ave,Philadelphia,PA,19103,274.41
+,Benjamin,Brown,9906 School Rd,Jacksonville,FL,32203,1307.28
+CUST-11080,William,Bailey,3017 Forest Dr,Mesa,AZ,85201,N/A
+CUST-11324,Sarah,PETERSON,407 Sunset Blvd,,CA,92103,182.28
+CUST-11021,,Ward,667 Grove Ave,Seattle,WA,98105,359.0
+CUST-10914,Daniel,Murphy,3305 School Rd,Milwaukee,WI,53201,1009.42
+CUST-11580,Jennifer,Gutierrez,6087 Hill St,,CA,95101,#REF!
+CUST-10318,William,Ortiz,8317 Woodland Rd,Mesa,AZ,85205,916.54
+CUST-10810,Michael  ,,2637 Hill St,Fort Worth,,,1427.37
+CUST-10642,Stephen,Morris,4584 Sunset Blvd,Houston,,77001,#REF!
+CUST-10440,,Thomas,6440 Highland Ave,Jacksonville,FL,32204,383.22
+CUST-11401,Linda,Brown,Valley Rd,Colorado Springs,CO,80901,0
+CUST-11524,,nguyen,,Chicago,IL,60604,0
+CUST-10339,Melissa,,2256 Highland Ave # 32,Phoenix,AZ,85005,1265.93
+CUST-10367,Brenda,Wilson,7643 Cedar Ln,Oklahoma City,OK,73102,$154.22
+CUST-10920,Andrew,Bailey,5694 River Rd,Colorado Springs,CO,80903,-909.71
+CUST-10381,Nicole,,660 Oak Ave,Louisville,,40205,114930.42
+CUST-10442,Benjamin,Cooper,,Las Vegas,,,197.76
+CUST-11037,Brian,Howard,4199 Hill St,CA,San Francisco,94102,$1052.44
+CUST-10936,Anna,Garcia,5168 Summit Dr,Tucson,AZ,85703,1044.17
+CUST-11211,Lisa,Reyes,,Louisville,KY,40204,852.28
+CUST-11602,,Davis,1618 Forest Dr,Nashville,TN,37204,-1462.0
+CUST-10234,raymond,Brown,6581 Sunrise Ave,Houston,TX,77004,
+CUST-10990,,Davis,1170 Woodland Rd,,WA,98104,174.48
+CUST-11164,William,STEWART,7843 Meadow Ln,San Diego,CA,92103,849.7
+CUST-11199,Amanda,Nguyen,579 Mill Rd,Denver,CO,80202,810.34
+CUST-11040,Pamela,Gonzalez,613 Grove Ave,Raleigh,NC,27603,$224.75
+CUST-11509,Ronald,Garcia,,Philadelphia,PA,19104,734.17
+CUST-11451,Pamela,,4090 Highland Ave,San Diego,CA,92102,268.56
+CUST-10916,Eric,Robinson,Apt 870,Miami,,33102,$352.85
+CUST-10475,Nicholas,Collins,7917 School Rd,Boston,MA,02101,747.85
+CUST-10014,ashley,Lee,4423 Church St,Albuquerque,NM,87104,438.15
+CUST-10220,emma,Martin,Ste 85,Portland,OR,97201,#REF!
+CUST-11391,Barbara,Gutierrez,3309 Hill St,Fresno,CA,93703,1339.79
+,Charles,Evans,6153 Cedar Ln,Oklahoma City,OK,73103,#REF!
+CUST-10680,Betty,Gonzalez,,Los Angeles,CA,90002,1464.46
+CUST-11537,Christopher,Thompson  ,1044 Forest Dr,Sacramento,CA,94201,925.44
+CUST-11601,Benjamin,PEREZ,5330 Pine Rd,Houston,TX,77005,1348.72
+CUST-10907,Sarah,Thomas,7318 Mill Rd,Baltimore,MD,21202,1380.57
+CUST-10516,,,3435 Meadow Ln,CA,Los Angeles,90004,1010.81
+CUST-11077,Thomas,Clark,,Virginia Beach,VA,23451,-1447.47
+CUST-10227,Joshua,Jackson,4543 Elm St,Raleigh,NC,27601,1244.67
+CUST-11060,Joshua,Clark,3472 Lake Blvd,Baltimore,MD,21205,0
+CUST-11248,,Young,No. 14,New Orleans,LA,70113,N/A
+,Betty,Williams,Main St,Jacksonville,FL,32202,-1432.4
+,debra,Thomas,9673 Cedar Ln,Louisville,KY,40203,
+CUST-10828,Katherine,Johnson,PO Box 361,San Diego,CA,92103,1287.68
+CUST-11238,Jonathan,Baker  ,4751 Church St,Philadelphia,PA,19104,
+CUST-10272,Kevin,Hall,3872 Cedar Ln,Aurora,,80011,628.8
+CUST-11408,Jacob,,,Los Angeles,,,138440.67
+,Thomas,Richardson,,AZ,Mesa,85201,189.75
+CUST-11430,Jennifer,Morales,1376 Forest Dr,Los Angeles,CA,90001,429.66
+CUST-11370,Matthew,Torres,71 Grove Ave,Austin,TX,78703,560.73
+CUST-10584,Jason,Green,4538 Church St,Dallas,TX,75202,270.08
+CUST-10824,Mark,White,8277 Pine Rd,Kansas City,MO,64101,-64.78
+CUST-10151,Jason,Flores,987 Brook Ln Ste 20,Omaha,NE,68105,-1421.18
+CUST-10886,Stephanie,Kim,4645 Maple Dr,,Omaha,68101,275.83
+,charles,Nguyen,Apt 81,Las Vegas,NV,89101,833.16
+CUST-10386,Larry,Hill,,Tucson,AZ,85701,1453.56
+CUST-11236,Kathleen,Thomas,5881 Forest Dr,Omaha,NE,68105,$184.67
+CUST-10491,Anna,Nelson,,Memphis,,38101,-675.73
+CUST-10662,Emily,Taylor,9386 Sunset Blvd,Jacksonville,FL,32099,520.33
+CUST-11700,Anna,King,,New York,NY,,$997.71
+CUST-10025,Sharon  ,Lee,,Albuquerque,NM,87101,-212.28
+CUST-11453,Kathleen,Moore,9717 Forest Dr,Indianapolis,IN,46202,115.43
+CUST-11021,Linda,Ward,667 Grove Ave,Seattle,WA,,1494.19
+CUST-10176,Cynthia,Thomas,,Virginia Beach,VA,23451,
+CUST-11652,Benjamin,Brown,PO Box 844,Albuquerque,NM,87105,$230.9
+CUST-11200,,hill,4268 Oak Ave,Aurora,CO,80014,1465.58
+CUST-11142,daniel,Anderson,,Boston,MA,02101,$192.67
+CUST-10709,,Young,829 Valley Rd,Chicago,IL,60604,1025.59
+CUST-10201,JASON,Allen,3264 Sunset Blvd,Albuquerque,NM,87103,$168.96
+CUST-11252,,Phillips,No. 688,Oklahoma City,OK,73101,1363.72
+CUST-10284,Jeffrey,,9992 Pine Rd,Kansas City,MO,64105,0
+CUST-10195,Sharon,Jackson,6752 Spring St,San Francisco,,,884.26
+CUST-11134,Karen,Collins,7578 Sunrise Ave,Mesa,AZ,85203,
+CUST-11238,Jonathan,Baker,4751 Church St Rm 60,Philadelphia,PA,,1434.76
+CUST-10929,Jonathan,Johnson,No. 686,New Orleans,LA,70114,1009.26
+CUST-10527,Patricia,Morris,6816 Maple Dr,San Antonio,TX,78203,$1452.9
+CUST-11145,Michelle,JACKSON,2175 Lake Blvd,,TX,78205,1158.21
+CUST-10059,Margaret,Cook,5719 Maple Dr,Indianapolis,IN,46202,
+CUST-10569,Larry,Morales,Unit 49,El Paso,TX,79901,1297.98
+CUST-11498,,Reed,1479 Ridge Rd,Raleigh,NC,27604,1232.16
+CUST-10687,Emma,Robinson,6343 Highland Ave,GA,Atlanta,30301,$737.57
+CUST-10330,,Hernandez,2957 Woodland Rd,Las Vegas,NV,89105,-333.39
+CUST-10696,Rebecca,Anderson,2429 Spring St,Portland,OR,97202,463.84
+CUST-10405,,Ramos  ,,,CA,94102,674.73
+CUST-10557,Brandon,Diaz,2282 Lake Blvd,Austin,TX,78703,1158.02
+CUST-11393,,Cooper,518 Sunrise Ave,Mesa,AZ,85201,388.88
+CUST-10266,Pamela,Diaz,6844 Hill St,Omaha,NE,68104,1300.87
+,Nicole,Flores,6944 Sunset Blvd,Bakersfield,CA,93303,0
+CUST-10926,Carol,Collins,9615 Main St c/o 14,FL,Tampa,33604,
+CUST-10630,Margaret,Adams,,San Jose,CA,95101,$815.58
+CUST-10937,Pamela,SCOTT,8375 River Rd,Fresno,CA,93701,
+CUST-11033,John,Gutierrez,108 Hill St,Dallas,TX,75203,1427.18
+CUST-10286,Carol,Kim,1080 Forest Dr,Houston,TX,77003,686911.49
+CUST-11521,John,,3299 Hill St Suite 50,Colorado Springs,CO,80902,1062.75
+CUST-10447,Sandra,Cooper,2296 Highland Ave,Columbus,OH,43085,-448.55
+CUST-10387,Benjamin,Anderson,Grove Ave,Portland,OR,97205,222.65
+CUST-10077,Joshua,,5754 Church St Suite 60,Phoenix,,85003,1266.58
+CUST-11745,Melissa,Walker,263 Sunrise Ave,Fort Worth,TX,76101,0
+,Jacob,Ramos,6189 Spring St,Los Angeles,CA,90003,284289.03
+CUST-11555,Frank,Gutierrez,6587 School Rd,CO,Denver,80204,419.28
+CUST-10888,,Evans,9547 Ridge Rd,Raleigh,NC,27602,1102.47
+CUST-11597,Gary,,2958 Sunrise Ave,El Paso,TX,79904,-949.59
+CUST-10413,Kenneth,Reed,5490 Hill St # 30,Raleigh,NC,27601,445.97
+CUST-11278,Larry,davis,No. 843,Seattle,WA,98102,926.65
+CUST-10819,DANIEL,,Rm 551,San Diego,CA,92104,0
+CUST-11179,Kevin,Lopez,8363 Sunset Blvd,Colorado Springs,CO,80901,241.46
+CUST-10887,Margaret,Edwards,7892 Pine Rd,Raleigh,NC,27604,350.5
+CUST-10365,Anthony,Baker,5122 Mill Rd,Raleigh,NC,27602,121.46
+CUST-10510,James,Gomez,6225 Forest Dr,El Paso,TX,79905,468.61
+CUST-10537,Susan,Morgan,5341 Lake Blvd,Jacksonville,FL,32202,0
+CUST-10540,Joseph,Hall,2827 School Rd,Washington,DC,20004,1282.33
+CUST-11522,Larry,Gomez,130 Cedar Ln,Houston,TX,77003,$490.92
+CUST-10305,Christopher,Wright,2415 Sunrise Ave,Milwaukee,WI,53205,574.28
+CUST-10198,Charles,Robinson,7530 River Rd,Albuquerque,NM,87103,614.39
+CUST-10506,Paul,Hill  ,2391 Maple Dr,Seattle,WA,98104,$289.95
+CUST-11561,Andrew,Ramirez,9041 Hill St,Philadelphia,PA,19105,683.4
+CUST-10188,Ryan,Johnson,6718 Church St,Aurora,CO,80011,1018.16
+CUST-10678,Pamela,,,Fresno,,93701,1312.63
+CUST-11663,Betty,Rodriguez,7795 Mill Rd,El Paso,TX,79902,1283.18
+CUST-10566,,Collins,1038 Woodland Rd,OH,Cleveland,44103,1138.16
+CUST-10699,Deborah,Morales,7751 Oak Ave,Omaha,NE,68105,1169.22
+CUST-10583,Richard,Moore,Apt 524,San Diego,CA,92105,$355.19
+CUST-10256,David,Miller,816 School Rd,,,95102,1495.56
+CUST-10394,Linda,MOORE,9190 Forest Dr P.O. Box 3,Kansas City,MO,64102,889.23
+CUST-10470,Debra,Baker,8038 Meadow Ln,Indianapolis,IN,46204,
+CUST-10885,Charles,Davis,Highland Ave,Austin,TX,78701,
+CUST-11426,DONALD,Anderson,454 Park Ave,San Jose,CA,95102,403.5
+CUST-10108,Kenneth,Roberts,8948 Brook Ln,Portland,OR,97205,694.68
+CUST-11639,Matthew,Nelson,416 Grove Ave,Philadelphia,PA,19105,1465.33
+CUST-10061,Kenneth,,129 School Rd,VA,Virginia Beach,23454,1128.22
+CUST-10447,sandra,Cooper,2296 Highland Ave,Columbus,OH,43085,54.9
+CUST-10715,Pamela,Ramirez,,Charlotte,NC,,9.11
+CUST-11612,Jennifer,,4740 Church St,Albuquerque,NM,87105,230.2
+CUST-10836,Debra,Martin,Oak Ave,Los Angeles,,90004,181.32
+CUST-10838,,,,Charlotte,NC,28203,725.34
+CUST-10671,Barbara,Jones,5222 River Rd,Denver,CO,80201,419266.21
+CUST-11160,Cynthia,,7673 Cedar Ln,,TX,75201,$1462.98
+CUST-10282,Jacob,Cook,7382 Cedar Ln,San Jose,CA,95101,$1169.09
+CUST-10795,Ryan,HARRIS,1766 Ridge Rd,Bakersfield,CA,93303,
+CUST-10907,Sarah,Thomas,7318 Mill Rd,Baltimore,MD,21202,1009.71
+CUST-10697,Emma,Howard,9220 Ridge Rd,San Antonio,TX,78201,1386.97
+CUST-11444,Kenneth,Lopez,3447 Pine Rd,San Francisco,CA,94103,139.68
+CUST-11007,Gary,Harris,8907 Valley Rd,Omaha,NE,68102,432.92
+CUST-11282,Margaret,Ramos,Unit 740,Tucson,AZ,85704,
+CUST-11373,Edward,Diaz,,,OH,43204,135.05
+CUST-11272,Benjamin,Adams,,Charlotte,NC,28201,TBD
+CUST-11578,Robert,Lee,1946 Brook Ln,Atlanta,GA,30303,1142.58
+CUST-10401,Pamela,,5655 Ridge Rd,TN,Memphis,,N/A
+CUST-11336,,Carter,No. 539,Philadelphia,PA,19101,1189.69
+CUST-10610,Michelle,Young,4445 Maple Dr,Portland,OR,97203,1398.85
+,Nancy,edwards,7205 Meadow Ln,,IL,60603,232.94
+CUST-11756,DEBORAH,Moore,School Rd,El Paso,TX,79902,797.37
+CUST-11018,Emma,Allen,3617 Brook Ln,Houston,TX,,unknown
+CUST-11476,Dorothy,Ward,5129 Sunrise Ave,Indianapolis,IN,46205,-206.41
+CUST-10953,Joshua,,,Boston,MA,02103,599.11
+CUST-11660,Emily,mitchell,9609 School Rd c/o 67,New York,NY,10005,
+CUST-10569,,Morales,753 Cedar Ln,TX,El Paso,79901,149.43
+CUST-11094,Jennifer,Young,Grove Ave,Kansas City,MO,64105,669.57
+CUST-11765,Patricia,Robinson,Unit 66,,,80012,$24.39
+CUST-11334,Rebecca,Moore,,Colorado Springs,CO,80905,TBD
+CUST-10262,Sarah,Allen,Main St,Denver,CO,80203,
+CUST-10973,Samantha,Morgan,7892 Woodland Rd,Nashville,TN,37203,$994.38
+CUST-11387,Jessica,Allen,Church St,,,93703,1347.76
+CUST-10036,James,Martinez,,Bakersfield,CA,93301,0
+CUST-11792,Kenneth,Cook,9603 Hill St,Mesa,AZ,85204,VOID
+CUST-10170,Stephanie  ,Rogers,7570 Sunrise Ave,,NY,,
+CUST-11292,Barbara,Roberts,8699 Oak Ave,New Orleans,LA,70114,1453.71
+CUST-11586,jacob,Cox,8271 Church St,Dallas,TX,75202,TBD
+CUST-10878,Nicole,Smith,,,,94203,827.16
+CUST-10524,,,8500 Woodland Rd,Charlotte,NC,28205,0
+CUST-10213,,King,Valley Rd,Mesa,AZ,85201,#REF!
+CUST-10693,Charles,kim,1098 Maple Dr PO Box 92,Indianapolis,IN,46203,
+CUST-11426,Donald,Anderson,No. 453,San Jose,CA,95102,957.18
+CUST-11569,Andrew,Kelly,6188 Highland Ave,Tampa,FL,33602,75.17
+CUST-11670,Amanda,Brown,Hill St,Atlanta,GA,30301,-556.3
+CUST-11127,Jessica,Brown,3397 Brook Ln,Albuquerque,NM,87101,86.82
+CUST-10834,JAMES,Rodriguez,6951 Cedar Ln,Columbus,OH,43201,unknown
+CUST-11192,Timothy,Cooper,c/o 91,Omaha,NE,68103,398.18
+CUST-10529,Anthony,Gutierrez,7802 Cedar Ln,Tucson,AZ,85703,1415.31
+CUST-11736,Sarah,,Unit 153,Minneapolis,MN,55404,784969.21
+CUST-11418,betty,Turner,,Louisville,KY,40203,577.26
+CUST-11297,Raymond,Bailey,9188 Mill Rd,Bakersfield,,93301,1143.96
+CUST-10327,Joshua,Wright,7160 Sunset Blvd,San Diego,CA,92103,814.43
+CUST-11198,Ryan,Rogers,5432 Sunrise Ave,Tucson,AZ,85705,576.0
+CUST-10659,Michelle,moore,7983 Church St,Austin,TX,78702,1050.49
+CUST-10775,Joseph,Evans,1038 River Rd,Milwaukee,WI,53201,-1192.46
+CUST-11641,,Flores,457 Summit Dr,AZ,Phoenix,85001,661.56
+CUST-11335,Anthony,Hill,5496 Maple Dr,AZ,Tucson,85705,
+CUST-10793,,Murphy,1753 River Rd,Dallas,TX,75204,431.58
+CUST-10859,Joshua,Morris,5878 Ridge Rd,Albuquerque,NM,87104,-599.64
+CUST-11286,Shirley,Gomez,7413 Summit Dr,Tucson,AZ,85701,1139.04
+CUST-10330,Jason,Hernandez,2957 Woodland Rd,Las Vegas,NV,89105,899.07
+CUST-10133,Mary,Gutierrez,3955 Grove Ave,Fort Worth,TX,76101,1258.31
+CUST-10330,Jason,Hernandez,2957 Woodland Rd,Las Vegas,NV,89105,pending
+CUST-10019,brenda,Morgan,7020 Spring St,Indianapolis,IN,46205,1328.83
+,Susan,Hall,1883 Ridge Rd,Atlanta,GA,30303,1458.67
+CUST-11029,Stephen,Adams,7055 Grove Ave,Boston,MA,02104,1368.83
+CUST-10534,Nancy,White,Main St,Cleveland,OH,44104,93.54
+CUST-11296,Cynthia,,Pine Rd,Chicago,,60603,-968.45
+CUST-11478,Gregory,Cruz,2436 Oak Ave,,TX,77002,#REF!
+CUST-11033,John,Gutierrez,,Dallas,TX,75203,405.2
+CUST-10800,,Wilson,,,TN,38104,930.59
+CUST-10520,Jonathan,Cook,Oak Ave,New Orleans,,70115,656.15
+CUST-10315,Scott,,9422 Park Ave,Los Angeles,CA,,1444.72
+CUST-11028,Christopher,Morgan,5773 Forest Dr,,NC,27604,965.53
+CUST-11016,Susan,Morales,Spring St,,TX,,472.92
+CUST-11761,Sarah,Mitchell,3310 Elm St PO Box 54,Fresno,CA,93702,-821.44
+CUST-11012,William,Morgan,8587 School Rd,Memphis,TN,38101,218327.06
+CUST-10598,,Walker,1413 Sunrise Ave Suite 81,Houston,TX,77002,972.93
+,Shirley,Turner,7026 Sunrise Ave,Charlotte,,28202,1077.65
+CUST-10588,Raymond,MILLER,6323 Cedar Ln,San Francisco,CA,94104,726.55
+CUST-10640,Kimberly,Scott,568 Brook Ln,Milwaukee,WI,53202,1106.72
+CUST-10599,Joseph,Collins,902 Hill St,Miami,FL,33125,
+CUST-11690,Stephen,,4835 Meadow Ln,Dallas,TX,75201,$820.13
+,Gregory,Roberts,,San Jose,CA,95105,1156.67
+CUST-11589,Sandra,Gomez,751 School Rd,El Paso,TX,79905,1267.4
+CUST-10283,CAROL,Hernandez,642 Park Ave P.O. Box 83,Sacramento,CA,94203,540.69
+CUST-10881,Sandra,Turner,7890 School Rd,El Paso,TX,79901,361.84
+CUST-10515,,Reed,8940 Pine Rd,,TX,,unknown
+CUST-11235,Stephanie,Rodriguez,55 Sunset Blvd,,AZ,85202,380.83
+CUST-10031,Jonathan,Taylor,9008 Pine Rd,Dallas,TX,75204,714.85
+,David,Lopez,6106 Elm St,Las Vegas,NV,89101,563.99
+CUST-11486,Amy,gonzalez,School Rd,,TX,79901,609.12
+CUST-10970,Gregory,RIVERA,7655 Woodland Rd,Oklahoma City,OK,73104,
+,Michelle,Williams,8765 Main St,San Jose,CA,95101,1307.8
+CUST-11786,Linda,Roberts,3971 Summit Dr,Las Vegas,NV,89102,692.9
+CUST-11293,EMILY,Diaz,8888 Spring St,Seattle,WA,98105,
+CUST-11058,Michael,Young,4714 Main St,FL,Miami,33102,658.91
+CUST-11076,Jason,Flores,7360 Woodland Rd,Raleigh,NC,27603,238.05
+CUST-10478,,,2938 Cedar Ln,LA,New Orleans,,-1251.45
+CUST-11389,,Brown,9906 School Rd,Jacksonville,FL,32203,192.47
+CUST-10173,Andrew,Cruz,,New Orleans,LA,70115,1325.54
+CUST-10452,Amy,Miller,8593 Forest Dr,Washington,DC,20004,#REF!
+CUST-11422,Betty,,Ste 756,,NM,87102,1188.61
+CUST-10266,Pamela,Diaz,,Omaha,NE,68104,1333.54
+CUST-10780,RAYMOND,Lee,Rm 847,,CA,94205,1400.46
+,Jonathan,Rivera,5893 Highland Ave,Nashville,TN,37203,1066.99
+CUST-11632,William,Ramos  ,,Dallas,TX,,1167.11
+CUST-10326,Robert,Harris,784 Church St,,CO,80203,301.54
+CUST-11109,Steven,Johnson,8170 Woodland Rd,Albuquerque,NM,87104,1364.58
+CUST-10754,Joseph,Turner,2025 Woodland Rd,,WI,53204,-632.22
+CUST-10327,Joshua,,7160 Sunset Blvd PO Box 79,San Diego,CA,92103,669.44
+CUST-10887,Margaret,Edwards,P.O. Box 382,Raleigh,NC,27604,374.73
+CUST-10247,PAMELA,Cook,,Columbus,OH,43201,853.44
+CUST-10928,Mark,Robinson,,Oklahoma City,OK,,1133.7
+CUST-10380,Melissa,Baker,2364 Lake Blvd,Atlanta,GA,30303,1092.7
+CUST-10738,,Green,1325 Summit Dr,Bakersfield,CA,93302,
+CUST-10229,Patricia,,3899 Spring St,,NY,10003,1008.25
+CUST-11615,Andrew,Garcia,9226 Maple Dr,Austin,TX,78703,$9.31
+CUST-11573,Margaret,Edwards,8623 Sunset Blvd,,AZ,85003,#REF!
+CUST-10625,,Robinson,2231 Ridge Rd,Phoenix,,85002,
+CUST-10372,Amy,WILLIAMS,8282 Meadow Ln,Philadelphia,PA,,848.79
+CUST-10465,Amy,REYES,5247 Lake Blvd,San Antonio,TX,78204,1083.98
+CUST-10190,RONALD,Hernandez,Forest Dr,,TX,79905,896.16
+CUST-10121,CHRISTOPHER,FLORES,421 Hill St,San Antonio,TX,78205,-168.68
+CUST-11017,Raymond,Roberts,8616 Brook Ln,Minneapolis,MN,55404,318.58
+CUST-10973,Samantha,Morgan,Woodland Rd,Nashville,TN,37203,1102.45
+,Thomas  ,Harris,2852 Brook Ln,Portland,OR,97204,614.73
+CUST-11425,Christopher,Allen,Apt 366,FL,Tampa,33605,495.17
+CUST-10975,Dorothy,Martin,2 Highland Ave,Nashville,TN,37201,1200481.5
+CUST-10260,Shirley,Flores,Brook Ln,Chicago,IL,60602,$1494.7
+CUST-11574,Emma,Bailey,4321 Spring St,Kansas City,MO,64104,1347.65
+CUST-10480,Shirley,Allen,,Washington,DC,20003,258.04
+CUST-10122,Pamela,Carter,Spring St,Louisville,KY,40202,-1051.24
+CUST-11573,Margaret,Edwards,Sunset Blvd,Phoenix,AZ,85003,1330.25
+CUST-10491,Anna,Nelson,,Memphis,TN,38101,254.6
+CUST-11237,DEBRA,Hill,1486 Valley Rd,Louisville,KY,40201,822.59
+CUST-11253,,adams,,Columbus,OH,43085,-414.13
+CUST-11046,scott,kelly,3639 Sunrise Ave,Sacramento,,94201,1213.08
+CUST-11517,Matthew,brown,,Columbus,OH,43203,261472.73
+CUST-10955,benjamin,Cox,9436 Church St,,TX,76105,$808.05
+,Steven,Williams,5650 Park Ave,Washington,DC,20001,143.93
+CUST-10426,,Cox,8999 Summit Dr,Boston,MA,02104,1106.02
+CUST-11208,David,JACKSON,8126 Ridge Rd,Raleigh,,27602,
+CUST-11239,Betty  ,,6295 School Rd,Atlanta,GA,30301,1324.24
+CUST-10752,Steven,Morgan,9731 Oak Ave,Miami,FL,33101,959.75
+CUST-10837,Elizabeth,Martinez,Woodland Rd,Houston,TX,77002,
+CUST-10078,Angela,Phillips,5426 Main St,Tampa,FL,33605,1360.74
+CUST-11444,Kenneth,Lopez,# 134,San Francisco,CA,94103,0
+CUST-11205,MARY,,9696 Grove Ave,,NC,27602,
+CUST-11094,,Young,6482 Grove Ave,Kansas City,MO,64105,725.0
+CUST-11774,David,Campbell,2749 Summit Dr,Louisville,KY,40204,1389.89
+CUST-10897,Kathleen,,Fl 209,,,,588.61
+CUST-10330,jason,Hernandez,2957 Woodland Rd,Las Vegas,NV,,658.35
+CUST-11405,David,Rodriguez,5532 Pine Rd,,TN,37201,1170.45
+CUST-10328,,Roberts,8130 Mill Rd,El Paso,TX,79902,928.56
+CUST-11797,Daniel,,3245 Summit Dr Ste 26,Jacksonville,FL,32201,116.1
+CUST-10209,REBECCA,THOMPSON,8838 Valley Rd,Fort Worth,TX,76102,774.53
+CUST-11243,Deborah,Rodriguez,8187 Woodland Rd,Mesa,AZ,85203,1187.56
+CUST-10229,Patricia,Taylor,3899 Spring St,New York,NY,10003,1213.02
+CUST-11651,Jason,Richardson,5565 Church St,Miami,FL,33101,45.58
+CUST-10250,Helen,Ward,431 Brook Ln,,FL,33605,505.07
+CUST-10743,,Mitchell,,,NY,10003,pending
+CUST-11540,Jennifer,Bailey,8445 Brook Ln,Seattle,WA,98102,0
+CUST-11667,Samantha,Lewis,,New Orleans,LA,70113,
+CUST-11370,Matthew,Torres,,Austin,,78703,4120.01
+CUST-11472,,King,8075 Forest Dr,Austin,TX,78703,1138.77
+CUST-11658,,Rivera,8867 Ridge Rd,Nashville,TN,37205,853.54
+CUST-10781,Barbara,Morales,,,,73102,108779.53
+CUST-11389,Benjamin,Brown,9906 School Rd,Jacksonville,,32203,195.63
+CUST-11706,PATRICIA,Mitchell,Hill St,Dallas,TX,75205,984.39
+CUST-11322,Emily,Kelly,9261 Grove Ave,Minneapolis,MN,55402,1457.35
+CUST-10230,Michelle,Williams,859 Elm St Rm 40,Jacksonville,FL,32202,1021.99
+CUST-10007,Richard,Rivera,4334 Oak Ave,Washington,DC,20005,$267.04
+CUST-10488,,Jones,257 Lake Blvd,Jacksonville,FL,32202,1165.4
+CUST-11554,ronald,Jones,9414 Oak Ave,Minneapolis,MN,55402,385.59
+,RONALD,Jones,1879 Mill Rd,New York,,10003,643.02
+,Michelle,Cox,River Rd,San Jose,CA,95101,34.23
+,Ryan,Harris,1766 Ridge Rd,Bakersfield,CA,93303,1207.01
+CUST-10864,Emma,,4270 Woodland Rd,Chicago,IL,,$613.41
+CUST-10159,Lisa,Flores,Fl 850,Raleigh,NC,27605,1496.65
+CUST-11715,Nancy,Sanchez,4651 Lake Blvd,Phoenix,AZ,85004,13.16
+CUST-10257,David,Wright,7958 Brook Ln,Milwaukee,WI,53204,978.16
+CUST-11653,MATTHEW,Wilson,9752 Mill Rd,San Antonio,TX,78201,144.95
+,David,Morales,5452 Mill Rd,Tucson,,85704,947.15
+CUST-10225,michael,Nelson,9251 Lake Blvd,San Francisco,CA,94102,1317.51
+CUST-10892,Betty,Gutierrez,2451 Brook Ln Apt 98,Sacramento,CA,94205,
+CUST-11027,Nancy,Peterson,5530 School Rd,KY,Louisville,40205,681.03
+,Donna,,7269 Oak Ave,El Paso,TX,79905,885.97
+CUST-10729,Jacob,Rivera,,Sacramento,CA,94204,794.29
+CUST-11265,Mark,reyes,4529 Oak Ave,Cleveland,OH,44102,72.8
+CUST-10206,Samantha,Harris,2241 Church St,Miami,FL,33103,854.5
+CUST-10954,Steven,Hall,,,CA,90004,587.58
+CUST-10820,kimberly,,2637 Spring St,IN,Indianapolis,46202,184.39
+CUST-11750,jessica,Robinson,Rm 136,Columbus,OH,43085,0
+CUST-10216,BRANDON,,7607 Mill Rd,Virginia Beach,VA,23450,
+CUST-11067,Richard,Green,8710 Maple Dr,Fresno,CA,93704,21.26
+CUST-11430,Jennifer,morales,1376 Forest Dr,Los Angeles,CA,90001,1012.87
+CUST-11345,Larry,Parker  ,1960 Valley Rd,Indianapolis,IN,46204,1028.03
+CUST-10567,Ronald,RAMIREZ,River Rd,Las Vegas,,89102,$37.0
+CUST-10429,Joseph,Davis,3313 Spring St,Atlanta,GA,30305,
+CUST-10868,Mary,Walker,8424 Elm St,Miami,FL,33102,783.7
+,Justin,Garcia,5861 Highland Ave,New Orleans,LA,,
+CUST-10982,Katherine,Morgan,Maple Dr,Seattle,WA,,1060.16
+CUST-11323,Jeffrey,Baker,7848 Oak Ave,New Orleans,LA,70112,-1333.28
+CUST-10771,Deborah,Morris,,Portland,,97202,673.36
+CUST-11733,NICHOLAS,Garcia,1200 Church St,Albuquerque,NM,87101,266.03
+CUST-11640,Mark,Diaz,Pine Rd,Phoenix,AZ,85002,530.14
+CUST-11556,,Hill,,Aurora,CO,80012,1499.73
+CUST-10669,Timothy,Murphy,8947 Sunset Blvd,Memphis,TN,38102,
+CUST-10291,Joshua,Taylor,,Minneapolis,MN,,-1167.64
+CUST-10330,Jason,Hernandez,2957 Woodland Rd,NV,Las Vegas,89105,655.6
+CUST-10848,Anthony,Hall,8398 Elm St,Columbus,OH,43203,1369.65
+CUST-11781,,Smith,6132 Summit Dr,New York,NY,10005,1303.42
+CUST-10732,Amanda,Lewis,6890 Forest Dr,Baltimore,MD,21203,702.65
+CUST-11364,Jacob,Thomas,1086 Hill St Fl 84,Indianapolis,IN,46201,-887.49
+CUST-10819,Daniel,Rogers,666 Sunrise Ave,San Diego,CA,92104,1198.06
+CUST-11036,Robert,Collins,2268 River Rd,Washington,DC,20002,246.86
+CUST-11227,Linda,king,7219 Maple Dr,Indianapolis,IN,46202,
+CUST-11646,Robert,Carter,2090 Oak Ave,Oklahoma City,OK,73101,955.33
+CUST-11337,Paul,Turner,,,FL,32204,71.27
+CUST-10365,Anthony,Baker,5122 Mill Rd,Raleigh,NC,27602,765.13
+CUST-11319,Anna,Lee,1991 Main St,Mesa,AZ,85203,96.9
+CUST-11057,Melissa,Martin,1842 Grove Ave,Aurora,CO,80010,1098.16
+CUST-10161,Nicholas,Cooper,1318 Brook Ln,Fresno,CA,93703,
+CUST-11041,pamela,Carter,5479 Valley Rd,Philadelphia,PA,,5.05
+CUST-10957,Benjamin,,1285 Sunset Blvd,Fresno,CA,93703,1469.37
+CUST-10480,shirley,Allen,,Washington,DC,20003,1042.22
+CUST-11145,Michelle  ,Jackson,2175 Lake Blvd,San Antonio,TX,78205,11.7
+CUST-10699,Deborah,Morales,7751 Oak Ave,Omaha,NE,68105,1487.05
+CUST-10558,Anthony,Davis  ,,Omaha,NE,68103,1181.28
+,debra,Baker,Apt 214,,,44103,748.36
+CUST-10169,Ryan,,5297 Cedar Ln,Oklahoma City,OK,,581.18
+CUST-11698,Betty,Nelson,4097 Hill St,Fort Worth,TX,76103,652.75
+CUST-10733,Melissa,King,7599 Cedar Ln,Colorado Springs,CO,80903,142.54
+,Christopher,Wright,Sunrise Ave,Milwaukee,WI,53205,
+CUST-10118,Helen,Martin,7759 School Rd,San Francisco,CA,94102,183.52
+,Emily,JACKSON,,Nashville,TN,37203,755.37
+CUST-11602,Patricia,Davis,1618 Forest Dr,Nashville,TN,,unknown
+CUST-11668,Margaret,Walker,6159 Lake Blvd,Tucson,AZ,,818.95
+CUST-10262,,Allen,1966 Main St,Denver,CO,80203,471.4
+CUST-11367,Charles,Scott,5771 Pine Rd,Colorado Springs,CO,80903,708.4
+CUST-10237,Helen,Howard,6241 Brook Ln,GA,Atlanta,30303,
+CUST-10769,Jeffrey,Richardson,6106 Forest Dr,Seattle,WA,98101,1348.99
+CUST-11029,Stephen,Adams,7055 Grove Ave,Boston,MA,02104,126.11
+CUST-11166,Angela,WILSON,5340 Woodland Rd,Louisville,KY,40201,512.98
+CUST-10039,Pamela,Kelly,7750 Sunrise Ave,Tucson,AZ,85702,1388.99
+CUST-11790,elizabeth,Roberts,1317 Highland Ave,Louisville,,40205,458.83
+CUST-10777,Larry,lewis,,Minneapolis,MN,55403,1097.09
+CUST-11641,Joshua,Flores,457 Summit Dr,Phoenix,AZ,85001,313.5
+CUST-10690,Pamela,Gutierrez,2416 Cedar Ln,,NE,68105,#REF!
+CUST-10740,Kimberly,Clark,2596 Summit Dr,Austin,TX,78703,836.93
+CUST-10805,Anthony,Richardson,c/o 568,Bakersfield,CA,93303,0
+CUST-10817,Raymond,Mitchell,,Colorado Springs,,80905,
+CUST-11020,Samantha,Davis,6815 Valley Rd,MA,Boston,02105,$613.63
+CUST-10141,Emma,Ortiz,1648 Lake Blvd,Raleigh,NC,,999131.79
+CUST-10362,Frank,Cooper,7913 Park Ave,Denver,CO,80203,341.75
+,Patricia,Robinson,,Aurora,CO,80012,#REF!
+CUST-10404,Jonathan,Wright,,Atlanta,GA,30303,1051.36
+CUST-10753,Gregory,,,Virginia Beach,VA,23450,
+CUST-11309,Matthew,Rodriguez,8514 Church St,Los Angeles,CA,90002,588.39
+CUST-11342,Katherine,TORRES,8060 Mill Rd,Portland,OR,97202,pending
+CUST-11556,Stephen,Hill,5639 Main St,Aurora,CO,80012,720.82
+CUST-10230,MICHELLE,williams,859 Elm St,FL,Jacksonville,32202,0
+,Daniel,Richardson,7502 Sunset Blvd,CO,Aurora,80013,-1447.47
+CUST-10321,Gregory,Wilson,2186 Oak Ave,,,80903,282.96
+CUST-10788,CHRISTINE,,890 Park Ave,El Paso,,79903,1044.09
+,Joseph,Collins,902 Hill St,Miami,FL,33125,192.44
+CUST-10132,Dorothy,Baker,,Seattle,WA,98105,1147.88
+,Steven,Johnson,8170 Woodland Rd,Albuquerque,NM,,#REF!
+CUST-10819,Daniel,Rogers,666 Sunrise Ave,San Diego,CA,92104,1366.7
+CUST-10781,Barbara,Morales,River Rd,Oklahoma City,OK,73102,444.97
+CUST-10575,Elizabeth,Gonzalez,7813 Maple Dr,New York,NY,10002,933.13
+CUST-10383,Ryan,martin,2291 Forest Dr,Raleigh,NC,27605,1343.97
+CUST-11002,Frank  ,Davis,2522 Mill Rd,,TX,77003,$713.84
+CUST-10060,Ashley,Mitchell,,,CO,80202,1349.92
+CUST-10049,Matthew,Nguyen,9490 Grove Ave,Columbus,OH,43085,759.28
+CUST-11397,Deborah,Morales,8038 School Rd,,CA,92105,-1485.66
+CUST-11397,Deborah,Morales,8038 School Rd,San Diego,CA,92105,567.86
+CUST-10508,Barbara,Campbell,8124 Brook Ln,Indianapolis,IN,46202,688067.1
+CUST-10546,Sarah,White,879 Valley Rd,Oklahoma City,OK,73104,444.42
+CUST-11264,Shirley,Gonzalez,8843 Highland Ave,Miami,FL,33103,322.03
+CUST-10754,Joseph,Turner,2025 Woodland Rd,Milwaukee,WI,53204,0
+CUST-10077,JOSHUA,Scott,5754 Church St Fl 93,Phoenix,AZ,85003,712.03
+CUST-10528,Joseph,Jackson,,Washington,DC,20003,985.65
+CUST-11173,Richard,Cruz,6649 Maple Dr Rm 33,Jacksonville,FL,32202,
+CUST-10163,Patricia,Lopez,P.O. Box 471,Charlotte,NC,28205,628.9
+,Scott,Hernandez,,Nashville,TN,37205,217.86
+CUST-10398,Kimberly,Bailey,4877 Ridge Rd,Nashville,TN,37202,1369.46
+CUST-10042,Stephanie,Baker,,,TX,78202,1229.41
+CUST-10140,Nancy,Harris,4531 Grove Ave,Columbus,OH,43203,377.22
+CUST-11159,Joshua,Sanchez,1287 Ridge Rd,Bakersfield,CA,93305,926.94
+CUST-10355,Michelle,Lewis,4654 Maple Dr,Washington,DC,,$522.41
+CUST-10129,Michelle,Young,7386 Park Ave,Philadelphia,,19103,954.03
+,Katherine,Hill,8476 Ridge Rd,Fort Worth,TX,,836.28
+CUST-11382,,Rodriguez,5549 Lake Blvd,Boston,MA,02102,-1027.72
+CUST-10490,Christopher,Reed,,San Francisco,CA,94105,762.12
+CUST-11721,Nicole,Kelly,3326 Highland Ave,Nashville,TN,37205,
+CUST-10010,,,Maple Dr,Minneapolis,MN,55402,158.8
+CUST-10156,Ryan,Martinez,Rm 751,Tampa,,33602,1402.45
+CUST-10820,Kimberly,BAILEY,2637 Spring St,Indianapolis,IN,46202,586.94
+CUST-10449,Scott,Adams,,,CA,94103,171935.83
+CUST-11522,Larry,GOMEZ,130 Cedar Ln,Houston,TX,77003,623.14
+CUST-10056,Anthony,green,6485 Elm St,San Francisco,CA,94103,1339.98
+CUST-10557,Brandon  ,Diaz,2282 Lake Blvd,Austin,,78703,719524.27
+CUST-10880,Nancy,Lee,1939 School Rd,Boston,,02105,$563.35
+CUST-10927,Kathleen,Anderson,,Indianapolis,,46201,$410.37
+,Ryan,Scott,4217 Pine Rd,Las Vegas,NV,89103,$1329.44
+CUST-11058,Michael,Young,4714 Main St,FL,Miami,33102,791.41
+CUST-10677,ANDREW,,814 Sunset Blvd,San Francisco,CA,94101,838.97
+CUST-10020,Stephanie,Campbell,PO Box 38,Charlotte,NC,28202,887.34
+CUST-10161,Nicholas,Cooper,1318 Brook Ln Unit 81,Fresno,CA,93703,1138.03
+CUST-11775,Jeffrey  ,Diaz  ,7102 Ridge Rd,Sacramento,CA,95814,
+CUST-11636,Timothy,Scott,7645 Summit Dr,San Diego,CA,92105,
+CUST-10556,Donald,Clark,5745 Mill Rd,Baltimore,MD,21205,-1326.0
+CUST-11223,Nicole,Taylor,Cedar Ln,Memphis,TN,38104,1450.53
+CUST-11321,James,,4843 Summit Dr,Sacramento,CA,94204,519.81
+CUST-11241,Amanda,Morales,c/o 989,Philadelphia,PA,19104,1150.48
+CUST-10599,Joseph,Collins  ,P.O. Box 68,FL,,33125,267.36
+CUST-10240,laura,Robinson,7431 Sunset Blvd,Portland,OR,,1496.59
+CUST-10810,Michael,Davis,,Fort Worth,TX,76103,$440.83
+CUST-11389,,Brown,9906 School Rd,Jacksonville,FL,32203,$1422.5
+CUST-11264,Shirley,Gonzalez,8843 Highland Ave,Miami,FL,33103,1391.87
+CUST-11063,Steven,Perez,3289 Mill Rd,Houston,TX,77003,$929.61
+CUST-11321,James,Cooper  ,PO Box 661,Sacramento,CA,94204,$1008.75
+CUST-10393,,Evans,,Sacramento,CA,,$1022.4
+CUST-10799,Justin,MORRIS,9480 Pine Rd,Sacramento,,,-516.76
+CUST-11420,Pamela,Murphy,4390 Church St,Columbus,OH,43203,1036.28
+CUST-10735,Barbara,Stewart,1964 School Rd,Fort Worth,TX,76105,178.85
+CUST-11766,,Cooper,3645 Brook Ln,Houston,TX,,1226.39
+CUST-11739,Richard,,8760 Grove Ave,CO,Denver,80201,$554.52
+CUST-10666,Elizabeth,Nelson,4346 Lake Blvd,,WI,,-53.7
+CUST-10809,Mary,gutierrez,6241 Elm St,San Antonio,TX,78201,TBD
+CUST-11147,Donna,,1427 Forest Dr,Tampa,FL,33605,$964.61
+CUST-10500,Brian,Wright,1431 Pine Rd,San Antonio,TX,78202,441.76
+CUST-11610,David,Cook,,Columbus,OH,43201,0
+CUST-10831,Andrew  ,Brown,,Kansas City,,64103,pending
+CUST-10188,Ryan,Johnson  ,6718 Church St,Aurora,CO,80011,637.53
+CUST-10914,Daniel,,3305 School Rd,Milwaukee,WI,53201,256.21
+CUST-11361,Thomas,Clark  ,6961 Mill Rd,Dallas,TX,,358.25
+CUST-10593,Margaret,Garcia,8301 Hill St,Houston,TX,77004,VOID
+CUST-11648,Susan,Davis,4832 Sunset Blvd,Atlanta,GA,30301,725.64
+CUST-11178,Anthony,Green,4990 Sunrise Ave Bldg 32,Nashville,TN,37205,1313.43
+CUST-10823,PAMELA,Peterson,# 325,Washington,DC,20001,946.82
+CUST-10435,James,Ramirez  ,Sunrise Ave,Colorado Springs,CO,80901,$270.5
+,Jacob,Young,,Albuquerque,NM,87105,-20.8
+CUST-11457,Betty,King,# 495,New Orleans,,70113,$1120.16
+CUST-10198,Charles,Robinson,7530 River Rd,,Albuquerque,87103,614864.09
+CUST-10525,Justin,Kelly,6130 Sunset Blvd Ste 10,Charlotte,NC,28204,936.3
+CUST-10566,Elizabeth,COLLINS,1038 Woodland Rd,Cleveland,OH,44103,1359.14
+CUST-11631,Gregory,,9260 Pine Rd,Tampa,FL,33605,$775.39
+CUST-10658,Gregory,Gomez,5515 Hill St,Colorado Springs,CO,80901,714.75
+CUST-11404,Gregory,Young,,San Francisco,CA,94102,76.72
+CUST-10627,,Green  ,8781 Valley Rd,Portland,OR,97201,595.26
+CUST-11392,GREGORY,Murphy,4288 Woodland Rd,Fresno,CA,93704,-150.7
+CUST-10649,Donald,Wright,3595 Spring St,Mesa,AZ,85201,1408.63
+CUST-10180,Rebecca,Baker,43 Hill St,,CA,94204,477.06
+CUST-10609,Karen,Thompson,6871 Park Ave,Chicago,IL,60605,13.02
+CUST-10075,Robert,Stewart,7542 Valley Rd,Charlotte,NC,28202,52.74
+CUST-10164,Benjamin,Wright,2871 Summit Dr,Omaha,NE,68101,23.07
+CUST-11424,,,4703 Church St c/o 7,Portland,OR,97203,185.58
+CUST-11259,Katherine,Ramos,,Denver,CO,80204,983.45
+CUST-10622,Nicholas,Moore  ,1227 Spring St,Cleveland,OH,44104,1305.51
+,KATHLEEN,Wilson,9371 Valley Rd,,CA,94104,$917.15
+CUST-10466,Melissa,Green,9217 Park Ave Ste 8,Portland,OR,97201,1026.22
+CUST-10848,anthony,Hall,8398 Elm St,Columbus,OH,43203,1327.31
+CUST-11424,Samantha,Clark,,Portland,OR,97203,688.82
+CUST-10186,,Martin,2069 Highland Ave,Fresno,CA,93650,241.19
+CUST-11236,Kathleen,Thomas,5881 Forest Dr,Omaha,NE,68105,681.52
+CUST-10998,Mary,Perez,1961 Sunset Blvd,,WA,98105,244995.62
+CUST-11529,Sharon,Williams,3150 Summit Dr,Austin,TX,78701,700.26
+CUST-10417,Carol,Nguyen,2876 Brook Ln,Omaha,NE,68102,294.44
+CUST-10642,Stephen,Morris,4584 Sunset Blvd,Houston,TX,77001,$1336.75
+CUST-10617,,ROBINSON,158 Forest Dr,,AZ,85203,$429.74
+CUST-11506,Angela,DIAZ,7613 School Rd,Portland,OR,,
+,Kevin,,2278 Meadow Ln,New Orleans,LA,,854.9
+CUST-10042,Stephanie,Baker,3140 Lake Blvd,San Antonio,TX,78202,1353.8
+CUST-11648,SUSAN,DAVIS,,Atlanta,GA,,603.95
+CUST-10558,Anthony,Davis,8721 River Rd,Omaha,NE,68103,1216.01
+CUST-11189,Nancy,Collins  ,,Sacramento,CA,94205,725244.9
+CUST-11575,Amy,,6831 Pine Rd,Milwaukee,WI,53204,770.35
+CUST-11595,kimberly,Clark,Maple Dr,San Francisco,CA,94105,
+CUST-11641,Joshua,FLORES,457 Summit Dr Ste 63,Phoenix,AZ,85001,1260.37
+,Kenneth,Walker,6933 Sunset Blvd,Indianapolis,IN,46202,893.34
+CUST-11301,Jason,Scott,Rm 790,Houston,TX,77001,418.36
+CUST-11297,RAYMOND,Bailey,9188 Mill Rd,Bakersfield,CA,93301,
+CUST-10817,Raymond,Mitchell,9886 Lake Blvd,Colorado Springs,CO,80905,1069.76
+CUST-11163,Nancy,nelson,7988 Main St,Oklahoma City,OK,73104,838.53
+,Michael,Torres,Fl 472,Raleigh,NC,27603,1225.11
+CUST-10882,Kathleen,MORRIS,2642 Church St,Columbus,,43204,599.39
+CUST-11367,Charles,Scott,5771 Pine Rd,Colorado Springs,CO,80903,360.13
+CUST-10746,Emma,Flores,750 Hill St,Austin,TX,73301,943.39
+CUST-11730,Christine,Rodriguez,,New Orleans,LA,70113,#REF!
+CUST-10501,Sharon,Edwards,8396 Sunrise Ave,,GA,30305,11.54
+CUST-11429,Patricia,King,2884 Church St,Seattle,WA,98105,unknown
+CUST-10076,Donna,,3165 Sunset Blvd,Charlotte,NC,28201,1019.37
+CUST-10422,Dorothy,Campbell,1018 School Rd,New Orleans,LA,70113,1139.12
+CUST-11065,deborah,Wright,,Minneapolis,MN,55403,857.37
+CUST-11317,Jeffrey,King,3362 Woodland Rd Unit 77,Boston,MA,02102,435.78
+CUST-10874,Eric,Scott,9481 Woodland Rd,Baltimore,MD,21203,681.22
+CUST-11600,Nancy,allen,5027 Sunrise Ave,Philadelphia,PA,19102,206.92
+CUST-10515,joseph,Reed,8940 Pine Rd,Fort Worth,TX,76105,
+CUST-10971,,Peterson  ,8836 Pine Rd,Milwaukee,WI,,1400.36
+CUST-11322,EMILY,Kelly,Grove Ave,Minneapolis,MN,55402,1099.96
+CUST-11032,Laura,Gomez,4661 Brook Ln,,NY,10001,357.95
+CUST-11441,Raymond,Cox,3927 River Rd,Chicago,IL,,636.82
+CUST-11547,Rebecca,Smith,5593 Hill St,San Francisco,CA,94104,-493.12
+CUST-10105,Rebecca,Evans,7634 Sunrise Ave,,TX,,701.12
+CUST-10119,Joseph,Reed,4199 Ridge Rd,Columbus,OH,43203,-1241.13
+,Jason,Phillips,6233 Grove Ave,Chicago,IL,60605,756.23
+CUST-10988,Amy,Ramirez,5105 Summit Dr,El Paso,TX,79904,1265.52
+CUST-10132,dorothy,,4527 Woodland Rd,Seattle,WA,98105,838.58
+,Samantha,,6815 Valley Rd,Boston,MA,02105,0
+CUST-11359,SCOTT,Gutierrez,4992 Main St,,TX,79902,1116.04
+CUST-10275,Larry,Howard,5296 Church St,Milwaukee,WI,53205,unknown
+CUST-11508,Nicholas,Williams,2942 Pine Rd,San Diego,,92104,1011.94
+CUST-10704,Kenneth,Cruz,6829 Brook Ln,Oklahoma City,OK,,950.51
+CUST-10250,Helen,Ward,431 Brook Ln,Tampa,FL,33605,534.26
+CUST-11051,Ronald,Kelly,8590 Park Ave,Fort Worth,TX,76105,253.66
+CUST-11575,Amy,Diaz,,Milwaukee,WI,53204,792.43
+,debra,Allen,,,,95101,410.13
+CUST-10174,Frank,cox,5092 Woodland Rd,San Francisco,CA,94102,448.74
+CUST-11708,Rebecca,DIAZ,8809 Hill St,Tampa,FL,33604,$1092.72
+CUST-10622,Nicholas,Moore,1227 Spring St,Cleveland,OH,44104,1313.66
+CUST-10690,Pamela,Gutierrez,2416 Cedar Ln Suite 27,Omaha,NE,,493.55
+CUST-10774,Amanda,,7915 Summit Dr PO Box 62,Los Angeles,CA,90002,$995.27
+,Betty,Walker,4349 Lake Blvd,,MD,21202,-584.83
+CUST-10652,Larry,Jackson,8065 Woodland Rd Apt 37,Omaha,NE,68102,0
+CUST-10509,Brandon,Sanchez,2220 Hill St,Albuquerque,NM,87101,1373.98
+CUST-10994,,Stewart,,Memphis,TN,38102,32.79
+CUST-11219,Mary,rodriguez,,New York,NY,10004,1274.76
+CUST-10535,,Sanchez,,,,53205,
+CUST-10098,,Ortiz,5199 Ridge Rd,Atlanta,GA,30305,
+CUST-10018,Ryan,Jackson,4041 Grove Ave,Indianapolis,IN,46202,0
+CUST-11554,Ronald  ,Jones,Suite 53,Minneapolis,MN,,677.09
+CUST-10722,SCOTT,Cox,1772 Summit Dr,Denver,CO,80203,272.12
+CUST-10892,Betty,Gutierrez,,Sacramento,,94205,-445.97
+CUST-10594,Frank  ,Cook,6591 Maple Dr,Portland,OR,97204,977.93
+CUST-10370,Michelle,Kelly,3111 Ridge Rd,Aurora,CO,80012,227.09
+CUST-11788,Nicole,Collins,4167 Park Ave,Tampa,FL,33602,1120.87
+CUST-11151,Jeffrey,Thomas,,Seattle,WA,98102,1383.92
+CUST-10916,Eric,Robinson,591 Valley Rd,Miami,FL,33102,138.83
+CUST-11762,Edward,Clark,3901 Grove Ave,Virginia Beach,,23450,166.81
+CUST-11406,John,Morgan,Rm 103,Oklahoma City,OK,73101,363.98
+CUST-10807,Joseph,Rivera,9549 Spring St,Atlanta,GA,30304,10.84
+CUST-11431,Nicole,Hill,5955 School Rd,Phoenix,AZ,85004,413.97
+CUST-11704,Cynthia,Reyes,Lake Blvd,El Paso,TX,79901,1076.66
+CUST-11743,gregory,Wilson,7275 Oak Ave,,TN,38102,1076.27
+CUST-10923,Brenda,Martinez,5571 Cedar Ln,Sacramento,CA,94204,237.88
+,Jonathan,Taylor,894 Woodland Rd,Seattle,WA,98101,1282.84
+CUST-11686,Kathleen,Murphy,9523 Sunset Blvd,Tucson,AZ,85703,$74.49
+CUST-10331,Emily,Adams,5373 School Rd,San Antonio,,78201,$953.08
+CUST-10029,,Campbell,950 Park Ave,Nashville,TN,37202,-1190.22
+CUST-11648,Susan,Davis,4832 Sunset Blvd,Atlanta,GA,30301,341.29
+CUST-10486,Sandra,Ramirez,7791 River Rd,New Orleans,LA,,450.81
+CUST-10452,,Miller,8593 Forest Dr,Washington,DC,20004,915.0
+CUST-11507,Larry,Allen  ,9594 Maple Dr,Washington,DC,20003,413.32
+CUST-10982,Katherine,Morgan,3081 Maple Dr,,WA,98104,unknown
+CUST-10193,Samantha,Gonzalez,,Milwaukee,,53202,
+CUST-11495,Raymond,Martin,8043 Sunrise Ave,San Diego,CA,92103,0
+CUST-11302,Laura,Morales,2011 Summit Dr,Sacramento,CA,95814,899.02
+CUST-10570,Frank,COLLINS,,Los Angeles,CA,90001,175.5
+CUST-10351,Barbara,Taylor,7373 Meadow Ln,Oklahoma City,OK,73101,645.16
+CUST-10051,Justin,morris,2580 Oak Ave,Sacramento,CA,95814,1100.36
+CUST-11722,Debra,Collins,122 Elm St,,WA,98102,$1389.31
+CUST-11512,Benjamin,Wilson,294 Main St,Las Vegas,NV,89105,988.3
+CUST-10368,paul,,1587 Oak Ave,,,94102,327.57
+CUST-11697,Richard,Thomas,628 Woodland Rd,Phoenix,,85003,
+CUST-11225,Ryan,Scott,4217 Pine Rd,Las Vegas,NV,89103,859.99
+CUST-11532,deborah,Turner,7739 Pine Rd,,FL,33603,1465.99
+CUST-10320,Steven,,5650 Park Ave,Washington,DC,,542.69
+CUST-10571,ryan,Smith,2162 Church St No. 70,Las Vegas,NV,89102,683.63
+CUST-11261,Timothy,Walker,617 Brook Ln,Jacksonville,FL,32204,1292.05
+CUST-10796,Rebecca  ,Garcia,,Cleveland,OH,44105,542.88
+CUST-10488,Gregory,Jones,,Jacksonville,FL,32202,N/A
+CUST-11419,Christine,Peterson,8458 Pine Rd,Jacksonville,FL,32099,1469.44
+CUST-10748,Carol,Parker,5616 Summit Dr,Tampa,FL,33602,1449.69
+CUST-11446,DAVID,Morales,5452 Mill Rd,Tucson,AZ,85704,1011.02
+CUST-10171,Michael,Harris,8168 Church St,Kansas City,MO,64103,
+CUST-10257,,WRIGHT,Rm 838,Milwaukee,WI,53204,N/A
+CUST-10950,George  ,Morales,9211 Spring St,,TN,37203,1217.68
+CUST-10765,Sandra,Collins,7607 Oak Ave,Denver,CO,80203,$505.21
+CUST-10380,Melissa,Baker,2364 Lake Blvd,Atlanta,GA,30303,VOID
+CUST-10603,Jessica,Brown,,El Paso,TX,79904,$254.54
+CUST-10760,Dorothy,Gutierrez,6714 Hill St,Fort Worth,TX,76103,641.12
+CUST-11190,Deborah,rivera,,Charlotte,NC,28202,456.01
+CUST-11014,Timothy,,School Rd,CA,San Diego,92101,1325.35
+CUST-10090,Jacob,PEREZ,4650 Highland Ave,Minneapolis,MN,55401,$1456.93
+CUST-10071,Jennifer  ,Rivera,P.O. Box 382,Columbus,OH,,329.73
+CUST-10253,Larry,Phillips,,Phoenix,AZ,85002,527747.76
+,Susan,,4642 River Rd Bldg 23,Washington,DC,20002,980.86
+CUST-10641,Helen,,8174 Sunrise Ave Ste 65,San Francisco,CA,94103,942.75
+CUST-11721,Nicole,Kelly,Highland Ave,Nashville,TN,37205,1363.91
+CUST-10422,Dorothy,Campbell,1018 School Rd,New Orleans,LA,70113,448.85
+CUST-11039,barbara,Adams,8000 Mill Rd,Tucson,AZ,85702,1080.14
+CUST-10294,Mark,Moore,,San Jose,,95101,
+CUST-10661,Christine,ramos,c/o 500,Jacksonville,FL,32203,1493.2
+CUST-10878,Nicole,,7208 Pine Rd,Sacramento,CA,94203,468.15
+CUST-10838,,Kelly,6679 Sunset Blvd Suite 58,Charlotte,NC,,504.0
+CUST-11302,,Morales,2011 Summit Dr Fl 2,Sacramento,,95814,#REF!
+,John,Rodriguez,2111 Maple Dr,Fort Worth,TX,76104,1016.89
+CUST-10464,JONATHAN,Rivera  ,5893 Highland Ave,Nashville,TN,,unknown
+CUST-10617,Patricia,Robinson,158 Forest Dr,Mesa,AZ,85203,VOID
+CUST-11346,Angela,Kelly,2669 Spring St,Los Angeles,CA,90003,$544.0
+CUST-10080,Susan,KIM,,Las Vegas,NV,89103,706.58
+CUST-10401,Pamela,Cooper,5655 Ridge Rd,Memphis,TN,38103,71.59
+CUST-11565,Frank,,783 Ridge Rd,Washington,DC,20001,$579.99
+CUST-11309,Matthew,Rodriguez,No. 119,Los Angeles,CA,,213.39
+CUST-10342,,KING,3516 Brook Ln,Indianapolis,IN,46204,293.02
+,Michelle  ,Jackson,2175 Lake Blvd,,TX,78205,TBD
+CUST-11708,Rebecca,,8809 Hill St,Tampa,FL,,
+CUST-10712,Gary,Kim,,Milwaukee,WI,53202,1176.96
+CUST-11079,SHARON,Jackson,2590 Forest Dr,Virginia Beach,VA,23454,1497.89
+CUST-10926,Carol  ,Collins,9615 Main St,,FL,33604,0
+CUST-11719,Rebecca,Morris,Suite 188,,MD,21201,975.53
+CUST-10264,Sandra,Cook,1181 Sunset Blvd,Atlanta,GA,30303,1239.43
+CUST-10716,Katherine,Evans,146 Summit Dr,Sacramento,CA,94201,1377.8
+CUST-10887,Margaret,Edwards,7892 Pine Rd,Raleigh,NC,27604,430.84
+CUST-10339,Melissa,Cruz,2256 Highland Ave,Phoenix,AZ,85005,
+CUST-10209,Rebecca,Thompson,8838 Valley Rd,Fort Worth,TX,76102,50.43
+CUST-10936,Anna,Garcia,5168 Summit Dr,Tucson,AZ,85703,771.73
+CUST-10661,Christine,Ramos,5027 Grove Ave,Jacksonville,FL,,0
+CUST-10261,Linda,Smith,3461 Ridge Rd,Columbus,OH,43202,0
+CUST-11455,Ronald,CARTER,,Omaha,NE,68102,#REF!
+CUST-11786,Linda  ,Roberts,,Las Vegas,NV,89102,737.63
+CUST-10226,William,,,Columbus,OH,43204,1001.08
+CUST-11154,,Torres,2807 Maple Dr,Omaha,NE,,
+CUST-10908,Christopher,gonzalez,6563 Forest Dr,Columbus,OH,43204,1060.27
+CUST-10484,Samantha,Johnson,1355 Summit Dr,,LA,70113,720.58
+CUST-11121,Shirley,,3426 Brook Ln,Kansas City,MO,64102,1136.01
+CUST-11143,Jeffrey,Cook,c/o 607,Los Angeles,CA,90004,1424.92
+CUST-10886,Stephanie,kim,4645 Maple Dr,,NE,68101,616.97
+CUST-10528,Joseph  ,jackson,5621 Meadow Ln,Washington,DC,20003,569528.01
+CUST-10100,Laura,,7374 River Rd,Baltimore,MD,21204,182.61
+CUST-10005,Kimberly,,,Austin,TX,78702,128.48
+CUST-10201,Jason,,3264 Sunset Blvd,,NM,87103,1342.67
+CUST-10633,Richard,Reyes,1990 Main St Suite 12,San Antonio,TX,78202,VOID
+CUST-10896,Rebecca,Mitchell,7029 Park Ave,Chicago,IL,60605,698.21
+CUST-10311,JAMES,Hernandez,3534 Elm St Fl 59,Los Angeles,CA,90003,746.17
+CUST-10771,Deborah,Morris,1853 Elm St,OR,Portland,97202,1174.69
+CUST-11704,Cynthia,Reyes,5130 Lake Blvd,El Paso,TX,79901,964.34
+CUST-10159,Lisa,flores,4729 Meadow Ln Suite 79,Raleigh,NC,27605,
+CUST-10519,barbara,Edwards,9540 Sunset Blvd # 11,Raleigh,,27604,825.24
+CUST-11304,William,harris,1314 Sunset Blvd,Albuquerque,NM,87101,1175.76
+CUST-11233,Deborah,Wright,Rm 855,San Jose,CA,95103,582.42
+CUST-10434,Benjamin,Flores,6488 River Rd,Aurora,CO,80010,0
+CUST-11732,Michelle,Evans,Ste 105,Milwaukee,WI,53202,10255.03
+CUST-10560,Pamela,,,Sacramento,CA,94201,348015.84
+CUST-11499,Jason,Mitchell,7113 Church St Fl 22,Miami,FL,33102,TBD
+CUST-10878,Nicole,Smith,7208 Pine Rd,Sacramento,CA,,1485.01
+,,Jones,9121 School Rd,,IL,60602,465.95
+CUST-10162,jennifer,Parker,9892 River Rd,Baltimore,MD,21203,
+CUST-11455,Ronald,Carter,340 Main St,Omaha,NE,68102,1036.17
+CUST-11000,Scott,Martin,,Boston,MA,02101,92.69
+CUST-10782,Michael,Cook,,Charlotte,NC,28205,491.62
+CUST-10656,,Adams,2421 Spring St,Houston,TX,77001,634.95
+CUST-11369,Richard,Howard,3556 Mill Rd,New York,NY,10005,-482.82
+CUST-11609,Brenda,Taylor,6665 Meadow Ln Fl 71,Nashville,TN,,1264.5
+CUST-11110,James,Cox,3554 Spring St,Fresno,CA,93701,269.11
+CUST-10865,Anna,Stewart,5994 Sunset Blvd,Virginia Beach,VA,23451,339.49
+CUST-10008,Ryan,Morgan,1292 Woodland Rd,CA,San Diego,92104,845.78
+CUST-11208,David,JACKSON,8126 Ridge Rd,NC,,27602,873.42
+CUST-11053,pamela,Lopez,6940 Valley Rd,San Diego,CA,92104,pending
+CUST-11067,Richard,Green,8710 Maple Dr,Fresno,CA,93704,1292.62
+CUST-11276,Deborah,Mitchell,3182 Church St,TX,Dallas,75204,589.52
+CUST-10044,Cynthia,,Ste 295,,AZ,85004,383.2
+CUST-11691,Eric,,675 Meadow Ln,Charlotte,NC,,677.29
+CUST-10371,Christopher,Murphy,Hill St,Sacramento,CA,,1381.84
+CUST-11358,Kevin,Flores,,New Orleans,LA,70114,421615.81
+CUST-11014,Timothy,Adams,Fl 656,San Diego,CA,92101,223.8
+CUST-10878,Nicole  ,Smith,7208 Pine Rd,Sacramento,CA,94203,1253.15
+CUST-10909,Stephen,Ward,2634 Sunset Blvd,,LA,70112,835.46
+CUST-10285,Brian,Mitchell,6698 Ridge Rd,,CO,80204,911.25
+CUST-10633,Richard,Reyes,1990 Main St,San Antonio,TX,78202,1174.03
+CUST-10968,Sandra,Young,7261 Church St,Baltimore,MD,21203,
+CUST-10919,Betty,Gutierrez,,New York,NY,10001,1416.44
+CUST-11186,Thomas,Moore,,New York,NY,10001,1033.64
+CUST-10727,Rebecca,phillips,Mill Rd,Memphis,TN,37501,315.58
+CUST-10991,Jacob,White,6252 Main St,Fort Worth,TX,76103,761.61
+CUST-11348,christopher,Miller,Church St,WA,Seattle,98103,$308.61
+CUST-11755,lisa,Allen,5315 Church St,TX,San Antonio,78205,$1401.14
+CUST-11524,Stephen  ,Nguyen,6549 Summit Dr,Chicago,,60604,300.45
+CUST-11627,,Hill,3839 Summit Dr # 80,Bakersfield,,93302,1478.29
+CUST-11581,MELISSA,Hill,459 Elm St,Denver,CO,80204,390.22
+CUST-11133,Carol,Morris,2225 Summit Dr,Tucson,AZ,85701,294.47
+CUST-10631,Ronald,,4263 Pine Rd,Houston,TX,77003,0
+CUST-10029,Joseph,Campbell  ,950 Park Ave,Nashville,TN,37202,33.71
+CUST-11551,,Collins,,Kansas City,,64103,
+CUST-10282,Jacob,Cook,7382 Cedar Ln,San Jose,CA,95101,
+CUST-10944,carol,Campbell,6946 Lake Blvd,Jacksonville,FL,32203,1249.05
+CUST-10904,KIMBERLY,gomez,9046 Woodland Rd,Columbus,OH,43203,1174.01
+CUST-10204,Ronald,Scott,804 Brook Ln,New York,NY,10005,$1098.69
+CUST-10300,Donald,flores,c/o 395,Tucson,AZ,85702,$277.37
+CUST-10555,Laura,King,7194 Cedar Ln,Washington,DC,20001,1310.79
+CUST-10677,,Hill,814 Sunset Blvd,CA,San Francisco,94101,1073.72
+CUST-10579,George,Mitchell,6271 Ridge Rd,Nashville,TN,37202,305.1
+CUST-10287,Richard,,4656 River Rd,Tampa,FL,33604,877.77
+CUST-11690,Stephen,Hernandez,4835 Meadow Ln,Dallas,TX,75201,639.9
+CUST-11483,Nancy,Perez,4470 Spring St,Baltimore,MD,21205,1074.74
+CUST-10261,Linda,Smith,3461 Ridge Rd,Columbus,OH,43202,526.98
+CUST-10221,Timothy,Scott,3560 Meadow Ln,Chicago,IL,60603,1122.04
+CUST-10858,raymond,PARKER,2201 School Rd,Seattle,WA,98103,770.32
+CUST-11715,Nancy,Sanchez,Unit 537,Phoenix,AZ,85004,
+CUST-11272,Benjamin,Adams,,Charlotte,NC,28201,739.01
+CUST-10412,amy,White,614 Main St,Baltimore,MD,21203,1349.17
+CUST-10824,Mark,White,,Kansas City,MO,64101,#REF!
+CUST-11139,Nancy,Kim,5153 Mill Rd,San Diego,CA,92103,1466.08
+CUST-10071,Jennifer,Rivera,1685 Valley Rd,,,43201,unknown
+CUST-10997,MICHAEL,Ramirez,7114 Forest Dr,San Diego,,92102,1419.31
+CUST-11265,Mark,Reyes  ,4529 Oak Ave,Cleveland,OH,44102,1205.16
+CUST-10573,David,Mitchell,849 Sunset Blvd,Minneapolis,MN,55402,$1251.33
+CUST-11692,Angela,,7392 Meadow Ln,El Paso,,79904,640.87
+CUST-10207,Richard,garcia,547 Spring St,Nashville,TN,37204,353.1
+CUST-10954,,Hall,,Los Angeles,,90004,
+,,Cox,9649 Oak Ave,Oklahoma City,OK,73104,
+CUST-11421,Jonathan,Ward,,,NV,89105,1330.4
+CUST-10471,Lisa,Rivera,8955 Summit Dr,Austin,TX,73344,661.48
+CUST-10844,Christopher,,6407 Woodland Rd,Charlotte,NC,28202,-289.5
+CUST-10149,Brenda,Turner,3698 Ridge Rd,Raleigh,NC,,746.54
+CUST-11229,Gary,Wilson,7066 Lake Blvd,San Jose,CA,95105,125.45
+CUST-10342,Jessica,KING,3516 Brook Ln,Indianapolis,IN,46204,828.42
+CUST-10800,,Wilson,9932 Forest Dr,Memphis,TN,38104,1440.04
+CUST-10126,Gary,Wilson,7533 Mill Rd,Las Vegas,NV,89103,1270.72
+CUST-11492,Linda,Martinez,,Atlanta,GA,,625.56
+CUST-11580,Jennifer,GUTIERREZ,6087 Hill St,San Jose,CA,95101,305.28
+CUST-10639,Edward,Diaz,3518 Pine Rd,Jacksonville,FL,32202,888.05
+CUST-10395,Gregory,,5141 Pine Rd,Kansas City,MO,,$595.96
+CUST-10437,Robert,Torres,2219 Ridge Rd,OR,Portland,,1484.62
+CUST-11457,betty,King,PO Box 871,New Orleans,LA,70113,1074.31
+CUST-10948,Charles,MARTIN,2894 Sunrise Ave,,AZ,85701,1323.06
+CUST-11776,Karen,Morris,7003 Maple Dr c/o 93,Los Angeles,CA,90004,-623.78
+CUST-11223,Nicole,Taylor,3028 Cedar Ln,Memphis,TN,38104,1288.88
+CUST-11453,Kathleen  ,Moore,9717 Forest Dr,IN,Indianapolis,,1267.19
+CUST-11244,laura,williams,,IL,,60603,-748.39
+CUST-11274,Mark,Martinez,Oak Ave,Tucson,AZ,85705,206.08
+CUST-11784,,Reed,7149 River Rd,Austin,TX,73344,1483.54
+CUST-11109,Steven,Johnson,8170 Woodland Rd,Albuquerque,NM,87104,0
+CUST-10974,Sandra,Lopez,,Milwaukee,WI,53203,0
+CUST-10114,,ADAMS,4559 Ridge Rd PO Box 39,El Paso,TX,79904,790.7
+CUST-11159,Joshua,Sanchez,1287 Ridge Rd,Bakersfield,CA,93305,772.69
+CUST-10666,Elizabeth,Nelson,4346 Lake Blvd,Milwaukee,WI,53201,1193.91
+CUST-10020,Stephanie,Campbell  ,8349 Summit Dr,Charlotte,NC,28202,972.62
+CUST-10499,Brian,Wilson,5051 Meadow Ln,Philadelphia,PA,19101,
+CUST-10990,charles,Davis,,Seattle,WA,98104,541.64
+CUST-10995,,Garcia,,Baltimore,MD,21205,1211.85
+CUST-11757,Kathleen,Rodriguez,9971 Spring St,El Paso,,79901,$483.32
+CUST-11044,George,Cooper  ,5355 Highland Ave,Omaha,,68102,80.51
+CUST-11354,Gary,Evans,1679 Lake Blvd,,TX,79902,1262.04
+CUST-10590,Mary,Campbell,6338 Spring St,Oklahoma City,OK,73102,$1068.08
+CUST-11132,Larry,Ward,3179 Forest Dr,Los Angeles,CA,90002,1288.85
+CUST-11179,kevin,,8363 Sunset Blvd,Colorado Springs,CO,80901,1118.76
+CUST-10652,Larry,Jackson,8065 Woodland Rd,Omaha,NE,68102,
+CUST-10219,Sarah,,8851 Sunrise Ave,Albuquerque,NM,87103,202.84
+CUST-10582,,Evans,3560 Maple Dr,Miami,FL,33104,742.22
+CUST-10840,Benjamin,Thomas,1037 Ridge Rd,Mesa,AZ,85201,168.46
+CUST-10973,Samantha,Morgan,7892 Woodland Rd,Nashville,TN,37203,146.49
+CUST-10861,Nicole,Hernandez,8825 Lake Blvd,,WA,98102,852.08
+CUST-11466,Jacob,Moore,3477 Mill Rd,Oklahoma City,,73104,185.62
+CUST-11656,Helen,Cruz,2256 Oak Ave,,,,
+CUST-11042,Sharon,,9869 Main St c/o 17,San Diego,CA,92102,533.85
+CUST-10918,Stephanie,Rivera,6643 Spring St,Minneapolis,MN,55404,1271.51
+CUST-11516,Thomas,Moore,,New York,NY,10002,1045.66
+CUST-11181,James,Bailey,# 11,Washington,DC,20001,324.91
+CUST-11119,,Carter,9019 Maple Dr,Phoenix,AZ,85004,
+CUST-10766,Richard,Thompson,5902 School Rd,Chicago,IL,60603,740.88
+CUST-11592,Jessica,bailey,,Philadelphia,PA,19102,288.4
+CUST-11759,Mary,Robinson,,Los Angeles,CA,90005,998.03
+CUST-10949,Amy,Moore,8749 Grove Ave,,OH,44105,434.48
+CUST-10940,Ronald,Thompson,8491 Meadow Ln,,NM,87101,$1368.19
+,Emily,Hernandez  ,5053 Sunset Blvd,Tucson,AZ,85701,1099.93
+CUST-10549,Jeffrey,Morales,9264 Main St,Austin,TX,73301,882.63
+CUST-11770,Emma,Peterson,8314 Maple Dr,Columbus,,43201,442.46
+CUST-10268,Ryan,Campbell,No. 639,Philadelphia,PA,19104,457.74
+CUST-11003,Jonathan,Wilson,3813 Forest Dr,Dallas,TX,75204,$1453.88
+CUST-11511,,Ramirez  ,9897 River Rd,Jacksonville,FL,32099,793.54
+CUST-10218,Kenneth,Murphy,,San Diego,CA,92101,50.07
+CUST-11153,anthony,COOPER,5219 River Rd,Washington,DC,20005,827313.89
+CUST-11044,George,Cooper,5355 Highland Ave,,NE,68102,209.54
+CUST-10518,Kenneth,Walker,6933 Sunset Blvd,Indianapolis,IN,46202,140.11
+CUST-10240,Laura,Robinson,,Portland,OR,97203,1365.73
+CUST-10504,Timothy,,3978 Spring St,Philadelphia,PA,,921.51
+CUST-10325,Donna,Rogers,7757 River Rd,Louisville,KY,40205,$1050.01
+CUST-11766,Anthony,Cooper,3645 Brook Ln,TX,Houston,77002,
+CUST-10460,Emma,Bailey,,Columbus,OH,43203,1262.88
+CUST-11611,Lisa,,,Mesa,,85204,739.88
+CUST-11306,Joseph,Jackson,3347 Highland Ave,Fresno,CA,93701,
+CUST-11620,Joshua,Williams,,New Orleans,LA,70113,586.67
+CUST-10311,,Hernandez,3534 Elm St Bldg 21,Los Angeles,CA,90003,-446.71
+CUST-10115,Rebecca,allen,318 Grove Ave,Philadelphia,,19104,490.33
+CUST-10431,JOSEPH,Clark,8009 Maple Dr,Bakersfield,CA,93305,1219.46
+CUST-10725,DONALD,Davis,5237 School Rd,Raleigh,NC,27604,0
+CUST-10967,Dorothy,Richardson,6388 Hill St,San Jose,CA,95101,1108.59
+CUST-11258,David,Smith,1461 Mill Rd,New York,,10002,989.54
+,,Rogers,9199 Church St No. 83,Minneapolis,MN,55403,1435.52
+CUST-10784,Elizabeth,Murphy,1945 Summit Dr,Milwaukee,WI,53203,
+CUST-11540,Jennifer,Bailey,8445 Brook Ln Bldg 92,Seattle,WA,98102,893.11
+,debra,Scott,2259 Ridge Rd,Fort Worth,TX,76105,293.67
+CUST-11270,Gary,,3856 Grove Ave,San Diego,CA,92101,TBD
+CUST-11724,Joshua,,7581 Spring St PO Box 36,Fresno,CA,93703,694.02
+CUST-11574,Emma,Bailey,4321 Spring St,Kansas City,MO,64104,474.15
+CUST-10792,Emily,,1742 Oak Ave,Kansas City,,64103,$551.98
+CUST-10566,Elizabeth,Collins,1038 Woodland Rd,Cleveland,OH,44103,281.9
+CUST-10633,Richard,Reyes,1990 Main St,San Antonio,TX,,1067.5
+CUST-10922,James,King,8295 Cedar Ln,Jacksonville,FL,32203,#REF!
+CUST-11188,Rebecca,Collins,6975 Brook Ln,New Orleans,LA,70116,1320.12
+CUST-11780,Joshua  ,Moore,3207 Elm St,Bakersfield,CA,93304,0
+CUST-10778,helen,Gonzalez,,Las Vegas,NV,89102,1220.7
+CUST-11049,Dorothy,Hernandez,7119 Ridge Rd,Louisville,KY,40205,unknown
+CUST-10347,Mark,Thomas,3879 Summit Dr,,TX,76102,995.03
+CUST-11516,Thomas,Moore,Main St,,,,
+CUST-10152,Richard,Clark,4336 School Rd,Cleveland,OH,44102,949.42
+CUST-11266,Matthew,Anderson,8152 Pine Rd,San Jose,CA,95104,604.06
+CUST-11518,Donald,Parker,3128 Maple Dr,Cleveland,OH,44105,742.55
+CUST-11549,Rebecca,,2484 Ridge Rd,,OH,44102,349.74
+CUST-10162,,Parker,9892 River Rd,Baltimore,MD,21203,468.53
+CUST-11508,Nicholas,Williams,2942 Pine Rd,San Diego,CA,92104,
+CUST-11416,Jacob,Diaz,Apt 100,Columbus,OH,43202,638.93
+,Jennifer,Johnson,5385 Valley Rd,Dallas,,,-1196.34
+CUST-10801,Nicholas,Roberts,4068 River Rd,Portland,OR,97205,31766.95
+CUST-11146,Robert,Collins,1898 Main St,Memphis,TN,38104,517.61
+CUST-10141,Emma,Ortiz,c/o 918,Raleigh,NC,27603,391.7
+CUST-10723,William,,4537 River Rd,Seattle,WA,98103,VOID
+CUST-11531,Debra,Baker,2149 Hill St,Raleigh,NC,27604,743.86
+CUST-11392,,Murphy,4288 Woodland Rd,,CA,93704,775.73
+CUST-11404,Gregory,Young,5114 Spring St,San Francisco,CA,94102,$919.1
+CUST-11167,Katherine,,7553 Sunset Blvd,Nashville,TN,37205,1480.75
+CUST-11466,Jacob,Moore,3477 Mill Rd PO Box 4,Oklahoma City,OK,73104,1305.14
+CUST-10813,Benjamin,Bailey,6372 Park Ave,Charlotte,NC,28205,
+CUST-11317,Jeffrey,King,Woodland Rd,Boston,MA,02102,N/A
+CUST-10731,Dorothy,Bailey,,FL,Jacksonville,32202,466.43
+CUST-11066,Emily,Roberts,8332 Mill Rd,Charlotte,NC,,1019.92
+,Betty,Nelson,4097 Hill St,Fort Worth,TX,76103,$1486.51
+CUST-10585,David,Young,9831 Grove Ave,Atlanta,GA,30305,$782.35
+CUST-10311,James,hernandez,3534 Elm St,Los Angeles,CA,90003,948.8
+CUST-11311,Emma,Ortiz,7504 Hill St,Atlanta,GA,30304,$1067.81
+CUST-10371,Christopher,Murphy,8172 Hill St,Sacramento,CA,94205,451944.05
+CUST-10017,Larry,Green,6483 Church St,Columbus,OH,43203,791.12
+CUST-11322,Emily,Kelly,9261 Grove Ave,Minneapolis,MN,55402,1378.64
+CUST-11536,michael,Williams  ,5850 School Rd,Washington,DC,20003,0
+CUST-11206,KAREN,Edwards,4281 Mill Rd,Boston,MA,02102,753.49
+CUST-10575,Elizabeth,Gonzalez,7813 Maple Dr,New York,NY,10002,N/A
+CUST-10663,Larry,Jones,# 400,Jacksonville,FL,32204,765.0
+CUST-11096,EMILY,Cruz,4685 Meadow Ln,Louisville,KY,40203,
+CUST-10692,Jennifer,,3309 Church St,Philadelphia,PA,19104,1442.35
+CUST-11746,Patricia,Johnson,1036 Park Ave P.O. Box 15,El Paso,TX,79902,1202.89
+CUST-11672,Patricia,SANCHEZ,2854 Park Ave,Fort Worth,TX,76103,407.63
+CUST-11163,Nancy,Nelson,Main St,Oklahoma City,OK,73104,1099.32
+CUST-10924,,Allen,4099 Mill Rd,Mesa,AZ,85205,289.29
+CUST-11729,Jennifer,Walker,PO Box 787,Austin,TX,,-178.01
+CUST-11631,Gregory,Reed,9260 Pine Rd,Tampa,FL,33605,957.27
+CUST-11440,Brian,,5050 Main St,Bakersfield,CA,93303,1061.43
+CUST-10491,Anna,Nelson,1285 Highland Ave,,,38101,953.37
+CUST-11134,Karen  ,Collins,7578 Sunrise Ave,Mesa,AZ,85203,1417.81
+CUST-11750,Jessica,Robinson,Fl 291,Columbus,OH,43085,430.04
+CUST-11111,GREGORY,Stewart,Maple Dr,Albuquerque,NM,87104,
+CUST-11062,Charles,Williams,8632 Oak Ave,Memphis,TN,38104,360.23
+CUST-10855,George,Morales,5009 Mill Rd,Milwaukee,WI,53203,-1097.19
+CUST-10636,John,Rodriguez,,Fort Worth,TX,76104,572.09
+CUST-10243,,Lopez,6106 Elm St,Las Vegas,NV,89101,1088.18
+CUST-11208,David,Jackson,,Raleigh,NC,27602,158.42
+CUST-10341,,White,6341 Woodland Rd,Fresno,CA,93704,584393.3
+CUST-10591,Rebecca,Campbell,7718 Ridge Rd,Mesa,AZ,85202,965.76
+CUST-11312,Larry,Taylor,,,,37202,705.85
+CUST-10453,Rebecca,evans,,San Jose,CA,95103,648.84
+CUST-11368,Nicholas,Ward,Maple Dr,San Francisco,CA,94105,71.57
+,Rebecca,Murphy,3432 Woodland Rd,Nashville,TN,37202,1071.18
+CUST-10444,Joseph,Jones,,Minneapolis,MN,55404,300.91
+CUST-11012,William,Morgan,8587 School Rd,Memphis,TN,38101,0
+CUST-10755,Steven  ,Stewart  ,3367 Mill Rd,,LA,70113,1174.37
+CUST-11305,Daniel,torres,Fl 355,Phoenix,AZ,85001,568.19
+CUST-11796,Rebecca,Ortiz,7061 Pine Rd,OR,Portland,97203,309.69
+CUST-11063,Steven,Perez,3289 Mill Rd,TX,Houston,77003,1311.24
+,Betty,Nelson,4097 Hill St,Fort Worth,TX,76103,$170.73
+CUST-10406,Shirley,Lewis,861 Cedar Ln,Cleveland,OH,44102,938.02
+CUST-10324,,Sanchez,687 Forest Dr,Chicago,IL,60602,1291.04
+CUST-10848,Anthony,Hall,8398 Elm St,Columbus,OH,43203,1117.89
+CUST-10116,Anna,Miller,1125 Ridge Rd,Washington,DC,20002,643.65
+CUST-11676,donna,Collins,6101 School Rd Rm 4,San Francisco,CA,94103,1283.6
+CUST-11722,Debra,COLLINS,122 Elm St,Seattle,WA,98102,1225.02
+CUST-10874,Eric,Scott,9481 Woodland Rd,Baltimore,MD,21203,-1238.02
+CUST-11032,Laura,Gomez,4661 Brook Ln,New York,NY,10001,922.92
+CUST-11396,,Perez,2204 Hill St,Fresno,,93703,$1476.99
+CUST-11286,Shirley,gomez,7413 Summit Dr,Tucson,AZ,85701,#REF!
+CUST-10228,Thomas,,1802 School Rd,Indianapolis,IN,,73.02
+CUST-11545,Nicholas,Murphy,No. 60,Aurora,CO,80010,976.67
+CUST-10183,ANNA,Carter,3091 Mill Rd,Albuquerque,NM,87103,465.36
+CUST-11286,Shirley,Gomez,7413 Summit Dr,Tucson,AZ,85701,$1146.36
+CUST-10081,Nicole,Rogers,9447 Lake Blvd,San Diego,CA,92104,269.97
+CUST-10631,Ronald,Rogers,4263 Pine Rd,Houston,TX,77003,812.54
+CUST-10252,Donna,,,Washington,DC,20001,
+CUST-11149,Pamela,Flores,5258 Lake Blvd,,,44102,99.64
+CUST-11438,Linda,Morales,1851 Forest Dr,Mesa,AZ,85203,493406.01
+CUST-10065,Samantha,King,4115 Oak Ave,Sacramento,CA,94205,$572.31
+CUST-10478,John,Cook,2938 Cedar Ln,New Orleans,LA,70115,1200.36
+CUST-10432,Angela,Edwards,2162 Highland Ave,,TX,77004,349.72
+CUST-10215,Benjamin,,,Tucson,AZ,85701,$531.55
+,Amy,Parker  ,,Jacksonville,FL,32201,979137.36
+CUST-11665,joshua,Ward,5385 Pine Rd,Nashville,TN,37204,1142.42
+CUST-11664,Cynthia,Kim,9477 Spring St,New Orleans,LA,70114,1288.79
+CUST-10394,Linda,Moore,9190 Forest Dr,Kansas City,MO,64102,0
+CUST-11466,Jacob,Moore  ,3477 Mill Rd,Oklahoma City,OK,73104,912.72
+CUST-11645,Richard,Edwards,1402 Oak Ave,Colorado Springs,CO,80901,669.88
+CUST-11103,Joseph  ,Edwards,Highland Ave,Cleveland,OH,44103,633.86
+,,KIM,7776 Spring St,Milwaukee,WI,53202,960.2
+CUST-10083,Jonathan  ,Sanchez,,Boston,MA,2104,-1070.01
+CUST-11161,Ryan,Flores  ,7710 Park Ave,,FL,,21.41
+CUST-11369,Richard,,,New York,NY,10005,-177.47
+CUST-11530,Kevin,Cruz,3600 Spring St,Charlotte,NC,28205,822.56
+CUST-11011,Nancy,Williams,3913 Forest Dr,Miami,FL,33103,308.44
+CUST-10038,Christine,Morales,2168 Grove Ave,Columbus,OH,43204,549.41
+CUST-10210,Shirley,,No. 592,Seattle,WA,98102,36.22
+CUST-11619,Ashley,Adams,,El Paso,TX,79902,448.05
+CUST-10315,Scott,Morgan,9422 Park Ave,Los Angeles,CA,90005,1178.87
+CUST-11722,Debra,Collins,Elm St,Seattle,WA,98102,978.28
+CUST-11433,Pamela,Cook,,,CA,92105,470.49
+CUST-10484,Samantha,Johnson,1355 Summit Dr,New Orleans,LA,,463.89
+CUST-11210,Pamela,Hall,1901 Oak Ave,Houston,TX,77003,-1366.57
+CUST-11299,Katherine,Morris,,Baltimore,MD,21205,$729.53
+CUST-10374,Andrew,Murphy,4682 Woodland Rd,,NC,27604,1016.07
+CUST-10672,Susan,,6152 Pine Rd,El Paso,TX,79902,$383.02
+CUST-10569,larry,Morales,Unit 523,El Paso,TX,,1276.87
+,,Morgan,River Rd,Aurora,CO,80011,
+CUST-10858,Raymond,Parker,2201 School Rd,,WA,98103,0
+CUST-10520,Jonathan,Cook,8908 Oak Ave,New Orleans,LA,70115,574.69
+CUST-10215,Benjamin,Robinson,9199 Forest Dr,AZ,Tucson,85701,222.4
+,Joseph,Gonzalez,4676 Elm St,Mesa,AZ,85202,0
+CUST-11646,Robert,Carter,2090 Oak Ave,Oklahoma City,OK,73101,1252.67
+CUST-11512,benjamin,,294 Main St,Las Vegas,NV,89105,$960.24
+CUST-10736,Edward,Ortiz,886 Elm St,Nashville,TN,37204,1354.02
+CUST-10697,Emma,Howard,9220 Ridge Rd,San Antonio,,78201,$242.9
+CUST-11605,,Rogers,1886 River Rd,,CA,94205,1324.6
+CUST-10184,Donald,Kelly,6731 Oak Ave,Memphis,TN,38101,-385.01
+,Jeffrey,Miller,8999 Elm St,Columbus,,43202,366.27
+CUST-10652,,Jackson  ,,Omaha,NE,68102,793.02
+CUST-10170,Stephanie,Rogers,,New York,NY,10005,900.14
+CUST-10661,Christine,Ramos,,Jacksonville,FL,32203,-900.09
+CUST-10812,anna,Jones,1680 Brook Ln,Washington,DC,20004,0
+CUST-10934,Sandra,Sanchez,,San Francisco,CA,94105,unknown
+CUST-11142,Daniel,Anderson,,Boston,MA,02101,#REF!
+CUST-10840,Benjamin,Thomas,Rm 882,Mesa,AZ,85201,316.59
+CUST-10503,Scott,Kim,203 Hill St,Oklahoma City,OK,73104,859.72
+CUST-11111,Gregory,Stewart,,Albuquerque,NM,87104,455.91
+CUST-11569,Andrew,Kelly,6188 Highland Ave,Tampa,FL,33602,-331.86
+CUST-11641,Joshua,Flores,,Phoenix,AZ,85001,469.86
+CUST-10875,Larry,,5986 Spring St,Memphis,TN,38103,650.9
+CUST-11667,Samantha,Lewis,Brook Ln,New Orleans,LA,70113,521.9
+CUST-10470,Debra,Baker,8038 Meadow Ln,Indianapolis,IN,46204,272.83
+CUST-10914,Daniel,Murphy,3305 School Rd,Milwaukee,WI,53201,-618.86
+CUST-10948,Charles,Martin,Sunrise Ave,Tucson,AZ,85701,$24.97
+CUST-11597,Gary,Williams,2958 Sunrise Ave,El Paso,TX,79904,98752.81
+CUST-10338,Larry,Jones,7372 Valley Rd,Raleigh,NC,27602,
+CUST-11678,CHARLES,Taylor,8726 Sunset Blvd,Fort Worth,TX,76102,52.81
+CUST-11604,Michael,Sanchez,9602 Park Ave,San Francisco,CA,94105,
+,Mark,Martinez,7937 Oak Ave,Tucson,AZ,85705,622.15
+CUST-10331,Emily,Adams,5373 School Rd,San Antonio,TX,78201,
+CUST-11126,Brandon,Robinson,3172 Main St,Bakersfield,CA,93303,947.0
+,Brandon,Perez,3491 Church St,Milwaukee,WI,53203,1268.13
+CUST-10836,Debra,Martin,,CA,Los Angeles,90004,1114.24
+CUST-10337,william,Walker,5934 Sunset Blvd Fl 95,Virginia Beach,VA,23452,725.23
+CUST-11413,Andrew,King,9397 Sunset Blvd,Houston,TX,77003,508.44
+CUST-10838,Barbara,Kelly,6679 Sunset Blvd,NC,,28203,1004.61
+CUST-11427,,Reyes,7146 Sunrise Ave,Fresno,CA,93704,-1389.1
+CUST-10865,Anna,Stewart,5994 Sunset Blvd,,VA,23451,44.28
+CUST-10393,anthony,Evans,7727 Grove Ave,Sacramento,CA,95814,1278.4
+CUST-11794,Paul,,5048 Main St # 5,Baltimore,MD,,0
+CUST-11777,Kenneth,Kim,9058 Grove Ave,Mesa,AZ,85202,443.83
+CUST-10690,Pamela,Gutierrez,2416 Cedar Ln,Omaha,NE,68105,963.82
+CUST-11546,Brian,Nelson,3308 Meadow Ln,Dallas,TX,75201,$708.13
+CUST-11226,Barbara,Scott,6367 Forest Dr,,TX,77004,7.93
+CUST-10997,Michael,Ramirez,7114 Forest Dr,San Diego,CA,92102,1143.92
+CUST-11746,Patricia,Johnson,1036 Park Ave,El Paso,TX,79902,560.21
+CUST-11473,CYNTHIA,Taylor,8691 Sunrise Ave,Philadelphia,PA,19103,153.09
+CUST-11072,Kimberly,DAVIS,6344 Main St,Cleveland,OH,44103,1084.39
+CUST-11246,Benjamin,,3818 Maple Dr,San Jose,CA,95105,366454.61
+CUST-10689,Jacob,Hill,569 Highland Ave Fl 4,Philadelphia,PA,19104,1376.27
+CUST-11586,Jacob,Cox,8271 Church St,Dallas,TX,,1176.71
+CUST-10135,Gary,,4821 Park Ave,Los Angeles,CA,90001,713.48
+CUST-10031,Jonathan,Taylor,9008 Pine Rd Unit 88,Dallas,TX,75204,705.95
+CUST-11672,Patricia,Sanchez  ,2854 Park Ave,Fort Worth,TX,76103,405.87
+CUST-10608,Mary,Young,5964 Sunset Blvd,Chicago,IL,,928.81
+CUST-10680,,Gonzalez,2799 Church St,Los Angeles,CA,,52.23
+CUST-10052,Angela,Hernandez,9750 Maple Dr,,FL,,1376.47
+CUST-10168,Timothy,Murphy,9013 Oak Ave,Denver,CO,80204,1030.59
+CUST-11656,Helen,Cruz,2256 Oak Ave,Jacksonville,FL,32201,$792.23
+CUST-11311,Emma,Ortiz,,Atlanta,GA,30304,
+CUST-10753,Gregory,Wilson,791 Mill Rd,Virginia Beach,VA,23450,1317.21
+CUST-10012,brian,Lee,3433 School Rd,,MA,02103,1419.1
+CUST-10265,JENNIFER,Parker  ,Forest Dr,Los Angeles,CA,90004,93.59
+CUST-11380,Susan,Gomez,1393 Cedar Ln,Milwaukee,WI,,553.85
+CUST-11575,Amy,Diaz,,Milwaukee,WI,,
+CUST-11319,ANNA,Lee,1991 Main St,Mesa,,85203,$731.12
+CUST-10083,jonathan,Sanchez,1147 School Rd Unit 15,,MA,02104,604.15
+,George,mitchell,Ridge Rd,,TN,37202,
+CUST-11230,Brandon,Wilson,,Milwaukee,WI,53203,$206.94
+CUST-11380,Susan,Gomez,1393 Cedar Ln,Milwaukee,WI,53205,1206.18
+CUST-10772,Linda,Lee,9679 Summit Dr,San Antonio,,78204,0
+CUST-11250,Lisa,Ramos,,AZ,Phoenix,85001,1059.75
+CUST-10717,Thomas,Thompson,3667 River Rd,Raleigh,NC,27601,359.45
+CUST-11168,Emma,Evans,3993 Woodland Rd,San Francisco,CA,94105,899.9
+CUST-11159,Joshua,Sanchez,1287 Ridge Rd,Bakersfield,,,1311.35
+CUST-10119,,,4199 Ridge Rd,Columbus,OH,43203,1356.65
+CUST-11574,,Bailey  ,4321 Spring St,Kansas City,MO,64104,
+CUST-11214,Edward,GREEN,,Kansas City,MO,64101,
+CUST-11721,Nicole,KELLY,Rm 416,Nashville,TN,37205,
+CUST-10223,Raymond,Rivera,Suite 18,Houston,TX,77004,$1198.97
+CUST-11753,Helen,MITCHELL,3581 Sunrise Ave,Chicago,IL,60601,865.67
+CUST-11213,Charles,Ortiz,4732 Meadow Ln,Las Vegas,NV,89101,1255.04
+CUST-10491,Anna,Nelson,1285 Highland Ave,Memphis,TN,38101,822.66
+,Nicholas,Ward,9343 Maple Dr,San Francisco,CA,94105,732389.35
+CUST-11613,Lisa,Smith,4478 Brook Ln,Houston,TX,77004,1472.78
+CUST-10120,Melissa,Perez,,Raleigh,NC,,603.86
+CUST-11321,James,Cooper,4843 Summit Dr,Sacramento,CA,94204,0
+CUST-11391,Barbara,Gutierrez,3309 Hill St,Fresno,CA,93703,495.57
+,Lisa,Carter,,New York,NY,10004,1316.27
+CUST-10259,Kevin,Parker,9718 Summit Dr,,CA,92103,
+CUST-10545,Jonathan,Thompson,8023 Hill St,Atlanta,GA,30302,742.3
+,Kathleen,Nelson,209 School Rd,San Francisco,CA,94101,1361.29
+CUST-10984,Laura,WRIGHT,8061 Lake Blvd,New Orleans,LA,70116,158.35
+CUST-11753,Helen,Mitchell,,Chicago,IL,60601,
+CUST-10966,Michael,Brown,1364 Cedar Ln,Louisville,KY,,0
+CUST-10413,Kenneth,Reed,5490 Hill St,Raleigh,NC,27601,1447.05
+CUST-11329,George,Cox,919 School Rd,Raleigh,NC,27605,1107.56
+CUST-11525,Angela,Ramos,7994 Park Ave,Aurora,CO,80014,-787.93
+CUST-11059,Carol,Anderson,7720 Main St,Nashville,TN,37204,726.84
+CUST-11621,,Smith,6770 Woodland Rd,,NY,,821.02
+CUST-11610,David,Cook,6117 Woodland Rd,Columbus,OH,43201,941.35
+CUST-11494,John,Clark,6593 Hill St,Austin,TX,78702,-505.99
+CUST-10068,Jason,Bailey,1233 Mill Rd,New York,NY,10001,417.97
+CUST-10847,Scott,Gomez,Hill St,Mesa,AZ,85205,432.32
+CUST-10225,,Nelson,9251 Lake Blvd,San Francisco,CA,94102,1331.05
+CUST-11277,Amanda,wright,2085 Oak Ave,Fort Worth,TX,76103,
+CUST-10690,,Gutierrez,2416 Cedar Ln,NE,Omaha,68105,354.95
+CUST-10036,James,Martinez,3751 Maple Dr,Bakersfield,CA,93301,1293.61
+CUST-11525,Angela,Ramos,7994 Park Ave,Aurora,CO,80014,71.22
+CUST-11734,benjamin,Reyes,6543 Lake Blvd,Memphis,TN,38102,93.18
+CUST-10602,Dorothy,Perez,Grove Ave,Boston,MA,02102,TBD
+CUST-10124,Larry,GARCIA,7019 School Rd,Washington,DC,20005,83.98
+CUST-10905,Kathleen,Thompson  ,,Boston,MA,02105,185.69
+CUST-11077,Thomas,Clark,9520 Woodland Rd,Virginia Beach,VA,23451,1473.28
+CUST-10597,Jonathan,ADAMS,1084 Hill St,Louisville,KY,40205,
+CUST-10333,Jeffrey,Hall,5777 Brook Ln,Milwaukee,,53201,1060.81
+CUST-11350,Barbara,Rogers,1549 Brook Ln,Fort Worth,TX,76102,241.98
+CUST-10982,Katherine,Morgan,3081 Maple Dr PO Box 40,Seattle,WA,98104,1189.5
+CUST-10157,Emma,Sanchez,P.O. Box 899,Las Vegas,NV,89101,
+CUST-10434,Benjamin,Flores,6488 River Rd Suite 21,Aurora,CO,80010,1328.68
+CUST-10569,Larry,Morales,753 Cedar Ln,,,79901,
+CUST-10140,Nancy,Harris,Fl 349,Columbus,OH,43203,681.34
+CUST-10116,Anna,,,,,20002,404.92
+CUST-11262,Nancy,Murphy,4935 Valley Rd,Miami,,33101,1255.09
+CUST-10777,Larry,Lewis,8505 Highland Ave,Minneapolis,MN,55403,-179.94
+CUST-11502,Frank,Ortiz,,,PA,,1339.79
+CUST-11194,Kathleen,Hernandez,4579 Meadow Ln,San Jose,CA,95105,VOID
+CUST-11568,Frank,Morgan,5740 Hill St,NC,Raleigh,27602,458341.99
+CUST-10510,JAMES,Gomez,6225 Forest Dr,El Paso,TX,79905,
+CUST-11284,Mark,Ramos,84 Sunrise Ave,San Jose,,95105,1331.93
+CUST-10277,Frank,Hill,921 Valley Rd,,WA,98105,932.33
+CUST-10876,KATHERINE,Martinez,6166 Park Ave,Kansas City,MO,,537.98
+CUST-10987,Jeffrey,johnson,2469 Main St,Charlotte,NC,28201,251.13
+CUST-11082,Jeffrey,,1750 Elm St,San Jose,CA,95102,493.46
+CUST-10647,,Scott,8675 Valley Rd,TX,Houston,77004,747.7
+CUST-10843,Andrew,Cruz,505 Summit Dr,Memphis,TN,38103,616.53
+CUST-11075,Brandon,Robinson,9387 Elm St,Portland,OR,97202,1274.7
+CUST-10647,,Scott,8675 Valley Rd,Houston,TX,77004,1024.76
+CUST-10324,Emily,Sanchez,687 Forest Dr,Chicago,IL,60602,1047.03
+CUST-10210,Shirley,Cook,,,WA,98102,303.75
+CUST-11658,Katherine,Rivera,8867 Ridge Rd,TN,Nashville,37205,1488.38
+CUST-11262,Nancy,Murphy,4935 Valley Rd,Miami,FL,33101,-266.54
+CUST-11221,Matthew,Jones,1507 Oak Ave,,CA,90005,350.94
+CUST-11799,Nancy,Sanchez,3144 River Rd,Houston,TX,,1158.62
+CUST-10596,David,Flores,,Philadelphia,PA,19105,1160.94
+,Richard,Reyes,1990 Main St,,TX,78202,531.67
+CUST-10504,Timothy,Roberts,3978 Spring St,,PA,19105,146.95
+CUST-11657,Linda,Taylor,7141 Highland Ave,Nashville,TN,37205,-729.42
+CUST-11618,Debra,Baker,7418 River Rd,Cleveland,OH,44103,176.7
+CUST-10952,Steven,Stewart,7371 Grove Ave,,,44101,$1054.02
+CUST-11606,linda,GREEN,6670 Maple Dr,Albuquerque,NM,87105,
+CUST-11226,Barbara,,6367 Forest Dr,Houston,TX,,565.11
+CUST-11387,Jessica,Allen,3782 Church St,Fresno,CA,93703,1355.66
+CUST-11736,Sarah,Adams,,,MN,55404,-495.86
+CUST-11208,David,Jackson,8126 Ridge Rd,,NC,27602,1271.01
+CUST-11730,Christine,Rodriguez,8086 Sunrise Ave,New Orleans,LA,70113,unknown
+CUST-10949,Amy,MOORE,8749 Grove Ave,Cleveland,OH,44105,
+CUST-10091,Gregory,Richardson,3849 School Rd Unit 68,El Paso,TX,79901,1261.35
+CUST-11274,Mark,Martinez,7937 Oak Ave,Tucson,AZ,85705,599.79
+CUST-11660,Emily,Mitchell,9609 School Rd,New York,NY,10005,88.77
+CUST-10906,Steven,Flores  ,6523 Grove Ave Bldg 21,Omaha,NE,68103,249.81
+CUST-11420,Pamela,Murphy,4390 Church St,,OH,43203,0
+CUST-10437,Robert,Torres,2219 Ridge Rd,Portland,OR,97202,965812.28
+CUST-11629,James,Sanchez,River Rd,Cleveland,OH,44104,1322.85
+CUST-11496,Donna,Cox,1575 Valley Rd,Dallas,TX,75203,124.42
+CUST-10951,Michael,Gomez,Lake Blvd,,TX,78202,679.2
+CUST-10123,Frank,Young,9838 Cedar Ln,San Antonio,TX,78203,467.88
+CUST-10136,Stephanie,Young,,Nashville,TN,37205,$77.96
+,Charles,ORTIZ,4732 Meadow Ln,,NV,89101,1099.92
+CUST-11146,Robert,Collins,1898 Main St,Memphis,TN,38104,$1154.05
+CUST-11091,Jason,Phillips,,Chicago,IL,60605,N/A
+CUST-10578,Barbara,Robinson,1679 Cedar Ln,Memphis,TN,37501,1449.27
+CUST-11015,William,,513 Lake Blvd,Dallas,TX,75202,1037.24
+CUST-11337,Paul,Turner,7572 Mill Rd,Jacksonville,FL,32204,489.53
+CUST-11252,Carol,phillips,Woodland Rd,Oklahoma City,OK,,1292.53
+,Rebecca,collins,6975 Brook Ln,New Orleans,LA,70116,569.7
+CUST-10188,Ryan,Johnson,6718 Church St,Aurora,CO,80011,1186.94
+CUST-10633,Richard,,1990 Main St,,TX,78202,$960.52
+CUST-10533,Brenda,Diaz,6637 Church St,Albuquerque,NM,87102,618.8
+CUST-10654,Sandra,Cox,8626 Summit Dr,Charlotte,NC,28201,
+CUST-10448,Emily,Robinson,,Aurora,CO,80014,732.83
+,Daniel,Richardson,7502 Sunset Blvd,Aurora,CO,,$1460.07
+CUST-10648,Justin,Robinson,4061 School Rd,Austin,TX,73301,0
+CUST-10579,,Mitchell,,Nashville,TN,37202,1368.23
+CUST-10330,Jason  ,Hernandez,,,NV,89105,1391.52
+CUST-10008,Ryan,Morgan,1292 Woodland Rd,San Diego,CA,92104,663.46
+,Andrew,,5694 River Rd,Colorado Springs,CO,80903,0
+CUST-10233,Mark,Ward,4942 Meadow Ln,Chicago,IL,,1397.32
+CUST-10146,Nancy,Miller,Maple Dr,Indianapolis,IN,46204,
+CUST-10619,Shirley,Walker,,Portland,,97204,64.73
+CUST-11399,Christopher,Cook,Summit Dr,Houston,TX,77004,0
+CUST-11388,Sarah,Brown,1118 Summit Dr,San Antonio,TX,78201,943.83
+CUST-10757,Eric,Wright,2248 Sunrise Ave,Miami,FL,33125,1202.28
+CUST-10898,Jason,Moore,3810 Maple Dr,Indianapolis,IN,46204,1102.05
+CUST-10626,Justin,,2694 Meadow Ln,San Jose,CA,95101,1380.47
+CUST-10136,Stephanie,Young,6047 Summit Dr,Nashville,TN,37205,
+CUST-11256,Jeffrey,YOUNG,2186 Cedar Ln,Colorado Springs,CO,80901,1381.78
+CUST-10848,Anthony,Hall,8398 Elm St,Columbus,OH,,1400.64
+CUST-10185,George,Stewart,6326 School Rd,Bakersfield,CA,93304,0
+CUST-11345,Larry,Parker,1960 Valley Rd c/o 42,Indianapolis,IN,46204,1212.05
+CUST-11505,Michael,Peterson,8412 Cedar Ln,Phoenix,AZ,,198.03
+CUST-11036,Robert,,River Rd,Washington,,20002,$1126.87
+CUST-10177,Emily,Rogers  ,,Bakersfield,CA,93303,1182.99
+CUST-10101,Ashley,Scott,River Rd,Kansas City,,,117.9
+CUST-11787,,Campbell,2423 River Rd,OH,Cleveland,44101,1089.95
+CUST-11774,David,CAMPBELL,2749 Summit Dr,Louisville,KY,40204,1260.23
+CUST-10214,BENJAMIN,KING,6087 Cedar Ln,Colorado Springs,CO,80904,199.8
+CUST-11747,Richard,Perez,722 Sunrise Ave,CO,Aurora,,-492.69
+CUST-10280,Scott,,Woodland Rd,Memphis,TN,38103,15.99
+CUST-10064,Andrew,COX,3336 School Rd,Columbus,OH,43202,
+CUST-10460,Emma,Bailey,3423 Forest Dr,Columbus,OH,43203,412.47
+CUST-11400,Emma,carter,4661 Forest Dr,Miami,FL,33103,206228.45
+CUST-10835,Anthony  ,Morgan,1182 Grove Ave,New Orleans,,70115,636870.51
+CUST-10160,Jessica,REYES,6595 River Rd,New Orleans,,70114,1440.9
+CUST-11071,Debra,Rivera,3870 Highland Ave Suite 94,Washington,DC,20003,428.97
+CUST-11234,James,Rogers,7834 Sunrise Ave,Bakersfield,CA,93304,476.63
+CUST-10460,Emma,Bailey,3423 Forest Dr,Columbus,OH,43203,725.03
+,Susan,Hall,1883 Ridge Rd,Atlanta,GA,30303,1037.01
+,Nicholas,Cox,3258 Mill Rd,Los Angeles,CA,90005,989.43
+CUST-11721,Nicole,Kelly,3326 Highland Ave,Nashville,TN,37205,663.31
+CUST-10065,Samantha,King,4115 Oak Ave,Sacramento,CA,94205,49.42
+CUST-10438,Raymond,Turner,PO Box 923,Boston,MA,02104,561.82
+CUST-10911,Sharon,Lopez,,Phoenix,AZ,85003,718.74
+CUST-10726,sarah,Brown,4844 River Rd,Virginia Beach,VA,23453,$315.52
+CUST-10374,Andrew,Murphy,,Raleigh,NC,27604,153.5
+CUST-11219,,Rodriguez,1601 Highland Ave No. 46,New York,NY,10004,1445.39
+CUST-11726,Kenneth,Gomez,6801 Park Ave,Miami,,33102,930.54
+CUST-11680,Brandon,ramos,4820 Elm St,Fort Worth,TX,,VOID
+CUST-11328,Laura,Lopez,3186 Summit Dr,Sacramento,CA,94205,455.17
+CUST-10715,Pamela,Ramirez,River Rd,Charlotte,NC,28202,511.93
+CUST-11382,Lisa,Rodriguez,P.O. Box 71,Boston,,2102,911.6
+CUST-11547,Rebecca,Smith,5593 Hill St,San Francisco,CA,94104,$1073.01
+CUST-10869,Laura,,9271 School Rd,Jacksonville,FL,32204,791.18
+CUST-11119,Melissa,Carter,9019 Maple Dr,Phoenix,AZ,85004,467.45
+CUST-10215,Benjamin,Robinson,9199 Forest Dr,Tucson,,85701,0
+CUST-11123,Nicole,Torres,5186 River Rd PO Box 53,Las Vegas,NV,89105,664.85
+CUST-10183,,Carter,3091 Mill Rd,NM,Albuquerque,87103,894.72
+CUST-11153,Anthony,,5219 River Rd,Washington,DC,,1228.65
+CUST-10062,Stephen,Hill,,,MN,55401,0
+CUST-10851,,Reyes,1199 Hill St,Virginia Beach,VA,23454,692.75
+CUST-11369,Richard,Howard,3556 Mill Rd,New York,NY,10005,$512.59
+CUST-11350,Barbara,,Apt 796,Fort Worth,TX,76102,1154.09
+CUST-10587,ERIC,Cox,6419 Hill St Rm 98,Sacramento,CA,94203,
+CUST-10106,Linda,,,Portland,OR,97204,1468.6
+CUST-10081,Nicole,Rogers,9447 Lake Blvd,San Diego,CA,92104,554.4
+,Daniel,Cook,8318 Brook Ln,San Antonio,TX,78203,
+CUST-11433,Pamela,Cook,9510 Ridge Rd Apt 76,San Diego,CA,92105,1399.76
+CUST-11742,Jonathan,Ramirez,,Milwaukee,WI,53201,1250.12
+CUST-10887,Margaret,,7892 Pine Rd,Raleigh,NC,27604,347.75
+CUST-10517,Emily,Rodriguez,2281 Church St,Portland,OR,97204,$764.78
+CUST-11013,amy,Peterson,4639 Forest Dr,,CA,95105,344.81
+CUST-10443,Ashley,COLLINS,4517 Lake Blvd,Washington,DC,20002,VOID
+CUST-11186,Thomas,Moore,258 Elm St,,NY,10001,1163.51
+CUST-10592,Barbara,Williams,,Colorado Springs,CO,80901,651.11
+CUST-10860,donna,Morales,2880 Church St,Atlanta,GA,30301,1185.78
+CUST-11053,Pamela,,6940 Valley Rd,San Diego,CA,92104,1106.9
+CUST-10368,PAUL,Edwards,1587 Oak Ave,San Francisco,CA,94102,
+CUST-11018,Emma,Allen,3617 Brook Ln,Houston,TX,77003,896.08
+CUST-10911,Sharon,Lopez,3634 Valley Rd,Phoenix,AZ,85003,86.68
+CUST-10648,Justin,Robinson,4061 School Rd,Austin,TX,73301,
+CUST-11252,Carol,phillips,,Oklahoma City,OK,73101,
+CUST-11469,Jacob,Rivera,746 Main St,Raleigh,NC,27605,205695.93
+CUST-11355,Karen,Cook,9154 Brook Ln,Charlotte,NC,28202,415.7
+CUST-10036,JAMES,Martinez,,Bakersfield,CA,93301,668.5
+CUST-11420,,Murphy,4390 Church St PO Box 93,,OH,43203,661.65
+CUST-11787,Robert,Campbell,,Cleveland,OH,44101,1158.65
+CUST-10096,Jason,,7612 Oak Ave Unit 88,,,32204,273.16
+CUST-10764,Angela,Martinez,4193 Church St,Aurora,CO,80010,177.62
+CUST-10349,Stephen,Taylor,,Miami,FL,33101,1336.02
+CUST-10713,Stephen,Hall,,,DC,20002,#REF!
+CUST-10938,Ronald,Lewis,888 Highland Ave Fl 48,Omaha,,68102,$518.52
+CUST-11494,John,CLARK,6593 Hill St,Austin,TX,78702,$1374.3
+CUST-10799,,Morris,9480 Pine Rd,Sacramento,CA,94203,369.51
+CUST-10880,Nancy,,1939 School Rd,Boston,MA,02105,0
+CUST-10962,Ronald,Wright,9617 Highland Ave,Milwaukee,WI,,900.97
+CUST-11739,Richard,Thompson,8760 Grove Ave PO Box 48,Denver,,,$636.73
+CUST-11255,Rebecca,Perez,9068 Pine Rd,,LA,70114,127.75
+CUST-11576,,Cook,7500 Elm St,Dallas,TX,75204,14972.94
+CUST-11081,Charles,Brown  ,6738 Hill St,Oklahoma City,OK,73104,$956.11
+CUST-11035,Angela,,2535 Cedar Ln,Omaha,NE,68105,862.54
+CUST-11616,Kenneth,Lopez,2289 Grove Ave,Louisville,KY,40201,627.05
+CUST-10078,Angela,,5426 Main St,Tampa,FL,33605,-351.61
+CUST-10419,stephanie,Gonzalez,7823 Forest Dr,Jacksonville,FL,32201,VOID
+CUST-11485,,WHITE,4034 Ridge Rd,Portland,OR,97201,1038.86
+CUST-10927,,Anderson,6270 Church St,Indianapolis,IN,46201,-1439.84
+CUST-10735,Barbara,,1964 School Rd,Fort Worth,TX,,-127.55
+CUST-10343,andrew,Morales,Maple Dr,Fort Worth,TX,,-183.04
+CUST-11038,Elizabeth,Kelly,3563 Grove Ave,KY,Louisville,40205,$1301.66
+CUST-11526,,Ortiz,9444 Forest Dr,Los Angeles,CA,90004,1308.61
+CUST-10115,Rebecca,Allen,318 Grove Ave,Philadelphia,PA,19104,0
+CUST-11609,Brenda,Taylor,,Nashville,TN,37205,1164.59
+CUST-11414,Mark,Richardson,9474 Cedar Ln,Baltimore,,21201,
+CUST-10048,,Diaz,Elm St,New Orleans,,70116,
+,Anna,Carter,3091 Mill Rd,,NM,87103,47.03
+CUST-10038,Christine,Morales,Grove Ave,Columbus,OH,43204,314.82
+CUST-11733,Nicholas,Garcia,1200 Church St,Albuquerque,,87101,729.21
+CUST-11739,,Thompson,8760 Grove Ave,Denver,CO,80201,612.92
+CUST-10138,Amanda,Collins,4119 Park Ave,Seattle,WA,98103,1443.24
+CUST-10744,John,Smith,3708 Mill Rd,Cleveland,OH,,
+CUST-10017,,Green,6483 Church St Rm 43,,OH,43203,830.45
+CUST-10773,Larry,Cruz,6222 Ridge Rd,Jacksonville,FL,32204,986.05
+CUST-10191,Frank,MORALES,Park Ave,Mesa,AZ,85201,512.95
+,Nicholas,Cooper,619 School Rd,Baltimore,MD,21205,
+CUST-10843,Andrew,Cruz,505 Summit Dr,Memphis,TN,38103,524567.65
+CUST-11344,William,,9521 Summit Dr c/o 72,Baltimore,MD,21203,1379.6
+,Margaret,,4574 Main St,Tucson,AZ,85704,175.33
+CUST-11494,John,Clark,,Austin,TX,78702,954.8
+CUST-10060,Ashley,Mitchell,7180 Woodland Rd,Denver,CO,80202,
+CUST-10388,Frank,Brown,4351 Church St,Raleigh,NC,27604,159.07
+CUST-11319,Anna,Lee,1991 Main St,Mesa,AZ,85203,285.47
+CUST-11120,Emily,Stewart,4497 Forest Dr,Dallas,TX,75201,155.68
+CUST-10238,shirley,Nguyen,Sunrise Ave,Albuquerque,NM,87105,671.32
+CUST-10478,John,Cook,2938 Cedar Ln,New Orleans,LA,70115,460.87
+CUST-10629,Elizabeth,Lee,Oak Ave,Tampa,FL,33603,-719.41
+CUST-11477,Lisa,Green,2479 Woodland Rd,Baltimore,MD,21204,991.0
+CUST-11177,,Roberts,No. 540,Miami,FL,33125,932.05
+CUST-11110,James,,3554 Spring St,Fresno,CA,93701,686.17
+CUST-11400,Emma,Carter,4661 Forest Dr,Miami,FL,33103,517.16
+CUST-11779,Andrew,Carter,,Atlanta,GA,30305,1422.82
+CUST-11795,Lisa,Morales,1145 Ridge Rd,New York,NY,10001,290.18
+CUST-11666,Susan,Collins,3595 Main St,IL,Chicago,60604,1322.17
+CUST-11380,,,1393 Cedar Ln,Milwaukee,WI,53205,635.57
+CUST-10362,Frank,Cooper,7913 Park Ave Fl 99,,Denver,80203,241.34
+CUST-10096,Jason,Lewis,7612 Oak Ave,Jacksonville,FL,32204,1145.9
+,Betty,,2799 Church St,Los Angeles,CA,90002,119.61
+CUST-11342,Katherine,Torres,8060 Mill Rd Unit 2,Portland,OR,97202,216.65
+CUST-10033,Betty,Flores,7178 Highland Ave,KY,Louisville,40203,164.69
+CUST-10939,Jason  ,Morris,8233 Valley Rd,Mesa,AZ,85201,$228.06
+CUST-11775,Jeffrey,diaz,7102 Ridge Rd,Sacramento,CA,95814,1003.77
+CUST-10224,Jessica,collins,9784 Main St,Philadelphia,PA,19102,633.7
+CUST-11632,William,Ramos,,Dallas,TX,75201,1120.91
+CUST-10936,Anna,Garcia,Summit Dr,Tucson,AZ,85703,1138.57
+CUST-11292,Barbara,Roberts,8699 Oak Ave Unit 41,New Orleans,LA,70114,$917.14
+CUST-10489,EMMA,Jackson,,Bakersfield,CA,,pending
+CUST-11048,Jacob,Kelly,8981 Sunset Blvd,,MD,21201,641.72
+CUST-11581,Melissa,Hill,459 Elm St,Denver,CO,80204,1259.82
+,Mary,Baker,2166 Summit Dr,CA,San Diego,92104,189.06
+CUST-11154,Charles,Torres,2807 Maple Dr,Omaha,NE,68102,406556.46
+CUST-10603,Jessica,Brown,4457 Highland Ave,TX,El Paso,79904,1015.38
+CUST-11469,Jacob,Rivera,Main St,Raleigh,NC,27605,$1102.51
+CUST-10258,jeffrey,Turner  ,8395 Cedar Ln,Seattle,WA,98102,45.01
+CUST-10239,Richard,Anderson,3523 Sunrise Ave,Virginia Beach,VA,23454,1429.97
+CUST-11122,Linda,Wilson,1437 Summit Dr,Omaha,NE,68105,1433.03
+CUST-11543,,Cook,1935 Lake Blvd,,TX,78202,1039.23
+CUST-11396,Kenneth,Perez,2204 Hill St,Fresno,CA,93703,952.79
+CUST-11555,Frank,Gutierrez,6587 School Rd,Denver,CO,80204,85.2
+CUST-10114,Ryan,Adams,4559 Ridge Rd,El Paso,TX,79904,253.39
+CUST-10799,Justin,Morris,9480 Pine Rd,Sacramento,CA,,unknown
+CUST-10388,Frank,Brown,4351 Church St,Raleigh,NC,27604,719.05
+CUST-10018,Ryan,Jackson,4041 Grove Ave,Indianapolis,IN,46202,1384.44
+CUST-10095,Ashley  ,Jackson,1747 Ridge Rd,Virginia Beach,VA,23450,1036.34
+CUST-11422,Betty,Campbell,3939 Elm St,Albuquerque,NM,,$64.84
+CUST-10393,Anthony,,7727 Grove Ave,Sacramento,CA,95814,1230.02
+CUST-10808,Christine,Turner,4685 Sunrise Ave,Tampa,FL,33605,426.97
+CUST-11536,Michael,Williams,5850 School Rd,Washington,DC,20003,102.96
+CUST-11648,Susan,Davis  ,Sunset Blvd,Atlanta,,30301,616.92
+,Ashley,Stewart,7462 Sunrise Ave,Miami,FL,33101,849.43
+CUST-10126,Gary,Wilson,7533 Mill Rd,Las Vegas,NV,89103,166.27
+,James  ,,6951 Cedar Ln P.O. Box 65,Columbus,OH,43201,503.89
+CUST-11564,Jason,Cook,6111 River Rd PO Box 91,San Diego,CA,92101,1443.61
+CUST-11406,John,Morgan,,Oklahoma City,OK,73101,508.69
+CUST-10696,,Anderson,2429 Spring St,Portland,OR,97202,1251.92
+CUST-10243,David,Lopez,# 415,,NV,89101,1219.47
+CUST-10499,Brian,Wilson,5051 Meadow Ln,Philadelphia,,,1364.66
+CUST-10158,Raymond,Martin,1170 Oak Ave,Seattle,WA,,
+CUST-10807,Joseph,Rivera,9549 Spring St,Atlanta,,30304,1230.98
+CUST-10976,Sarah,Hall,8768 Main St,Denver,CO,80204,1485.19
+CUST-11514,stephanie,Cox,4962 Brook Ln P.O. Box 75,CO,Aurora,80013,1247.09
+CUST-10534,Nancy,White,6482 Main St,Cleveland,OH,44104,451.52
+CUST-10689,Jacob,Hill,569 Highland Ave,Philadelphia,PA,19104,601.99
+CUST-11537,,Thompson,1044 Forest Dr,Sacramento,CA,94201,297215.72
+CUST-11023,Richard,Robinson,Lake Blvd,Mesa,AZ,85204,328.85
+CUST-11233,Deborah,Wright,6412 Spring St,San Jose,CA,95103,1170.27
+CUST-11365,Christine,Johnson,,San Antonio,TX,78201,13.4
+CUST-11332,Laura,Bailey,7279 Grove Ave c/o 61,Philadelphia,PA,19102,541.24
+CUST-10914,Daniel,Murphy,3305 School Rd,,WI,,1464.0
+CUST-10484,,Johnson,1355 Summit Dr,New Orleans,,70113,$949.81
+CUST-11363,betty,Wilson,9719 Oak Ave Ste 39,Chicago,IL,60605,#REF!
+CUST-11462,Thomas,Parker,3532 Hill St,Columbus,OH,43204,1067.98
+CUST-10422,Dorothy,Campbell,1018 School Rd,New Orleans,LA,70113,$273.06
+CUST-10227,Joshua,Jackson,4543 Elm St,Raleigh,NC,27601,
+CUST-10370,Michelle,Kelly,# 473,Aurora,CO,80012,1490.49
+CUST-11256,,Young,# 76,Colorado Springs,CO,80901,22.54
+CUST-10971,Paul,Peterson,8836 Pine Rd,Milwaukee,WI,53202,954.94
+CUST-10908,Christopher,Gonzalez,6563 Forest Dr,Columbus,OH,43204,
+CUST-10745,Kevin,Flores,6285 Highland Ave,Dallas,TX,75201,$1108.23
+CUST-11241,Amanda  ,Morales,3105 Elm St,Philadelphia,PA,19104,-1297.99
+CUST-10081,Nicole,rogers,9447 Lake Blvd,San Diego,CA,,1379.81
+CUST-11334,REBECCA,Moore,,Colorado Springs,CO,80905,1005.49
+CUST-10399,Andrew,Clark,5195 Summit Dr,New Orleans,LA,70115,
+CUST-11371,Richard,Ramirez,,Sacramento,CA,94205,-400.65
+CUST-10774,Amanda,Ward,,Los Angeles,CA,90002,-1242.95
+CUST-11701,Stephanie,Phillips,7734 Church St,Colorado Springs,CO,80901,457.88
+CUST-11099,Nicholas,Anderson,8953 Elm St,Jacksonville,FL,32204,286.86
+CUST-11323,Jeffrey,baker,7848 Oak Ave Suite 51,New Orleans,LA,70112,1101.83
+,Betty  ,Gutierrez,2451 Brook Ln,Sacramento,CA,94205,964.52
+CUST-10826,Mark,Ramirez,5425 Valley Rd,Minneapolis,MN,55403,956.97
+CUST-10076,Donna,Robinson,3165 Sunset Blvd,NC,Charlotte,28201,1008.11
+CUST-11456,Brenda,Ward  ,1458 Meadow Ln,Cleveland,,,534.99
+CUST-10617,PATRICIA,Robinson,158 Forest Dr,Mesa,AZ,85203,unknown
+CUST-10833,Angela,,8815 Woodland Rd,,TX,78202,
+CUST-10362,,Cooper,,Denver,CO,,1061.78
+CUST-10977,Gary,Morris,7053 Hill St,Nashville,TN,37201,-157.95
+CUST-10922,James,King,8295 Cedar Ln,Jacksonville,FL,32203,VOID
+CUST-11518,,parker,Maple Dr,Cleveland,OH,44105,$1076.78
+CUST-10641,Helen,Ward,8174 Sunrise Ave,San Francisco,CA,94103,$857.9
+CUST-11242,Robert,Harris,3908 Summit Dr,Los Angeles,CA,90005,1405.77
+CUST-11115,Pamela,,1437 Oak Ave,,TN,37203,744.26
+CUST-10325,Donna,Rogers,7757 River Rd,Louisville,KY,40205,333.33
+CUST-10322,Amanda,cooper,7613 Mill Rd,El Paso,TX,79902,TBD
+CUST-11049,Dorothy,Hernandez,7119 Ridge Rd,Louisville,KY,40205,-974.51
+CUST-11319,Anna,Lee,1991 Main St,Mesa,AZ,85203,852.82
+CUST-11443,Donald,Cruz,River Rd,Memphis,TN,37501,0
+CUST-10949,Amy,Moore,8749 Grove Ave,Cleveland,OH,,209.48
+,Helen,Gonzalez,7896 Valley Rd,Las Vegas,NV,89102,-457.11
+CUST-11349,Amanda,Miller,8678 Church St,Denver,CO,,$1077.16
+CUST-11037,Brian,Howard,4199 Hill St,San Francisco,CA,94102,$643.56
+CUST-11223,Nicole,Taylor,Fl 284,Memphis,TN,38104,948.18
+CUST-10750,Mark,TAYLOR,9662 Highland Ave,,OH,43085,707.75
+CUST-10715,Pamela,Ramirez,,Charlotte,NC,28202,$290.23
+CUST-11770,emma,Peterson,8314 Maple Dr,Columbus,OH,43201,228.77
+CUST-10177,Emily,Rogers,6808 Summit Dr,Bakersfield,CA,93303,290.71
+CUST-11548,Nicholas,Perez,6102 Mill Rd,Philadelphia,PA,19103,
+CUST-10155,,Jones,4633 Mill Rd,Charlotte,NC,28203,
+CUST-10002,Jason,,3583 Park Ave,,CA,90001,1106.51
+CUST-11779,Andrew,Carter,7879 Maple Dr,Atlanta,,30305,345.07
+CUST-10854,Katherine,Walker,1144 Lake Blvd,San Antonio,,78203,1151.51
+CUST-10041,Timothy,Reyes,1613 Oak Ave,Aurora,CO,80010,406.45
+CUST-10089,Michelle,reyes,3502 Highland Ave,Milwaukee,WI,53204,-1485.6
+CUST-10763,Elizabeth,Anderson,2444 Maple Dr,Omaha,NE,,396.53
+CUST-11775,Jeffrey,,7102 Ridge Rd,,CA,95814,605.67
+CUST-10855,GEORGE,Morales,5009 Mill Rd,Milwaukee,WI,53203,928.04
+CUST-11123,Nicole,torres,5186 River Rd c/o 44,Las Vegas,NV,,TBD
+CUST-10271,Angela,Anderson,,Kansas City,MO,64105,458.09
+CUST-10720,Benjamin,Gutierrez,9577 Cedar Ln,Miami,FL,33104,$53.63
+CUST-11610,David,Cook,Woodland Rd,Columbus,OH,43201,#REF!
+CUST-10744,JOHN,Smith,3708 Mill Rd,Cleveland,OH,44102,315.24
+CUST-10133,Mary,,3955 Grove Ave,Fort Worth,TX,76101,
+CUST-10237,Helen,Howard,6241 Brook Ln,Atlanta,GA,30303,979016.37
+CUST-10473,Barbara,Miller,,New York,NY,10004,611798.31
+CUST-11191,James,Kelly,,Fresno,CA,93701,44.99
+CUST-10533,,diaz,6637 Church St,Albuquerque,NM,87102,803.48
+CUST-11634,John,Morgan,9177 Meadow Ln,Miami,,33103,160.73
+CUST-11688,Betty,Edwards,3582 Hill St,San Francisco,CA,94104,358.81
+CUST-10433,Rebecca  ,,9156 Meadow Ln # 97,Omaha,NE,68101,-914.62
+CUST-11221,Matthew,Jones,1507 Oak Ave,Los Angeles,CA,90005,0
+CUST-11642,Sharon,Brown,,,CO,80903,699.29
+CUST-11572,David,,2131 Summit Dr,Houston,TX,77004,723.61
+CUST-10743,BETTY,,8701 Lake Blvd,New York,NY,10003,1244.77
+CUST-10742,Jason,Morris,Rm 451,Memphis,TN,37501,$1024.25
+CUST-10990,Charles,Davis,1170 Woodland Rd No. 44,Seattle,WA,98104,$1027.08
+CUST-11066,Emily,Roberts,8332 Mill Rd,Charlotte,NC,28204,1325.38
+CUST-10619,SHIRLEY,Walker,982 Elm St,Portland,OR,97204,543.9
+CUST-11042,Sharon,Turner,9869 Main St,San Diego,,,
+,JOHN,Thomas,2945 Main St,Minneapolis,MN,55405,
+CUST-11418,betty,,8444 Meadow Ln,,,40203,192.07
+CUST-11697,Richard,THOMAS,628 Woodland Rd,Phoenix,AZ,85003,784.6
+,Christine,Hill,1189 Main St,Albuquerque,NM,87103,377.87
+CUST-11427,Donna,Reyes,7146 Sunrise Ave,Fresno,CA,93704,1200.56
+CUST-10854,Katherine,Walker,1144 Lake Blvd,,TX,78203,328.56
+CUST-11055,,Flores,7246 Brook Ln,TX,Austin,78701,754.83
+CUST-10354,Jessica,Gutierrez,2698 Pine Rd PO Box 91,San Jose,CA,95103,1328.77
+CUST-10042,STEPHANIE,Baker,3140 Lake Blvd,San Antonio,TX,78202,
+CUST-10138,Amanda,Collins,4119 Park Ave,Seattle,WA,98103,570.3
+CUST-11481,Amanda,Bailey,8078 Cedar Ln,Fresno,CA,93703,
+CUST-11702,Angela,Martin,3718 Grove Ave Ste 49,Louisville,KY,40202,911.11
+CUST-11748,ANGELA,Wilson,,Oklahoma City,OK,73103,1104.6
+CUST-10073,Daniel,Evans,5443 Sunrise Ave,Los Angeles,CA,90002,0
+,Carol  ,Kim,1080 Forest Dr,Houston,TX,77003,1069.12
+CUST-11416,Jacob,,1257 Church St # 56,Columbus,OH,43202,1100.14
+CUST-11642,Sharon,Brown,4103 Park Ave P.O. Box 40,Colorado Springs,CO,80903,
+CUST-10974,Sandra,,5993 Sunrise Ave,Milwaukee,WI,53203,544.83
+CUST-10214,,King,Bldg 225,Colorado Springs,CO,,
+CUST-11001,Amy,Lopez,5545 Ridge Rd,Tampa,FL,33605,unknown
+CUST-10886,Stephanie,Kim,4645 Maple Dr,Omaha,,68101,179.07
+CUST-10921,Mark,Cox,,Fort Worth,TX,76104,178.78
+CUST-10247,Pamela,Cook,7901 Park Ave,Columbus,OH,43201,183.69
+CUST-10536,James,Ramirez,1026 Spring St,Columbus,,43202,157268.79
+CUST-10890,,Baker,Apt 160,Albuquerque,,87105,374.58
+CUST-10455,Charles,Reyes,6762 Sunrise Ave,Houston,TX,77005,1153.66
+CUST-11144,Matthew,Baker,5085 Ridge Rd,Tucson,AZ,,401.91
+CUST-10515,,Reed,8940 Pine Rd,Fort Worth,TX,76105,1086.59
+CUST-10184,Donald,Kelly,6731 Oak Ave,Memphis,TN,38101,469.3
+CUST-11579,Timothy,Anderson,9368 Hill St,San Diego,CA,92103,1413.42
+CUST-10130,Cynthia,Reed,5512 Main St No. 11,Miami,FL,33104,1335.57
+CUST-10903,Dorothy,Morgan,5991 Brook Ln,Las Vegas,NV,89105,680.88
+CUST-10140,Nancy,Harris,Grove Ave,OH,Columbus,43203,
+CUST-11452,Katherine,,Meadow Ln,Raleigh,NC,27604,1034.79
+CUST-11559,Kevin,Phillips,1381 Oak Ave # 1,Fort Worth,TX,76103,190.57
+CUST-10140,Nancy,Harris,4531 Grove Ave,Columbus,OH,43203,310.23
+CUST-10853,Justin,,2101 School Rd,,TX,79903,367.77
+CUST-10285,Brian,,6698 Ridge Rd,Denver,CO,80204,$576.29
+CUST-11090,Brandon,Morales,7497 Park Ave,New Orleans,LA,,570.44
+CUST-10772,Linda,Lee,,,,78204,299.37
+CUST-10725,Donald,Davis,5237 School Rd No. 58,Raleigh,NC,27604,1433.32
+CUST-10201,JASON,Allen,3264 Sunset Blvd,Albuquerque,NM,87103,823.33
+CUST-11574,Emma,Bailey,,Kansas City,,64104,776871.35
+CUST-11288,Thomas,Rivera,1487 Main St,Denver,CO,80202,1113.02
+,,Nguyen,2876 Brook Ln,Omaha,NE,68102,293.47
+,Kathleen,White,7499 Oak Ave,Dallas,TX,75201,998.69
+,Amy,Miller,8593 Forest Dr Ste 89,Washington,DC,20004,1477.4
+CUST-11374,Joseph,Green,1808 Highland Ave,San Diego,CA,92104,1112.74
+,Angela,Cooper,,,VA,,646.21
+CUST-10162,Jennifer,,9892 River Rd,Baltimore,MD,21203,1131.49
+,Jennifer  ,Smith,4740 Church St,Albuquerque,NM,87105,$1190.47
+CUST-10238,Shirley,Nguyen,9920 Sunrise Ave,Albuquerque,,87105,-1000.88
+CUST-10427,Jonathan,,1342 Highland Ave,,San Francisco,,889.35
+CUST-11081,Charles,Brown,6738 Hill St,Oklahoma City,,,54080.37
+CUST-11323,Jeffrey,Baker,7848 Oak Ave,New Orleans,LA,70112,-882.1
+CUST-11682,Justin,Morales,7712 School Rd,Columbus,OH,43085,0
+CUST-11432,Gregory,Lopez,,Louisville,KY,40202,36020.72
+CUST-11044,,Cooper,5355 Highland Ave,Omaha,NE,68102,241.41
+CUST-10500,,Wright,1431 Pine Rd,,TX,,404.03
+CUST-11299,Katherine,Morris,3438 Ridge Rd,Baltimore,MD,21205,768.18
+CUST-11230,Brandon  ,Wilson  ,1693 Oak Ave,Milwaukee,WI,53203,-360.6
+CUST-10506,,Hill,2391 Maple Dr,Seattle,WA,98104,0
+CUST-10135,Gary,,4821 Park Ave,Los Angeles,CA,90001,259.54
+CUST-11611,Lisa,Young,Meadow Ln,Mesa,AZ,85204,1208.98
+CUST-11261,,Walker,617 Brook Ln,Jacksonville,FL,32204,367.38
+CUST-11576,Charles,Cook,7500 Elm St,,TX,75204,1094.26
+,Nicholas,Perez,6102 Mill Rd,Philadelphia,PA,19103,194.74
+CUST-11609,Brenda,Taylor,6665 Meadow Ln,Nashville,TN,37205,404.8
+CUST-11205,Mary,Anderson,9696 Grove Ave,Raleigh,NC,27602,1186.11
+CUST-10217,,Evans,743 Oak Ave,San Diego,CA,92102,486.96
+CUST-10668,James,Miller,6876 Pine Rd,Memphis,,,367.83

@@ -43,30 +43,39 @@ $env:DATABRICKS_HTTP_PATH = "/sql/1.0/warehouses/xxxxxxxxxxxxxxxx"
 $env:DATABRICKS_TOKEN = "dapi..."
 ```
 
-## Secrets Manager (Azure Key Vault) — recommended
+## Secrets Manager (Databricks Secret API) — recommended
 
-Store credentials safely in Azure Key Vault instead of hardcoding them.
+Store credentials in a Databricks secret scope instead of hardcoding them.
 
-### One-time setup (creates vault, stores all 3 secrets)
+### One-time setup (creates scope, stores all 3 secrets)
 
 ```powershell
-.\setup-keyvault.ps1
+.\setup-databricks-secrets.ps1
 ```
 
 ### Load secrets and run (daily use)
 
 ```powershell
 # Continuous event listener (default)
-.\load-secrets.ps1
+.\load-databricks-secrets.ps1
 
 # Run once
-.\load-secrets.ps1 --once
+.\load-databricks-secrets.ps1 --once
 
 # Dry run (no Databricks upload)
-.\load-secrets.ps1 --once --dry-run
+.\load-databricks-secrets.ps1 --once --dry-run
 
-# Custom vault name
-.\load-secrets.ps1 -VaultName my-vault --once
+# Custom Databricks scope
+.\load-databricks-secrets.ps1 -ScopeName ingest-secrets --once
+```
+
+## Azure Key Vault flow (optional/legacy)
+
+If you prefer Azure Key Vault, the original scripts are still available:
+
+```powershell
+.\setup-keyvault.ps1
+.\load-secrets.ps1 --once
 ```
 
 ## Databricks SQL healthcheck

@@ -13,6 +13,7 @@
 $VaultName = "kv-dbr-ingest-a06f24"
 $MainArgs  = @()
 $i = 0
+# Capture only -VaultName for this script; forward all other args to Python unchanged.
 while ($i -lt $args.Count) {
     if ($args[$i] -eq "-VaultName" -or $args[$i] -eq "--VaultName") {
         $i++
@@ -43,6 +44,7 @@ if ($LASTEXITCODE -ne 0) {
 Write-Host "Loading secrets from Key Vault: $VaultName" -ForegroundColor Cyan
 
 function Get-Secret($name) {
+    # Query just the secret value as plain text (tsv), not JSON.
     $val = az keyvault secret show --vault-name $VaultName --name $name --query value -o tsv 2>&1
     if ($LASTEXITCODE -ne 0) {
         Write-Error "Failed to read secret '$name' from vault '$VaultName'. Check vault name and permissions."
@@ -58,16 +60,18 @@ $env:DATABRICKS_TOKEN           = Get-Secret "DATABRICKS-TOKEN"
 Write-Host "Secrets loaded:" -ForegroundColor Green
 Write-Host "  DATABRICKS_SERVER_HOSTNAME = $env:DATABRICKS_SERVER_HOSTNAME"
 Write-Host "  DATABRICKS_HTTP_PATH       = $env:DATABRICKS_HTTP_PATH"
+# Show only the first few token characters so logs do not expose full credentials.
 Write-Host "  DATABRICKS_TOKEN           = $($env:DATABRICKS_TOKEN.Substring(0, [Math]::Min(8, $env:DATABRICKS_TOKEN.Length)))..." -ForegroundColor DarkGray
 
 # ── 4. Run main.py ────────────────────────────────────────────────────────────
 $defaultArgs = @(
     "--source-dir", ".\inbox",
     "--pattern", "*.csv",
-    "--schema-name", "etl-bronze-pipelne-data",
+    "--schema-name", "etl-bronze-pipeline-data",
     "--table-prefix", "bronze-ingest-"
 )
 
+# Defaults first, then user-provided args so callers can append run-mode flags (e.g., --once).
 $allArgs = $defaultArgs + $MainArgs
 
 Write-Host ""

@@ -69,6 +69,21 @@ Store credentials safely in Azure Key Vault instead of hardcoding them.
 .\load-secrets.ps1 -VaultName my-vault --once
 ```
 
+## Databricks SQL healthcheck
+
+Use this script to verify that your Databricks SQL connection works end-to-end.
+
+```powershell
+# Uses DATABRICKS_SERVER_HOSTNAME, DATABRICKS_HTTP_PATH, and DATABRICKS_TOKEN if already set
+python .\databricks_healthcheck.py
+
+# Or load secrets directly from Key Vault if env vars are missing
+python .\databricks_healthcheck.py --vault-name kv-dbr-ingest-a06f24
+
+# Run a custom SQL check
+python .\databricks_healthcheck.py --query "SELECT current_timestamp()"
+```
+
 ## Run once
 
 ```powershell

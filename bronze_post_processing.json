@@ -1,0 +1,27 @@
+{
+  "name": "customer-intel-dlt-archive-workflow",
+  "tasks": [
+    {
+      "task_key": "run_dlt_pipeline",
+      "pipeline_task": {
+        "pipeline_id": "3a1c2d5f-9b77-4c2e-8f0a-12ab34cd56ef"
+      },
+      "timeout_seconds": 0
+    },
+    {
+      "task_key": "archive_bronze_tables",
+      "depends_on": [
+        {
+          "task_key": "run_dlt_pipeline"
+        }
+      ],
+      "notebook_task": {
+        "notebook_path": "/Workspace/Repos/daryl/customer-intel/bronze_post_processing"
+      },
+      "warehouse_id": "f1a2b3c4d5e6f7",
+      "timeout_seconds": 0
+    }
+  ],
+  "timeout_seconds": 0,
+  "max_concurrent_runs": 1
+}

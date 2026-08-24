@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DLT Customer Pipeline | Documentation</title>
+  <style>
+    :root {
+      --bg: #091821;
+      --panel: #122535;
+      --panel-alt: #1a304c;
+      --text: #edf6ff;
+      --muted: #c0d9f3;
+      --primary: #79d2ff;
+      --secondary: #9ff1c7;
+      --accent: #ffd166;
+      --border: rgba(255,255,255,0.08);
+      --shadow: rgba(0,0,0,0.25);
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: linear-gradient(180deg, #071420 0%, #0d1d2d 100%);
+      color: var(--text);
+      font-family: "Segoe UI", Tahoma, Arial, sans-serif;
+      line-height: 1.7;
+    }
+    .page {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 40px 18px 80px;
+    }
+    .hero {
+      background: linear-gradient(135deg, rgba(121,210,255,0.12), rgba(159,241,199,0.08));
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 28px 26px 20px;
+      box-shadow: 0 20px 40px var(--shadow);
+    }
+    .tag {
+      display: inline-block;
+      padding: 7px 12px;
+      border-radius: 999px;
+      background: rgba(121,210,255,0.12);
+      border: 1px solid rgba(121,210,255,0.3);
+      color: var(--primary);
+      font-size: 0.76rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      font-weight: 700;
+      margin-bottom: 12px;
+    }
+    h1, h2, h3 { margin-top: 0; line-height: 1.25; }
+    h1 { font-size: clamp(2.4rem, 5vw, 4rem); margin-bottom: 12px; }
+    h2 { font-size: clamp(1.5rem, 2.6vw, 2.3rem); margin-bottom: 12px; }
+    p, li { font-size: 1.03rem; color: var(--text); }
+    .muted { color: var(--muted); }
+    section {
+      margin-top: 30px;
+      background: rgba(18, 37, 53, 0.82);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 24px 24px 18px;
+      box-shadow: 0 12px 25px rgba(0,0,0,0.12);
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 16px;
+      margin-top: 18px;
+    }
+    .card {
+      background: rgba(26, 48, 76, 0.95);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 18px;
+    }
+    .card h3 { color: var(--secondary); margin-bottom: 8px; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 14px;
+      background: rgba(7, 18, 29, 0.72);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+    th, td {
+      border-bottom: 1px solid var(--border);
+      padding: 12px 14px;
+      text-align: left;
+      vertical-align: top;
+    }
+    th { background: rgba(121,210,255,0.08); color: var(--primary); }
+    ul { padding-left: 22px; }
+    code {
+      font-family: Consolas, "Courier New", monospace;
+      background: rgba(255,255,255,0.04);
+      padding: 2px 6px;
+      border-radius: 6px;
+      color: #e7f8ff;
+    }
+    .flow {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+      margin: 18px 0;
+    }
+    .step {
+      background: rgba(255,255,255,0.04);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      padding: 10px 14px;
+      min-width: 160px;
+      text-align: center;
+      font-weight: 700;
+    }
+    .arrow { color: var(--accent); font-size: 1.6rem; font-weight: 800; }
+    a { color: var(--primary); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .quote {
+      margin-top: 16px;
+      padding: 18px 20px;
+      border-left: 4px solid var(--primary);
+      background: rgba(121,210,255,0.05);
+      border-radius: 0 12px 12px 0;
+      color: var(--muted);
+    }
+    @media (max-width: 700px) {
+      .page { padding: 20px 12px 60px; }
+      section { padding: 18px 16px; }
+      .step { min-width: 140px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header class="hero">
+      <div class="tag">Lakeflow DLT</div>
+      <h1>DLT Customer Pipeline</h1>
+      <p class="muted">
+        This is a Lakeflow Spark Declarative Pipeline (formerly Delta Live Tables) that processes customer data through the medallion architecture.
+        The pipeline is designed to ingest raw source records, clean and normalize them in the Silver layer, and publish business-ready analytics in the Gold layer.
+      </p>
+      <p style="margin-top: 18px;">
+        Project docs: <a href="../project-functional-technical-narrative.html">Project Functional Narrative</a>
+        &nbsp;|&nbsp;
+        <a href="../project-executive-narrative.html">Executive Narrative</a>
+      </p>
+    </header>
+
+    <section>
+      <h2>1. Purpose of the pipeline</h2>
+      <p>
+        The DLT customer pipeline implements a multi-layer customer intelligence system that turns raw customer data into reusable analytical assets.
+        It follows the standard Bronze → Silver → Gold model used in modern lakehouse architectures.
+      </p>
+      <p>
+        In practical terms, this pipeline is built to answer questions like: what customer records exist, how clean are they, where are the revenue patterns,
+        which customers are key spenders, and which emails or geographic patterns are most valuable.
+      </p>
+    </section>
+
+    <section>
+      <h2>2. Architecture overview</h2>
+      <div class="flow">
+        <div class="step">Bronze</div>
+        <div class="arrow">→</div>
+        <div class="step">Silver</div>
+        <div class="arrow">→</div>
+        <div class="step">Gold</div>
+      </div>
+      <ul>
+        <li><strong>Bronze:</strong> <code>workspace.etl-bronze-pipeline-data</code> — raw ingestion layer</li>
+        <li><strong>Silver:</strong> <code>workspace.etl-silver-pipeline-data</code> — cleaned and standardized data</li>
+        <li><strong>Gold:</strong> <code>workspace.etl-gold-pipeline-data</code> — business analytics and aggregations</li>
+      </ul>
+      <p>
+        The design gives the organization a clean separation between raw data, curated data quality layers, and final business reporting datasets.
+      </p>
+    </section>
+
+    <section>
+      <h2>3. Core components</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Schema discovery</h3>
+          <p><code>bronze_schema_catalog</code> inventories the columns and data types for all bronze source tables. This exposes schema drift and helps standardize downstream transformations.</p>
+        </div>
+        <div class="card">
+          <h3>Bronze union</h3>
+          <p><code>customers_bronze_all</code> loads and combines all bronze tables using <code>unionByName(..., allowMissingColumns=True)</code> while adding a <code>source_table</code> column.</p>
+        </div>
+        <div class="card">
+          <h3>Reference data</h3>
+          <p><code>zip_lookup</code> enriches ZIP codes with city/state values, and the pipeline gracefully falls back if the lookup table does not exist.</p>
+        </div>
+        <div class="card">
+          <h3>Quality monitoring</h3>
+          <p><code>pipeline_zero_record_alerts</code> and the DQR table help teams detect empty datasets and null-heavy columns.</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>4. Bronze layer: dynamic source discovery</h2>
+      <p>
+        A key technical strength of this pipeline is that it does not assume a fixed table inventory. Instead, it dynamically inspects the bronze schema,
+        discovers all source tables, and loads them as a unified raw customer dataset. This makes the pipeline much more resilient when new source tables are introduced.
+      </p>
+      <ul>
+        <li>Auto-discovers all tables in the bronze schema</li>
+        <li>Skips broken or missing tables without failing the entire pipeline</li>
+        <li>Renames inconsistent fields such as <code>customer_id</code> → <code>cust_id</code></li>
+        <li>Tracks the source of each row using <code>source_table</code></li>
+        <li>Uses missing-column-tolerant union logic to combine datasets safely</li>
+      </ul>
+      <p>
+        This creates a flexible bronze intake pipeline that can adapt as upstream sources evolve.
+      </p>
+    </section>
+
+    <section>
+      <h2>5. Silver layer: cleaning, standardization, and quality rules</h2>
+      <p>
+        The silver layer is the core quality and normalization layer for customer data. It repairs broken values, standardizes names and addresses,
+        fills missing values, and removes invalid records before they can propagate to analytics.
+      </p>
+      <table>
+        <thead>
+          <tr>
+            <th>Area</th>
+            <th>Processing</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Standardization</td>
+            <td>Trim strings, proper-case names, uppercase state fields, and consistent address formatting.</td>
+          </tr>
+          <tr>
+            <td>Repair</td>
+            <td>Generate customer IDs, clean ZIP codes, fix email values, and assign placeholder emails when needed.</td>
+          </tr>
+          <tr>
+            <td>Financial cleanup</td>
+            <td>Strip currency symbols, convert invalid amounts safely, and set invalid values to numeric-safe defaults.</td>
+          </tr>
+          <tr>
+            <td>Enrichment</td>
+            <td>Use ZIP lookup to add city/state metadata and enrich provider information.</td>
+          </tr>
+          <tr>
+            <td>Deduplication</td>
+            <td>Use window functions to keep the best record per <code>cust_id</code> and <code>source_table</code>.</td>
+          </tr>
+          <tr>
+            <td>Quality enforcement</td>
+            <td>Reject invalid records that fail ID, amount, or ZIP checks.</td>
+          </tr>
+        </tbody>
+      </table>
+      <p>
+        The result is a more reliable customer dataset that is ready for governed downstream reporting and analytics.
+      </p>
+    </section>
+
+    <section>
+      <h2>6. DQ reporting and monitoring</h2>
+      <p>
+        The pipeline includes a data quality report table, <code>customers_silver_all_dqr</code>, which records null counts by column and source table.
+        This provides visibility into where quality issues are concentrated and how the source data changes over time.
+      </p>
+      <ul>
+        <li>Tracks null completeness across columns</li>
+        <li>Supports source-level monitoring</li>
+        <li>Helps identify weak data quality areas before they reach the business layer</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>7. Gold layer: analytics datasets</h2>
+      <p>
+        The gold layer generates multiple purpose-built analytical tables for business use. These datasets are designed for segmentation,
+        revenue analysis, operational reporting, and customer intelligence.
+      </p>
+      <div class="grid">
+        <div class="card">
+          <h3>Customer value</h3>
+          <p><code>customers_gold_rfm_clv</code> combines recency, frequency, and monetary analysis to estimate customer value and segment behavior.</p>
+        </div>
+        <div class="card">
+          <h3>Revenue geography</h3>
+          <p><code>customers_gold_revenue_by_geography</code> aggregates revenue by state and city to expose market concentration and opportunity.</p>
+        </div>
+        <div class="card">
+          <h3>Trend analysis</h3>
+          <p><code>customers_gold_revenue_trends_daily</code> supports time-series monitoring with rolling averages and revenue growth rates.</p>
+        </div>
+        <div class="card">
+          <h3>Email intelligence</h3>
+          <p><code>customers_gold_email_analysis</code> highlights email provider patterns, revenue concentration, and personal vs corporate customer splits.</p>
+        </div>
+      </div>
+      <p>
+        Other important datasets include segment summaries, top spenders, state KPIs, and duplicate email detection.
+      </p>
+    </section>
+
+    <section>
+      <h2>8. Operational model</h2>
+      <p>
+        The pipeline uses the legacy <code>dlt</code> API, with all tables defined as materialized datasets using <code>@dlt.table()</code> decorators.
+        It relies on expectations to warn or drop invalid records at several layers.
+      </p>
+      <ul>
+        <li><code>@dlt.expect_all</code> warns on issues while retaining records</li>
+        <li><code>@dlt.expect_all_or_drop</code> drops records that violate critical rules</li>
+        <li>Includes logging, quality checks, and zero-record monitoring for observability</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>9. Business value</h2>
+      <p>
+        This pipeline provides concrete business value across several dimensions:
+      </p>
+      <ul>
+        <li>Customer segmentation and targeted marketing</li>
+        <li>Geographic strategy and revenue insight</li>
+        <li>Daily trend analysis and forecasting support</li>
+        <li>Customer intelligence by email, spend, and region</li>
+        <li>Operational data quality monitoring and governance</li>
+      </ul>
+      <div class="quote">
+        The DLT pipeline is not just a transformation flow; it is an operational data product that converts raw customer records into measurable business insight.
+      </div>
+    </section>
+
+    <section>
+      <h2>10. Notable design decisions</h2>
+      <p>
+        The pipeline includes a commented-out archival function that was intentionally disabled because DDL statements such as <code>CREATE SCHEMA</code> and <code>DROP TABLE</code>
+        are not permitted within <code>@dlt.table()</code> decorators. That functionality was moved to a separate archival notebook.
+      </p>
+      <p>
+        The implementation is also based on the older DLT API, which is still functional but could eventually be modernized to use current Lakeflow patterns.
+      </p>
+    </section>
+  </div>
+</body>
+</html>

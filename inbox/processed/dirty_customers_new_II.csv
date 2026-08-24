@@ -1,0 +1,1201 @@
+customer_id,first_name,last_name,email,phone,address,city,state,zip,signup_date,last_purchase,total_spend,plan,active
+1810852,Charles,Nguyen,charles_nguyen@me.com,437.940.1847,8459 Maple Dr8459 Maple Dr,Houston,AL,20094,2016,2023-04-23,234.2,Ultimate,False
+85871297,Thomas,Carter,thomascarter@aol.com ,141.469.9752,3482 Hill Rd,Milwaukee,AZ,53060,2023-12-14,2023-11-19,266210.0,Standard,False
+40573519,Joseph,Rivera,joseph-rivera594ATlive.com,941.990.2977,2816 Sunset Blvd,New York,FL,32836,2016-07-19,null,5102.89,Professional,False
+7578516,n/a,Martin,annamartin@msn.com,+11220221830,250 Main St,Memphis,IA,5OO71,2020-11-17,2026-03-28,2048.62,Starter,True
+NULL,NaN,Perez,nancy.perez@msn.com ,277.827.7420,303 Forest Ln,Atlanta,FL,97802,01/25/2019,2024-11-11,7689.57,Ultimate,False
+6181622,Patricia,Smith,patricia_smith946@protonmail.com,470.861.9630,6844 West Rd,Raleigh,N/A,8OO93,2016-02-13,2024-06-15,6530.81,Free Plan,False
+6010014,Sandra,Lee,sandra_lee804@gmail.com,087.603.3899,9638 Lake Dr,NULL,SD,90954,0000-00-00,2024-01-27,4925.66,Free,True
+n/a,Susan,HILL,susan_hill@protonmail.com,846.820.3116,3216 Church St,Albuquerque,MN,65702,,2026-11-16,7846.91,Premium,True
+NaN,Karen,Campbell,karencampbell499@msn.com,676-463-6935,79 Maple Dr,Charlotte,IN,38914,2017-08-20,2026-12-26,9440.22,Premium,True
+9403316,Laura,Rivera,laura_rivera781@me.com,941-201-6039,2760 Washington Blvd,Los Angeles,NM,81231,2016-05-04,2023-06-15,212.27,Ultimate,False
+78753947,  Emma  ,King,emmaking108@livecom,622-889-5971,3338 West Rd,Charlotte,PA,689,2017-09-08,NULL,1036.52$,NaN,False
+04856321,null,Green,william-green982@gmail.com,(852) 054-0419,N/A,Phoenix,FL,18126,1900-01-01,2026-11-14,662.57,Basic,True
+246669,null,Young,scottyoung@hotmail,N/A,2598 River Rd,San Francisco,N/A,,2099-01-01,09/09/2025,4770.77,Basic,False
+47005179,Edward,Moore,edwardmoore@msn.com,729.945.1409,4172 Sunset Blvd,Philadelphia,CT,86352XX,2023-04-02,2026-08-12,8003.43,Premium,False
+4854,Dorothy,Roberts,dorothy-roberts566@icloud.com,+17915044815,8302 Cedar Ln,Louisville,MS,,82-70-7102,NULL,5987580.0,Premium,True
+45134650,N/A,Robinson Robinson,karenrobinson575@yahoo.com,+12932360613,6806 Main St,Denver,OK,74324,2018-07-18,NULL,9488.44,Standard,True
+667799,Larry,NULL,larry.young942@aol.com,+16158154640,,Portland,WY,56275XX,2020-02-02,2025-05-26,5953.63,Standard,False
+664761,Michelle,Flores,michelle.flores@aol.com,912-533-9655,,Kansas City,SC,650721,2019-01-23,n/a,4449.73,Enterprise,False
+526474,Jonathan,J. Jackson,jonathanjackson@protonmail.com,(317X 336-0980,4974 West Rd,San Francisco,VA,26894,2017-07-06,32/13/2022,133.58,Ultimate,false
+1500865,Jacob,L. Lee,jacob-lee@gmail.com,,8209 Sunset Blvd,Colorado Springs,KY,68803,null,NULL,5362.98,Enterprise,False
+981292,Emily,King,emilyking931@yahoo.com,555-555-5555,8295 Valley Dr,Omaha,WV,59244,2016-03-07,2024-09-16,6099.72,N/A,True
+56872039,Kevin,Martin,kevin-martin22protonmail.com,N/A,4276 Forest Ln,Louisville,SD,48767,,2023-04-03,6007.43,Enterprise,True
+7630927,Amanda,Clark,amanda.clark354@gmail.com,744-053-8114,4059 Oak Ave,Houston,,8784,2017-11-05,2024-02-03,4744.13,Standard,False
+0573154,Donald,Clark,donald_clark@protonmail.com,424.534.2763,7417 Cedar Ln,Indianapolis,DE,554387,2024-09-09,2024,7229.11,Ultimate,True
+8563414,Ashley,Mitchell,ashley_mitchell685@aol.com,747-583-2793,6578 South St,Dallas,WA,94037,2024-06-02,2026-02-09,8515880.0,STARTER,True
+57571512,Donald Donald,Green,donaldgreen889ATprotonmail.com,555-555-5555,1113 ,Los Angeles,IL,24350-9164,2017-02-25,2026-02-10,2651.68,Enterprise,True
+90656938,Flores,Donald,donald.flores5@aol.com,787.974.2624,1643 South St,Columbus,N/A,NaN,2018-04-25,2023-06-08,N/A,Enterprise,False
+79786530,David,null,david_taylor353@icloud.com,+17240711841,4099 Sunset Blvd,San Antonio,FL,21386,2020-08-12,2025-12-24,7626.14,Premium,False
+50469912,Sandra,Adams,sandraadams@gmail.com,962-094-7434,2304 South St2304 South St,Albuquerque,IL,10569,n/a,2023-01-27T00:00:00Z,9491.73,Basic,False
+46373484,Michael,Flores,michael_flores334@yahoo.com,28154516649,1345 Church St,San Antonio,AK,64965,2016-12-24,2025-11-13,NULL,Standard,True
+854565,Samantha,Sanchez,,198.872.8096,9177 Spring St,New York,NV,94012,2015-06-14,2025-05-04,6803.33,Free,False
+820861,Scott,Jones,scott.jones@live.com,231-955-2099,7895 Sunset Blvd,Portland,ky,37588,2024-10-19,2024-03-27,,Professional,True
+  02353886  ,  null  ,  Rivera  ,  timothy.rivera594@yahoo.com  ,  +16585570388  ,  6649 Pine Rd  ,  Louisville  ,  WA  ,  22738  ,  2015-04-04  ,  2024-04-01  ,  5094.29  ,  BASIC  ,  True  
+82728487,null,Nguyen,n/a,(019) 117-8864,8058 CEDAR LN,Albuquerque,HI,17498,2019-03-20,2026-06-04,null,Ultimate,True
+8334605,Emily,Garcia,emily-garcia380@icloud.com,+11042851606,9663 Park Ave,  Omaha,AR,60738,2023-07-18,2025-10-08,4765.244765.24,Standard Plan,False
+7953331,Donna,Smith,donna.smith340@msn.com,(181) 535-8214,3795 Washington Blvd,San Jose,WY,31108,24/09/2023,2026-11-17,9302.61,PROFESSIONAL,False
+4932595,Helen,R@mirez,helenramirez@aolcom,494.769.3455,2450 River Rd,Columbus,hi,77528,2018-07-19,2023-01-28,6260.13,Basic,True
+739985,Steven,null,invalid-email,058.725.0191,N/A,Denver,IA,33137,2016-02-23,2025-03-09,3503.75,Unknown,False
+98975302,Nicholas,Johnson,NaN,791-427-2962,4889 Oak Ave,Columbus,NM,,0000-00-00,32/13/2022,1202.03,Standard,
+62354198,Thomas,King,thomasking697@hotmail.com,16168753919,3535 North Ave,Denver,VA,59375,2015-06-05,2023-12-26,2254.59,Basic,True
+687749,Melissa,Jones,melissa_jones818@hotmail.com,+13138489521,3833 East Blvd,Omaha,MA,34285,2018-09-22,2022-09-06,7951.37,Enterprise,False
+309568,,Thompson,jeffreythompson@,(409) 566-7051,6293 Forest Ln,Jacksonville,UT,96229,2020-01-18,2022-06-19,$3302.36,Basic,False
+7063182,Donald,gonzalez,donald-gonzalez691@icloud.com,+11426100297,349 FOREST LN,,NM,98049,2018-07-02,,7886.96,Standard,True
+443739,yrogerG,Young,gregory-young@me.com ,384-349-3976,8116 Oak Ave,Dallas,NC,87356,2020-02-28,2025-02-17,9104.86,Basic,True
+023967,Christine,Ramirez,christineramirez@yahoo.com,+16422154873,4326 RIVER RD,San Diego,WY,10042,2019-09-09,2026-01-19,3038.19,Free,True
+035160,N/A,Anderson,scottanderson@aol.com,+16807818239,2200 Main St,Louisville,MI,48863,2023-03-27,2026-09-28,8844.28,Free,True
+9100490,,Harris,NaN,+16327805025,9086 Maple Dr,"Houston, Houston",NV,NULL,2020-10-27,0000-00-00,9611.79,Ultimate,True
+086858,Daniel,Allen,daniel_allen@protonmail.com@extra.com,(920) 397-4038,n/a,null,TN,94133,2021-07-06,12-60-2202,4245.09,Starter,True
+5084558,asiL,Moore,  lisa_moore@msn.com,N/A,8373 Pine Rd,Charlotte,NY,24365,19/06/2015,2025-01-06,1977.32,Basic,False
+82988692,Debra,Johnson,debra-johnson319@hotmailcom,192.340.6627,567 Lake Dr,Milwaukee,HI,904,2018-04-21,2025-05-04,3527.38,Enterprise,False
+92627546,Mary,Wilson,marywilson@gmail.com,+12643970994,7652 South St,Omaha,NC,49919,2020-09-21,2025-10-24,-8794.4,Free,False
+553893,Jeffrey,Lewis Lewis,jeffrey.lewis@yahoo.com,NaN,24 South St,NaN,,36747,2015-02-13,2022-09-17,9573.54,Starter,True
+243333,Ryan,Davis,ryan-davis@aol.com,+19870994312,4554 Oak Ave,Austin,RI,91189,2015-08-24,2022-07-14T00:00:00Z,8620.32,BASIC,unknown
+57516681,Katherine,Roberts,invalid-email,000-000-0000,8499 Washington Blvd,Omaha,MA,96799,2022-09-13,2024-03-15,9121.67,Professional,False
+64332468,Donna,Rivera,donnarivera@gmail.com,NaN,4537 Lake Dr,Nashville,IL,29651,2023-04-02,2026-07-22,3199.26,Premium,True
+21509958,Daniel,Taylor,danieltaylor771@protonmail.com,+12462736711,P.O. Box 6949,Sacramento,WV,79798,1900-01-01,2025-08-09,1455.77,Ultimate,True
+4528171,Robert,Brown,robert.brown@yahoo.com,(475) 462-7786,NaN,Philadelphia,MA,23404,2015-01-07,NULL,6349.86,Premium,Y
+81187049,Brian,Lewis,brian.lewis324hotmail.com,428-574-0671,1158 Spring St,Colorado Springs,WY,39847,2016-11-07,2024-08-11,8967.94,Standard,False
+883678,Kevin,  Roberts  ,kevin-roberts325@yahoo.com,+19046672843,5923 Elm St,Austin,MA,12087,2016-04-19,2024-09-23T00:00:00Z,6424.86,Starter,True
+953562,Emily,Miller,emily.miller711@protonmail.com,+14XXX3058X8,8695 Oak Ave,San Francisco,VT,N/A,2024-05-05,2026-01-02,N/A,Premium,False
+054368,Robert,null,robert_torres348@outlook.com,008-881-7427,70 River Rd,Jacksonville,California,27109,2020-11-22,2026-10-17,9339.68,Free,True
+51233312,Deborah,eeL,deborah-lee808@aol.com,070-058-8045,4485 Lake Dr,Indianapolis,HI,60389,2020-05-19,2024-02-22,5140.84,Standard,False
+69453169,Brandon,J. Jones,brandonjones@hotmail.com,354-775-6066,6041 Oak Ave,Seattle,AK,96975,NULL,2026-06-22,4569.07,Basic,True
+0346748,Stephen,Carter,stephencarter@icloud.com,822-888-6530,n/a,Tucson,KS,62032,07/02/2015,2022-05-18,8145.17,Ultimate,True
+8514759,Pamela,Williams,pamelawilliams@protonmail.com,,4976 Park Ave,Los Angeles,ND,75365,1900-01-01,2023-08-17,1733.91,,True
+632939,Laura,Moore,null,(496) 487-7576,8826 Main St,Tucson,UT,26176,2020-07-27,32/13/2022,1775.98,Ba,True
+6499562,  Melissa  ,Smith,melissa.smith@me.com,299-431-9060,4737 Maple Dr,Oklahoma City,MI,24821,2022-06-17,51-40-5202,"2111,37",Enterprise,true
+3704998,Gary,Jackson,gary-jackson523@protonmail.com,+14531667346,2679 East Blvd,Las Vegas,ID,63600,,NULL,9633.07,N/A,False
+1696224,Timothy,Davis,timothy-davis@aol.com,+18377482802,3289 River Rd,NaN,NJ,50974,2022-04-11,2022-09-12T00:00:00Z,1086.71,Free,False
+NaN,Allen,EmilyeI,emily_allen@msn.com,(389) 256-5666,7099_East_Blvd,Portland,IA,55636,2024-12-11,2023-03-18,7156.36,PROFESSIONAL,True
+30018738,Karen,  Williams  ,karenwilliams@me.com,541.256.37953795,7274 Hill Rd,New York,WV,71396,NaN,2024-04-10,3120.02,Standard,Y
+59048036,Eric,  Young  ,eric_young74@,+17427146187,3821 Lake Dr,NULL,N/A,75274,2022-06-26,2023-03-12,5674.55,Basic,False
+1582167,Deborah,Carter,deborah.carterlive.com,543.380.1506,5550 Valley Dr,New York,MA,70749,,null,5616.31,Standard,True
+62901728,John,Hill,john_hill339@me.com,+16001478512,3437 Valley Dr,Portland,NH,79059,2018-08-23,2099-01-01,3706.04,Basic,false
+3309265,Edward,Hill,edward.hill@gmail.com,678-576-5264 ext.468,6157 Hill Rd,Kansas City,null,78043,2024-12-27,2024-12-10,436.39,Professional,False
+9848390,Richard,NULL,richardthompson897@gmail.com,(926) 312-5116,1003 Church St,Columbus,WV,96632,2019-06-20,2025-03-14,NULL,Premium,true
+05540427,N. Nicholas,Lopez,nicholas_lopez@yahoo.com,(911) 836-2818,6578 Oak Ave,Nashville,SC,00000,,32/13/2022,1009.3,Ultimate,True
+0,Eric,Johnson,ericjohnson1@live.com,null,9469 Maple Dr,Sacramento,RI,24124,n/a,2026-11-02,6024.66,Standard,True
+91046172,Emily,Brown,emilybrown944@gmail.com@extra.com,316.500.8087,6768 Spring St,Charlotte,SD,56938,0000-00-00,2024-10-12,874.85,Ultimate,True
+6173338,NULL,L@@,sandra-lee957aol.com,+13485509663,81 PARK AVE,NaN,AL,,2019-11-05,2025-12-27,9821.97,Ultimate,False
+9356176,Justin,RiveraAV,justin.rivera@me.com,+15554785045,5193 Lake Dr,Fort Worth,OR,48412,2018,0000-00-00,3151.59,Standard,True
+22554830,Sandra,Campbell,sandra-campbell440@outlook.com,480-183-7463,6868 Valley Dr,Baltimore,WI,NULL,91-60-9102,2022-10-26,326.93,Premium,True
+97348818,Amy,Williams,amy.williams738@outlook.com,455-X05-23X9,522 Cedar Ln,  Atlanta,NM,74103,0000-00-00,2022-03-28,7851.98,Starter,TRUE
+4410948,,torres,,601-539-1767,8562 Sunset Blvd,Tucson,NH,48974,2024-07-10,2026-10-02,6098.25,Standard,True
+2155731,,Young,donnayoung@me.com,n/a,1322_Cedar_Ln,Phoenix,SD,86138,2015-03-14,2025-11-05,2349.36,Free,True
+92594605,Gary Gary,Adams,garyadams496@aol.com,555-555-5555,1048 South St,,OH,95419,2016-04-22,2022-03-28,5993.02,null,null
+949069,Betty,Anderson,betty_andersonyahoo.com,000-000-0000,1339 Valley Dr,Long Beach,NM,n/a,2018-12-01,2025-04-15,1630.53,Professional,False
+3323829,frank,Green,frank.green@msn.com,(676) 034-5030 ext.200,N/A,Tucson,WA,,2023-05-25,2022-09-25,8978.59,Free,True
+771794,Edward,Torres,edwardtorresATgmail.com,555-555-5555,5945 Cedar Ln,Colorado Springs,MO,NULL,2017-10-11,2026-11-13,1219,,True
+034691,Andrew,Roberts,andrewroberts@me.com,714-218-5831,5422 West Rd,Albuquerque,NE,17650,2020-10-17,2025-08-18,4424.8,Starter,True
+016371,Kathleen,Anderson,kathleenanderson@outlook.com,(724) 808-1683,4266_Spring_St,Charlotte,N/A,37635,2020-03-06,2025-11-12,2605.46,Enterprise,True
+  42340738  ,    ,  Betty  ,  NULL  ,  +17410144971  ,  3340 Cedar Ln  ,  Virginia Beach  ,  CO  ,  84798  ,  2023-07-08  ,  2025-11-21  ,  174.71 USD  ,  Professional  ,  False  
+2396804,Frank,NULL,franktorres59@gmail.com,NaN,6730 Cedar Ln6730 Cedar Ln,Kansas City,AL,30398,2019-04-16,NaN,0,Premium,False
+49276366,Michael,Hill,michael-hill@gmail.com,345.702.7115,8698 South St,n/a,N/A,43681,2022-05-24,2024-02-15,9629.11,Premium,N
+20800682,Perez,Donna,donnaperez335@icloud.com,829.191.2732,6351 Valley Dr,NULL,HI,27367,2023-10-24,n/a,N/A,Professional,False
+6470204,Nancy,Thompson,nancythompson806@me.com,71703249097,8178 River Rd,Houston,TX,56685,2017-03-02,2022-02-05,,NULL,True
+0,Benjamin,Robinson,benjamin.robinson447@outlook.com,,1776 Cedar Ln,New York,XX,83104,2016-08-17,2023-02-08,3303.04,Free,True
+901726,Joshua Joshua,Adams,  joshua_adams@protonmail.com,(210) 935-5098,3925 Maple Dr,Seattle,ID,24859,2022-06-04,NULL,5110,Free,False
+179974,KATHLEEN,Hall,NULL,+14790673037,7439 South St,sacramento,OR,53452,,,,Starter,False
+637293,Emily,Campbell,emilycampbell@protonmail.com@extra.com,+124696,3640 Maple Dr,San Antonio,NV,16080,2016-06-13,2024-04-19,6031800.0,Premium,True
+23080685,Paul,Campbell,paul-campbell@aol.com,(572) 001-8684,5134 North Ave,N/A,,22645,2024-05-05,2023-09-02,1865.05,Standard,True
+92313956,Robert,Martin,robert-martingmail.com,(370) 561-2240,573 Valley Dr,Phoenix,OR,55555,2023-02-26,2025-02-17,6125.62,Premium,False
+33145165,Mark,Nelson,mark_nelson482@aol.com,+13237701169,8264 ,Oklahoma City,PA,00000,2022-10-27T00:00:00Z,,1144.04,Premium,False
+124449,P. Pamela,Hernandez,pamela.hernandez@me.com,+16684860346,NULL,NULL,MD,36717,2099-01-01,2024-04-10,6409.18,Enterprise,False
+945725,Gary,Campbell,N/A,259.203.5674,6585 Washington Blvd,Oklahoma City,MSMS,085941,2019-03-28T00:00:00Z,2023-08-21,7245.48,FREE,NaN
+2075058,Kimberly,Carter Carter,kimberly-carter840@gmail.com,686.054.9563,8543 Hill Rd8543 Hill Rd,SanJose,HI,56077,2017-08-15,2025-09-12,"4678,27",Professional,False
+6719270,Emily,Anderson,emily-anderson@gmail.com,+10209556146,7063 Spring St,Long Beach,IN,13408,2018-02-16,2023-10-24,2668.57,Enterprise,FALSE
+9877183,Pamela,Thompson,pamelathompson735@me.com,996-534-1096,7882 Sunset Blvd,columbus,RI,21833,2021-12-21,2099-01-01,6023.75,Enterprise,False
+599295,Susan,Wright,susan.wright@,885.999.6344,2527 Washington Blvd,,NaN,34757XX,2023-11-07,82-60-5202,6760.97,Starter,True
+616010,NULL,Rodriguez,amyrodriguez594@gmail.com,529-990-8850,5730 Cedar Ln,Phoenix,NC,68171,null,NULL,5705.8,n/a,True
+6252489,Gregory,Gonzalez,gregorygonzalez460@gmail.com,485.845.8989,7316 Lake Dr,Minneapolis,,21277,12-70-5102,2025-08-21,1516.6,Ultimate,False
+93912803,Nicholas,Martinez,nicholas_martinez@aol.com,403-962-5784,123,Houston,OK,00000,2019-11-24,2022-03-23,7701.05,Standard,True
+78212701,Amanda,Sanchez,amanda_sanchez@protonmail.com,n/a,8797 Valley Dr,Tucson,AZ,68744,32/13/2022,2024-03-20,,Enterprise,N
+511696,Michael,Moore,michaelmoore566@icloud.com,793.290.7186,4043 Cedar Ln,Tucson,MI,52756,13/05/2015,2022-07-04,2953.12,NULL,False
+169346,Christine,Adams,christine_adams@me.com,589.137.7623,7864 Spring St,Tucson,MN,50038,2022-09-04,2023/11/20,824.33,Starter,True
+5309877,Amy,NULL,amylewis@me.com,(107) 746-4301,4318 Main St,Baltimore,ND,98425,2023-05-03,2023-04-07,4541.39,,
+#3#617#,L@ur@,Garcia,laura_garcia@me.com,null,911 VALLEY DR,Sacramento,NV,92647,2019-03-02,2022-12-25,938.85,N/A,True
+3338091,Joshua,Allen,joshua-allen@yahoo.com,995.540.9863,N/A,Long Beach,HI,79810,2019-08-02,2024-03-02,2429.17,Enterprise,True
+53036765303676,Brian,Moore,NULL,+11022054549,3676 Elm St,Austin,WV,78447,2019-05-04,2023-04-22,1924.21,Basic,True
+030014,N/A,Martinez,brandon.martinez@hotmail.com,+15642402545,2729 West Rd,NULL,AR,n/a,2018-03-06,2026-12-24,N/A,Standard,True
+106992,Mary,Young,mary-young@live.com,684-728-7437,2379 Washington Blvd,Columbus,VT,,2017-03-23,2026-01-21,1065.77,Starter,False
+2558290,Gregory,Jackson,gregory_jackson@aol.com,86026544056,1533 Spring St,San Antonio,XX,26302,2016-03-04,2099-01-01,9780.17,Professional,False
+708608,Thomas,Davis,thomas.davis711@protonmail.com,3867903,n/a,Houston,NM,53188,2018-01-25,2026-12-15,8713.17,Premium,True
+056531,Anna,Martinez,anna.martinez245msn.com,562.976.5031,1484 Sunset Blvd,Denv,VT,67321,2024-04-28,2023-12-08,3428.74,,0
+,Michael,Campbell,michael.campbell288yahoo.com,+13254577083,9763 Oak Ave,NULL,SD,14611,2024-07-11,2025-09-18,7587.83,Ultimate,False
+060664,Dorothy,ANDERSON,dorothy.anderson@hotmail.com,+19133635207,9012 Maple Dr,Chicago,IL,721836,2015-04-08,2026-08-01,3497.06,Standard,False
+1533185,Brenda,Gonzalez,BRENDAGONZALEZ@LIVE.COM,981.490.4766,1086 Park Ave,Milwaukee,OK,84581,2024-01-14,2024-08-10,749.16,Ultimate,False
+41118829,NULL,Allen,amandaallen434@hotmail.com,NaN,null,Indianapolis,MA,40410,2021-08-12,2025-11-16,4979.57,Enterprise,False
+169271,Frank,Mitchell,frank-mitchell134@live.com,(396) 131-8754,6671 Lake Dr,Baltimore,AR,10378,2015-06-23,NULL,4402.5,Free,False
+480089,Jeffrey,Carter,jeffrey_carter@,(122) 876-4436,8202 Oak Ave,Philadelphia,FL,15853,2021-04-08,2024-08-12T00:00:00Z,6368.39,Free,False
+837599,NULL,Rodriguez,andrew.rodriguez191@live.com,(266) 648-4220,7217 Maple Dr,Virginia Beach,WV,56379,2020-08-26,NaN,N/A,Professional,True
+7188274,William,etihW,NULL,+16466472070,1529 Cedar Ln,Raleigh,MI,54165,2018-01-20,2023-08-07,7265.33,Enterprise,False
+52334300,B@enda,Carter,brenda_carter682@live.com,091-903,5631 East Blvd,Raleigh,VT,81586,2024-07-21,2023-06-18,3974.47,Premium,False
+51648697,Jacob,Jackson,jacob.jackson151@live.com,973-657-5334,7095 Forest Ln,Virginia Beach,UT,93705,2015-03-18,2023-08-27,,Starter,False
+549245,Dorothy,Miller,dorothy-miller@outlook.com,+18663162671,7058 Maple Dr,Houston,N/A,NaN,0000-00-00,2024-11-18,522.8,Starter,True
+917549,N/A,Campbell,invalid-email,075.157.5032,204 Washington Blvd,Memphis,NJ,94320,32/13/2022,2024-03-03,7508.83,En,False
+431823431823,  John  ,Carter,john_carter864@icloud.com,000-000-0000,3880 West Rd,Seattle,NH,93740,2099-01-01,2026-05-26,9098.22,Standard,False
+NULL,Ryan,Thomas,ryan.thomas@protonmail.com,+15712624869,,New York,OH,54150,2019-09-27,2022-09-14,4802.88,starter,False
+11205345,Eric,Sanchez,eric.sanchez@me.com,945-295-8076,1727 Spring St,Fresno,OR,16159,1900-01-01,2026-07-14,5854.08,N/A,False
+3427445,Pamela,Walker,N/A,+16252902059,8658 Forest Ln,Milwaukee,AL,NaN,2099-01-01,2026-03-28,9538.8,Ultimate,True
+83903886,Justin,Hall,justin_hall@me.com,385.471.3955,1707 Hill Rd,"Indianapolis, Indianapolis",,97376,1900-01-01,2023-11-09T00:00:00Z,9738.47,Starter,True
+02962723,Nancy,D. Davis,nancydavis311@icloud.com,19442676573,4710 River Rd,Portland,IN,,NULL,10-10-6202,7411.51,Ultimate,True
+07464568,Gary,Johnson,gary_johnson416@yahoo.com,916-534-2856,6532 EAST BLVD,Atlanta,OH,24000,2021-05-25,2026-09-01,2655.88,,True
+54141877,Raymond,Torres,n/a,385-443-8073,P.O. Box 8200,,MD,63392,2019-02-20,2025-03-23,5646.07,Unknown,True
+7486797,Christopher,Jones,christopher-jones@yahoo.com,,9297 Valley Dr,Indianapolis,CO,39479,2017-05-22,2022-11-28,7267.03,Starter,False
+47159904,Mark,Lee,mark_lee900@,425-053-0098,5527 Cedar Ln,Kansas City,MS,89O60,2018-02-15,2023-07-28,658.98,Basic,False
+#522#691,Jonathan,Lee,N/A,78752772693,8565 Cedar Ln,Los Angeles,MO,29048,null,32/13/2022,7856.39,Starter,False
+008738,Karen,Wright,karenwright@msn.com,N/A,NULL,New York,GA,89811,2019-03-12,2022-02-05,1335.45,Standard,False
+8399929,kenneth,Lopez,kenneth.lopez339@gmail.com,442-036-3332,160 Church St,Chicago,OH,53687,2020-02-02,2025-11-23,3098.18,Basic,True
+0457377,Ronald,Clark,ronald-clark@yahoo.com,+14290683391,997 Forest Ln,San Jose,,21536,2021-10-27,,3143.07,St,False
+8392128,Mary,Brown,mary_brown639me.com,+19431381811,2594 West Rd,Omaha,SD,71547,2019-12-28,N/A,9454.28,Free,True
+89226243,William,Nelson,william-nelson350@live.com,820.134.1597,8752 Lake Dr,Chicago,NJ,41693,2019-04-03,null,6817.56,Professional,False
+576068,Sarah,null,NULL,415-673-8310,9661 River Rd,San Diego,UT,28405,2021-11-27,2025-01-22,5624.71,Ultimate,False
+99450294,Matthew,Perez,matthewperez@live.com,616.797.1111,1542 Church St,Mesa,WA,40085,2015-07-22,2023-03-24,,Professional,False
+319761,Gary,Nelson,garynelson@protonmail.com,496.336.6553,2100 Forest Ln,Colorado Springs,NM,18273,2015-08-12,2025-04-07,9446.04,Enterprise,False
+9837156,George,Thompson,george_thompson@gmail.com,000-000-0000,5177 Pine Rd,New York,WY,10101,2022-07-03,2024-01-10,1542.66,professional,False
+586422,Christine,Allen,invalid-email,174.427.2372,6999 Hill Rd,Houston,AR,66984,2015-07-19,2026-09-05,3904.79,Ultimate,True
+3687360,Anthony,White,anthony-white@outlook.com,230-454-1647,3455 South St,San Francisco,ME,15287,01-40-6102,2026-01-26,5280.45,Free,True
+95678801,Timothy,Clark,timothy_clark784@yahoo.com,+11046918993,9125 Park Ave,Denver,DE,54146,2020-10-20,2026/02/24,457.15,Professional,False
+69453169,Brandon,J. Jones,brandonjones@hotmail.com,354-775-6066,6041 Oak Ave,Seattle,AK,96975,NULL,2026-06-22,4569.07,Basic,True
+7400449,Donna,Robinson,donna_robinson@gmail.com,649-185-1816,1982 East Blvd,Columbus,NC,64439,2023-03-16,N/A,4406.43,Ultimate,null
+905277,Debra,Allen,debra-allengmail.com,(463) 821-9452,6885 Lake Dr,,NY,101,2016-07-19,2023-12-09,6914.54,,True
+056712,Angela,Ramirez,,(019) 854-8171,5717 Elm St,Mesa,IN,89263,1900-01-01,2022/07/16,2197.04,Basic,True
+812059,E@ic,Moore,eric_moore@outlook.com,NULL,2155 Church St,Long Beach,IL,15875,,2022-04-07,N/A,Basic,False
+,Betty,relliM,betty-miller604@gmail.com,242.634.2625,4511 West Rd,Long Beach,XX,92040,2022-02-25,2023-08-01,3195.48,Unknown,False
+36956856,Angela,Smith,angela.smith144@gmail.com,555-555-5555,N/A,Seattle,SC,12301,2022-04-28,2024,2277.44,Free,False
+3458179,Steven,PEREZ,steven-perez224@icloud.com,000-000-0000,5012 Valley Dr,Las Vegas,MS,78082,null,2026-12-20,8009.58,Professional,False
+96676614,N/A,Young,deborah_young@protonmail.com ,936 1760905,2862 Church St,Raleigh,ND,33820,2019-09-14,2022-04-22,837.96,Basic,True
+NULL,Christine,Davis,,497-386-8060,9607 Sunset Blvd,Charlotte,UTUT,35647,2019-08-05,NULL,4969.78,Premium,True
+6698713,Melissa,FLORES,melissa-flores457@aol.com,null,6902 Spring St,Portland,CO,50386,2024-08-12,,764.93,Free,True
+01143407,Melissa,Rodriguez,melissarodriguez146@yahoo.com,394.923.4928,null,Albuquerque,HI,51358,2022-03-18T00:00:00Z,2025-01-07,$1490.46,Enterprise,True
+48409547,Benjamin,Campbell,benjamin_campbell@protonmail.com,146-514-0537,123,Kansas City,ND ,,2024-01-20,2022-03-17,9827.71,Premium,True
+16299165,Donna,Smith,donna-smith567@icloud.com,+19830006454,9271 Lake Dr,Fort Worth,NE,54410,2023-07-24,2026-05-20,713.67,Free,False
+70423151,Jeffrey,NULL,NULL,+12267016923,N/A,Colorado Springs,KY,39696,2015-07-20,2024-11-05,1911.34,Free,False
+34740210,  Timothy  ,N/A,null,(197) 315-5003,N/A,Atlanta,MD,82399,13/02/2019,2099-01-01,934.21,PROFESSIONAL,False
+7767045,E@ily,Adams,emily.adams655@msn.com,487.431.8592 ext.808,4560 Hill Rd,Kansas City,MD,75314,n/a,2023/06/21,8298,NULL,True
+23836772,Raymond,Y. Young,raymond_young@outlook.com ,368-880-8951,8545 River Rd,Raleigh,KS,45275,2015-02-27,2024-04-13,3079.26,Unknown,False
+8854428,Jacob,Hall,jacob.hall@icloud.com,+14669070782,P.O. Box 8393,Long Beach,AL,44623,2017-01-22,2023-03-07,159.02,Free,False
+364514,Benjamin,,null,000-000-0000,9665 Oak Ave,LONG BEACH,WV,14781,2024-10-18,2023-10-28,4962.27,Free,NaN
+18074219,Brandon,Scott,,8699688,N/A,Houston,WV,96772,2024-11-09,2022-12-20,9828.99,Standard,True
+89761945,Joshua,Johnson,joshua-johnson487@me.com,+13550752918,6605 Main St,  Indianapolis,NE,65531,NULL,32/13/2022,6815.03,Starter,False
+3088471,Richard,Lewis,richard-lewis@msn.com,073-248-4631,972 C,Portland,SD,87077,,n/a,4745.64,Enterprise,False
+89660535,Sandra,Mitchell,sandra_mitchell@hotmail.com,(073) 455-2231,,Houston,OK,62322,2019-02-13,0000-00-00,6980.21,Premium,False
+1068759,Wilson,Charles,CHARLES_WILSON892@OUTLOOK.COM,N/A,6146 Main St,Tucson,WV,37339,51-10-1202,2025-07-07,2060.29,Ultimate,
+60461794,NULL,Campbell,christopher_campbell233@hotmailcom,(040) 384-3451,n/a,Houston,IL,N/A,2019-04-07,2022-08-15,5647.7,N/A,N/A
+45210811,Laura,Lopez,laura_lopez90@me.com,557.663.8413,N/A,Raleigh,MS,300991,2018-03-03,N/A,398.18,Enterprise Plan,True
+190097,Lisa,Lee,  lisa-lee933@hotmail.com,,N/A,Minneapolis,OK,48713,2017-06-02,2025-10-13,N/A,Free,False
+0875297,Charles,King,charles-king@me.com@extra.com,668.232.8806,8776 Main St,Nashville,VT,65615,2023-09-13,2026-12-18,6364.526364.52,Basic Plan,False
+06793462,Katherine,Gonzalez,katherine-gonzalez@yahoo.com,900.085.0410,123,Jacksonville,ND,94370,2018-06-23,2024-02-11,"5439,83",Premium,True
+7321077,StephenTw,Carter,stephen-carter@aol.com,(851) 319-9954,5948_Hill_Rd,Indianapolis,AR,41571,2024-02-03,2025-02-25,5329.39,PREMIUM,True
+94862004,JacksonyT,Anna,annajackson@icloud.com,,2008 Lake Dr,Tucson,KS,28465,32/13/2022,2025-10-14,2486.46,Premium,False
+92457745,NULL,Taylor,joshua.taylor8@msn.com,(897) 610-4624,7607 Valley Dr,Dallas,KS ,32649,2020-06-17,2026-02-03,null,Standard,True
+831882,Emma,Brown,emma.brown@msn.com,223-007-8846,4852 Church St,Phoenix,CA,64274XX,2024-10-08,1900-01-01,6437.64,Free,unknown
+662738,Samantha,H. Hill,samanthahill342@aol.com,(257) 506-3849,6454 Washington Blvd,Las Vegas,GA,25482,2015-06-22,2022-07-09,569.58,Free,True
+412053,Elizabeth,,elizabeth.young184@aol.com@extra.com,+19974999432,2114 Spring St,Oklahoma City,NC,91871,2020-06-03,2025-09-15,2631.96,Basic,no
+7223005,Debra,Scott,debra.scott288@outlook.com,,8865 Elm St,New York,NY,2018,,2022-09-19,2297.14,Starter,0
+86855980,Eric,Roberts,eric_roberts@hotmail.com,(172) 379-5507,8813 Cedar Ln,Dallas,VT,41762,2020-07-08,61-70-2202,8170.41,Ultimate,True
+3676065,Brian,Hernandez,brian-hernandez168@protonmail.com,296 2370884,3457 East Blvd,"Memphis, Memphis",IN,95909,0000-00-00,2025-03-09,1400.6,Starter,False
+2053443,Jeffrey,King,jeffreyking325@protonmail.com,042-092-5502,null,Phoenix,MS,15017,2023-04-11,2023-11-11,2503.98,NaN,True
+0529257,N/A,Ramirez,donald-ramirez@protonmail.com,+18185844609,9648 Forest Ln9648 Forest Ln,Milwaukee,,41271,32/13/2022,2023-03-16,9987.68,Basic,True
+490164,Charles,Carter,charles_carter@aol.com,null,2087 North Ave,Minneapolis,NC,63284,2017-04-20,2026-05-16,7732.12,Ultimate,True
+2136489,Rebecca,Johnson,rebeccajohnson@live.com,167.367.60516051,6698 Spring St,San Jose,NC,57766,2015-03-03,2024-06-24,8861.23,Enterprise,n/a
+#5931#,christine,Lee,christine_lee315@me.com,(098) 313-5902,3875 Spring St,,UT,42784,2016-07-16,2026-02-05,9050.89,Free,True
+539125,Matthew,GonzaleziL,matthewgonzalez@protonmail.com,(002X 452-4075,NULL,San Antonio,MS,15804,2016-10-14,2025-10-28,9754.43,Premium,True
+37956181,Christopher,Harris,christopher.harris430@aol.com@extra.com,31056301912,8905 Main St,Virginia Beach,NY,41179,2018-10-22,2025-08-14,4421.54,Unknown,True
+300045,Benjamin,Hall,benjaminhall@aol.com,(206) 058-2519,,Las Vegas,TX ,94922,,01-50-3202,4672.22,Standard,False
+076033,Shirley,Rodriguez,shirleyrodriguez403@hotmail.com,N/A,8012 Forest Ln,Baltimore,MA,60581,2024-08-14,2024-09-15,5115.53,Ultimate,True
+0258968,Amanda,Harris,amanda_harris443@me.com,079-965-1880,7008 Forest Ln,San Diego,,40267,NULL,2024-03-20,5955.08,Basic,False
+0645311706453117,Matthew,Lee,matthew_lee@outlook.com,,6433 River Rd,Fort Worth,XX,70109,2018-06-23,2024-02-10,6232.57,Premium,False
+4557127,Jonathan,Roberts,jonathan-roberts349@protonmail.com,057-883-4546,506 Washington Blvd,Seattle,CA,42229,null,2023-03-19,,Ultimate,False
+77891419,Stephen,Ramirez,NULL,(373) 629-9107,9730 River Rd,Denver,RI,60729,2023-07-04,2025-08-26,7180.92,Enterprise,True
+179669,Paul,King,paul-king824@protonmail.com,,,Phoenix,GA,76398,2023-07-14,NULL,8103.42,Premium,True
+95562657,Ryan,Carter,ryan.carter@hotmail.com,NaN,8313 Hill Rd,Dallas,MD,89376,2020-12-20,2026-09-21,NULL,Standard,False
+ID-67186629,Katherine,G@nzalez,katherine.gonzalez26@live.com,225-493-2750,4915 East Blvd,Las Vegas,MT,78306,2024-10-23,2023-04-18,3625.12,Pr,False
+651195,N/A,Johnson,,(043) 339-8761,9326 Spring St,Minneapolis,,65237,2019-11-15,01-11-2202,6897.44,Ultimate,True
+752358,Pamela,,pamela_baker@hotmail.com,NULL,4321 East Blvd,Kansas City,SD,65498,2022-12-16,2099-01-01,5060.32,Free,FALSE
+35379039,john,M@tchell,john-mitchell@msn.com,+12735328682,1555 Maple Dr,Virginia Beach,MN,2913,2015-12-24,2025-03-24,4882.23,Basic,True
+42690644,Perez Perez,Brenda,brendaperez141@outlook.com,+15738299865,9077 Pine Rd,Dallas,AK,15766,2023-12-21,NaN,306.43,STARTER,True
+5541541,,brown,brian_brown307@hotmail.com,8288118,8622 Valley Dr,null,AZ,18087,2021-08-05,2024-07-28,9601.12,Enterprise,True
+0633873,Betty,White,BETTY_WHITE683@ICLOUD.COM,(421) 496-9635,4979 Hill Rd4979 Hill Rd,COLUMBUS,NV,86019,2024-11-11,N/A,6757.89,Free,True
+920339,Joseph,NULL,joseph.anderson@me.com,,8180 Forest Ln,San Francisco,VA,20009,2015-03-25,2023-06-05,NULL,Free,True
+5744910,Pamela,Robinson,pamela-robinson266@protonmail.com,+185X5600X85,8593 Washington Blvd,Houston,NE,29273,2021-05-13,,9220.39,Free,True
+ID-496800,Jeffrey,  Hernandez  ,JEFFREYHERNANDEZ@YAHOO.COM,2600007,541 Washington Blvd,San Diego,IA,,2017-09-02,2024-09-25,9376.51,Professional,True
+521301,Pamela,Nguyen,pamela-nguyen@yahoo.com,+14816533659,6607 Forest Ln,Minneapolis,MD,,18/12/2016,2023-08-06,9395.25,,False
+9020743,Deborah,Carter,deborah.carter@icloud.com,+11416514627,8660 Washington Blvd,Philadelphia,PA,13177,2016-04-02,21-10-3202,7744.98,Standard,False
+262427,Angela,Walker,angelawalker232@live.com,555-555-5555,P.O. Box 5540,Atlanta,MA,42355,2020-06-21,2026-10-11,1203.63,Starter,True
+710341,George,Adams,null,(632) 630-4828,NULL,New York,MSMS,400,2023-04-07,2026-06-13,5805,Premium,
+240555,,Moore,emmamoore293@protonmail.com,9957080,123,Austin,DE,47728,2019-08-15,2023-03-10T00:00:00Z,9392.34,Starter Plan,True
+050589,Justin,Robinson,justin_robinson@hotmail.com,(279) 524-1312,9696 EAST BLVD,,RI,9873,2016-07-22,2024-10-19,676.86,,False
+0336416,Gary,Hall,gary_hall760@aol.com,X25.X26.X384,1633_Forest_Ln,San Antonio,IN,574549,2023/06/12,2023-03-07,4708.17,Basic,NaN
+4199133,Larry,Lewis,larry.lewis@yahoo.com,000-000-0000,4015 Maple Dr,Jacksonville,AR,14179,2023-06-19,20-50-2202,9723.9,Basic,null
+2605652,Jason,Robinson,jason-robinson@live.com,(734) 862-9908,6387 Church St,Portland,Ohio,40464,32/13/2022,2024-03-19,4066.83,Enterprise,True
+043813043813,n/a,Anderson,melissa-anderson165@gmail.com,0232811510,,Char,IA,50332,2020-02-03,NaN,324.32,Basic,False
+,Nicole,aicraG,nicole.garcia481@protonmail.com,+18391761890,6340 Pine Rd,Atlanta,MT,67066,01-40-5102,2026-09-05,"2704,33",Ultimate,False
+173117,,Brown,,70232221367,1127 Lake Dr,Oklahoma City,OK,49104,2018-05-23,2024-07-13,n/a,Standard,True
+29531166,Stephen,White,stephen-white554@outlook.com,(299) 299-8419,123,Omaha,TX,50842,,0000-00-00,7552,Premium,True
+8008700,Katherine,Thomas,katherinethomas@live.com,(395) 889-4190,9401 Valley Dr,Houston,AZ,46442,2024-01-06,2099-01-01,2940.78,Professional,False
+7326132,Angela,Garcia,angelagarcia@outlook.com,254.746.8018,NULL,Charlotte,NH,99384,2015-08-25,2023-07-16,786.88,Free,False
+996528,Jessica,Jackson,jessicajackson@aol.com,(782) 844-6419,492 West Rd,San Diego,NY,79576,2020-03-05,1900-01-01,7300.24,Free,NULL
+1562482,Brian,Wright,,282-X47-9172,123,Virginia Beach,AR,5330,2019-11-16,2024-10-03,6318.72,Ultimate,True
+0076596,N/A,Anderson,karen-anderson@me.com,(128) 397-6420,4865 Forest Ln,Portland,RI,17019,,2023-06-24,9254.57,Starter,True
+9690829,Joshua,Hall,joshua-hall@outlook.com,n/a,2533 Main St,Baltimore,CO,370,,2022-04-04,7782.57,Ultimate,False
+60959770,Gary,Taylor,gary_taylor8@hotmail.com,505.334.1051,2004 Oak Ave,Oklahoma City,PA,20429-4132,2020-12-15,2026-09-24,8373.8,Standard,no
+667011,Markgk,Lee,mark-lee@,+14296390464,null,Long Beach,CA,NaN,2017-07-04,2023-06-21,N/A,NULL,False
+13783138,Robert,Carter,robertcarter917@icloud.com,944.958.7068,5263 Cedar Ln,Phil,MA,96628,2019-05-15,2026-12-14,1670.61 USD,Free,False
+499404,Kathleen,Jones Jones,kathleen_jones632@live.com,925.883.6568,9730 Park Ave9730 Park Ave,Charlotte,AK,66O6O,2022-05-11,2026-05-16,9727.74,Ultimate,True
+9773017,Katherine,Mitchell,katherine.mitchell158@gmail.com,417-647-4091,477 Park Ave,Columbus,OK,81975,2016-02-06,2022-10-20,NULL,Free,False
+8765675,Donald,Jackson,donald-jackson643@msn.com,+10936550113,4116 Lake Dr,Raleigh,IL,92424,2021-11-27,19/10/2026,3572.09,Ultimate,False
+#082373,John,Robinson,john.robinson@gmail.com,n/a,P.O. Box 7543,New York,NULL,80995,2020-02-13,2026-10-09,7725.39,Fr,True
+626739,Shirley,N/A,null,(908) 017-4206,5697 North Ave,Baltimore,KS,21480,2015-02-01,2026-10-13,6441.84,Starter,False
+33700259,Elizabeth,roberts,elizabethroberts@aol.com,+18932790091,7945 Oak Ave,NaN,ME,49513,2015-04-21T00:00:00Z,2023-01-09,7500.4,Ultimate,False
+7316064,n/a,Roberts,johnroberts@outlook.com,n/a,6919 North Ave,Phoenix,NV,,2021-08-02,2026-09-14,4306.97,Professional,True
+075713,Daniel,Green,daniel_green@outlookcom,NaN,2776 North Ave,Virginia Beach,N/A,27850,91-80-0202,2026-09-17,N/A,Starter,True
+6899771,David,Allen,davidallen@protonmail.com,(591) 916-7226,8857 South St,Charlotte,n/a,34488,2022-12-20,2022-09-16,3257.04,,False
+72346720,LauraPD,Perez,laura.perez45@protonmail.com,+13749154317,null,Memphis,WI,95990,2020-01-15,2024-08-14,2590.732590.73,,True
+143652,Larry,Davis,larrydavis@outlookcom,+14943670576,5954 Cedar Ln,Los Angeles,NV,45039,2015-08-02,2025-09-07,7614.7,Starter,False
+##07969,Donald,Wright,donald_wright260@aol.com,503.107.7830,4460 Sunset Blvd,San Antonio,MS,11377,2016-03-27,2023-06-02,4173.41,Professional,False
+675108,Joshua,samohT,joshua.thomas236@hotmail.com,558-590-9901,8315 North Ave,Baltimore,NC,12949,2024,2025-11-24,4591.68,ultimate,False
+9011112,Ronald,Lopez,ronald.lopez301@msn.com,null,6746 East Blvd,Louisville,TN,94O79,2020-08-19,2026-09-15,4582.78,Premium,False
+96388701,Kimberly,Sanchez,kimberlysanchez239@outlook.com,489 3985368,7462 North Ave,Atlanta,IA,38078,2021-09-06,2025-02-10,6928.95,Starter,False
+1217600,Amanda,nitraM,invalid-email,(660) 158-2852,1623 Pine Rd,n/a,NULL,n/a,2017-08-16,2099-01-01,6473.5,Professional,True
+4617541,David,Thomas,,000-000-0000,NaN,  Sacramento,WV,00000,1900-01-01,22/04/2023,6554.48,Starter,False
+645419,salohciN,Jones,nicholas_jones105@me.com,+13286375830,n/a,Baltimore,NV,null,2023-01-18,2024-04-17,sLJFA,,False
+0405774,Linda,Allen,null,(597) 578-0969,7061 Lake Dr,Fresno,NH,29949,2020-02-06,2026-06-15,5279.5,Ultimate,True
+6252489,Gregory,Gonzalez,gregorygonzalez460@gmail.com,485.845.8989,7316 Lake Dr,Minneapolis,,21277,12-70-5102,2025-08-21,1516.6,Ultimate,False
+,null,Anderson,michelle.anderson588ATprotonmail.com,+13318494113,3874 East Blvd,Los Angeles,ME,12337,2024-01-15,2024-03-27,9668.69,Basic,Inactive
+293499,William,Jones,william-jones@hotmail.com,(011) 655-4965,NULL,Charlotte,IL,29318,2019-03-24,0000-00-00,604.64,Basic,True
+614364,Patricia,Lee,patricia.lee144@icloud.com,659-453-80158015,570 North Ave,Mesa,,69116,2018-02-26,2026-12-23,2421.48,Starter,True
+8068788580687885,Rebecca,Robinson,rebecca-robinson637@me.com,(684) 826-4659,2330 Oak Ave,Charlotte,TX,664736,2020-05-02,2025-01-02,5604.9,Standard,
+853016,Deborah,Martin,deborahmartin@icloud.com,+10613148758,498 Church St,Chicago,OH,25O65,05/04/2019,2024-11-06,5903.11,Premium,True
+562489,Jeffrey,Williams,jeffrey-williams@live.com,+16202068455,3049 South St3049 South St,Raleigh,MT,9OO15,2024-07-24,2024-12-26,9819.24 USD,Starter,False
+839822,Kevin,Davis,kevindavis@yahoo.com,N/A,8263 Park Ave,Columbus,ID,33296,2021-04-16,2023-02-19,4133.41,Premium,False
+374423,George,Wright,georgewright@,(048) 454-1762,7521 Washington Blvd,Fresno,WA,27855,null,2022-08-13,2745.85,Basic,True
+54448068,Sarah,THOMAS,sarah_thomas@outlook.com,780-269-5526,350 South St,SanAntonio,XX,35762,32/13/2022,2026-11-07,0,Free,True
+981503,Jacob,Roberts,invalid-email,787-263-3969,4700 Washington Blvd,San Francisco,LA,17323,2022-12-01,2026-01-14T00:00:00Z,8533.91,,0
+96654043,Emma,H. Hall,emma.hall258@aol.com,+18529321913,4564 ,Virginia Beach,NV,97776,2018-10-26,2023-12-10,1903.71,Professional,False
+8830392388303923,Katherine,Roberts,katherine_roberts@protonmail.com,+10195759578,6360 South St,Raleigh,ND,11905,2016-01-13,2024-12-06,NaN,Starter,False
+304639,Michelle,Flores,michelle.flores27@live.com,(312) 892-7708,P.O. Box 1548,Kansas City,KS,75093,2017-03-08,,8662.39,Free,False
+90788874,Shirley,Clark,shirley-clark@gmail.com,555-555-5555,499 Church St,NULL,N/A,19065,2018-05-22,null,7702.72,Standard,False
+350593,Nancy,Ramirez,nancyramirez@msn.com,(257) 406-7379,5574 Washington Blvd,Indianapolis,XX,n/a,2015-09-25,2024-02-20,5357.94,Ultimate,True
+390636,Jeffrey,,n/a,644.350.0669,3768 Park Ave,,WY,48169,2016-07-05,11/25/2026,178.0,Premium,True
+22452366,Robert,Anderson,robert.anderson838@live.com,(781) 911-4896,265 South St,Tucson,NC,94809,2023-07-11,2023-09-25,3298.25,Basic,False
+474352,Debra,Sanchez,debra_sanchez592@protonmail.com ,NULL,2634 Sunset Blvd,New York,CO,29048,2022-10-14,2022-02-09,n/a,Standard,True
+1651556,Young,N/A,pamelayounghotmail.com,+12067152809,7015 Church St,San ,SC,44212,1900-01-01,2023-10-27,7768.99,Basic,False
+20308482030848,Jeffrey,Young,jeffrey-young@hotmail.com,783-866-7588,NaN,Omaha,KY,86074,2019-04-22,NULL,3201.8,Free,False
+50378951,Elizabeth,Miller,elizabeth.miller573@yahoo.com,664-436-6330,N/A,Denver,ID,1260,2021-09-07,2026-11-25,6711.81,Professional,False
+522115,linda,Harris,linda_harris267@icloud.com,,1428 Spring St,NULL,TN,97490,2021-05-20,0000-00-00,3257.62,Enterprise,n/a
+  463871  ,  Jason  ,  Garcia  ,  jason_garcia509@yahoo.com  ,  621.268.1428  ,  9553 Sunset Blvd  ,  Houston  ,  AL  ,  10700  ,  2016-09-22  ,  2023-01-17  ,  4885.25 USD  ,  Ultimate  ,  True  
+9672531,null,siweL,lisa-lewis@gmail.com,529.062.7522,8105 Maple Dr,,pa,78848,2017-10-01,2025-06-27,3214.21,Standard,False
+3984567,Jessica,Smith,jessicasmith74@mecom,999.368.9372,9292 River Rd,San Jose,AZ,57362,2021-02-02,2022-07-16,5696.09,N/A,True
+63272741,Gary,Jackson,gary_jackson196@hotmailcom,330.184.1059,5648 Maple Dr,New York,OR,206625,05/05/2020,32/13/2022,-4815.02,Basic,False
+786202,George,Carter,george-carter@live.com,902-042-4904,3846 Church St,Virginia Beach,OK,97037,2023-08-15,2023-04-12,1597.2,Basic,False
+498090,Brandon,Johnson,brandon_johnson@aol.com,524-109-9087,3172 South St,  Kansas City,RI,27715,2023-04-27,2026-03-20,1247.7,Premium,True
+0935952,James,Clark,james.clark262@live.com,+17577190000,1514 Spring St,Portland,PA,83188,,0000-00-00,6109.67,Free,False
+7748688,joseph,Lopez,josephlopez@msn.com,+12892029361,1678 Spring St,Milwaukee,LA,13984,NaN,2025-06-22,3668.99,Standard,True
+8149498,Joshua,Taylor,joshua-taylor@aol.com,(304) 158-2496,305 West Rd,Oklahoma City,OH,74855,2022-08-01,32/13/2022,1067.59,Enterprise Plan,True
+31794540,Eric,n/a,eric-wilson469@me.com,(151) 202-4613,7637 NORTH AVE,n/a,n/a,69170,2099-01-01,2022-07-21,,Standard,False
+028515,Nicholas,Garcia,invalid-email,25568740802,N/A,NULL,OK,37118,2016-08-05,2023-07-28,6262.22,Fr,True
+46344849,Kevin,Thompson,kevin_thompson@protonmail.com,922-638-3619,3393 East Blvd,Louisville,NE,34625,2017-03-09,2024-02-17,1490.16,Ultimate,False
+195052,Helen,RobinsonrH,helen-robinson299@gmail.com,(624) 609-0559,6398 North Ave,Chicago,SD,60709XX,NULL,NULL,680.26,Enterprise,True
+9711742,Joseph,King,joseph-king557@yahoo.com,347-403-6785,8258 Washington Blvd,Phoenix,PA,39273,2019-07-11,2022-03-25,N/A,Ultimate,True
+8706798,M. Michael,Lewis,michaellewis@aol.com,+11244594288,6261 Main St,Kansas City,AL,33070,2023-11-16,2023-08-27,1275.02,Basic,False
+0716478,Deborah,Jones,deborah_jones@gmail.com,951-X58-01XX,3709 Lake Dr,SAN FRANCISCO,KY,17307,2020-06-15,2023-05-16,7561.57,Premium,True
+6593520,Sarah,Torres,sarah.torres@outlook.com@extra.com,182.155.2745,6256 Elm St,Baltimore,NJ,20912,2019-11-14,2023-09-07,710.23,Starter,True
+,Christopher,Rodriguez,christopher-rodriguez359@gmail.com,null,1898 River Rd,Austin,MA,n/a,2023-11-14,2023-08-15,7042.72,Premium,False
+0075188,Jennifer,Anderson,invalid-email,+196231863456345,23 East Blvd,Seattle,AR,60645,2022-02-10T00:00:00Z,08/17/2026,2130.74,Basic,True
+21122734,Andrew,Jones,andrew_jones@outlook.com,958-686-4123,1410 Main St,"Minneapolis, Minneapolis",AL,71349,2022-02-22,2026-03-08,6778.39,En,True
+84466315,Kathleen,Wright,invalid-email,(114) 453-3246,6502 Oak Ave,Mesa,N/A,93587,32/13/2022,,6700.05,Starter,False
+639538,William,Lewis,william-lewis103@msn,585.277.0847,NULL,n/a,NE,null,2021-06-13,2024-02-22,N/A,Ultimate,False
+10398435,Sandra,Carter,  sandra_carter@protonmail.com,(398) 369-7152,3551 Valley Dr,HOUSTON,DE,72936,n/a,2023-03-27,6754.28,Starter,False
+10878517,Kimberly,Nelson,kimberly-nelson@outlook.com,(730) 754-4927,643 SOUTH ST,Mesa,MN,40475,2019,n/a,NULL,Premium,False
+1507508,David,davis,david-davis@msn.com,(158) 660-4095,7060 Valley Dr,Portland,TN,17327,2020-07-12,2024-04-09,9753.48,Basic,True
+0128716,Brenda,Lopez,NULL,(373) 7,7737 Washington Blvd,Long Beach,DE,99220,null,28/01/2025,8543.12,Premium,True
+807398,Donald,Hernandez,n/a,+13041938826,5379 Lake Dr,Phoenix,WY,46585,2020-11-17,2025-11-27,5364.47,Basic,n/a
+  8373329  ,  Sandra  ,  Clark  ,  sandraclark@yahoo.com  ,  +10078555313  ,  843 Hill Rd  ,  Virginia Beach  ,  MD  ,  56090  ,  NaN  ,  2023-03-22  ,  4824.48  ,  Standard  ,  False  
+286517,Dorothy,Carter,dorothycarter833@gmail.com,048.X36.3731,4180 Hill Rd,Minneapolis,WV,60750XX,,2024-03-27,850.01,Free,False
+10134223,Mary,Wilson,mary.wilson45@icloud.com,+10008002123,P.O. Box 8579,Dallas,AR,71912,2017-11-22,2023-11-08,5969.97,Professional,False
+28513744,Ashley,null,ashley_sanchez284@protonmail.com,N/A,2120 Forest Ln,Raleigh,MD,,2022-11-06,2023-12-02,9513.39,Premium,False
+4441002,James,N/A,jameswilliams322@hotmailcom,397.958.1696,4641 Cedar Ln4641 Cedar Ln,Fresno,CO,12318,2020-07-16,2023-10-24,1439.94,Enterprise,False
+3047298,Kenneth,Williams,kenneth.williams@protonmail.com,238.445.4161,918 Spring St,Virginia Beach,AK,50357,2019-09-22,2022-04-18,9826.71,Standard,True
+9090013,David,Hall,david-hall@yahoo.com,(918) 887-8003,8549 Washington Blvd,Albuquerque,OK,33874,2016-05-10,2024,6170.99,Ultimate,False
+5242426,Shirley,Wilson,shirleywilson@yahoo.com,n/a,8973 Cedar Ln,Albuquerque,UT,96929,2020-05-20,2026-11-21,558.53,Ultimate,True
+64122778,Jason,Young,invalid-email,(606) 937-9326,1261 East Blvd,Charlotte,UT,59998,2023-08-25,2024,9864.769864.76,N/A,True
+1136404,Amy,Taylor,amy_taylor@msn.com,298-810-9906 ext.954,33 Spring St,Kansas City,KS,66978,2021-08-25,2024-09-12,5817.68,Free,False
+180123,Matthew,KING,matthewking@icloud.com,539.856.7196,593 Forest Ln,,DE,85443,2016-11-27,2026-04-27,9287.37,Ultimate,False
+91942622,Gregory,Thomas,n/a,+16599678098,2122 Lake Dr,Baltimore,WA,45906,2024-08-05,0000-00-00,7736.66,,True
+972846,Jeffrey,Clark,jeffreyclark@outlook.com,175-421-9971,6399 River Rd,Dallas,ID,69767,2016-12-01,2025-09-09,4094.96,Ultimate,False
+2811376,John,Carter,john-carter229@protonmail.com,000-000-0000,6634 Forest Ln,Fresno,OH,65252,2021/02/02,2099-01-01,8872.42,Standard,True
+045627,Linda,n/a,linda_davis@hotmail.com,340.865.7080,5936 Pine Rd,Baltimore,MN,78857,02/14/2017,2024-06-03,3003.93,Ultimate,True
+822162,William,Green,william-green@outlook.com,073.494.9220,P.O. Box 9589,Chicago,WA,73680,2015-01-28,NULL,2983.3,Standard,False
+38833013,Robert,Smith,robert.smith@gmail.com,698-371-1290,n/a,Indianapolis,GA,26629,2016-01-20,2022-03-19,NULL,Starter,True
+3475114,Anna,,anna_flores913@icloud.com,n/a,4746 Oak Ave,Colorado Springs,AR,34928,2021-08-22,2026-09-03,1659.35,Ultimate,N
+8409458,Jacob,Gonzalez,jacob-gonzalez889ATprotonmail.com,n/a,4546_Forest_Ln,Chicago,n/a,28415,NULL,2026-12-25,0,Standard,True
+539438,Andrew,Torres,  andrewtorres@icloud.com,+16306365452,755 MAIN ST,Mesa,CA,35778,2018-12-10,2026-01-05,2088,Free,False
+25365442,Frank,Ramirez,frank-ramirez@me.com,+16776918188,1667 Elm St,Las Vegas,RI,41509,2022-10-09,2026-10-19,3212.17,premium,N
+7354953,Anna,,anna-johnson27@me.com,287-095-7991,4367 West Rd,Houston,WI,,2024-07-12,2023,5927.23,Professional,True
+7109989,Linda,Martinez,invalid-email,404-001-6038,,Oklahoma City,IL,3277,2018-12-08,2022-11-28,3708.9,Starter,False
+08808211,NULL,Green,kathleen-green@aol.com,000.538.5909,1393 Lake Dr,Indianapolis,MI,81104,2015-05-27,2025-02-03,"8301,34",Basic,True
+422525,Shirley,ClarkHS,shirley-clark@hotmail.com,+17438536438,7414 Main St,Memphis,IA,616,2019-05-26,2023-05-19,6500.14,Starter,True
+5090081,Scott,Carter,scott_carter932@outlook.com,n/a,4716 Pine Rd,"Omaha, Omaha",New York,32975,2016-11-17,2026-10-08,230.62,Enterprise,False
+7600835,Angela,Davis,angela.davis@msn.com,102.709.5768,6172_Park_Ave,Louisville,TN,77923,2021-10-19,60-11-2202,NULL,Enterprise,True
+7750312,Eric,Rodriguez,eric_rodriguez704@outlook.com,,1724 Sunset Blvd,Tucson,ND,96317,2016-02-05,2025-07-23,5907.61,Standard,True
+4219117,N/A,Scott,stephanie_scott333@hotmail.com,n/a,5110 North Ave,Las Vegas,CA,16613,0000-00-00,2025-11-25,6486.66,Professional,False
+259589259589,Nancy,Miller,nancy_miller659@me.com,974-071-2785,8099 North Ave,n/a,RI,NaN,2016-03-20,2023-10-27,6802.65,premium,True
+384462,Justin,Martinez,justin_martinez382@msn.com,383.788.2529,3361 Main St,Long Beach,DE,39163,2017-03-06,2024-08-12,195.49 USD,Standard,True
+739781,Shirley,null,shirley-jackson64@outlook.com,441.359.0846,4183 West Rd,San Antonio,LA,50032,2015-01-02,2024-01-26T00:00:00Z,4448.4,Ultimate,True
+961743,null,Robinson,jonathan.robinson138aol.com,(769) 550-9161,3761 North Ave,Dallas,NC,18856,2015/03/25,2026-08-06,$5956.41,Free,False
+7180855,Eric,,eric-williams375@msn.com,+14117478168,3565 Sunset Blvd,Los Angeles,NULL,17928,2020-06-18,2023-11-05,4183.56,Enterprise,True
+615875,Kathleensc,King,kathleenking@gmail.com,(409) 859-9758,9363 Lake Dr,Atlanta,MT,72872,2015-08-21,2025-12-20,9490.02,Ultimate,null
+7573109,Brandon,Davis,brandon-davis@msn.com,(966) 327-0025,null,New York,NV,56170,2015-01-09,2023-06-10,7853.7,Premium,True
+1927418,Ashley,Jackson,ashleyjackson764@outlook.com,n/a,P.O. Box 9342,San Antonio,New York,98082,2017-09-23,2026-01-18,3125.13,Starter,true
+0549864,null,Kenneth,kenneth-young@outlook.com,720.378.5725,2704 Church St,San Antonio,ME,94228,2024-04-16,2023-06-21,6522.77,Premium,True
+9941411,N/A,Jackson,michael.jackson579@hotmail.com,386-475-4253,9945 Sunset Blvd,Austin,NH,43321,2099-01-01,2023-02-12,5853.54,Enterprise,NaN
+58710218,Margaret Margaret,Lopez,margaret.lopez642@me.com,030-022-1740,7728 Sunset Blvd,Mesa,VA,21415,2022-03-26,2023-06-16,4645.29,Starter,False
+4681267,Baker,Brandon,brandon.baker398@hotmail.com,+19760481393,8027 Spring St,Albuquerque,IA,91724,80-70-1202,2024-03-16,2390.63,Basic,True
+389207,Joseph,Williams,joseph-williams556@aol.com,52382593607,130 West Rd,Albuquerque,NV,67980,2015-05-22,2023-12-19,-3593.55,Free,True
+7804263,Amanda,Carter,amanda-carter@gmail.com,643-785-9590,1786 Forest Ln1786 Forest Ln,Indianapolis,OK,75663,2023-03-27,NULL,9724.89,N/A,True
+3029413,Kathleen,Walker,kathleen-walker463@gmail.com,05438435726,7843 Forest Ln,Las Vegas,n/a,69542,2020-05-11,2024-01-08,7791.91,Enterprise,False
+73324279,Ashley,Hernandez,ashley_hernandez292@protonmail.com,,3047 Cedar Ln,Denver,LA ,26389XX,,2023-02-05,152.17,N/A,False
+7725161,Nancy,Rodriguez,nancy-rodriguez186@aol.com,559.495.7447,5110 Washington Blvd,Colorado Springs,AR,n/a,2017-09-19,2022-05-14,2364.15,Standard,True
+80189797,Michael,Jones,michaeljones694@gmail.com,000-000-0000,3954 Forest Ln,Chicago,KS,NULL,2023-09-10,2026-08-27T00:00:00Z,2936.31,Ultimate,True
+03254460,Wilson,Andrew,andrew_wilson645@aol,046-505-6611,6514 North Ave,Jacksonville,SC,99277,2016-12-13,2026-11-09T00:00:00Z,MeTle,Ultimate,Y
+7171928,Brian,Johnson,brian_johnson@outlook.com,+19964960796,2983 Lake Dr,"Oklahoma City, Oklahoma City",GA,44686,2015-06-12,null,1741.65,Professional,True
+3056438,Pamela,Nguyen,pamelanguyen@icloud.com,+16041707913 ext.757,7268 Cedar Ln,San Francisco,,N/A,2023-08-06,2024-09-09,5846.73,Premium,False
+75806957,N/A,Nelson,kathleennelson@aol.com,+13419440015,5012 North Ave,Denver,WY,99660,2015-09-27,2022-04-03,3074.66,N/A,no
+32064683,Gregory,Nelson,gregory-nelson738@me.com,425-141-3319,6663 Lake Dr,Atlanta,OH,26391,,,4004.3,Enterprise,True
+7011497,Amanda,Martinez,amandamartinez106@protonmail.com,290.871.6179,,Omaha,SD,23197,2022-12-14,0000-00-00,,Premium,False
+6186795,Richard,Lee,richard-lee@icloud.com,519.898.5104,n/a,Dallas,GA,,2019-06-26,2022-09-19,4229.114229.11,Free,True
+2948658,J@nathan,Young,jonathan_young502@icloud.com,N/A,4576 Pine Rd,Sacramento,NC,79520,18/10/2020,2026-02-19,1723.98,Ultimate,False
+3050195,Emma,NaN,emma.thompson58@gmail.com,(062) 565-4846,3817 Main St,San Jose,PA,35713,40-20-5102,2023-06-21,NULL,Ultimate,N/A
+7582374,FRANK,White,frank-white@msn.com,+11668344761,5964 Valley Dr,Baltimore,WI,NULL,2022-07-10,,2439.94,Professional,False
+3725257,Jeffrey,Green,jeffrey.green@hotmail.com,052.770.8931,NULL,Phoenix,SD,928168,2020-06-05,0000-00-00,7592.72,Enterprise,True
+  56071804  ,    ,  White  ,  amywhite@aol.com  ,  316.X00.0342  ,  6083 Spring St  ,  Chicago  ,  CO  ,  62307  ,  2020-03-15  ,  2025-02-08  ,  4185.45  ,  Standard  ,  False  
+75282170,Emma,Hernandez,emma-hernandez881@icloud.com@extra.com,+10027162608,9688 Spring St,Dallas,KY,71097,2024-03-12,2024-03-05,9707.61,Enterprise,False
+6393736,Debra,Wilson,debra-wilson@outlook.com,+12784017687,7194 Valley Dr,BALTIMORE,MA,47550,2015-06-08,2023-05-06,null,Standard,False
+9981496,Brian,Thomas,NULL,(485) 002-3968,1289 Church St,Virginia Beach,NC,84409,2024-12-13,2024-02-03,NaN,Professional,True
+758654,Jeffrey,King,jeffrey-king619@msn.com,(160) 643-6862,7388 Hill Rd,Louisville,NE,NULL,null,2025-11-15,40.42,Unknown,True
+6707701,ThomasaL,Garcia,thomas.garcia@aol.com,030-016-5260,4545 East Blvd,Portland,MN,31044,NULL,2023-09-19,688.03,Basic,True
+9962986,Daniel,B@own,,(341) 893-8445,9359 Spring St,Nashville,WY,51803,2018-04-26,NaN,4254.38,Enterprise,yes
+710341,George,Adams,null,(632) 630-4828,NULL,New York,MSMS,400,2023-04-07,2026-06-13,5805,Premium,
+692806,James,Thompson,jamesthompson@,null,8159 Hill Rd,Las Vegas,WYWY,34550,2017-07-17,2026-08-11,1948.37,Standard,False
+600337,Samantha,n/a,samantha.jones183@protonmail.com,925-727-1281,2788 Oak Ave,Omaha,NM,918713,2023/06/23,2025-01-25,7570.14,Starter,0
+44182497,Scott,Miller,NULL,591-768-5844,5980 Valley Dr,Charlotte,SC,34262,2016-02-17,,1039.43,Ultimate,True
+6428429,Dorothy,Lopez,dorothy_lopez26@live.com,+18687399347,4190 Oak Ave,Las Vegas,OH,74611,2018-06-21,2024-05-12,2192.6,Professional,True
+547922,Nicholas,Young,nicholasyoung291@live.com,null,,Atlanta,FL,61891,2017-06-09,01/09/2023,N/A,Premium,True
+9420394,Thompson,Pamela,pamela.thompson360@msn.com,null,9586 Valley Dr,portland,NV,24298,2017-01-26,2099-01-01,2781.37,Ultimate,False
+5294965,Angela,Perez,angelaperez286@msn.com,+12975841260,5282 Forest Ln,  Louisville,RI,92379-7643,2017-09-23,2026-08-09,5376.8,NULL,False
+2990635,NaN,Young,,(210) 520-0773,2560 East Blvd,Fresno,SD,53371,2016-10-04,2022-12-05,1999.21,Standard,True
+48375801,Paul,J. Jackson,paul-jackson351@hotmail.com,+10200503800,2760 Oak Ave,Baltimore,VA,41582,2022-01-08,2024-06-20,3520.66,Standard,Inactive
+35706133,William,Lee,william-lee230@outlook.com,704.761.7055,1959 Sunset Blvd,San Francisco,IA,69092,2022-01-21,2023-02-26,4626.9,Starter,False
+658542,DONALD,Lee,donald_lee@gmail.com,896-360-7812,,Kansas City,AZ,26305,2023-11-27,2023,"961,3",NULL,False
+797053,Edward,thgirW,edward.wright828@aol.com,503-275,5529 SOUTH ST,Baltimore,HI,47125,2015-11-12,2025-05-09,3310.35,Ultimate,True
+95060,Flores Flores,Frank,NULL,(005) 933-3128,8905 West Rd,Atlanta,TX,60522,2022-09-19,2024-01-04,NULL,Standard,FALSE
+3798722,D. Daniel,,daniel_mitchell897@live.com,(155) 537-9092,6125 North Ave,Denver,PA,35948,2017,2022-05-23,7817.76,Fr,False
+697746,K@mberly,N/A,kimberly.mitchell717@gmail.com,+10826698426,705 H,San Jose,KY,18227,2021-12-19,2026-02-10,1502.93,Basic,False
+4560787,Katherine,Gonzalez,katherine-gonzalez@icloud.com,(630) 305-5789,7318 East Blvd,NULL,XX,42072,2019-12-06,2023-04-23,7175.21$,Premium,True
+790221,Timothy,Martinez,timothy-martinez@hotmail.com,8338616128,7592 Spring St,San Diego,OK,17407,2022-05-19,2023-03-25,6619.56,Enterprise,False
+914513,ardnaS,WALKER,sandra-walker503@protonmail.com@extra.com,(900) 366-4206,,Columbus,FL,58548,2021-07-24,2022-09-01,,Basic,
+null,Steven,Jones,stevenjones@yahoo.com,+15260647783,N/A,San Jose,HI,N/A,2023-11-08,2022-06-13,2963.91,Ultimate,False
+8423851,S. Sharon,Mitchell,sharon_mitchell731@aol.com,+16539347996,123,San Francisco,,10783,2016-10-06,2023-01-20,3602.0,Free,True
+57882445,Benjamin,Johnson,benjaminjohnson699protonmail.com,(141) 960-7788,,Memphis,TN,78045,2015-01-01,2023-08-28,6825.77,Premium,
+01434013,Brian,H. Harris,brian_harris666@outlook.com,+19015917726,3280 Cedar Ln,Dallas,XX,69250,2017-12-15,2022-11-28,9865.8,Professional,True
+9160707,Daniel,Lewis,daniel.lewis921@aol.com,(439) 081-7938,1076 River Rd,Las Vegas,NH,78404,2016-05-01,03/18/2026,1829.19,Starter,False
+2635391,Benjamin,N/A,benjamin_king@aol.com,953-603-4419,7580 Washington Blvd,"Houston, Houston",AZ,64405,2018-07-10,2025-01-09,NULL,Free,True
+5541710,J. Joshua,Miller,joshua_miller@,+15090642222,34 Elm St,Las Vegas,IN,6693,2020-07-09,2022-12-13,6384.98,Free,True
+6705873,George,Anderson,georgeanderson@hotmail.com,959-755-2025,1628 Maple Dr,Philadelphia,MA,60006,2023-06-10,2022-03-13,NULL,NULL,True
+71143020,Anna,Hall,annahall@aol.com,407.462.26382638,7870 Park Ave,Louisville,NV,32738,NULL,2025-08-21,7139.79,Basic,NaN
+9737392,Campbell,Angela,angela_campbell959@msn.com,266-986-0804,8992 Spring St,Virginia Beach,SC,72107,2017-03-28,2024-08-26,7287.83,Professional,True
+665059,Katherine,Harris,katherine-harris786@live.com,(903) 826-5043,8875 Pine Rd,Portland,CO,94713,2016-01-07,2022-11-18,4348.45,Premium,TRUE
+8240257,Gary,Hill,garyhill@protonmail.com,NULL,7857_East_Blvd,NaN,N/A,NULL,N/A,2026-02-12,10.18,Enterprise,False
+58754809,  Pamela  ,Hill,pamelahill@msn.com,(379) 148-7212,8471 ,Fresno,TN,69204,2016-12-17,52-30-2202,5856.54,Premium,true
+0,NULL,Baker,raymond-baker457@protonmail.com,466-X94-2908,N/A,Louisville,NJ,37114,2023-08-12,2025-02-15,7221.32,Free,False
+67801993,Christine,Scott,christinescott@icloud.com,571-604-3445 ext.737,4363 Church St,Sacramento,TX,32933,2021-06-11,2025-02-07,9234.66,Starter,False
+4747797,Larry,Baker,larry_bakerATicloud.com,+19459237738,3419 Lake Dr,Dallas,CO,33210,2020-05-12,2022-09-23,9083.04,NULL,False
+NULL,N/A,Jones,gregory_jones122@outlook.com,499.324.2283,9724 Sunset Blvd,Philadelphia,CT,null,2016-12-01,n/a,4929.02$,Standard,True
+76868275,Sandra,Martinez,sandra.martinez93@aol.com,555-555-5555,1510 North Ave,Long Beach,MI,81949,2019-08-24,2025-01-05,2155.37,Premium,yes
+##24#8,NaN,Flores,samantha-flores606ATlive.com,(277) 235-8515,6845 Oak Ave,  Chicago,NM,76088XX,2015-07-17,2025-08-26,N/A,Standard,true
+8091498,Richard,Smith,richardsmith@aol.com,482-359-6048,2062 Park Ave,Long Beach,FL,28690,0000-00-00,2022-12-13,2826,Standard,N/A
+017542,Katherine,Davis,katherine.davis109@aol.com,688-417-3697,,"San Antonio, San Antonio",WA,29043,2020-10-17,2023-04-23,"9838,43",Standard,False
+179974,Carol,Martin,carolmartin@icloud.com,+181X83X6237,7010 Elm St,,MD,77O92,2016-11-14,2023-09-21,2878.78 USD,Enterprise,null
+92161153,Nicole,Gonzalez,nicolegonzalez286@hotmail.com,180.490.9576,8038 East Blvd,Omaha,MN,19552,2020-09-08,2023-09-03,7863.64,NULL,False
+#62751#7,White,NULL,markwhite454@live.com,000-000-0000,P.O. Box 5305,San Jose,NH,42782,2020,2022-07-01,5497.17,Professional,False
+112358,Michelle,null,invalid-email,+15069962647,4097 Forest Ln,Fresno,NM,,0000-00-00,2023-03-10,6372.74,Premium,False
+620965,Emma,Adams,emma-adamsATyahoo.com,n/a,4022 Valley Dr,Fort Worth,SD,n/a,2020-07-20,2024-11-21,7557.23,Premium,
+061729,nosleN,Brian,brian.nelson432@outlook.com,765.153.7405,1722 West Rd,Omaha,NE,82278,2017-09-22,2025-12-12,4897.97,Standard,False
+48463944,Emily,Wright,,NaN,4572 Spring St,  Denver,VT,22233,07/16/2017,1900-01-01,8160.14,Free,True
+6333388,James,Lopez,jameslopez372@outlook.com,754-900-0567,3954 PARK AVE,Houston,SC,48923,2099-01-01,N/A,4854.87,Basic Plan,False
+33401872,gnuoY,Gary,garyyoung@protonmail.com,+11431677484,3848 Main St,Denver,LA,76517,07/02/2018,2026-06-09,6751.51 USD,Ultimate,N/A
+07135436,MaryLg,Martinez,marymartinez@live.com,+16512793828,8994 Spring St,San Antonio,TX,54O75,1900-01-01,2024/07/21,259,Premium,True
+153854,Mark,Gonzalezhc,markgonzalez21@msn.com@extra.com,+13702249722,1971 Forest Ln,LasVegas,MN,16786,2018-08-04,NaN,9076.23,Basic,False
+52487557,Benjamin,Moore,NULL,+19021317017,1053 Park Ave,FortWorth,PA,21182,2019-04-18,2023-08-13,7858.73,N/A,True
+874684,Jason,Brown,jason-brown567@icloud.com,(952) 750-7553,6860 North Ave,Oklahoma City,WIWI,64104,2015-03-02,2026-01-22,iscQV,Standard,True
+53081950,Robert,Scott,robert.scott@msn.com,655.472.1852,3614 Pine Rd,Austin,CT,,2021-04-26,2024-04-20,8813.47,Free,False
+313812,Mary,Baker,mary_baker483@icloud.com,(144) 734-4596,4423 Park Ave,Omaha,AK,00000,2018-03-26,2023-08-26,102.37,Ultimate,False
+296257,Samantha,Anderson,samantha_anderson582@livecom,+10629397549,685 Main St,Fresno,,47912,2017-01-02,2025-05-20,2512.63,Ultimate,False
+919817,Ryan,null,ryan.harris473@hotmail.com,205-612-1448,7318 Pine Rd,Houston,CO,72378,2015-02-04,NaN,3304.44,Ultimate Plan,False
+13164621,Michelle,Smith,michellesmith@icloud.com,+18908264178,4770 Park Ave,Mesa,CT,21609,2024-10-28,82-40-4202,8500.4,Free,False
+5816372,Laura,Flores,lauraflores525@aol.com,(448) 072-7742,NULL,Columbus,FL,90367,2020-08-07,2025/09/22,$2087.08,Standard,False
+05256252,Dorothy,Clark,dorothyclark767@me.com,729-507-8802,2342 Valley Dr,Albuquerque,ME,38374,2017-03-24,2023/10/09,,Standard,True
+54089513,Michael Michael,Torres,michaeltorres@outlook.com,826.266.5312,6699 Sunset Blvd,San Jose,MS,67565,2018-02-05,2024-04-14,1084.51,Free,False
+72453568,Mark,Roberts,mark-roberts@livecom,155.817.9072,6053 Park Ave,Chicago,TX,37102,,2025-08-02,403.85,Professional,True
+97341863,Sarah,Gonzalez,sarahgonzalez765yahoo.com,875.914.6606,1105 Sunset Blvd,Mesa,AR,60386,2016-12-07,2024-10-21,3703.92,Starter,False
+5826392,M. Matthew,Davis,matthew.davis439@,NULL,393 Washington Blvd,Jacksonville,SD,14413,2099-01-01,2025-01-28,-7133.89,Professional,True
+66387659,Emma,Green,emmagreen@yahoo,894.467.4228,5955 Sunset Blvd,jacksonville,VT,97186,2020-06-15,2025-01-03,4755.96,Professional,False
+92313956,Robert,Martin,robert-martingmail.com,(370) 561-2240,573 Valley Dr,Phoenix,OR,55555,2023-02-26,2025-02-17,6125.62,Premium,False
+569987,Jonathan,Lee,jonathanlee921@protonmail.com,(728) 660-2250,8281 Church St,Phoenix,WV,743,2015-01-12,2023-03-20,819.81,starter,False
+16060603,NULL,Brown,johnbrown551@hotmail.com,+10425792029,5516 Forest Ln,Los Angeles,NC,29375,0000-00-00,NULL,5585.38,Ultimate,True
+0757820,Stephen,Anderson,stephen_anderson@gmail.com,+134119387148714,3974 Washington Blvd,charlotte,N/A,4159,2016-12-23,2023-07-24,268.34,Ultimate,
+  0162568  ,  Justin  ,  Brown  ,  justinbrown728@msncom  ,    ,  5454 Maple Dr  ,    ,  VT  ,  91725  ,  2020-04-24  ,  2024-03-27  ,  5777.02  ,  Basic  ,  True  
+722816,MELISSA,Adams,melissa-adams50@live.com,852-790-5142,NULL,Las Vegas,HI,50440,20-21-8102,2022-05-21,eOwsa,Ultimate,False
+6793358,Brian,Thompson,brian-thompson@live.com,(434) 869-2512,2068 Washington Blvd,Long Beach,NH,29449,2019-12-19,2023-08-20,4702.02,Basic,2
+698203,Sandra,Miller,sandra_miller@live.com,NULL,2832 ,Omaha,TN,92346,2022-02-28,2023-02-17,5845.5,Starter,False
+0787819,Katherine,,katherine_scott@msn.com,+12529458960,5583 PARK AVE,Louisville,ND,31711,2016-01-16,2023-09-17,-6761.57,Free,True
+5339016,Scott,Robinson,scott.robinson@protonmail.com,+12931997347,1129_North_Ave,Fort Worth,NV,9817,2024,2024-10-22,5454.39,Free,False
+728645,,James,james.carter@live.com,000-000-0000,N/A,San Francisco,WI,NULL,2019-09-16,2023-05-15,779.45,n/a,True
+01582140158214,NULL,Garcia,katherine.garcia@protonmail.com ,+14542462709,4943 Church St,San Diego,TXTX,59669,2016-10-10,2023-04-21,NULL,Professional,False
+4810190,Michael,Wright,michaelwright@live.com@extra.com,(016) 011-2209,7456 Elm St,Los Angeles,KS,51667,2022-10-13,2024-07-09,127.09127.09,Standard,True
+0627846,Gregory,Green,gregory-green617@live.com,750.955.9703,2797 Hill Rd,Omaha,WI,68604,2023-05-21,2022-05-04,7678.29,free,True
+16901172,Richard,Hall,richard-hall@me.com,560-696-9574,8865 Spring St,Virginia Beach,HIHI,67541,2023-08-13,2025-09-27,1567.94,Ultimate,True
+52759773,Stephanie,Rodriguez,stephanierodriguez562@icloud.com,621-163-8760,5533 ,Austin,TX,60369XX,2023-07-06,2025-01-23,2068.5,Premium,False
+719946,Benjamin,Smith,NULL,373-493-3757,4853 Elm St,San Diego,SC,28469,32/13/2022,2022-04-06,175.99,Standard,True
+31848742,Emily,Scott,emily-scott@protonmail.com,+12813706618,9656 South St,Dallas,NY,10568,2023-12-02,2026-07-27,5853.28,Premium,false
+2604936,Elizabeth,Perez,elizabethperez@gmail.com,,9300 East Blvd,Tucson,HI,44990,2020-10-16,2022-11-28,7530.44,Professional,False
+26239900,Nicholas,Nelson,nicholas_nelson205@gmail.com,(328) 586-8260,7719 Church St,raleigh,IA,45426,NaN,2022-04-19,6664.67,Free,True
+39300837,Edward,Flores,edward.flores784@protonmail.com,033.362.6590,1876 River Rd,,AK,80571,2020-01-15,2025-10-17,9014.58,Starter,True
+4991851,Lisa,Walker,lisa-walker710@msn.com,917-040-0872,4837 Hill Rd,Kansas City,IN,98841,2015-06-24,2025-12-22,4473.11,Free,True
+NULL,William,Hill,william-hill@aol.com,6471669,7218 North Ave,Long Beach,ME,77O95,2016-07-12,2023-05-09,2547.66,Professional,False
+188907,Emma,Allen Allen,emma-allen31@yahoo.com,355-203-9377,8095 Forest Ln,Virginia Beach,OH,61981,2023-06-18,2022-10-16,2805.02,Starter,False
+753931,Elizabeth,Miller,elizabeth_miller@outlook.com,+15667686355,4843 Oak Ave,Indianapolis,NY,,NULL,,8887.79,Basic,False
+922416,Debra,Torres,debra_torres@msn.com,69134451609,3306_Hill_Rd,Charlotte,CA,n/a,2016-10-22,2022-07-08,9298000.0,Enterprise,False
+4128748,Melissa,Johnson,melissa-johnson@live.com,103-008-6320,123,NULL,GA,O1O21,2016-01-06,2025-06-23,3201.38,Free,False
+  53589868  ,  Charles  ,  G. Garcia  ,    charles-garcia685@aol.com  ,  0191493  ,  3668 Park Ave  ,  Tucson  ,  IA  ,  59511  ,  2015-10-28  ,  2022-09-11  ,  4386.37  ,  Enterprise  ,  False  
+80936544,Thomas,Lee,thomas-lee@outlook.com,(707) 569-1948,1574 Forest Ln,Sacramento,ID,16877,2016-09-21,2024-10-14,9697.41,Ultimate,True
+12866585,,Miller,deborahmiller108@protonmail.com,998.254.5538,9189 Church St,Long Beach,MT,77178,2016-09-25,2024-04-19,4676.77,Enterprise,True
+21318286,George,Harris,george_harris906@,(092) 210-1004,6646 Lake Dr,San Francisco,California,15376,2018-06-21,2026-04-28,9953580.0,Standard,False
+075504,,Smith,melissasmith456@yahoo.com,(222) 930-3214,,Louisville,WY,40190,2023-07-04,2022-06-04,1179.23,Ultimate,True
+19373611937361,A. Angela,Roberts,invalid-email,119-980-6675,4638 East Blvd,San Diego,,36856-0432,2017-02-13,2022-01-12,8611.9,Enterprise,True
+618389,Matthew,M. Martinez,matthew.martinez397@gmail.com,659-889-8408,4711 Cedar Ln,n/a,AR,93849,2015-07-13,2024-09-10,5155.16,Enterprise,True
+4023575,Lisa,Young,lisa_young986@icloud.com,(309) 578-0858,4892 North Ave,Oklahoma City,IN,67539,2021-04-25,2025-09-23,,Premium,False
+64926176492617,Kevin,Flores,kevin.flores@,998-806-1402,NaN,Mesa,WI,43902,2023-08-20,NaN,6684.26,Ultimate,True
+35460962,Ronald,H@rris,ronaldharris@icloud.com,555-555-5555,3453 Pine Rd,Memphis,NH,,,2024-12-27,8820.27,PREMIUM,False
+288366,Daniel,Robinson,n/a,127-360-1697,2477 Pine Rd,Dallas,UT,44302,2022-01-24,2026-02-01,1076.57,Standard,True
+8318712,Nicholas,Flores,nicholas-flores963@me.com,(851) 361-9098,NULL,Long Beach,AK,87270,2023-01-20,2026-09-24T00:00:00Z,628.67,Basic,True
+4485457,Samantha,Martinez,samantha_martinez@gmail.com,(035) 696-2143,1517 River Rd,Seattle,IA,99731,1900-01-01,2024-08-18,1069.82,Basic,FALSE
+29885099,Joshua,Green,joshua_green@yahoo.com,null,1269 Cedar Ln,LOUISVILLE,ME,NULL,2016-08-12,2026-12-23,-8946.29,Basic,True
+544726,Joseph,Harris Harris,josephharris@outlook.com,+12231204946,5338 Spring St,Nashville,TN,48767,null,,5390.76,Standard,False
+655039,Jones Jones,NULL,amandajones@gmail.com,(130) 401-2618,6222 Pine Rd,Nashville,LA,19514,2015-07-13,2025-09-18,,Free,True
+594339,Ryan,Rodriguez,ryanrodriguez@protonmail.com,328-737-5977,NaN,Seattle,NJ,94797,2023-08-12,09/22/2022,235.5,Free,True
+835593,Gary,RODRIGUEZ,NaN,(262) 690-7715,N/A,Atlanta,MD,11346,2024-11-14,2024/03/19,8210.55,Professional,null
+29449379,Emily,White,emily-white@me.com,804-705-0555,null,Mesa,NH,25235,NULL,2025-02-17,4457.6,basic,False
+5954960,Joshua,White,joshua.white@msn.com,0443598219,9545 Sunset Blvd,Columbus,id,45663,2022-01-01,2024-03-19,6817.94,Professional,False
+64129318,Katherine,Martinez,katherinemartinez@aol.com,(225) 486-0698,5482 West Rd,Charlotte,TN,38740,2019-10-09,2023-11-16,2847.32,Professional,True
+286041,Patricia,Jackson,  patricia_jackson678@gmail.com,(633) 245-4604,,Portland,AK,43525,2022-07-25,null,6887.46,Professional,False
+48920359,Angela,Perez,angelaperez450@gmail.com,+16888489850,7264 Cedar Ln,n/a,OR,NULL,2019-11-13,2024-01-03,1867.08,Professional,False
+0,Angela,Moore,angela.moore@live.com ,336.612.7716,6793 Spring St,SanAntonio,PA,92753,2020-01-27,2023,4031.07,Free,True
+92382851,Betty,Taylor,betty_taylor881@icloud.com,,123,Mesa,CT,20900,2021-12-11,2026-06-12,7382.43,Professional,False
+017673,Ashley,null,  ashley.rivera@aol.com,471.045.5105,6312_Main_St,Denver,NE,60829,2016-12-18,2023-10-17,1699.98$,Ultimate,True
+84391507,Emma,Garcia,emmagarcia245@protonmail.com,000-000-0000,7031 Cedar Ln,Mesa,GA,48072,2023-12-16T00:00:00Z,2099-01-01,1707.55,Professional,True
+318192,NULL,King,anthony-king863@msn.com,149.996.8597,,atlanta,VT,77570,n/a,2022-03-25,3676.51,Basic,False
+15600533,Mark,Rodriguez,mark.rodriguez@protonmail.com,N/A,1690 Pine Rd,"Fort Worth, Fort Worth",SC,NULL,2018-01-25,2025-06-08,2025.77,Enterprise,False
+24082379,NULL,Harris,katherineharris488@hotmail.com,+13184540867,9689 Park Ave,Jacksonville,AR,53857,2020-04-09,N/A,258.87,Premium,False
+278486,John,Moore,johnmoore@live.com,804-483-2101,2993 Lake Dr2993 Lake Dr,Philadelphia,GA,50212,2021-11-06,2022-10-11,1818.67,Basic,False
+98870978,Kevin,Perez,kevin-perez@yahoo.com,846.012.8076,4383 Spring St,Charlotte,WY,N/A,2018-05-04,2024-12-08,6214.74,Basic,True
+987207,Mary,Rodriguez,  mary_rodriguez@gmail.com,271-903-6821,9560 Spring St,San Diego,FL,51855,2017-10-28,2025-11-15,6684.0,En,True
+087220,Jennifer,Thompson,jennifer.thompson@yahoo.com,276.816.8832,4843 Hill Rd,Las Vegas,OR,70875,2023-11-19,,3279.82,ultimate,True
+95423896,Timothy,Garcia,timothygarcia853live.com,189-019-2235,827 Washington Blvd827 Washington Blvd,San Jose,MN,35850,2021-10-12,2023-06-11,5322.52,Ultimate,False
+64477660,Deborah,N/A,deborah.hernandez@msn.com,480-938-1881,123,Sacramento,MA ,75884XX,2021-05-08,2024-09-26,2378.33,Free,False
+49085278,Jeffrey,King,JEFFREY.KING@PROTONMAIL.COM,555-555-5555,5003 Church St,Austin,NM,60013,2021-09-02,2026-11-17,7664.08,Ultimate,True
+ID-75855642,Justin,Martinez,  justinmartinez683@protonmail.com,6614588,2009 Valley Dr,Dallas,OH,84927,2022-05-15,null,4253.9,Ultimate,True
+376637,Jeffrey,Hill,jeffrey-hill224@icloud.com,6588937,N/A,COLORADO SPRINGS,MN,57123,2021-01-16,15/12/2025,9092.33,Standard,False
+83593657,N/A,Scott,gary.scott@,+19257687064,9394 South St,Chicago,MT,N/A,2021-11-01,2023-10-06,246.32,Professional,True
+255245,David,Nelson,davidnelson@msn.com,477-761,2125 Pine Rd,San Francisco,FL,57196,2022-08-15,2023-08-15,2526.28,Free,False
+6872975,Michael,Robinson,michael-robinson@me.com,+11208739378,6402 Forest Ln,Kansas City,NC,92800,2016-04-01,2024-10-20,"3456,91",Basic,False
+3409282,Larry,Hernandez,larry_hernandez@icloudcom,+13431601377,4396 EAST BLVD,Las Vegas,MO,64827,2023-02-04,0000-00-00,1395.36,Premium Plan,True
+9726526,Jeffrey,N/A,jeffrey.rivera56@protonmail.com,NULL,588 Park Ave,Tucson,TN,69475,null,2022-05-09,5884.45,Starter,True
+0385397,Michael,Jackson,michael-jackson329@protonmail.com,+11443287453,N/A,San Francisco,FL,53621,2020-11-15,2025-09-28,6804.97,Basic,False
+015329,Brian,,brian-lopez834@outlook.com,620-504-1154,573 Cedar Ln,Jacksonville,Florida,55571,2024-01-28,2023-02-22,7733.96,Free,False
+85136155,Laura,King,laura-king@live.com,N/A,NULL,Houston,MS,51798,1900-01-01,2024-12-10T00:00:00Z,4865.47,Pr,True
+61941634,David,Williams,david.williams972@me.com,(199) 892-1146,878 South St,Kansas City,IA,91074,2017-03-04,2026-09-08,3973.71,Standard,Y
+49282,John,Rodriguez,johnrodriguez@yahoo.com@extra.com,644.908.1467,4082 Oak Ave,Jacksonville,LA,94116,2020-04-02,2022-03-08,N/A,Starter,False
+366261,Debra,Green,debra.green@aol.com,+11111252720,3403 North Ave,"Louisville, Louisville",KS,10358,2015-11-03,2022-10-22,4943.56,STANDARD,NULL
+83882733,James,Rivera,jamesrivera416@protonmail.com,,191 Maple Dr,Los Angeles,GA,73792,2021-03-03,2023-11-26,4161.47,Free,False
+69710524,Sharon,Wilson,sharonwilson@gmail.com,(627) 955-9448,P.O. Box 0316,New York,MO,73185,1900-01-01,2024-06-22,3031.76$,Basic,True
+989098989098,Dorothy,,NULL,669.240.2880,7176 Hill Rd,  Baltimore,NJ,51267,2022-04-06,2024-02-23,null,Standard,False
+395306,G@ego@y,N/A,gregoryhill89@me.com,679-889-2456,691 Elm St,Fresno,RI,,2024-11-24,11/05/2022,8508.83,Standard,True
+771873,Edward,Torres,edward.torres@outlook.com,+10356750288,1638 North Ave,Kansas City,CO,73692,2015-04-02,32/13/2022,4521.75,Basic,False
+5206862,Frank,Jones,frank_jones@aol.com,+11395783493,123,Albuquerque,MI,41720,2022-05-14,81-80-5202,3438.61,Ul,True
+789488,steven,JonesoT,steven-jones131@me.com,(171) 711-7278,3764 Pine Rd,Dallas,ND,75736,2023-10-24,22/01/2025,1813.88,Ultimate,True
+149774,Laura,Allen,null,335.874.2016,1371_North_Ave,Louisville,IN,93979XX,2015-05-22,2022-06-26,1977.87,STARTER,True
+3033146,Brian,Nelson,brian-nelson@msn.com,268.366.4419,273 Forest Ln,Chicago,WV,52OO7,2022-04-20,2025-07-24,6127.85,St,False
+708608,Thomas,Davis,thomas.davis711@protonmail.com,3867903,n/a,Houston,NM,53188,2018-01-25,2026-12-15,8713.17,Premium,True
+559838,null,Clark,brian_clark265@protonmail.com,+16330233755,4883 Sunset Blvd,Memphis,AK,83434,2024-04-01,32/13/2022,4759.21,Starter,True
+5456891,Brandon,Moore,n/a,783-223-1836,1975 North Ave,NULL,ID,4850,2020-10-18,2026-02-13,7591.44,N/A,True
+0196379,Gregory,N/A,gregory.hernandez575@msn.com,(801) 987-4065,9106 Maple Dr,Fresno,AR,,2018-03-16,2025-11-06,5276.17,Professional,False
+9805830,Paul,Roberts,paulroberts934@icloudcom,771-146-7043,5696 Church St,Austin,UT,NULL,2017-10-03,2025-10-10,,Premium,True
+95256571,Donna,baker,donna-baker@yahoo.com,(275) 265-9855,7177 East Blvd,Milwaukee,KS,3OO61,2015-11-11,2022-08-25,9519.24,Professional,True
+667011,Markgk,Lee,mark-lee@,+14296390464,null,Long Beach,CA,NaN,2017-07-04,2023-06-21,N/A,NULL,False
+071636,SANDRA,Johnson Johnson,sandra.johnson566ATgmail.com,331.751.1693,7153 Oak Ave,Indianapolis,IA,22057,2024-01-08,52-21-5202,8883900.0,Basic,True
+77465905,Donna,Williams,donnawilliams113@hotmail.com,(381) 622-7996,4336 Forest Ln,Memphis,SC,21995,2017-09-28,32/13/2022,N/A,,False
+955557,George,G. Gonzalez,george_gonzalez@icloud.com,(531) 773-1429,NaN,Mesa,N/A,NULL,51-70-9102,2022-12-01,4229.4,Ultimate,True
+8343562,Richard,Miller,richardmiller14@aol.com,+17878951670,3609 Pine Rd,Portland,NY,14050,2018-10-24,2025-06-07,7444.92,Enterprise,False
+2356129,Benjamin,N/A,benjamintaylorATyahoo.com,(172X 662-6340,2560 Park Ave,Fresno,MS,42590,2015-03-18,2024-10-15,4053.66,Basic,True
+006974,Raymond,Taylor Taylor,raymondtayloricloud.com,+12314519082,1370_East_Blvd,New York,VT,27169,0000-00-00,2022-01-27,6972.64,Enterprise,True
+59312015931201,Richard,Jackson,,null,3026 Hill Rd,"Fort Worth, Fort Worth",NaN,97342,2021-07-23,2025-03-27,6048.45,Enterprise,False
+943406,Nicholaswu,Rivera,nicholas.rivera@me.com,555-555-5555,P.O. Box 3302,Virginia Beach,KS,,2019-03-25,2022-02-18,3659.6,Basic,False
+0624386,Brenda,Mitchell,NULL,(015) 349-0005,1969 South St,,,11OO0,0000-00-00,2022-01-11,"9277,77",Free,True
+888559,Sarah,Moore,sarah.moore261@msn.com,+19162915748,1958_Church_St,Raleigh,OR,68288,2016-01-17,2022/09/13,1972.08,Standard,True
+0323395,Timothy,Lee,timothy_lee90@yahoo.com,9764474,4973 Hill Rd,Nashville,OR,193544,2017-11-24,2024-03-27,"1099,71",Professional,True
+7110026,Justin,Nguyen,justin_nguyen@hotmail.com@extra.com,345-595-2206,9095 North Ave,Omaha,IN,15191,13/11/2020,2026-03-17,7979.43,Free,False
+0853533,Nancy,Robinson,NANCY.ROBINSON712@ME.COM,403.154.6420,4752 South St,NULL,OK,84700,2020-10-13,2024-05-14,6576.3,Enterprise,False
+945463,Emma,Baker Baker,NULL,+14921231181,4081 Main St,N/A,WY,95704,n/a,2024-03-08,3404.0,Free,True
+012782,Angela,null,angela.brown@msn.com,238-497-7708,898 Park Ave,Long Beach,AL,34952,2020-05-07,2022-04-15,7357.88,Standard,True
+  51769171  ,  scott  ,  Flores  ,  scott-flores529@  ,  735-968-2178  ,  6639 Valley Dr  ,  San Francisco  ,  TN  ,  NULL  ,  2022-04-18  ,  2025-11-20  ,  8543.05  ,  Ultimate  ,  False  
+9912028,Donald,NULL,donaldclark718@live.com,555-555-5555,5162 Sunset Blvd,Memphis,MAMA,69343,2019-04-03,null,7702,Standard,True
+9452196,cynthia,NULL,cynthia.hernandez@hotmail.com,+19332769669,1482 River Rd,Charlotte,N/A,88732,2016-11-11,,7361.34,Ultimate,False
+95625088,Martinez,Gary,gary.martinez@icloud.com,000-000-0000,551 East Blvd,Tucson,UT,70013,2021-07-22,2023-02-02,509.14,Starter,False
+95712955,Jason,Hall,jason_hall@me.com,495-058-0084,NULL,Chicago,SC,20O45,,NULL,9347.38,Enterprise,False
+48138129,Jeffrey,Carter,jeffrey.carter252@icloud.com,NaN,7026 VALLEY DR,Milwaukee,NJ,77653,2020-01-15,2023-01-23,8063.43,Standard,True
+77910616,Charles,Green,charles.green@hotmail.com,838.406.6511,5466_Church_St,Colorado Springs,RI,30800,2015-08-26,2022-09-28,6084.37,Basic,True
+00223832,Benjamin,Lee,benjamin-leeme.com,,6521 South St,Indianapolis,MA,30605,2022-09-02,2026-08-18,3199.48,Free,True
+NULL,NULL,Hernandez,ronald-hernandez@msn.com,678.330.0779,3909 Washington Blvd,Philadelphia,AK,65270,NULL,0000-00-00,636.4,NULL,True
+0356445,Melissa,F. Flores,melissaflores577@aol.com,(653) 3,,Denver,AK,null,2016-12-11,2023/03/20,267.84,starter,True
+,Matthew,Torres,matthewtorres@protonmail.com,(851) 615-3301,7073 Spring St,Los Angeles,WA,18799,2020-11-04,2023-01-02T00:00:00Z,2076.03,Enterprise,False
+5361677,Emma,Ramirez,emmaramirez118@icloud.com,(581) 901-8734,1484 Washington Blvd,Dallas,PA,93379,2015-03-22,2023-08-18,2918.57,Free,True
+749461,Larry,Davis,larry-davis196@aol,(734) 228-7117,NULL,Indianapolis,SC,69110,2018-06-19,2025-02-01,4691.47,Professional,n/a
+6861627,Sharon,Thomas,sharon-thomas44@protonmail.com,(066) 063-1725,715 Lake Dr,Colorado Springs,OH,39419,2017-02-27,n/a,N/A,Premium,True
+8550171,Daniel,Johnson,invalid-email,+11469059091,n/a,Louisville,DE,15596,2022-01-06,2026-07-27,7245.687245.68,N/A,True
+0916540,Gary,Lewis,garylewis148@icloudcom,N/A,123,Charlotte,WI ,90322,2018-04-17,2023/12/07,5272.18,Ultimate,True
+1500144,Ronald,Mitchell,ronald-mitchell303@live.com,(249) 731-8626,N/A,San Antonio,MA,64446,2022-06-28,null,2140.16,Professional,False
+01733777,Jeffrey,gonzalez,jeffreygonzalez@aol.com,NaN,3746 Maple Dr3746 Maple Dr,Fres,KS,,2018-09-27,07/18/2024,6294.61,Ultimate,False
+5974284,,Jackson,,867.767.8051,9491 Sunset Blvd,Colorado Springs,KS,29258,2020-10-04,2024-01-25,5006.88,Starter Plan,True
+36238615,Joshua,Perez,joshua-perez993@msn.com,+19873390509,,"Memphis, Memphis",WY,30700,2016-02-02,2026-06-07,NULL,Standard,False
+5916049,Matthew,Sanchez,matthewsanchez@protonmail.com,788-590-9407,,ATLANTA,UT,44899,2021-06-17,2022-07-18,7763.53,Free,True
+29287538,Linda,Adams,N/A,N/A,P.O. Box 8315,Portland,ME,68096-2392,2015-10-19,2025-04-09,N/A,Enterprise,False
+584954,Timothy,Rivera,timothy.rivera@gmail.com,000-000-0000,671 Lake Dr,Colorado Springs,MD,83326,2019-02-23,2024-03-21,7057.6,Enterprise,False
+5584129,Eric,Robinson,eric.robinson@me.com,n/a,null,San Jose,MN,83594,2024-07-08,2023-02-15,8924.55,Enterprise,False
+5064491,Mark,Robinson,markrobinson@icloud.com,null,2185 Sunset Blvd,Columbus,CA,69259,09/23/2019,2099-01-01,5700.72,Ultimate,True
+2643770,Brandon,taylor,NULL,002.061.3456,8979 Sunset Blvd,Minneapolis,NH,89679,2018-06-28,2026-05-07,2562.22,PREMIUM,True
+29071924,Larry,Nelson,larry.nelson909@gmail.com,+12913913047,7440 Lake Dr,NULL,TX,10760,2020-01-21,08/11/2026,9474.449474.44,Premium,True
+46669720,Kevin,Allen,kevin_allen@hotmail.com ,+12462698076,6516 East Blvd,,ND,34749,2021-03-27,2025-05-23,3025.68,,False
+183394,Sandra,Johnson,sandrajohnson782ATyahoo.com,190.104.2257,2587 Pine Rd,Milwaukee,TN,66669,2018-02-12,,5932.1,Basic,True
+0,Scott Scott,Perez,SCOTT-PEREZ@PROTONMAIL.COM,N/A,5056 South St,Portland,CO,96189-1357,2019-11-05,21-30-2202,6080.02,Enterprise,False
+1037393,Justin,Thomas,NULL,927-445-4185,5543 Park Ave,Kansas City,MO,45079,2017,2026-04-25,6134.69,Basic,True
+21452736,null,Jackson,NULL,074-419-4392,123,Las Vegas,SD,30714,2015-02-14,04/08/2025,0,Unknown,True
+7607086,Brian,,brian-taylor145@live.com,(053) 168-1426,3566 Pine Rd,Oklahoma City,AR,95076,2018-12-22,2026-05-08,6741.49,Starter,False
+034902,Sandra,Adams,sandraadams@aol.com,874.838.2112,8196 Pine Rd8196 Pine Rd,Virginia Beach,NE,88127,2019-12-12,2024-02-22,6733.3,Standard,True
+17610371,Kevin,Carter,kevin.carter@live.com,(950) 687-7387,3080 East Blvd3080 East Blvd,Minneapolis,MO,,2015-07-13,2025-01-01,3456.97,Starter,False
+7877935,SANDRA,Wright,sandra.wright676@protonmail.com,490-158-7459,7292 Lake Dr,Indianapolis,KY,56499,10/27/2015,2025-09-11,6191.6,Basic,False
+018131,Frank,Jackson,frank_jackson551@msn.com,301-311-5424,2405 Main St2405 Main St,memphis,IA,88724,2022-11-01,2025-08-09,3636.76,Starter,False
+4802941,Patricia,Jones,patricia.jones910@gmail.com,+19211819321,2620 East Blvd2620 East Blvd,Seattle,NH,66784,32/13/2022,91-40-6202,329.95 USD,Ultimate Plan,False
+,Frank,Wilson,frank-wilson162@aol.com,918-627-1379,2953 Pine Rd,San Jose,TX,2962,2020-07-04,0000-00-00,5279.06,Starter,False
+762918,K@mberly,Williams,NULL,990.760.3558,9348 Elm St,Seattle,CA,89637-8287,2099-01-01,11-60-5202,9093.16,Enterprise,False
+43805635,Carol,Martin,carolmartin@outlook.com,080-461-5102,5403 Hill Rd,Oklahoma City,MO,N/A,2021-08-20,22/09/2026,8036.2,Enterprise,False
+0515592,Carol,White,carol_white@gmail.com,n/a,5053 Spring St,Raleigh,WI,81652,32/13/2022,2022-07-27,7933.08,Ultimate,True
+5272845,NULL,Moore,sarahmoore@icloud.com,664.158.9429,223 Cedar Ln,Louisville,NH,68854,2019-07-13,N/A,6146,Free,False
+19707406,Andrew,Hill,andrew_hill268@outlookcom,8478187444,n/a,Phoenix,UT,76099,2015-05-08,2026-05-23,2410.7,Free,true
+4445831,Nancy,Garcia,nancy-garcia434@protonmail.com,+16564959325,4832 Maple Dr,Indianapolis,LA,10559,NULL,2026-12-07,4162.4,Basic,False
+394840,Melissa,Rodriguez,melissarodriguez@protonmail.com,554.473.2836,7008 West Rd,NaN,MI,35091,2022-05-06,2024-03-11,4596.36,ULTIMATE,False
+679276,Kevin,Brown,kevin.brown232@me.com ,null,2675 East Blvd,Albuquerque,FL,10949,2023-01-12,2026-12-24,-5385.96,Enterprise,True
+385047,Brandon,Thompson,brandon_thompson@live,+10965707423,758 CHURCH ST,Indianapolis,CA,NaN,1900-01-01,2026-09-17,5465.48,Basic,True
+0080054,Andrew,Flores,andrew.flores@outlook.com,991-357-3309 ext.680,790 Spring St,Portland,AL,54141,2024-10-19,2022-11-14,2784.5,Standard,Inactive
+0382617,Larry,White,larry.white@aol.com@extra.com,000-000-0000,NaN,Fres,TX,79414,2023-03-25,NaN,3136.78,STANDARD,True
+666712,Raymond,Anderson,raymond-anderson@live.com@extra.com,119-148-9460,4970 Cedar Ln,  Colorado Springs,NC,96382,0000-00-00,2023-05-10,6516.25,Professional,True
+3440402,  Christopher  ,Walker,christopher.walker@icloud.com,N/A,NULL,Louisville,NC,34412,2015-01-22,2026-05-25,647.89,Premium,False
+588097,Patricia,CLARK,patricia.clark787@outlook.com,02764997214,591 Spring St,Mesa,null,877,2021-08-15,2026-09-18,9720.61,Premium,false
+52705473,Daniel,Miller,daniel_miller823@yahoo.com,(520) 342-6967,491 River Rd,Baltimore,NE,35431,2017-07-06,2024-07-07,9319.27,Basic,NULL
+NULL,Samantha,Adams,samanthaadams766@gmail.com,(601) 416-0235,N/A,Columbus,KS,24416,2099-01-01,0000-00-00,188.77,Basic Plan,True
+257868,Susan,Mitchell,susan_mitchell370@gmail.com,+16288200882,5364 Spring St,Baltimore,RI,31660,2022/08/18,2026-05-26,9867.87,Enterprise,True
+3461995,Ashley,Roberts,ashley.roberts889@outlook.com,553-368-6193 ext.366,7908_Oak_Ave,San Francisco,NM,63858,2023-01-20,2099-01-01,3966.86,Enterprise,False
+61553595,Gary,  Anderson  ,NaN,+19197703174,3033 West Rd,Philadelphia,AR,68919,2021-08-15,NULL,4136.04,Free,false
+36371757,Scott,Lopez,scottlopez456@outlook.com,+13149363544,2099 Pine Rd,Atlanta,OH,38101,2019-02-07,2023-06-27,1069.17,Enterprise,True
+3490020,Jonathan,NULL,jonathan-mitchell912@gmail.com,328-X86-2559,1545 Oak Ave,Fresno,MNMN,n/a,2017-05-12,2026-04-08,2566.15,Starter,True
+2032618,Ryan,Hernandez,ryan_hernandez@me.com,602-330-6769,7013 Oak Ave,Chicago,NE,,32/13/2022,32/13/2022,5208.88,Enterprise,False
+2258697,Stephen,Wilson,stephen.wilson607@aol.com,084-276-3845,6789 Sunset Blvd,San Francisco,SC,77550,2022-11-25,2026-03-01,6280.29,,False
+65756632,Emily,Carter,emily-carter463@yahoo.com,(367) 048-2865,3634 South St,Austin,VA,45906,2017-10-18,2024-12-05,$4964.68,starter,False
+49321705,Martinez,Charles,charles.martinez@protonmail.com,+14343388116,7358 Pine Rd,memphis,CO,91889,2024-07-13,n/a,5412.23,Free,False
+94240060,Jacob,Brown,jacob.brown@protonmail.com ,(119) 567-8839,7499 Pine Rd,  Mesa,NC,96O77,NULL,2023-11-21,4671.93,STARTER,True
+66884082,Jonathan,Clark,jonathan.clark@me.com,119-661-3874,2876 Pine Rd,Kansas City,MO,433,2018-04-18,2025-03-06,219.53,Starter,True
+8296018,William,Smith,william_smith@yahoo,,NaN,Colorado Springs,KS,10975,2017-09-10,2022-06-05,751.8,Professional,True
+8165137,Brenda,Nguyen,brenda-nguyen662@protonmail.com,905.646.5914,N/A,Indianapolis,MT,48757,2023-12-16,2023-08-05,6970.44,Unknown,True
+1711269,auhsoJ,Adams,joshuaadams@aol.com,236.661.6842,8386 Sunset Blvd,Colorado Springs,GA,28580,2020-12-21,,6924.68,Enterprise,False
+087758,Justin,Anderson,justin-anderson280@me.com,,4693 ,Louisville,MT,NULL,2022-03-14,2025-07-12,6771.43,Standard,True
+40398314,,Young,amy.young858@hotmail.com,+11420527577,5530 Lake Dr,San Antonio,WV,77924,2017-08-25,2025-02-26,1162.51,Standard,False
+555795,Paul,Robinson,paul.robinson429@protonmail.com,279.866.0157,8342 Spring St,seattle,MA,55954,2016-12-08,2024-09-24,8928.09,Unknown,False
+641078,Anna,Hall Hall,anna_hall436@aol.com,280-458-7890,7484 Lake Dr,Louisville,MT,66649,2024-09-08,2026-11-18,9145.94,Professional,True
+00348103,Helen,Torres,helentorres@protonmail.com,779-909-4378,N/A,Louisville,VT,80612,2018-09-17,2023-12-26,2252.62,Standard,False
+0021447,Samantha,Martinez,samantha-martinez318@protonmail.com,(396) 903-1448,NaN,NewYork,HI,7OO29,2020-12-19,2024-04-23,-8385.66,free,False
+8256651,Mark,Torres,NULL,464.996.5758,1635 Park Ave,Austin,CT,11045,08/05/2024,null,1155.86,Free,True
+5879853,Pamela,Miller,pamelamiller587@,+17592170287,4268 Church St,Fort Worth,MN,46491,2024-03-04,2022-02-28,$5248.09,Standard,False
+79611243,James,Flores,james-flores@aol.com,364.291.3518,1662 Sunset Blvd,New York,HI,51815,2017-10-17,2025-11-15,120.83,Ultimate,False
+019104,Kenneth,Williams,kenneth.williams@gmail.com,+19851393477,3557 ,Oklahoma City,Ohio,72058,2022-05-25,2024-03-14,2136.0,Starter,True
+095441,Flores,Brenda,brendaflores@icloud.com,+19026424848,5179 Cedar Ln,Kansas City,WV,95638,2015-02-13,2025-01-18,5493.24,Standard,N
+7942960,NaN,RobertsvT,elizabeth_roberts241@gmail.com@extra.com,731-617-8912,3409 Maple Dr,chicago,NH,78181,2020-08-16,2026-12-18,$2816.8,Premium,True
+3350175,Kathleen,Jones,KATHLEEN.JONES@MSN.COM,null,NULL,Chicago,TX,81826,2024-09-03,2023,6607.85,Free,False
+680543,Donald,Smith,donald-smith@gmail.com,386.184.8259,8210 River Rd,Houston,XX,00000,2021-08-05,2024-06-01,5608.36,n/a,yes
+7947480,Barbara,Hernandez,barbara_hernandez@outlook.com,,432 Main St,NULL,OH,22O20,2023-01-08,2025-05-18,9518.58,Standard,True
+n/a,Eric,Johnson,eric.johnson790@hotmail.com,759-095-6079,7668 Elm St,San Diego,NE,33406,2021-07-24,2022-04-05,1906.66,Starter,True
+4854,Dorothy,Roberts,dorothy-roberts566@icloud.com,+17915044815,8302 Cedar Ln,Louisville,MS,,82-70-7102,NULL,5987580.0,Premium,True
+9757809,W@ll@am,  Martin  ,william.martin461@,387-619-4901,4983 Elm St,Austin,MA,,1900-01-01,2022-05-07,6352.39,Starter,True
+8568627,Linda,Wilson,linda.wilson@hotmail,(323) 285-7161,3372 Forest Ln,Phoenix,MD,95829,2023-06-11,0000-00-00,1436.84,Starter,True
+7490879,Jonathan,Moore,jonathan_moore55@aol.com,025-068-4214,3473 Lake Dr,"Albuquerque, Albuquerque",MS,57448,2019-07-24,2022-03-27,6592.6,Basic,True
+1424725,Jessica,Adams,jessica-adams@icloud.com,(119) 924-1143,4968 Park Ave,Omaha,OK,28857,2018-03-11,2024-12-08,7894.56,Enterprise,False
+0,Nicholas,Lewis,nicholas.lewis@live.com,N/A,NULL,Mesa,KY,35267,2019-02-07,2024-11-16,7158.88,Ultimate,True
+752215,Edward,N/A,edward-baker615@aol.com,+14901757345,431 Oak Ave,NULL,AR,10366,2019-04-13,NaN,N/A,N/A,True
+51440095,Robert,Clark,invalid-email,N/A,6417 Church St,Fort Worth,SD,NaN,06/03/2021,11/01/2023,2632.04,NULL,True
+8152962,NaN,Adams,benjamin_adamsATicloud.com,N/A,8574 Spring St,Seattle,OH,52611,2018-02-11,2026-11-26,7862.48,Ultimate,False
+2435396,Brandon,Wilson,,15509140166,n/a,Milwaukee,RI,26860,2020-03-07,20/01/2023,6132.5,Ultimate,False
+846142,Richard,Sanchez,richardsanchez@icloud.com,+18904316072,1961 Pine Rd,Los Angeles,NH,30828,2015-10-12,2025-09-27,6616.02,Basic,True
+02458205,Amanda,Wilson,amanda.wilson947@gmail.com,375.283.4002,4988_Cedar_Ln,"Dallas, Dallas",UT,35205,2019-09-04,2022-12-19,2847.8,Professional,False
+89697808969780,Andrew,Jackson,andrewjackson@live.com,(651) 421-1673,1938 Church St,Atlanta,NaN,74O48,2020-05-16,2023-09-17,7749.1,N/A,True
+n/a,Thomas,NULL,thomas-clark768@yahoo.com,(731) 454-2343,6445 Park Ave,,MT,0212,2018-07-27,2022-06-02,1297.01,Standard,False
+575861,Carol,rekaB,carol.baker@yahoo.com,390.XX2.2016,8262 Elm St,Denver,NH,00000,2018-04-23,2026-02-27T00:00:00Z,NULL,Basic,True
+373107,,Nguyen,helen_nguyen@outlook.com,+16421642401,4968 Spring St,Dallas,MA,44988,2018-12-19,2023-05-11,2122.76,Ultimate,True
+56765367,,Jones,jonathan_jones@gmail.com,+12605654975,3665 Maple Dr,Fort Worth,NJ,87374,2022-11-04,2025-07-20T00:00:00Z,5567.63,Starter,True
+3299742,Jessica,Martinez,jessica.martinez385@yahoo.com,(799) 4,3309 Lake Dr,San Antonio,NY,93488,2015-01-11,2024-06-11,5559.06,Starter,False
+523659,Carol,Thomas,carolthomas@outlook.com,(658) 007-2364,1516 Hill Rd,Albuquerque,ND,41610,31-50-6102,2024-01-27,7816.83,Enterprise,NULL
+3812293,Kevin,White,kevin.white425@me.com,(064) 011-5753,7315 Hill Rd,San Francisco,IN,52673,2017-06-28,91-20-2202,880.88,Professional,True
+07233831,NULL,Campbell,amanda_campbell361@outlook.com,942.645.2350,5250 Hill Rd,Milwaukee,MS,67079,2020-04-03,2025-01-17,4908.55,Basic,True
+97195847,Joseph,  Smith  ,N/A,(468) 883-6367,8086 Oak Ave,Seattle,LA,54720,2016-10-23,0000-00-00,5761.36,Premium,Y
+621084,Benjamin,Garcia,benjamingarcia516@live,+12954910721,2389 South St,Minneapolis,MI,79107,2015-05-05,2024-09-11T00:00:00Z,8138.23,Standard,True
+34212920,Amy,Williams,amy-williams867@gmail.com,(748) 485-4334,864 East Blvd,Albuquerque,KY,63983,2016-05-13,2026-10-09,5147.02,Professional,False
+8792847,Melissa,Brown,melissa.brown852@live.com,000-000-0000,2525 North Ave,San Jose,MI,76294,05/03/2016,20-01-4202,8027.62$,Pr,False
+7791425,Gary,Lopez,garylopez38@gmail.com,,3277 Hill Rd3277 Hill Rd,San Jose,SD,19703,2019-03-03,,0,Unknown,True
+51725979,Barbara,Flores,barbara_flores739@aol.com,,1193 West Rd,Albuquerque,MA,80536,2023-01-15,2099-01-01,NULL,Premium,True
+36978936,Sharon,zepoL,sharon.lopez@aol.com,749.293.28352835,4992 Valley Dr,Portland,NJ,70531,2016-04-23,2025-02-12,1979.22,Premium,False
+86884086,Susan,Robinson,susan.robinson@outlook.com,(729) 791-3847,5550 Maple Dr,Atlanta,WA,76215,2021-01-22,2022-07-16,null,Starter,True
+4915392,Helen,N/A,helen-campbell281@yahoo.com@extra.com,672.495.9017,6720 Spring St,Austin,XX,37180,2023-01-15,2022-02-21,6946.38,Free,False
+41237184,Kevin,Martinez,NaN,(391) 375-2690,6922 Elm St,kansas city,LA,33243,2017-02-05,2022-02-24,8402.21,Professional,False
+83426371,Mark,Allen,  mark_allen205@live.com,671.443.5232,6629 Pine Rd,Las Vegas,AZ,52317,2020-04-17,2024-06-12,5416.86,Professional,True
+80081781,Raymond,Carter,raymondcarter@gmail.com,473.X2X.6736,2773 East Blvd,Oklahoma City,ND,11857,32/13/2022,2022-02-07,8251.34,Premium,False
+0336907,Linda,Jackson,lindajackson206@aol.com,(519) 087-9250,5153 North Ave,,UT,86372,2023-12-23,,7085.6,Starter,True
+08304295,Samantha,Smith,samantha-smithATme.com,870-968-1363,9156 Maple Dr,Omaha,VAVA,36832,2017-06-08,2026-02-21,4787.54,Enterprise,True
+171153,Michelle,Brown,michelle.brown383@me.com,131.197.9619,,Jacksonville,MO,50215-8673,NULL,91-21-2202,3919.05,Basic,True
+094656,Hernandez,Larry,larry.hernandez@hotmail.com ,925.235.4067,7369 CHURCH ST,Memphis,KS,56885,2021-05-09,02/20/2022,NULL,Enterprise,Active
+934267,StevenXK,Thompsonmh,steven.thompson473@gmail.com,720-511-4731,N/A,Raleigh,AK,18106,NULL,2025-10-07,1945.25,Free,False
+194203,Mark,Jackson,markjackson776@yahoo.com@extra.com,(465) 607-0082,2761 Cedar Ln,NULL,OK,87171,2015-05-01,2022-02-24,8210.47,Enterprise,True
+973791,Pamela,THOMAS,pamela-thomas61@gmail.com,433.591.7995,N/A,Columbus,New York,NULL,2024-05-03,2022-12-01,8004.81,Premium,True
+96493893,  Sarah  ,Roberts,sarah-roberts670@yahoo.com,11557200265,3763 Park Ave,Fresno,MN,30332,2019,2022-01-26,6603.67,Basic,True
+8140206,NULL,  Wilson  ,BENJAMINWILSON@HOTMAIL.COM,+11469895742,541 Maple Dr,Kansas City,WY,61364,2022-11-28,2026,9056.05,Basic,True
+386221386221,Debra,Lewis,debralewis127@me.com,183-676-3240,9934 Hill Rd,Fort Worth,Ohio,15248,1900-01-01,2025-06-25,9083.75,Premium,True
+5861,Michael,Adams,michael-adams@outlook.com@extra.com,035.775.9072,5585 Church St,Albuquerque,,96259,2023-12-20,2022-01-19T00:00:00Z,7040.4,Standard,False
+443569,Gregory,Green,gregory_green@icloud.com,(804) 361-9341,7193 Church St,Fresno,PA,85492,2021-12-13,n/a,,Professional,False
+055104,Betty,Sanchez,betty.sanchez102icloud.com,334.593.6533,8087 Forest Ln,San Antonio,ID,00000,2022-07-09,2022,3867.21,Free,False
+25466298,David,Clark,david-clark@yahoo.com,+17681501146,4962 Church St,Minneapolis,MS,98316,2021-05-03,NULL,1912.06,Basic,True
+0,Nicole,Wilson,,897.660.6538,4104 Church St,Houston,WV,32103,,2025-02-26,3099.25,Ultimate,False
+881630,Sandra,null,sandra-wright587@gmail.com,+14756491408,null,Mesa,WY,00000,2015-06-25,81-70-2202,1440.58,Premium,True
+16530413,James,Martin,james-martin@outlook.com,(288) 536-4256,9710 Pine Rd,San Antonio,NULL,38369,2099-01-01,05/02/2026,7969.85,,False
+63989822,Andrew,Davis,andrew.davis355@aol.com,728-252-1720,3815 Oak Ave,san antonio,NE,53292,2022-02-22,2023-01-18,NULL,Premium,False
+0,Timothy,Nguyen,timothy.nguyen@outlook.com,1906759,4651 North Ave,Milwaukee,CA,89407,2019-06-14,,3199.04,Standard,True
+29733886,Michelle,Young,michelleyoung679icloud.com,+18436030796,P.O. Box 4278,,RI,44598,2018,2023-08-02,3679.61,null,False
+9314234,Angela,Adams,null,+18400226332,n/a,Charlotte,DE,36936,2017-09-04,2024-07-03,2033.17,Premium,True
+7471057,Shirley,Jones,shirley_jones@hotmail.com,+14373661178,5522 Maple Dr,Kansas City,NY,36334,2016-04-03,2026-08-10,5695720.0,Standard,True
+915346,William,,william-nguyen@gmail.com,034.973.8713,4769 Forest Ln,New York,ND,86865,2017-01-08,2026-09-28,550.8,Professional,True
+975495,A. Anna,Clark,anna.clark@me.com,537-091-9365,5241 Main St,Colorado Springs,KS,29187,06/07/2022,2023-10-24,3888.67,Starter,False
+3727801,Laura,Nguyen,laura-nguyen375@outlook.com,428-565-6538,4874 Church St,Raleigh,CO,98094,NULL,2023-05-04,1834.53,Premium,False
+365203,Joseph,Lewis,joseph-lewis871@,(243) 895-1162,771 Oak Ave,Dallas,MA,85218,2018-08-27,2024-09-03,5332.75,Professional,True
+2552859,Donna,Garcia,,816-088-1800,9991 Cedar Ln,Louisville,MD,78903,2015-05-10,2023-12-07,4129.91,Starter,NaN
+4865630,N/A,Flores,  paul.flores826@msn.com,+15991322078,,  San Diego,GA,21387,14/11/2020,2024-10-24,NaN,Premium,False
+1331839,Eric,Smith,ericsmith779@hotmail.com,(384) 895-6436,3747 East Blvd,Dallas,HI,26035,2018-02-16,2022-02-20T00:00:00Z,"9688,53",Professional,False
+44763573,Larry,Roberts,larry_roberts@outlook.com,(281) 840-0017,635 Washington Blvd,LOS ANGELES,WV,,2023-04-04,2025-07-09,7635.62$,Standard,False
+595939,Christopher,Martin,christopher-martin@yahoo,636.875.0560,208 Valley Dr,Kansas City,CT,66822,2020-11-27,2025-12-05,4357.69,Starter,False
+055859,George,llebpmaC,george.campbell806@yahoo.com,415.799.5125,null,Las Vegas,TN,73646,2024-10-16,2022-03-09,4032.72,Ultimate,True
+872484,Patricia,HILL,patriciahill857@aol.com,(020) 390-0035,502 WEST RD,Denver,n/a,53422,2023-01-04,2024-12-21,954.36,N/A,no
+ID-90349473,Justin,Hill,justin.hill@gmail.com,(396) 024-6365,5759 Forest Ln,Albuquerque,CA,00000,2016-10-19,2024-02-28,1272.41,Enterprise,False
+631089,Anna,Moore,annamoore@msn.com,048-949-3980,6456 Pine Rd6456 Pine Rd,Philadelphia,OR,77127,2021-06-12,05/19/2022,"2872,96",Starter,False
+545912,Richard,Rivera,richard_rivera754@me.com,796.754.5888,9356 FOREST LN,Mesa,FL,77936,2016-10-02,NULL,4413.86,Free,True
+null,William,,williamanderson104@protonmail.com,197-526-6166,3580 Cedar Ln,San ,NV,52710,2017-11-17,NULL,9029.34,Starter,False
+703149,Deborah,Scott,deborah_scott@aol.com ,+17760174983,3965 Church St,Atlanta,NV,32902XX,2017-02-09,2022-06-03,-2166.73,Standard,False
+282421,Charles,Adams,charles-adams@msn.com,(855) 369-1686,4414 Spring St,Charlotte,NH,23241XX,2024-09-26,2024-11-22,1141.15,Ultimate,False
+700236,Gary,Lee,garylee319@yahoo.com,581.250.3763,3939 River Rd,Austin,LA,94005,2018-08-25,2025-12-19,3311.86,Free,False
+721175,Samantha,Davis,samanthadavis@yahoo.com,250-165-2580,6925 River Rd,Seattle,GA,38221,2020-02-03,NULL,8475.7,Starter,True
+357924,NULL,Garcia,betty.garcia523@gmail.com,322-343-0007,4675 North Ave,Seattle,RI,23207,2021-03-09,2025-06-11,3047,Standard,Y
+68619585,Betty,NaN,betty.king96@hotmail.com,+19509644864,6247 FOREST LN,Raleigh,WV,85513,2016-07-05,0000-00-00,2328.96,Standard,False
+NaN,Ashley,Nguyen,ashleynguyen@protonmail.com,213.790.2843,4261 South St,Denver,AZ,12040,2019,2022-11-20,NULL,Professional,False
+3394742,Sharon,Gonzalez,,125-970-8792,376 Valley Dr,Seattle,KY,93320,2017-02-05,2022-05-13,821,Free,False
+16150840,Shirley,relliM,shirley-miller@gmail.com,097-513-8063,4427 Park Ave,Mesa,KS,82067,2015-06-18,2023-07-27,8104.11,Premium,True
+39937841,Sarah,Rodriguez,sarah.rodriguez@outlook.com,+18302202683,2611 Forest Ln,San Antonio,NM,82067,2021-12-07,2025-11-13,8314.3,n/a,True
+669217,Jessica,Ramirez,jessicaramirez669AToutlook.com,80736754872,3034 Oak Ave,Tucson,RI,41255,2022-05-04,2024,4556.16,starter,yes
+17169206,WilliamdG,Walker,william_walker541@msn.com,N/A,2160 Spring St,Phoenix,AR,61110,2016-01-10,2023-01-08,n/a,Enterprise,False
+562051,Steven,Moore,steven-moore111@gmail.com,952-831-0076,3051 Church St,Austin,MO,28636,2015-06-22,2024-12-12,7070.05,NULL,N/A
+7334379,Timothy,Lopez,timothy-lopez193@me.com,,165 Lake Dr,  Columbus,LA,29013,2017-10-20,2025-09-12,2172.86,Standard,True
+18066988,Nicole,Nelson,nicole.nelson847@msn.com,(179) 327-6987,5177 Park Ave,Omaha,IA,39171,2021-07-25,null,1971.22,Free,False
+62424550,NaN,Allen,,+15557011726,5409 Spring St,Oklahoma City,IL,94562,2022-07-09,2024,$1589.53,Professional,False
+46263812,Gregory,Wilson,gregorywilson@gmail.com,050.112.6902,7079 Elm St,Nashville,UT,83477,2023-12-28T00:00:00Z,2026-11-23,8202.48,Basic,False
+654137,Stephanie,Allen,stephanieallen@outlook.com,(212) 840-6773,9049 Valley Dr,Philadelphia,IA,24871,2022-02-21,2023-08-23,2922.15,Starter,False
+0818339,N/A,Young,frank_young607@live.com,545.980.0284,4417 North Ave,Mesa,PA,37574,2020-01-26,2024-11-25,7686.49,Premium,False
+93364784,Thomas,Brown,thomas.brown@live.com,896-870-0943,4065 Elm St,Nashville,WY,92591,2024-08-26T00:00:00Z,2022-08-22T00:00:00Z,1980.34,ULTIMATE,False
+13454365,Margaret,Adams,invalid-email,(469) 129-3173,123,Portland,NV,31963,2023,2023-12-10,9816.19,Basic,False
+235743,Thomas,Flores,thomas-flores@icloud.com,669-449-9257,7067 Elm St,Nashville,NJ,40969,2021-06-01,2022-12-07,1436.78,Basic,FALSE
+773034,dlanoR,Jackson,ronald-jackson278@yahoo.com,441.219.8716,4639 Maple Dr,Albuquerque,MD,27985,2018-12-04,2025-06-09,8999.77,Starter,True
+311251,Donald,Nelson,donald_nelson89@protonmail.com,535.844.0366,8414 East Blvd,n/a,AR,55850,2019-09-25,2023-06-14,1594.7,Free,True
+751687,null,null,scott_gonzalez@live.com,+19437627998,9477 Cedar Ln,Chicago,IN,34596,2021-12-18,2023-10-13,2165.29,Enterprise,no
+9440114,,Perez,matthew_perez474@gmail.com,827-352-6783,4596 Main St,Louisville,MO,NULL,2023-03-19,2026-07-06,N/A,Starter,False
+8805541,A@@a,Lewis,anna.lewis@protonmail.com,(687) 813-5044 ext.951,9763 Pine Rd,New York,null,25012,2016-06-27,2023-04-23,7520.58,Basic,True
+#6369685,Scott,Donna,donna.scott857@gmail.com,87833918731,6656 East Blvd,Portland,OH,98677,2017-07-22,2024-02-26,5508.38,Ultimate,False
+75946336,Betty,Robinson,betty.robinson@aol.com,NaN,P.O. Box 7129,New York,AZ,86162,2022-12-20,2023-06-25T00:00:00Z,899.35,Premium,False
+08699000869900,Joseph,White,joseph-white@me.com,686.381.5258,9565 Elm St,Las Vegas,IL,83327,2024-11-27,2026-08-21,6551.81,Professional,False
+724258,Sandra,Martinez,sandra-martinez@protonmail.com,+14582327323,P.O. Box 3259,San ,NV,NULL,2018-03-26,2023-04-26,2541.06,Enterprise,True
+004510,Melissa,Nguyen,melissa-nguyen@aol.com,773.899.0405,9279 Hill Rd,Colorado Springs,SC,90210,2021-04-26,NULL,5048.16,Ultimate,True
+311923,Mary,Wilson,N/A,(613) 005-1900,9185_Washington_Blvd,ALBUQUERQUE,MS,n/a,2019-07-19,2022-06-20,6662.74,Enterprise,False
+06799159,Sandra,Garcia,sandra-garcia@outlook.com,607-275-7531,N/A,Memphis,HI,456,0000-00-00,,1353.81,Basic,False
+0891452,Brenda,Ramirez,brendaramirez@msn.com,+13577585934,2212 Sunset Blvd,Jacksonville,AK,76573,,2023-11-19,7790.28,Professional,False
+75718189,NULL,Taylor,paultaylor@protonmail.com,483-273-9459,7936_Maple_Dr,Houston,VT,52285,2018-10-24,0000-00-00,7140.89,Unknown,0
+1161004,Nancy,Thompson,nancy.thompson571@me.com,852-627-7162,6009 Sunset Blvd,oklahoma city,AZ,,2021-10-05,2023-08-28,9387.44,Basic,True
+26699311,Mary,Thompson,n/a,NULL,2001 Pine Rd,Minneapolis,MN,21583,2019-06-06,2022-06-22,9958.5,Basic,True
+99690102,Margaret,King,margaret-king765@icloud.com,NaN,565 East Blvd,Colorado Springs,CO,18760,42-11-4202,11/02/2025,5046.96,Professional,True
+017542,Katherine,Davis,katherine.davis109@aol.com,688-417-3697,,"San Antonio, San Antonio",WA,29043,2020-10-17,2023-04-23,"9838,43",Standard,False
+892965,Joshua,Torres,joshua_torres@aol.com,(850) 939-5773,4904 Elm St,Colorado Springs,null,84277,2021-11-18,2024,7398.75,Standard,False
+66345443,Christopher,Allen Allen,christopherallen@yahoo.com,701.027.6532,NULL,Nashville,ME,77020,2018-06-10,2024-08-10,5641.15,Enterprise,False
+600738,G. Gary,eeL,gary.lee637@,(489) 281-7270,8412 Pine Rd,Colorado Springs,N/A,28239,2015-10-05,2024,7001.43 USD,n/a,True
+881268,Shirley,Clark,NULL,+10145809889,873 Sunset Blvd,Long Beach,NULL,40903,2021-02-12,2023-01-11,9308.6,Unknown,True
+5816372,Laura,Flores,lauraflores525@aol.com,(448) 072-7742,NULL,Columbus,FL,90367,2020-08-07,2025/09/22,$2087.08,Standard,False
+NULL,Donna,Walker,DONNA-WALKER@GMAIL.COM,,2132 Church St,colorado springs,IN,80221,0000-00-00,2026-05-07,771.57,Free,False
+4043620,Jason,LopezIR,jason.lopez136@icloud.com,495.583.3087,2281 Maple Dr,Fresno,MS,53989,04/06/2023,2025-08-15,2911.42,Standard,False
+4028223,Matthew,NGUYEN,matthew.nguyen605@aol.com,(986) 497-0394,953 Elm St,Louisville,IN,22388,2017-10-26,2023-07-27,8822.56,Premium,1
+256094,Mark,clark,mark-clark756@me.com,(075) 344-0012,826_North_Ave,New York,NJ,24960,2021-04-09,2026-06-28,7943.797943.79,Professional,True
+106602106602,sharon,Sanchez,sharonsanchez766@protonmail.com,426-368-9944,3200 Valley Dr,Oklahoma City,VA,68495,2021-02-09,2025-12-14,4115.36,Free,True
+26041147,Jacob,HERNANDEZ,jacobhernandez@outlook.com,(593) 261-8583,3715 Cedar Ln,Omaha,CA,73748,2019-06-26,2024,,Starter,Y
+122332,Robert,Carter,robert-carter582@live.com,761.816.8228,2431 East Blvd,New York,KY,57731,2023-12-28,2026-07-16,-6186.5,Premium,False
+6919916,  Sarah  ,n/a,N/A,N/A,8022 River Rd,NaN,AR,95118,2018-12-10,2024-08-14,3378.49,Starter,False
+863773863773,John,NULL,johnlee384@outlook.com,+18939863747,7480 Pine Rd,San Jose,HI,28531,2021-05-28,2025-12-22,850.31,Professional,True
+177709,Jason,Sanchez,JASON.SANCHEZ@ME.COM,null,4536_South_St,Chicago,RI,62254,2017-11-10,2024-01-14,2075.33,Ultimate,True
+0,Kimberly,Hernandez,kimberly.hernandez@me.com,(562) 948-3524,5251 West Rd,Phoenix,AZ,80888,2015-02-12,2023-04-15,2805.63,Enterprise,False
+96654043,Emma,H. Hall,emma.hall258@aol.com,+18529321913,4564 ,Virginia Beach,NV,97776,2018-10-26,2023-12-10,1903.71,Professional,False
+942231,NaN,Sanchez,debra_sanchez@protonmail.com,837-385-1404,n/a,Virginia Beach,TX,24472,2020-07-19,2024-10-01,0,Basic,True
+98826118,Joseph,White,joseph_white616@outlookcom,524.257.8808,8249 North Ave,Dallas,MO,34956,NULL,2025-06-02,8385.22,Free,True
+791496,n/a,Smith,laura.smith220@gmail.com,585.100.1608,1558 West Rd,,KS,58414,2024-10-17,2026-09-25,$5849.2,Premium,True
+0704095,Jacob,Clark,N/A,915.323.9085,null,NULL,MN,81382,2016-12-24,2022-06-27,4521.65,Starter,False
+4420859,neraK,Rodriguez,karenrodriguez412@live.com,080.503.0615,2217 Hill Rd,Philadelphia,WA,14927,2022-12-10,2022-03-16,2706.13,Ultimate,False
+1286227,Carol,King,carol-king428@yahoo.com,+10228103334,206 Sunset Blvd,San Antonio,SD,NULL,2017-06-04,2025-05-08,3021.42,Standard,True
+605336,Emily,Young,emily-young166@outlook.com,+13688399229,9792 Forest Ln,SEATTLE,IL,27482,2018-03-09,2025-10-08,3510.68,Standard,False
+90322684,Daniel,Hernandez,daniel.hernandez@msn.com,X74.X87.53X6,3770 ,Memphis,IA,228,2018-12-14,32/13/2022,739.93,Free,True
+0,David,NULL,david.lee@gmail.com@extra.com,+18951234169,750 Valley Dr,Albuquerque,NY,27200,2016-10-24,2023-03-18,7598.43,starter,True
+354954,Jonathan,Thomas,jonathanthomas@icloud.com,(943) 250-9888,5364 Washington Blvd,Virginia Beach,ND,34851,2024-02-05,2023/07/01,298.16,Standard,False
+8244702,null,Clark,donna.clark@protonmail.com,(243) 143-1335,P.O. Box 6377,Philadelphia,MS,67594,2017-09-04,2024-12-07,7031.957031.95,Standard,True
+3752423,Melissa,Sanchez,melissa-sanchez868@yahoo.com,(316) 483-0452,4485 Hill Rd,Omaha,NM,97181,2022-08-10,2025-07-25,1972.39,Free,True
+68923969,Shirley,Jackson,shirley.jackson@me,,124 Maple Dr,Colorado Springs,MO,57814,2019-10-24,NaN,7917.07,null,False
+80177350,Mark,Davis,mark_davis925@me.com,043.503.8007,2552 North Ave,Omaha,OR,22205,1900-01-01,2023-07-26,8419.24,Ba,True
+4300614,Margaret,  Walker  ,margaret_walker391@live.com,+11842090876,9934 South St,Omaha,TN,36765,0000-00-00,,3661.3,Ultimate,False
+82560190,Carol,Sanchez,  carol-sanchez@aol.com,+11489675006,3737 North Ave,milwaukee,FL,177113,32/13/2022,2023-03-12,2620.68,Premium,True
+727163,Timothy,Taylor,timothytaylor@hotmail.com,171.401.5617,P.O. Box 5229,Philadelphia,CO,48260,1900-01-01,32/13/2022,9932.63,Basic,False
+41607243,null,Torres,charles_torres320@me.com,581-700-4464,8395 Cedar Ln,  Portland,NV,NULL,2019-11-22,2026,6672.98,Basic,False
+8036319,Justin,C@ark,justin_clark423@gmail.com,+131294385728572,6673 Main St6673 Main St,Las Vegas,IA,76482,2017-09-12,0000-00-00,1026.6,Premium,NULL
+651451,Charles,Green,NULL,+108921,6149 RIVER RD,Tucson,HI,33567,NULL,11/20/2026,NULL,Standard,False
+1889617,Donna,Robertssq,NULL,308.838.1770,3439 River Rd,Fort Worth,IL,47560,2019-09-11,,2730.18,Premium,False
+35095819,Amanda,Thomas,amanda.thomas510@gmail.com,N/A,2354 Lake Dr,San Francisco,MA,5OO51,0000-00-00,2023-03-05,963.68,STARTER,False
+548085,Gary,N/A,gary.roberts@hotmail.com,756.733.8506,3182 Pine Rd,Columbus,MT,34408,2017-02-13,2026-01-26,9933.17,Ultimate,False
+8081492,Jeffrey,Flores,jeffreyflores707@protonmail.com,+16716091458,2970 Church St,Las Vegas,WY,57002,2024-01-28,2023-08-16,1133.81,N/A,False
+82068094,Stephen,Smith,stephen_smith224@hotmailcom,969.417.8222,N/A,San ,CO,98580,2022-10-01,2026-01-28,4825.5,Professional,False
+12461001246100,Kimberly,Martinez,kimberly.martinez@hotmail.com,+13616007772,8033 South St,San ,OH,55038XX,2023-09-01,2022-07-04,3839.38,Professional,False
+4254533,Christine,Perez,christine-perez@aol.com,(899) 184-1133 ext.464,8528 Cedar Ln,Virginia Beach,SD,49219,0000-00-00,NULL,null,Ba,
+##3524,Frank,Brown,frank-brown741@outlookcom,(781) 044-4769,994 Sunset Blvd,Louisville,CT,42591XX,2018-04-18,2025-03-14,1838.96,Free,N/A
+77842436,Rebecca,Wright,rebeccawright@live.com,995.956.0481,6212 River Rd,Columbus,NULL,52840,2020-07-09,05/27/2025,823.65,Basic,True
+60199736,Rebecca,walker,REBECCA-WALKER@YAHOO.COM,(159) 560-4582,3085 South St,Virginia Beach,CO,92611,2024,NULL,183.71,Premium,False
+44424,Carol,Lopez,carollopez4@protonmail.com,347.041.6549,N/A,Mesa,AR,88477,2017-09-26,NaN,7196.93,Ultimate,False
+24457794,Amy,Lee,amy.lee@gmail.com,+11714904184,6544 Main St,Denver,DE,67079,2019-12-22,2024-09-11,6152920.0,Professional,True
+14851003,Nicholas,Walker,nicholas_walker415@,(824) 512-6520,5102 Forest Ln,Chicago,MI,97340,2099-01-01,2023-08-02,-4276.85,Professional,True
+088606,Melissa,Lee,melissa.lee926@icloud.com,+18461731542,2597 Sunset Blvd,Dallas,MN,88812,2016-09-18,2023-12-03,1782.28,Free,False
+14013662,Joseph,Clark,joseph_clark658@gmail.com@extra.com,+17800846794,5119 West Rd,Fresno,ND,49074,2016-04-18,2023-02-06,NULL,Basic,False
+440865,Donna,Garcia,donna_garcia@gmail.com,+14292877941,6973 River Rd,Milwaukee,AZ,,2022-08-12T00:00:00Z,2024-10-12,4491.77,Enterprise,False
+9643462,Stephanie,Scott,stephanie-scott@yahoo.com,405.256.4760 ext.708,893 Forest Ln,Nashville,IL,88109,2018-05-13,2026/09/20,NULL,Free,
+88411002,Nancy,Lewis,NULL,(278) 199-5106,2208 Forest Ln,Baltimore,WA,17115,2023-04-06,2022-01-09,7611.16,Free,False
+025399,,Perez,emily.perez@protonmail.com,17349491412,1522 Oak Ave,NULL,AK,84120,2023-03-09,1900-01-01,,Starter,False
+,Frank,Lewis,frank-lewis@me.com,(066) 696-5226,3900 Elm St,NaN,RI,76821,2020-10-27,2025-06-26,3631.23,Standard,True
+3631700,THOMAS,Torres,thomas_torres@msn.com,+17038272036,3370 Sunset Blvd,Baltimore,FL,67654,2016-04-23,2024-09-24,5997.83,Enterprise,True
+07464568,Gary,Johnson,gary_johnson416@yahoo.com,916-534-2856,6532 EAST BLVD,Atlanta,OH,24000,2021-05-25,2026-09-01,2655.88,,True
+653687,Jason,Miller,jasonmiller@gmail.com,,9733 Valley Dr,Memphis,NH,72700,2017-05-06,2026-06-26T00:00:00Z,2821.56,Standard Plan,False
+5800679,Ashley,Gonzalez,ashleygonzalez755@gmail.com,445.668.4754,9065 Maple Dr,Seattle,TN,64675,2022-02-16,2026-11-12,4486.01,Ultimate,True
+212257,Andrew,Baker,andrew_baker82@hotmail.com,(373) 931-5329,6295 Elm St,Kansas City,OR,59653,2015-03-09,,NULL,Enterprise,True
+440646,Christopher,zednanreH,christopher-hernandez@me.com,(677) 087-6147,2895 Valley Dr,Nashville,WI,951061,2017-09-02,2023-02-12,NaN,premium,True
+34793683,Brandon,Hall,brandonhall@icloud.com,+12748405661,7826 Oak Ave,Philadelphia,IN,66509,null,2025-07-15,2191.74,Premium,True
+77891419,Stephen,Ramirez,NULL,(373) 629-9107,9730 River Rd,Denver,RI,60729,2023-07-04,2025-08-26,7180.92,Enterprise,True
+05873649,Ryan,Robinson,ryan-robinson@aol.com,+15985649247,4144 Church St,Columbus,SD,00000,2099-01-01,2026-09-19,2126.28,Ultimate,True
+25689576,Benjamin,Hernandez,benjaminhernandez424@live.com ,+14002351151,5215 West Rd,Philadelphia,MN,37530,2024-09-25,2026-06-21,1682.03,Standard,False
+832988,Kenneth,Roberts,kenneth-roberts@live.com,555-555-5555,null,Baltimore,UT,59469,2015-01-16,2025-08-14,n/a,Basic,True
+61689,Nicole,Carter,nicole_carter632@icloud.com,729.937.1020,1472 South St,Jacksonville,OH,92206,2021-06-09,2026-01-27,4654.81,Free,True
+72413294,Justin,n/a,justin-rodriguez385@yahoo.com,,6897 Maple Dr,Dallas,AZ,49634,2018-10-17,2024-03-20,5434.97 USD,Starter,True
+470652,Ashley,Green Green,ashley.green@gmail.com,+14389763062,2860 Sunset Blvd,Houston,NC,,2021-04-19,2099-01-01,3864.23,Professional Plan,False
+077732,Brandon,Robinson,brandonrobinson374@msn,767-509-50795079,1895 ,Colorado Springs,California,30112,90-01-2202,2023-08-14,9776.41,Enterprise,True
+81073827,Laura,Nguyen,laura.nguyen986live.com,477.234.2207,,Minneapolis,VT,23685,1900-01-01,NaN,7116.42,Professional,True
+5936602,Benjamin,NaN,benjamin_garcia462@live.com,334.572.16481648,6607 SPRING ST,Fresno,NH,30012,N/A,2025,8734.24,Professional,False
+49435410,Larry,Torres,larrytorres@icloud.com,+11760121823,N/A,Jacksonville,MS,20330,2020-09-19,2022-05-04,9230.65,Premium,True
+906965,Sarah,Williams,invalid-email,+12387612078,8162 North Ave,Oklahoma City,CA,90542,2015/01/07,2023-03-24,4311.96,N/A,True
+555139,Nicholas,Lopez,nicholaslopez@aol.com,+18756416850,4045 Forest Ln,,UT,51701,2024-02-03,2025-06-21,2136.18,Standard,yes
+68479217,Dorothy Dorothy,NaN,dorothy-brown444@protonmail.com,+16854789169,6714 West Rd,Chicago,NY,310312,2016-12-02,2022-02-15,NULL,FREE,False
+407393407393,N/A,Nguyen,jessica.nguyen@msn.com,111-687,,Columbus,OR,85715,2017-12-18,2024-09-04,n/a,Premium,False
+5267251,Helen,BakerrO,helenbaker@me.com,N/A,5251 Main St,Tucson,KS,91580XX,2023-05-18,06/01/2024,3635.65,Ultimate,True
+023642,Katherine,Smith,katherine.smith@yahoo.com,(575) 538-2944,4278 Elm St,Milwaukee,NC,,2023-02-17,2024-06-04,8030.4,Starter,False
+3712705,Jennifer,,jennifer_baker527@live.com,081-591-9500,6951 Cedar Ln,Columbus,OH,67047,2016/12/22,2023-01-15,7170.09,Basic,True
+09771120,Andrew,Anderson,andrew_anderson@aol.com,555-555-5555,123,Charlotte,NJ ,93611,2019-08-09,2022-08-10,6777.71,Premium,True
+861679,Amy,R. Rodriguez,amyrodriguez@yahoo.com,N/A,6629 North Ave,Jacksonville,KS,81659,2019-10-22,2025-11-20,1236.35,Premium Plan,True
+84252116,Nicole,Smith,nicole.smith@protonmail.com,,2208 South St,Chicago,OR,O9O49,2015-03-09,2023-09-13,5995.57,Basic,False
+600964,Laura,Jackson,NaN,n/a,,NULL,KY,99728,2018-07-24,2024-07-14,N/A,Free,True
+378870,Cynthia,Green,cynthia_green@yahoo.com,802-512-3165,9150 West Rd,Milwaukee,WV,23829,2024-06-22,2025-12-22,4273.61,Standard,True
+52830463,Brenda,Lopez,brenda.lopez272me.com,NaN,N/A,Mesa,MI,00000,2018-05-26,05/11/2025,5062.43,Professional,False
+0202726,Sandra,Young,sandra_young347@protonmail.com,702-006-4917,8564 Sunset Blvd,Raleigh,NM,45003,2017-12-04,2025-12-28,NULL,Ultimate,True
+9693839,Anna,Nguyen,anna-nguyen@aol.com,n/a,937 Lake Dr,Memphis,CO,12873,2021-11-13,21-10-5202,5563.76,Basic,False
+76996196,Jonathan,Harris,jonathan_harris@outlook.com,N/A,4475 Oak Ave,Omaha,OH,39865,2018-02-18,1900-01-01,1217.44,Enterprise,False
+40915774,Frank,Rivera,frank_rivera625@outlook.com,000-000-0000,2712 Park Ave,Indianapolis,DE,13818,2023-02-17,,7209.15,basic,False
+3723773,Christine,Walker,christine_walker@me.com,3032960,5705 Elm St,Los Angeles,MSMS,71089,2099-01-01,2023-10-18,8763.56,Enterprise,False
+99805192,Amy,Lopez,amylopez@msn.com,411-142-1775,NaN,Baltimore,NV,77538,2020-02-13,1900-01-01,4777.15,Enterprise,True
+72762606,James,Young,james_young603@hotmail.com,(308) 443-4521,177 North Ave,New York,MI,,11-60-5102,2025-04-17,7172.15,Starter,True
+1761787,Karen,King,karen_king131@me.com,386-221-6746,8556 CHURCH ST,Virginia Beach,ID,10186,2019-06-28,2025-12-23,8283.91,Enterprise,False
+82636027,Kevin,Garcia,kevin-garcia558@icloud.com,555-555-5555,9173 Cedar Ln,Columbus,CO,26795,2015-06-20,NaN,5741.41,Enterprise,True
+4183422,Jonathan,Jones,jonathan.jones@live.com,+17677482569,NULL,Kansas City,ID,00000,2018-12-10,2023-01-04,NaN,Standard,True
+79851089,Amanda,Johnson,amandajohnson@msn.com,972-796-5482,N/A,Mesa,TN,18410,2021-05-08,2023-11-03,,ULTIMATE,False
+#7107#,SHIRLEY,Green,shirley_green847@aol.com,660-580-5343,1679 Washington Blvd,San Jose,NC,38981,2018-09-20,2026-09-23,,Standard,False
+5366786,Andrew,Young,andrew.young@live.com,213.158.1561,N/A,San Diego,ME,87680,2018-09-22,0000-00-00,8833.92,Starter,True
+512502,Amanda,Lopez,amanda.lopez@icloud.com,446-122-2393,1114 North Ave,Loui,SD,56034,2018-04-24,2025-04-21,2979.01,Free,False
+82956137,Justin,null,justin_jones41@outlook.com,71293391537,N/A,Seattle,WI,40870,2023-05-25T00:00:00Z,2025-12-01,7330.17,Standard,True
+0,Jennifer,N/A,jenniferclark@protonmail.com,165.094.3843,813 WEST RD,Columbus,NE,,2016-07-18,2023-02-10,424.51,Enterprise,False
+8099216,Kimberly,Rodriguez,KIMBERLY_RODRIGUEZ@MSN.COM,218.296.0372,257 West Rd,  Raleigh,,60067,2019-11-21,2099-01-01,8169.38,Enterprise,False
+23067695,Michelle,Mitchell,MICHELLE_MITCHELL@HOTMAIL.COM,008-X10-2143,4910 West Rd,Portland,NE,42998,2020-12-01,2024-05-14,-1687.76,Basic,False
+4679413,Laura,Smith,laura.smith375@gmail.com,(096) 027-9483,5683 ,Tucson,OR,18105,2020-03-06T00:00:00Z,2024-05-03,2095.84,Professional,False
+565990,Christine,Nelson,christine-nelson541@,(940) 774-2888,8908 Park Ave,Nashville,NC,22151,2017-05-06,2025-07-10,4809.94,Premium,False
+888349,,Martinez,angela.martinez@icloud.com,115.962.8050,4361 River Rd,  Oklahoma City,NM,67275,2021-10-25,2025-03-12,2020.3,Free,NULL
+12217148,Robert,nosliW,robertwilson212@hotmail.com,NULL,7034 East Blvd,Louisville,NC,97319,2021-03-22,2022-09-11,2002.71,Standard,True
+9491820,Nicholas,Gonzalez,nicholasgonzalez@protonmailcom,n/a,,Houston,CT,40422,2099-01-01,NaN,5096.85,Free,False
+8338757,Lisa,Clark,lisa-clark167@yahoo.com,(700) 213-8109,5537 Church St,Minn,NM,14062,NULL,,540.29,Professional,True
+#2#4#7,  James  ,Wilson,james.wilsonAToutlook.com,,1907 Sunset Blvd,Portland,FL,69444,1900-01-01,2026-10-04,,Professional,True
+ID-0094384,Eric,Hill,eric-hill723@hotmail.com,783.155.3796,123,Los Angeles,VT,O0O82,2024-09-13,70-90-3202,7466.29,Ultimate,
+1631648,Andrew,Scott,andrew-scott949@outlook.com,+14851514428,1436 North Ave,Tucson,wv,59663,2017,2025-10-03,9869.42,Enterprise,NULL
+3946540,Thomas,Roberts,thomas.roberts121@live.com,721.402.2702,6164 Valley Dr,Mesa,OR,90421,2022-11-09,32/13/2022,n/a,N/A,null
+0385397,Michael,Jackson,michael-jackson329@protonmail.com,+11443287453,N/A,San Francisco,FL,53621,2020-11-15,2025-09-28,6804.97,Basic,False
+815198,NaN,Young,christopher_young@msn.com,(383) 445-5733,3993 Oak Ave,Long Beach,DE,85390,2021-12-24,,3036.79,Free,Active
+25684408,Carol,Rivera,carolrivera@me.com,(623X 285-1303,9762 Cedar Ln,Portland,N/A,14798,2023-12-13T00:00:00Z,2023-03-03,5352.17,Premium,True
+5064491,Mark,Robinson,markrobinson@icloud.com,null,2185 Sunset Blvd,Columbus,CA,69259,09/23/2019,2099-01-01,5700.72,Ultimate,True
+149774,Laura,Allen,null,335.874.2016,1371_North_Ave,Louisville,IN,93979XX,2015-05-22,2022-06-26,1977.87,STARTER,True
+5455122,Gregory,Nguyen,gregory-nguyen@icloud.com,+19597226956,,Colorado Springs,AZ,73513,2020-05-05,2023-11-09,5546.46,Basic,True
+777438,Amy,Hill,amy-hill@aol.com,964.032.75197519,2860 South St,Sacramento,,39154XX,2020-08-07,n/a,8919.9,Enterprise,True
+82985208298520,Frank,Hernandez,frankhernandez485msn.com,NULL,4928 Park Ave,Albuquerque,RI,54199,2023-01-12,2022-12-26,3059.48,Basic,False
+ID-7756156,Ryan,King,ryan-king@hotmail.com,432.887.9965,6379 Cedar Ln,NaN,NC,63372,2023-12-28,,9115.54,Enterprise,True
+37367100,Susan,n/a,susan_nelson252@protonmail.com,+14304101376,NULL,Long Beach,AK,56782,2018-08-07T00:00:00Z,2026-01-27,5549.75$,Premium,True
+0005147,Elizabeth,Nguyen,elizabeth.nguyen549@aol.com,+10344200266,N/A,Oklahoma City,CO,43453,,2024-06-24,2631.1,Premium,True
+512452,Kimberly,Scott,kimberlyscott662@live.com,702.635.4547,5765 Spring St5765 Spring St,Seattle,MD,42951,2018-02-24,2023/06/04,7430.09,Premium,True
+67199644,Richard,White,richard.white@aol.com,576-666-0529,6159 Forest Ln,Albuquerque,DE,84260,2022-09-21,2026-07-18,8869.66,Premium,False
+149235,Jacob,Baker,jacob_baker573@aol.com,543.479.0121,3708 Lake Dr,Virginia Beach,NY,59455,2017-02-27,2025-05-03,6386.05,Enterprise,False
+9352681,Jessica,White,invalid-email,494-241-7875,6774 Cedar Ln,Denver,GA,639561,2019-03-14,2022-08-26,7627.51,Unknown,False
+273936,Edward,Smith,edward-smith509@outlook.com,555-555-5555,1973 Elm St,  Austin,MO,87539,2020-02-10,2023-07-20T00:00:00Z,1626.12,N/A,True
+4285182,John,Miller,john.miller@me.com,160-360-6600,4195 West Rd,NULL,IN,39311,2024-02-07,2023-11-06,3639.35,Ultimate,True
+2264209,Kenneth,Moore,kenneth_moore495@msn.com,539-797-7450,N/A,Sacramento,OR,24280,NULL,2022-02-18,1696.71,Free,True
+ID-592472,Robert,Lewis,null,+12458606115,8157 Maple Dr,null,IA,28802,01/04/2016,2024-05-05,9325.47,Starter,True
+76871749,,Ramirez,johnramirez799@protonmail.com,800.902.0111,5954_Cedar_Ln,Jacksonville,CT,64725,2024-09-08,null,5557.09 USD,Starter,True
+61388862,Patricia,Lewis,patricia-lewis@hotmail.com,863-093-0109,639 Sunset Blvd,Mesa,FL,17270,2019-09-28,2022-12-02T00:00:00Z,5668.32,Basic,False
+42423415,GEORGE,Lee,george-lee@gmail.com,(700) 497-5135,NaN,Philadelphia,MI,93258,n/a,2025-02-08,NaN,Basic,False
+0,Edward,Martin,edwardmartin817me.com,814.394.1500,P.O. Box 5627,Fort Worth,NaN,31005,2021-01-24,2022-09-17,7723,Starter,True
+776032,Jessica,nitraM,JESSICA-MARTIN@GMAIL.COM,NULL,4727 Main St,"Charlotte, Charlotte",WA,53420,2020-04-07,22-10-6202,9883.81,Enterprise,False
+37469105,Margaret,Lewis,margaret-lewis@live.com,370-896-0148,4533 Hill Rd,Loui,ID,67993,2023-05-07,2022-12-01,2198.04,Free,True
+839822,Kevin,Davis,kevindavis@yahoo.com,N/A,8263 Park Ave,Columbus,ID,33296,2021-04-16,2023-02-19,4133.41,Premium,False
+ID-52111516,Matthew,Rodriguez,matthewrodriguez@aol,(688) 805-5247,1086 North Ave,San ,CA,58180,2016-09-28,2024-11-26,8866.62,Free,False
+552060,Cynthia,Williams,cynthia-williams@me.com,(021) 135-7147,691 East Blvd,Portland,OK,39802,2019-09-24,2023-06-20,658.9,Premium,False
+NaN,John,Moore,john-moore273@aol.com,+19673465157,2202 Cedar Ln,San Antonio,fl,12427,2018-09-05,2026-10-17,1923.73,BASIC,null
+7132966,Nancy,Thompson,nancy-thompson483@hotmail.com,null,4177 Lake Dr,NaN,VA,N/A,2021-02-02,NULL,4620.96,Professional,null
+8978892,Pamela,Martin,pamela.martin38@msn.com,N/A,9138 East Blvd,San Diego,XX,50425,2017-11-14,2026-04-16,9986.98,Professional,NaN
+606577,S. Sarah,Rodriguez,N/A,428-741-9684,8339 Church St,Philadelphia,UT,84271,NaN,2022-09-05,4189.7,Professional,True
+662738,Samantha,H. Hill,samanthahill342@aol.com,(257) 506-3849,6454 Washington Blvd,Las Vegas,GA,25482,2015-06-22,2022-07-09,569.58,Free,True
+0023790,Jacob,HILL,jacobhill222@yahoo.com,(176) 102-8574,6388 North Ave,San Jose,ID,25722,2015-05-11,2024-12-14,7924.5,NULL,True
+181039,Stephen,Campbell,stephencampbell311@aol.com,(111) 096-6652,5887 Maple Dr5887 Maple Dr,Sacramento,Ohio,75840,2024-08-23,2024-03-28,3877.66,Free,true
+01433693,A. Ashley,Johnson,ashley-johnson@me.com,555-555-5555,5000 Elm St,San Francisco,HI,73266,2023-05-26,2022-03-28,5390.41,Free,False
+8308784,null,Hernandez,jeffrey.hernandez519@gmail.com,477-683-7361,6078 Oak Ave,Fresno,WV,13150,2020-02-26,2023-01-14,6062.06,Free,True
+19102396,Elizabeth,S@ith,elizabeth-smith@outlook.com,69585086681,n/a,Jacksonville,PA,83343,2017-02-01,2026-04-12,6385.54,Premium,N/A
+600442,Stephanie,King,invalid-email,882.535.8342,5708 Lake Dr,Austin,OK,42208,2020-11-17,2026-08-21,2543.75,Standard,True
+154902,Scott,Wright,scott_wright342@protonmail.com,+17063399202,N/A,Seattle,IA,29884,2020-07-22T00:00:00Z,2023-02-24,3825.16,,False
+2455750,Samantha,Nelson,samanthanelson912@gmail.com,156-686-1276,3416 Washington Blvd,San Antonio,LA,40818,03/05/2017,2025/01/22,4655.78,Standard,True
+938686,Benjamin,Robinson,benjaminrobinson416@me.com,+16907141721,418 South St,Milwaukee,VT,NULL,2018-05-25,08/06/2024,5823.77,Professional,True
+1967831,Jason,Carter,jason_carter225@protonmail.com,+17897949298 ext.742,,Fort Worth,NH,16289,2022-01-03,2022-10-12,9716.61,Professional,False
+42492045,Matthew,Clark,matthew-clark666@yahoo.com,639.994.8628,8802 Valley Dr8802 Valley Dr,San Francisco,CA,70814,2023-03-11,2025-01-23,1231.05,Standard,False
+4372844,Gary,C@mpbell,gary_campbell@me.com,+19403838592,1542 Oak Ave,Fort Worth,WY,NaN,2015-06-16,2023-07-18,9039.85,Standard,True
+7659007,Helen,Williams,helen-williams@aol.com,NaN,9177 South St,San Antonio,MD,95276,2022-12-10,null,4581,Starter,True
+087488,Benjamin,Torres,benjamintorres57@live.com,(957) 074-3259,7413 Washington Blvd,Fresno,NC,18691,NULL,2024-08-20,585.49,Starter,False
+7345150,Dorothy,Campbell,dorothycampbell783@me.com,(619) 373-9715,743 Oak Ave,Dallas,VA,null,2022-09-15,2023-10-17,1402.11,Professional,True
+ID-1495116,null,Roberts,susan_roberts392@hotmail.com,+12336638425,5255 Pine Rd,BALTIMORE,MD,30407,,2024-03-17,7445.38,Premium,True
+7179753,Margaret,Nguyen,margaretnguyen817@hotmail.com,,9130 Main St,Dallas,LA,55212,2020-10-18,2024-02-13,375.37,Standard,True
+8054445,n/a,Wilson,invalid-email,(812) 527-6488,4018 Washington Blvd,Charlotte,AR,949944,2020-05-10,0000-00-00,3017.11,Ultimate,False
+7135078,Carol,Ramirez,carol.ramirez626@me.com,(064X 603-3877,8460 Washington Blvd,Mesa,NE,44959,2023-09-07,2025-03-14,5869.56,Ultimate,True
+128778,Adams,Nicole,  nicole.adams@yahoo.com,+13518801882,829 Forest Ln,Fort Worth,LA,866240,2022-09-13,2022-11-01,NULL,Free,False
+4978487,Deborah,L@pez,deborahlopez675@me.com,+18181208301,4553 Washington Blvd,Jacksonville,NE,15039,2015-11-12,2024-10-12,3375.11,Standard,False
+5812185,Patricia Patricia,Wilson,patricia-wilson@protonmail.com,(060) 445-8383,,null,MD,44846,2024-01-09,0000-00-00,NULL,Ultimate,True
+30393481,Helen,Green,helen_green@hotmail.com,970-301-4347,5086 Washington Blvd,Baltimore,CA,45899,2020-06-27,2022-02-06,6002.89,Starter,True
+8480330,Edward,NaN,edwarddavis868@gmail.com,301.486.6442,6757 Spring St,Chicago,OR,91517,2021-11-02,08/09/2026,6160.79,Standard,True
+166178,Jessica,Johnson,invalid-email,358-037-5317,N/A,Colorado Springs,MI,41619,2015-01-24,2023-11-12,NULL,Enterprise,False
+ID-0210073,Michelle,Jones,michelle_jones333@gmail.com,+18929018869,5007 Maple Dr,Philadelphia,PA,91349,2017-06-27,2024-02-05,3210.81,Basic,False
+805844,annoD,A. Adams,donna.adams@yahoo.com,862.197.2893,N/A,Columbus,MAMA,35884,2016-07-02,2025-10-22,966.2,Standard,True
+1825697,Karen,,karen_scott@aol.com,(921) 712-0217,447 Cedar Ln,Fort Worth,Florida,00000,2023-10-06,2026-11-22,1615.35,Enterprise,False
+1493971,Emma,Martin,emmamartin269@yahoo.com,000-000-0000,5305 Hill Rd,Minneapolis,VA,43505,1900-01-01,2024-02-09,$915.87,Enterprise,False
+102075,Frank Frank,allen,frank-allen544@protonmail.com,867-687-5416,N/A,NULL,TX,44393,2023-02-16,2025-11-08,6283.156283.15,N/A,False
+34096247,Jennifer,Davis,jennifer_davis@hotmail.com,+19606649062,P.O. Box 7621,San Antonio,NE,22811,2018-11-10,2022-12-16,5876.11,Premium,True
+7931149,Dorothy,N/A,dorothy_martin@yahoo.com,630-476-2741,5730 West Rd,Milwaukee,CO,74378,06/09/2021,52-60-3202,1020.06,Premium,False
+,Brian,Green,briangreen@live.com,883-218-3518,2089 RIVER RD,Houston,NV,37295,2019-09-07,NULL,6803.11,Pr,False
+69436474,Melissa,Thompson,melissathompson@icloudcom,N/A,8440 Lake Dr,Raleigh,NY,98066,2023-06-02,2099-01-01,6410.54,Ultimate,False
+08269111,BRANDON,Adams,brandon-adams279@me.com,(236) 852-90689068,null,Dallas,SD,44335,2017-12-15,12/14/2026,5611.26,Standard,True
+384477,Margaret,Carter,margaret.carter@msn.com,6884000,7657 Park Ave,Dallas,AL,46791,2019-02-08,n/a,5712.97,Basic,False
+9630314,sharon,Mitchell,sharonmitchell488@me.com,604-316-0596,8116 South St,Mesa,CO,48103,2022-07-03,2025-05-05,9841.93,NaN,True
+2840623,Anthony,llebpmaC,anthony_campbell@outlook.com,422-281-3559,2718 Elm St,Louisville,WY,38986,06/01/2020,2023-08-15,2619.27,Ultimate,True
+9316734,Sarah,Taylor,sarahtaylor@icloud.com,61180169582,981 Pine Rd,Philadelphia,WV,46440,2024-09-02,2022-12-25,9754.7,Starter,False
+5686409,Angela,Perez,angela_perez690@outlook.com,+19594895899,4487 Lake Dr,Kansas City,AR,32048,2021-04-05,2025-07-27,4930.48,Ultimate,False
+425285,Pamela,Gonzalez,pamela_gonzalez372@,+15549441325,4141 Park Ave,San Jose,,44313,null,2023-02-26,5343.91,NULL,False
+93677754,Shirley,Robinson,shirleyrobinsonoutlook.com,098-193-20472047,7136 Pine Rd,Tucson,PA,28329XX,2019-07-08,2023-01-08,9037.11,Unknown,False
+ID-8355162,Jeffrey,Jackson,jeffreyjackson551@live.com,+175152,2573 Sunset Blvd,Milwaukee,NC,44161,2024-01-22,2024-04-13,6493.1,Free,Active
+0123630,Gregory,Wright,gregory.wright@live.com,(899) 017-1344,4214 Maple Dr,Philadelphia,AK,,2015-01-21,32/13/2022,3933.32,Starter,NULL
+650849,Ronald,Williams,ronaldwilliams957@icloud.com,226-902-56695669,8419 Maple Dr,San Diego,OK,12135,2023-02-23,2026-10-13,3481.86,N/A,false
+3769813,George,Hill,george.hill@icloud.com,(487) 574-2561,799 North Ave,Portland,CT,65629,2022-12-09,2026-07-21,4731.47,Professional,True
+294412,Melissa,Jones,melissa_jones@msn.com,071-747-8155,9152_Park_Ave,Seattle,WY,99688,2019/01/27,2023-07-21,7136.19,Basic,True
+6139024,Anthony,serolF,anthony_flores@protonmail.com,293.603.7399,6109 Valley Dr,Omaha,WI,25380,01/25/2020,NULL,9922.36,Starter,False
+08758096,Frank,Nelson,franknelson@msn.com,(780) 804-7858,7450 East Blvd,Dallas,New York,73051,2017-10-18,2023-07-18,6068.91,Enterprise,True
+313549,George,Allen,,+17721802638,9206 Pine Rd,null,MA,73530,NaN,2023-11-07,0,Standard,False
+52745311,Elizabeth,Thompson,elizabeth_thompson985@yahoo.com,NULL,9950 Sunset Blvd,Albuquerque,IL,84336,NULL,2022-08-06,8895.04,NULL,False
+832017,Jessica,R. Rodriguez,jessica_rodriguez924@outlook.com,+15718459234,null,Raleigh,MT,88973,2015-09-25,2025-09-14,2323.29,Standard,False
+  739646  ,  Gary  ,  Taylor  ,  garytaylor@gmail.com  ,  (446) 093-2056  ,  2403 River Rd  ,  Minneapolis  ,  null  ,  86523  ,  NaN  ,  2026-04-17  ,  4845.37  ,  N/A  ,  False  
+69631260,Deborah,Thompson,deborah.thompson216@hotmail.com,+10375819084,451 West Rd,NaN,NY,90032,2021-03-04,2022-07-16,1091.35,Enterprise,True
+56570109,Kevin,Carter,kevin_carter@live.com,555-555-5555,5561 Washington Blvd5561 Washington Blvd,Nashville,IL,34587,,2025-12-04,7687,Free,True
+42660181,Katherine,Taylor,katherine.taylor114@msn.com,+18793755199,1262 North Ave,NULL,SD,99746,2020-07-28,2023-02-14,-2005.16,Standard,True
+6938566,Anthony,Rodriguez,anthony_rodriguez@gmail.com,2993698920,645 Spring St,Milwaukee,MS,22476,2018-04-11T00:00:00Z,2023-10-10,N/A,Free,False
+75515430,Carol,Garcia,carol_garcia@aol.com,612.196.1775,9345 North Ave,Seattle,NH,68319,2021-06-13,2024-10-02,4816.68,Professional,False
+#6369685,Scott,Donna,donna.scott857@gmail.com,87833918731,6656 East Blvd,Portland,OH,98677,2017-07-22,2024-02-26,5508.38,Ultimate,False
+687448,Rebecca,Young,NULL,884.913.9003,4196 Church St,Denver,AZ,93872,2024-12-20,2026-06-15,8123.36,Premium,False
+9911662,Hernandez,Samantha,samantha_hernandez900@icloud.com,792-092-6247,1257 Cedar Ln,Dallas,IL,30O06,2022-05-25,2026-10-25,7366.1,Free,True
+985638,Amy,Nelson,amy.nelson584@aol.com ,896.946.6639,6909 South St,Los Angeles,VT,null,2019-07-27T00:00:00Z,NaN,19.35,Unknown,True
+2990635,NaN,Young,,(210) 520-0773,2560 East Blvd,Fresno,SD,53371,2016-10-04,2022-12-05,1999.21,Standard,True
+78753947,  Emma  ,King,emmaking108@livecom,622-889-5971,3338 West Rd,Charlotte,PA,689,2017-09-08,NULL,1036.52$,NaN,False
+7861996,Matthew,N/A,matthewroberts799@outlook.com,+19483133744,6835 Main St,Baltimore,AR,63580,2020-11-26,08/25/2023,2745,Enterprise,True
+44133422,Ashley,Davis,  ashleydavis608@aol.com,(395) 916-0625,1443 Park Ave,Tucson,SD,26645,2019-12-22,2024-08-23,5958.98,Premium,False
+1137289,Anna Anna,HALL,invalid-email,2230631087,5255 Maple Dr,Atlanta,MO,34886,2023-11-16,NULL,2834.87,Ultimate,NULL
+222073,Brenda,,brendaclark301@msn.com,656.623.7841,8876 Pine Rd,Oklahoma City,OK,54258,2019-06-11,2022-04-20,-7694.11,Ultimate,NaN
+3005325,Thomas,Wilson,thomas-wilson@me.com,1028140477,N/A,Dallas,IL,52734,2018-05-18,2024-09-14,bCtPM,Basic,True
+15902590,Kevin,Carter,kevin.carter@outlook,902.327.9191,9409 Spring St,Indianapolis,WI,16818,2024-12-04,,3147.37,Free,True
+290604,R@nald,Martinez,ronaldmartinez253@outlook.com,n/a,7071 Main St,Chicago,MI,53940,NULL,2022-10-19,2789.22,Enterprise,False
+10473028,Stephanie,N/A,stephanie.hernandez@yahoo.com,+17047591881,3332 North Ave,San Francisco,CA,86917,2023-08-22,2022-04-06,1863770.0,Basic,True
+##44560,Christopher,Robinson,christopher-robinson459@yahoo.com,993-196-8564,5210 East Blvd,Atlanta,CT,27770,2020-06-20,2025-08-15,1527.181527.18,Professional,False
+932859,Deborah,  Allen  ,deborah_allen@outlook.com,+12137059593,5235_West_Rd,San Diego,NH,94776,2024-02-22,2024-12-16,5490.29,Basic,False
+NaN,Ashley,Nguyen,ashleynguyen@protonmail.com,213.790.2843,4261 South St,Denver,AZ,12040,2019,2022-11-20,NULL,Professional,False
+0401098,Kenneth,Martinez,kenneth_martinez@aol.com,(876) 685-2852,4939 Cedar Ln,Albuquerque,RI,19777,2015-06-28,2023,1013.83$,Standard,False
+516294,Angela,Moore,angela_moore740@me.com,714-492-8463,9673 Washington Blvd,Philadelphia,MS,22094,1900-01-01,2026-09-05,2952.53,Premium,False
+80656942,T@mothy,Thompson,,(366) 010-3633,915 South St,Jacksonville,MO,19973,2016-01-21,2023-06-13,3198.65,Starter,TRUE
+79583783,Mary,Hernandez,mary-hernandez@live.com,N/A,5666 Hill Rd,Charlotte,WY,50181,2019-10-03,2026-08-10,8929.64,Free,True
+23753077,Cynthia,Brown Brown,cynthiabrown@me.com,(024) 575-89888988,7169 Pine Rd,,NULL,39872,n/a,2025-12-03T00:00:00Z,3832.22,N/A,False
+  8602050  ,  Donna  ,  Clark  ,  donna_clark568@gmail.com@extra.com  ,  945-745-9864  ,  120 Valley Dr  ,  Atlanta  ,  WV  ,  55227  ,  1900-01-01  ,  2026  ,  428.35  ,  Free  ,  True  
+409261,John,davis,john_davis163ATyahoo.com,(623) 913-3626,N/A,Sacramento,CA,273,2024-04-17,NULL,6957.49,Standard,False
+378598,Debra,Rivera,debrarivera@yahoo.com,+17130608450,4743 Hill Rd,Kansas City,CO,66223,2018-10-05,2026-03-08,2814.98,STANDARD,False
+6619995,Susan,Allen,susan_allen@icloud.com,994-607-1306,6974 Maple Dr,Indianapolis,ID,14654,2019-01-26,2025-04-25,1632.53,Premium,True
+5658293,Frank,Harris,frankharris320ATme.com,X80-X2X-6167,960 North Ave,NULL,KS,60002,2015-06-04,,4227.7,Basic,True
+8486919,William,Davis,william-davis@gmail.com,688.100.9205,1603 River Rd,Minneapolis,,41203,2019-12-14,2025-06-05,-650.97,Free,False
+9811141,null,Baker,linda.baker125@hotmail.com,111.110.2311,524 Main St,Seattle,CO,15113,2023-05-15,N/A,3733.39,Standard,True
+5363851,Anthony,Wright,anthony-wright994@me.com,343-009-3631,2590 River Rd,Tucson,ND,885,09/17/2015,NaN,-5686.69,Enterprise,True
+1094035,Kenneth,Baker,kennethbaker@hotmail.com,555-555-5555,7423 Elm St,Virginia Beach,OH,96575,2024-04-15T00:00:00Z,2025/03/20,8367.71,Free,False
+366565,John,Clark,john_clark364@msn.com,+14783261183,1169 MAPLE DR,,MI,39912,2020-06-21,09/12/2024,6055.82,Ul,False
+844849,n/a,Sanchez,stephen-sanchez410@gmail.com,534-193-6946,2271 Church St,Minneapolis,NC,20552,2024-10-24,2025-01-11T00:00:00Z,6100.07,Premium,False
+642478,NaN,G@een,jamesgreen211@hotmail.com,000-000-0000,3263 Washington Blvd,Denver,ID,38697,2019-12-06,2024-09-08,1789.52,Basic,True
+33592061,Matthew,Gonzalez,matthew_gonzalez@icloud.com,(262) 155-4777,NULL,Las Vegas,WI,94550,0000-00-00,2026-08-06,3221.62,Professional,False
+33427554,Jacob,Nelson,jacob.nelson@gmail.com,+11430911770,5913 Hill Rd,Oklahoma City,LA,18758,2021-05-17,2025/10/05,6587.19,Standard,N/A
+69512409,htebazilE,null,elizabeth.young399@gmail.com,+14035690596,N/A,Memphis,ID,66020,2016,2024-04-27,8622.63,Free,True
+3825887,Emily,Campbell,emilycampbell@hotmail.com,555-555-5555,2970 Spring St,Dallas,NH,27O00,2015-07-13,2025-06-09,N/A,Basic,TRUE
+21185252,Debra,null,debrabrown402@yahoo.com,2864126720,8246 Church St,Sacramento,WV,50019,2018-03-11,2022/03/06,3324.89,Free,True
+779673,Matthew,Mitchell,matthew-mitchell566@aol.com,353-254-0948,6074 River Rd,Milwaukee,AZ,83731,2018-12-05,2022-05-18,N/A,Ultimate,False
+7568236,Joseph,Garcia,N/A,(347) 407-3846,6048 SPRING ST,Virginia Beach,WI,27970,1900-01-01,2022-11-20,5568.84$,Standard,True
+173117,,Brown,,70232221367,1127 Lake Dr,Oklahoma City,OK,49104,2018-05-23,2024-07-13,n/a,Standard,True
+0,Mark,Thompson,mark_thompson@protonmail.com,+19679306810,9857 Elm St,Charlotte,AK,null,2021-07-01,2022-02-05,NaN,Premium,False
+9065221,Helen,Clark,helen.clark979yahoo.com,175-172-6707,3710 Park Ave,Seattle,LA,00000,2022-11-14,0000-00-00,null,Starter,True
+04440794,Deborah,Martin,deborah-martin693@yahoo.com,826-249-7157,8131 Washington Blvd,New York,DE,86993,2024-07-20,2026-05-13,8399.78,N/A,True
+1894811,Christine,Thompson,christine-thompson@live,046.589,3954 PARK AVE,Houston,IN,67670,2017-11-23,2025-02-18,N/A,Premium,False
+null,David,Green,david_green@outlook.com,545-573-4996,1214 Washington Blvd,Las Vegas,TX,16876,null,2023-10-01T00:00:00Z,8847.78,Standard,True
+432769,George,Torres,george-torres382@msn.com,951.097.9919,4843 NORTH AVE,Denver,WI,85199,2017-10-24,2025-06-23,$1127.59,Free,True
+9621254,Michael,YoungrH,michael.young@yahoo.com,132.422.9208,8791 North Ave,Dallas,ID,56189,2020-08-17,2024-07-09,1043.1,Professional,False
+#27587,Rivera,Melissa,melissarivera781@gmail.com,987.105.6492,3229 Washington Blvd,NULL,TN,11086,2020-04-14,2023-05-15,,Standard,False
+9614686,Kevin,S@ith,kevinsmith715@protonmail.com,780.537.8552,8542 River Rd,null,AK,13655,2023-10-09,2023-05-24,4230.34,Standard,True
+9403464,RebeccaoW,Scott,  rebecca.scott@yahoo.com,824-732-6383,1905 Park Ave,Louisville,AZ,00000,2016-02-08,2024/05/20,3772.87,Professional,True
+53572879,Brenda,Hernandez,brenda-hernandez316@hotmail.com,+15589420571,8085 Main St,Omaha,KY,76916,2023-07-27,2026-12-25,4141.64,N/A,False
+6004433,niveK,Green,kevin-green@msn.com,(110) 722-5606,,Oklahoma City,VA,null,2019-02-18,2024-03-20,2261.57,Ultimate,False
+02788893,emma,Garcia,N/A,305.294.3251,9962 East Blvd,Albuquerque,PA,NULL,2099-01-01,2026-12-26,8550.15,Standard,False
+ID-842192,Stephen,Roberts,,964.725.1134,9854 Church St,,null,null,2016-04-09,NULL,337.53,Basic,False
+  146286  ,  Joshua  ,  Thompson  ,    ,  (354) 752-5652  ,  2810 South St  ,  Albuquerque  ,  NH  ,  31724  ,  NULL  ,  2024-08-26  ,  5386050.0  ,  STANDARD  ,  True  
+230356,NULL,Garcia,katherine_garcia@icloud.com ,381-490-3766,6265 Maple Dr,NULL,,86414,2016-04-09,2023-11-25,5225.74,Standard,True
+49163577,George,Torres,george_torres@live.com,555-555-5555,5435_Hill_Rd,Houston,TX,22579,2023-03-06T00:00:00Z,2025-03-01,544.47,NULL,False
+920533,Brandon,King,brandon_king81@aol.com,677-928-7963,287 East Blvd,,LA,51966,2020-05-20,2022-03-25,5265.39,Standard,True
+365169,James,Carter,james-carter737@yahoo.com,966-414-9876,4474 South St,,VA,29953,32/13/2022,2026-06-28,5262.89,Professional,True
+,null,N/A,lindaadams@icloud.com,704-264-7657,4333 Park Ave,Milwaukee,MD,3679,2020-02-15,2026-03-23,4498.76,Professional,null
+61705631,Donna,Adams,donna.adams662@msn.com,(331) 294-2108,8318 West Rd,Mesa,AZ,96760,2020-10-05,2026-07-05,NULL,Premium,False
+0928015,Richard,Hill,richard-hill@gmail.com,+15972698469,8127 FOREST LN,Mesa,OK,55712,2021-03-23,2025-05-18,74.02,Ultimate,True
+2482595,Scott,Nelson,scottnelsonmsn.com,(124) 349-4246,595 South St,Raleigh,TX,NaN,2018-11-26,2022-04-14,3555.02,Basic,False
+24469072446907,Elizabethwr,Jones,elizabeth.jones562@yahoo.com,(066) 333-4066,null,Raleigh,TX,35942,,2024-05-06,N/A,Enterprise,1
+66290153,Samantha,Thompson,samantha_thompson@gmail.com,236-902-2095,3667 North Ave,Minneapolis,WI,,2018/02/26,2022-02-05,2393.81,Professional,True
+840787,LARRY,Williams,larry_williams@msn.com,NaN,4601 North Ave,San Diego,AZ,59909,20-70-5102,2025-08-21,2372.79,Free,True
+4372844,Gary,C@mpbell,gary_campbell@me.com,+19403838592,1542 Oak Ave,Fort Worth,WY,NaN,2015-06-16,2023-07-18,9039.85,Standard,True
+11582126,Jacob,,jacob-king@protonmail.com,156.776.9399,7888_Valley_Dr,"Jacksonville, Jacksonville",IN,92915,2022-01-07T00:00:00Z,N/A,-9935.79,Free,False
+6390535,  Helen  ,Sanchez,helen_sanchez@protonmail.com,5355556568,4587 Main St,Baltimore,AZ,29O44,2021-10-25,2022-10-21,n/a,Starter,True
+6809740,Christopher,Allen,christopher.allen@gmail.com,11282736211,5037 East Blvd,Los Angeles,N/A,46630,2019-10-03,52-11-2202,7232.35$,Free,True
+40250814,Mary,M. Miller,mary-miller@me,687.716.9461,908 Washington Blvd,Long Beach,KY,303877,2020-09-17,2025-01-09,8687.94,Standard,True
+530002,Shirley,N/A,shirley_gonzalez226@me.com@extra.com,976.513.3376,3812 Washington Blvd,Charlotte,AR,45681,2015-04-02,2024-09-25,817.9,Standard,False
+85676186,Edward,Adams,,N/A,68 OAK AVE,Atlanta,FL,33433,32/13/2022,2023-03-24,1672.27,Enterprise,0
+5702319,Gary,Robinson,garyrobinson221@aol.com,625-473-7210,3215 Park Ave,Oklahoma City,NH,99080,2099-01-01,2022-08-08,8382.79,Free,False
+NULL,NULL,Hernandez,ronald-hernandez@msn.com,678.330.0779,3909 Washington Blvd,Philadelphia,AK,65270,NULL,0000-00-00,636.4,NULL,True
+5741038,George,T@rres,georgetorres852@yahoo.com,(414) 408-7270,8694 South St,Fort Worth,WY,55793,2020-12-27,2023-04-04,1468.71,Enterprise,True
+64517799,Michael,Moore Moore,michaelmoore@live.com,659-074-06550655,3500 East Blvd3500 East Blvd,Tucson,OR,73990,2015-09-15,NULL,695.57,Premium,False
+,Richard,Allen,richard.allen@me.com,N/A,NULL,Atlanta,CT,3956,NULL,2022,8035.65,Basic Plan,False
+9662747,Scott,Moore,scott-moore@gmail.com,(345) 665-8344,662 Forest Ln,Raleigh,IN,89330,2019-12-22,2026-02-11,n/a,Starter,True
+66595997,Ashley,Lewis,ashley-lewis@live.com ,652-523-8451,701 Spring St,Austin,SD,49388,2023-07-04,2022-06-14,7998.7,Premium,True
+954255,dlanoD,Martin,NULL,+14996734137,N/A,Nashville,VA,28920,2099-01-01,2025-07-18,5302.26,Ultimate,True
+541941,Ronald,Gonzalez,ronald-gonzalez39@hotmail.com,060-437-4765,3448 River Rd,N/A,XX,11862,2017-06-28,2024,4623.04,basic,False
+936637,Scott,Jones,scottjones582@aol.com@extra.com,406-736-8482,7285 Elm St,Oklahoma City,KY,,2017-09-07,01/05/2023,8133.14,Premium,True
+21210758,Jason,Davis,jason_davis@live.com,(669) 540-0432,3751 East Blvd,"Raleigh, Raleigh",AK,98117,2019-10-02,2023-08-17,6516.83,Starter,True
+076033,Shirley,Rodriguez,shirleyrodriguez403@hotmail.com,N/A,8012 Forest Ln,Baltimore,MA,60581,2024-08-14,2024-09-15,5115.53,Ultimate,True
+595790,Nancy,null,N/A,921.918.4690,6423 Valley Dr,Chicago,WI,90401,2015-12-05T00:00:00Z,2026-09-11,7954.51,Standard,False
+1651,M. Mary,White,mary-white@,919.497.4666,3770 Church St3770 Church St,Albuquerque,MA,87988,2022-12-10,2024-03-12,1517.72,Starter,True
+221042,Katherine,Martin,invalid-email,618.652.8735,1223 Elm St,Minneapolis,DE,26124,2021-05-25,2025-11-20,1740.51,N/A,False
+34842462,P@ul,Scott,paul.scott7@me.com ,661.923,1695 River Rd,Raleigh,LA,89306,2015-07-25,32/13/2022,4201.19,Premium,False
+24705413,Gregory,Rodriguez,gregory_rodriguez125@me.com,286.908.7293,544 East Blvd,null,NJ,61036,2017-05-05,2026-06-16,2620.7,St,True
+6979536,Steven,Wilsonmm,steven.wilson@msn.com,(795) 606-4679,NaN,Las Vegas,N/A,38914,2018-09-11,2023-03-24,9657.1,Starter,False
+41492939,Deborah,Green,deborah.green545@icloud.com,515.631.1240,1473 Main St,NULL,OK,83007,2017-09-15T00:00:00Z,2022-04-12,892.01,Standard,False
+755751,Susan,Roberts,susanroberts@aol.com,254.375.6567,4589 North Ave,,XX,47428,2020-08-04,2024-12-26,4474.29,Free,False
+3442181,Jason,W@lker,jason_walker691@icloud.com,NaN,6872 River Rd,Memphis,MN,41958,2015-12-22,16/01/2024,,Starter,True
+  62650979  ,  Thomas  ,  Rodriguez  ,  THOMAS-RODRIGUEZ913@LIVE.COM  ,  7393635  ,  N/A  ,  Indianapolis  ,  WY  ,  55935  ,  2016-08-10  ,  2099-01-01  ,  NULL  ,  Premium  ,  False  
+224805,Charles,Miller,charles.miller325@live.com,(698) 937-8096,3927 Lake Dr,Omaha,MO,50536,2020-11-04,2026-04-28,4426.81,Basic,NULL
+9680713,NULL,,ashley.garcia920@gmail.com,,3441 Sunset Blvd,Dallas,MA,21981,40-40-7102,2022-06-09,1096.66,Standard,True
+341800,Anthony,Walker,anthonywalker835@msn.com,908.322.1127,7243 Sunset Blvd,Jacksonville,MA,94206,2099-01-01,1900-01-01,NULL,Starter Plan,False
+#8879162,Charles,Robinson,charles_robinson689@yahoocom,(870) 695-2049,7722 Main St,Long Beach,WY,00000,2021-08-28,2022-06-06,JcfCs,FREE,True
+3710301,Debra,Wilson,debra_wilson112@outlook.com,253-019-1812,1205 Park Ave,Tucson,LA,53934,2020-07-03,NaN,6955,STARTER,True
+68074060,Donald,Lee,invalid-email,249.524.3354,,n/a,NJ,N/A,2021-04-13,2026-02-12,6592.91,Standard,False
+9047732,Matthew,,matthewwilliams@me.com,+17891543981,3920 Pine Rd,Chicago,NULL,42221,2016-10-05,2025-05-08,7999.49,Premium,False
+131550,  Martin  ,Sharon,sharon-martin963@aol.com,469-466-8716,123,Oklahoma City,CO,58081,2022-01-26,2024-06-28,7162.15,Enterprise,True
+,Brenda,Scott,brenda.scott@hotmail.com,455-664-0537,9000 Washington Blvd,Colorado Springs,,57317,2022-02-14,2024-07-25,8253.61,Premium,True
+52401245,GEORGE,Jackson,george_jackson@msn.com,993-288-0299,N/A,Oklahoma City,GA ,77953,2017-05-13,2026-06-09,8583.81,Premium,False
+075504,,Smith,melissasmith456@yahoo.com,(222) 930-3214,,Louisville,WY,40190,2023-07-04,2022-06-04,1179.23,Ultimate,True
+53245576,Karen,Miller,karenmiller54@gmail.com,+13003604161,2938 Lake Dr,Fort Worth,FL,668151,2020-08-05,2022-08-20,5255.13,Starter,False
+15868988,Scott,Hall,scotthall@yahoo.com,897-406-3522,9091 Lake Dr,Memphis,IA,22296,,2022-10-08,NaN,Free,False
+03554260,Matthew,JonesxN,matthew_jones@gmail.com,555-555-5555,1123 South St,Minneapolis,AZ,7527,null,NULL,NaN,Premium,False
+6885108,kenneth,THOMAS,kenneth-thomas@me.com,880.157.7530,N/A,  Seattle,TN,77027,02-10-8102,2023-01-19,4158.76,free,True
+2408438,Gregory,Hill,gregoryhill401@msn.com,+15276286294,5908 Church St,Minneapolis,MN,91039,2024-01-06,2023-05-10,9227.91,Premium,True
+42146888,N/A,Baker,ashley-baker251@yahoo.com,(006) 898-0427,9945 West Rd,Los Angeles,NH,720608,2015-05-26,,403.86,Ultimate,False
+879613,Emma,King,emma-king@gmail.com,(986) 219-2754,6680 Valley Dr,San Diego,DE,,2020-08-02,2022-02-27,208.27$,Premium,N
+653031,Jeffrey,Jackson,jeffreyjackson885@icloud.com,+11934969957,9075 Park Ave9075 Park Ave,San Antonio,NM,23879,2020-02-03,2022-05-06,7234.56$,Standard,True
+81886059,Richard,Clark,richard.clark69@protonmail.com,+11580616262,7563 West Rd,Charlotte,CO,49954,2021-05-06,2024-01-17,8097.12,Premium,True
+873382,Donna,Smith,donnasmith37@live.com,null,5749 Park Ave,Indianapolis,IN,603289,2015-02-13,2023-07-05,3257.96$,Standard,Y
+24265258,Carol,Flores,carol-flores24@outlook,(193) 501-5698,1568 Park Ave,Milw,IA,41722,null,1900-01-01,1078.33,Enterprise,False
+6955651,Mark,BROWN,mark_brown355@me.com,548.245.9354,N/A,,WI,74411,2016-02-14,2024-06-14,459.11,Professional,False
+0065719,Donald,Martinez,donaldmartinez260@yahoo,063.770.03720372,1741 Park Ave,Fort Worth,PA,65736,2021-12-01,,8439.11,Ultimate,False
+6110373,Ashley,Perez,  ashley-perez47@yahoo.com,996.035.6481,844 South St,Kansas City,AZ,59027,2021-09-26,null,3663.0,Professional,False
+355526,Nicholas,Hall,N/A,707.773.6857,9417 Cedar Ln,Dallas,MA,68748,2018-05-20,2099-01-01,8911.63,Premium,False
+6958805,Larry,Hall,larryhall688@gmail.com,096.067.0328,,NULL,ID,36475,2019-01-11T00:00:00Z,2022-06-11,5333.13,Ultimate,False
+1312517,Charles,NULL,charlescarter@gmailcom,800-975-2674,3378 Pine Rd,Seattle,ND,69037,2021-04-06,2026-12-02,5964.73,free,True
+4043620,Jason,LopezIR,jason.lopez136@icloud.com,495.583.3087,2281 Maple Dr,Fresno,MS,53989,04/06/2023,2025-08-15,2911.42,Standard,False
+3167133,null,Lopez,ryanlopez@outlook.com,(137) 372-28202820,250 Cedar Ln,San Diego,NaN,186,2019-07-10,2024-03-03,2823.55,Free,False
+207791,Debra,N/A,debraclark@outlook.com,510-937-2049,6790 River Rd,Virginia Beach,LA,26013,2020-03-12,2099-01-01,$3502.47,Ultimate,True
+581973,ChristineXL,MartinezcC,christine-martinez557@msn.com,617.185.4415,8173 Lake Dr,Milwaukee,LA,98590,2020-06-02,2025/11/05,8969.17,,True
+50824319,Joseph,Anderson,josephanderson567@outlookcom,(347) 203-5918,6569 MAPLE DR,Fresno,n/a,50723,2020-02-18,2025-01-12,2010.71,NaN,True
+559755,,null,stephanierobinson178@protonmail.com,470-716-3402,1819 Pine Rd,Tucson,CA,97527,2017-02-26,2024-02-25,6212.28,Free,True
+42440129,Christopher,Wilson,n/a,380.192.3110,518 Washington Blvd,Denver,LA,13703,31-70-4202,2022-08-25,7404.65,Standard,N
+717242,Nicholas,Brown,nicholas_brown132@live.com,880.085.1101,1381_Spring_St,Philadelphia,RI,NULL,2022-01-14,2025-08-21T00:00:00Z,4277.24,Enterprise,True
+46042390,rolyaT,charles,charlestaylor152@protonmail.com,(944) 135-7127,N/A,Indianapolis,AZ,76606,2017-10-06,2024-11-18,1397.46,FREE,True
+798687,Gregory,WRIGHT,gregory_wright@me.com,(846) 504-0187,1770 Forest Ln,SEATTLE,IN,24938,15/12/2021,2022-02-22,N/A,N/A,False
+4924160,Gregory,Nelson,gregorynelson670@yahoo.com,+16101255561,9410 Park Ave,Chicago,null,97986,2017-07-28,2024-11-11,7959.47,Starter,False
+753446,Daniel,Mitchell,daniel-mitchell284@hotmail.com,(683) 806-9948,4383 North Ave,Las Vegas,HI,58461,2018-11-17,2022-10-14,4167.8,Standard,False
+2145950,Andrew,Young,invalid-email,814-655-3861,560 Elm St,Philadelphia,IL,62104,2022-02-14,2022-11-08,NaN,starter,True
+76706299,Kimberly,Johnson,kimberly-johnson@yahoo.com,478.436.1270,1294 Hill Rd,Omaha,CT,28131,N/A,2026-03-28,8220.28,Professional,True
+476979,  Helen  ,Campbell,helen-campbell@gmail.com ,213-201-6635 ext.933,4622 Elm St,San Antonio,CO,NULL,2015-09-22,2025-11-17,1410.41,Professional,True
+21169184,Laura,nospmohT,laura.thompson@aol.com,(922X 085-6859,8376 Spring St,Tucson,CT,74030,13/07/2020,2023-06-16,5820.41,Enterprise,True
+679276,Kevin,Brown,kevin.brown232@me.com ,null,2675 East Blvd,Albuquerque,FL,10949,2023-01-12,2026-12-24,-5385.96,Enterprise,True
+2490967,NULL,Walker,stephen_walker951@hotmail.com,338-979-8739,7967 Pine Rd,Omaha,CT,23827,2017-03-07,2022-05-09,5588.06,Ultimate,True
+46484007,Brenda,Allen,brenda_allen34@outlook.com,514.XX5.11X8,8881 Oak Ave,Tucson,OH,38644,24/02/2021,2023-05-28,9993.12,Free,False
+609246,Barbara,Rodriguez,barbara-rodriguez43@msn.com ,n/a,3660 Lake Dr,San Diego,OH,,2015-08-19,2025-05-24,6774.96,Enterprise,True
+3034617,Eric,Nelson,  eric_nelson@me.com,(742) 875-7524,NaN,  Nashville,SC,70429,2016/08/05,2026-02-06,4005.11$,Standard,False
+3850503,Susan,Baker,susan_baker430@protonmail.com,9073362,6981 Maple Dr,Jacksonville,ID,25177,2020-01-25,12/19/2023,8162.39,Ultimate,
+29287538,Linda,Adams,N/A,N/A,P.O. Box 8315,Portland,ME,68096-2392,2015-10-19,2025-04-09,N/A,Enterprise,False
+60106489,  Nancy  ,Lee,nancy_lee@hotmail.com,332.254.8219,7203 Lake Dr,Philadelphia,NY,56550,2024-06-12,2026-08-27,6312.1,N/A,True
+017333,Pamela,Taylor,pamela_taylor100@protonmail.com,+13754890584,6075 North Ave,NaN,AR,96978,2018-12-04,2024-12-07,8552.47,,True
+2558734,null,Miller,gary-miller@hotmail.com,(239) 857-1213,2414 Spring St,San Antonio,WV,N/A,2018-01-15,2023-05-01,4765.02,Free,False
+0235559,R. Rebecca,Taylor,rebecca.taylor222@msn,N/A,P.O. Box 1450,Jacksonville,WV,29001,2024-02-22,2023-08-02,0,Enterprise,False
+28960979,Emily,Jackson,emily_jackson@hotmail.com,(278) 764-5244,6601 South St,Seattle,VT,58374,2022-08-11,32/13/2022,7742.47,Standard,False
+28693696,Richard Richard,Sanchez,richardsanchez@yahoo.com,375.490.7008,9857 West Rd,Memphis,TX,25910,32/13/2022,,NULL,Premium,False
+373501,knarF,King,frankking@msn.com,692.230.6313,9427 Hill Rd,Oklahoma City,NH,12525,2018-02-16,2025-09-22,1031.69,Standard,True
+66404250,Samantha,Williams,samanthawilliams@protonmail.com,1437665,3095 Elm St,Las Vegas,KY,46354,2019-06-26,2026-02-13,3023.29,Starter,False
+98271272,Elizabeth,Hernandez,elizabeth.hernandez590@yahoo.com,(178) 938-1435,4626 North Ave,Virginia Beach,KY,664145,32/13/2022,10/06/2023,$4069.33,Standard,True
+1942278,Shirley,Nelson,shirley.nelson100ATaol.com,731.640.3961,518 Valley Dr,Oklahoma City,TN,45424,2022-07-12,2022-03-14,4827.37,Starter,True
+422525,Shirley,ClarkHS,shirley-clark@hotmail.com,+17438536438,7414 Main St,Memphis,IA,616,2019-05-26,2023-05-19,6500.14,Starter,True
+304032,Kimberly,Nguyen,kimberly.nguyen630@live.com,+15970951659,1696 River Rd,philadelphia,NC,94689,2017-01-08,2025-08-17,5229.86,Premium,False
+023497,Angela,Walker,angela-walker554@aol.com,80322175934,9101 Forest Ln,Virginia Beach,California,23464,2020-12-05,2025-03-04,6568.38,Basic,False
+6937196,Jonathan,Allen,jonathan.allen899@yahoo.com,530.219.9029,N/A,Louisville,NV,86084,2024/04/07,2023-08-14,7003.07$,Premium,False
+172720,Susan,Torres,SUSAN-TORRES433@LIVE.COM,N/A,1865 River Rd,Long Beach,MD,58415,,2023-02-27,2192.89,Basic,True
+6825055,Michelle,Young,michelleyoung@,+14124737860,9578 Oak Ave,Sacramento,AK,11967,2024-07-02,2026-10-14,4651.36,Starter,True
+1545363,Scott,Lee,NaN,N/A,4264 West Rd,Austin,MA,36707,2016-02-01,01/21/2025,7701.46,Premium,True
+6093274,David,Miller,NULL,039-848-9519,9681 Church St,N/A,SD,93342,N/A,2026-05-12,4819.1,Enterprise,True
+292527,Kenneth,King,kenneth-king410@hotmail.com,428.095.7282,4985 Maple Dr,,XX,33629,2024-12-28,2026-03-15,4614.21,Free,N/A
+9301303,NULL,Sanchez,jason-sanchez@outlook.com,283.153.0094,7106 Pine Rd,Louisville,NY,57087,62-30-8102,2025-01-08,NaN,Pr,True
+371194,Sharon,Hernandez,NULL,(781) 984-9160,n/a,Seattle,CA,54846,2015-10-08,2025-08-22,7606.53,Basic,True
+612844,Ronald,King,ronaldking@hotmail.com,(129) 198-2483,744 Hill Rd,Virginia Beach,AR,41807,2022-11-06,1900-01-01,N/A,Professional,True
+63130002,Jason,Walker,,+182X6909515,N/A,NULL,FL,35674,2016-03-19,NULL,9307.59,Basic,False
+0,Michelle,Hill,michellehill813@protonmail.com,896 0445754,4938 Elm St,  Raleigh,NY,,2023-11-03,2022-02-23,9659200.0,Starter,True
+9947920,N/A,WRIGHT,anna.wright@yahoo.com,555-555-5555,9576 ,Minneapolis,TN,null,2021-12-06,2022-07-18,2716.1,Premium,True
+822257,N/A,Gonzalez,,(497) 066-0442,154 Elm St,Memphis,VT,35322XX,2022-11-11,2026-04-07,3305.33,Professional,True
+7613003,Ronald,Lewis,ronaldlewis81@yahoo.com,2815581,1836 Hill Rd,Fort Worth,NC,36447,2023-12-03,2025-08-10,,Premium,False
+0393191,Charles,Anderson,charles_anderson603@yahoo.com,+15785681933,7813 East Blvd,Dallas,KY,11244,2023-12-05,2023-03-13,5677.76,Starter,True
+937684,Andrew,Campbell,,(842) 407-8730,4802 Maple Dr,CHARLOTTE,VA,78323,2017-11-20,2026-11-27,4845.41,NULL,False
+772366,Kenneth,Lopez,kenneth-lopez378@live.com,(703) 772-5526,2462 River Rd,Nashville,XX,20644,2021-12-22,2025-10-10,4118.03,Free,False
+225413,Linda,Rivera,linda_rivera@me.com,+15432502342,n/a,Omaha,MN,72364,2017-07-22,2026-06-02,117.4,Premium,False
+366229,Susan Susan,Walker,susan-walker375@hotmail.com,N/A,1363 Maple Dr,Charlotte,NH,35239,2017-01-22,2023-03-02,834.8,Free,n/a
+NULL,Joshua,Ramirez,joshua_ramirez753@me.com,(732) 739-1917,7564 Washington Blvd,Tucson,ME,19064,2021-11-16,2023-11-10,2424.0,N/A,False
+3957725,Karen,perez,karenperez914@gmail.com,n/a,3815 South St,Baltimore,MI,59822,NaN,2024-09-22,9274.67,Starter,False
+45475728,Rebecca,Lee,,176.569.6280,7516 Pine Rd,Minneapolis,WA,91O65,2022-07-27,2025-06-14,7645.51,Basic,False
+06271682,Matthew,Hill,matthewhill@msn.com,17218652223,7147 Church St,San Francisco,WA,14886,2023-07-25,2024-05-06,2846.36,Premium,False
+46270931,n/a,Jackson,kennethjackson433@hotmail.com,870.387.9517,6234 Spring St,Nashville,NJ,47122,2021-09-20,2025-02-11,1370.88$,Free,2
+9040797,Kenneth,Young,kenneth_young@outlook.com,+14276930014,N/A,n/a,TX,87315-4608,2022-12-26,2023-05-04,N/A,Professional,False
+18007913,NaN,,shirley_adams@me.com,555-555-5555,6821 South St,Colorado Springs,AK,33932,2020-12-12,2023-09-17,0,Free,True
+3117252,MichelleDM,Scott,michellescott@outlook.com,+18203208156,6237 East Blvd,San Diego,KY,25928,2024-04-22,2026-07-01,3835.43,Basic,False
+#989033,annA,Adams,anna.adams@outlook.com,000-000-0000,7721 Church St,Chicago,KS,95037,2017-01-06,2022-05-27,7937.99,N/A,True
+7181489,Steven,Roberts,steven.roberts@live.com,(547) 486-2001,3737 Valley Dr,Austin,ID,N/A,null,n/a,97.5,Premium,True
+888638,margaret,Jones,N/A,368-805-3524,7372 Church St,Oklahoma City,N/A,37833,2017-12-09,2025-06-03,5463.75,Professional,True
+5658206,G. Gary,NULL,gary_miller@live.com,+16608668352,6849 Park Ave,Nashville,TXTX,52809,32/13/2022,2023-12-05,372.79,Basic,True
+86974306,Jeffrey,Moore,jeffrey.mooreATlive.com,(387) 183-9886,8821 Park Ave,Omaha,MT,14689,2018-10-02,16/07/2023,2914.92,Ultimate,False
+109226,Nicole,Young,nicole.young@icloud.com,518-411-5409 ext.984,2129 Washington Blvd,Nashville,NV,97135,2022-03-20,2026-05-19,2033.71,Free,False
+0,Ronald,Baker,,555-555-5555,123,,N/A,21136,2018-03-16,2026-08-27,1635.63,Professional,False
+882963,Michael,Adams,michael_adams853icloud.com,290-112-7766,P.O. Box 8049,Denver,AL,74250,1900-01-01,2024-04-09,"3852,28",NULL,False
+37402734,Joshua,Wright,invalid-email,+19980566828,NULL,Atlanta,VA,62719,2020-03-07,2022-09-01,2893.68,Enterprise,True
+8374679,Sharon,H@rris,sharonharris@protonmail.com,314.824.1016,1955 Forest Ln,San Jose,KS,82734,2022-08-26,NULL,599.34,Basic,True
+401241,Amanda,Lopez,amanda.lopez73@yahoo.com,+11610227964,6652 Oak Ave,Colorado Springs,ND,72202,2018-02-06,2025-08-16,2317.08,Premium,True
+99435234,james,Robinson,james_robinson@live.com,+18048335690,5294 West Rd,Baltimore,PA,75121,2017-03-07,2023-05-06,NULL,Enterprise,FALSE
+738246,Daniel,Smith,daniel-smith763@icloud.com,813-370-6007 ext.123,4476_Valley_Dr,FRESNO,,55611,2019-11-03,n/a,1466.22,Ultimate,true
+064569,Mary,Hernandez,MARY.HERNANDEZ234@AOL.COM,638-725-6827,9691 Pine Rd,Atla,MT,47829,2018-04-25,null,9617.61,Professional,True
+991290,null,Martin,brandonmartin155@aol.com,NULL,2825 Valley Dr,null,CT,79936,2024-01-02,2023-05-13,5260.77 USD,Standard,False
+30743645,Susan,,susan-jackson765@msn.com,262-898,2020 OAK AVE,New York,OR,88204,2021-09-18,2022-05-07,7484.22,professional,True
+0,Anthony,Young,anthony_young@icloud.com,+19983801268,,  Columbus,N/A,00000,2021-12-01,2025-07-13,2784.47,Enterprise,False
+5871692,Jennifer,Lewis,jennifer-lewis305@icloud.com,913.972.5926,9302_Oak_Ave,Fresno,RI,85012,32/13/2022,2024-08-17,NULL,Free,False
+56235285,Stephanie,Garcia,stephaniegarciaaol.com,678-004-4637,1957 Main St,Dallas,VT,11487,2017-08-12,2026-09-26,8225.95,,True
+957181,James James,Moore,james_moore@me.com,310-757-4751,711 South St,Nashville,NJ,94323,2015-01-16,2025-07-22T00:00:00Z,NULL,Free,True
+4655761,,Smith,scott-smith383@yahoo.com,1965051,4820 Sunset Blvd,Albuquerque,CO ,64163,2020-02-16,2024-09-14,3982.94,Premium,False
+778681,Gary,Lewis,gary_lewis@icloud.com,493.656.6757,4316 Oak Ave,Nashville,MS,76728,2023-04-04,2022-05-03,3089.14,Free,True
+124164,George,Davis,george-davis@yahoo.com@extra.com,,5400 North Ave,Columbus,NM,48505,2019-10-13,2025-07-01,4427.62,Enterprise,False
+5192734,Joseph,Lewis,,770-940-8175,2307 Park Ave,Fresno,NM,N/A,2021-08-16,2026-05-13,3882.73,Professional,True
+80187208,Justin,RIVERA,justin.rivera@icloud.com,(502) 580-4817,8487 Pine Rd,Minneapolis,NH,7850,12-21-1202,2026-02-24,7602.59,Free,unknown
+662738,Samantha,H. Hill,samanthahill342@aol.com,(257) 506-3849,6454 Washington Blvd,Las Vegas,GA,25482,2015-06-22,2022-07-09,569.58,Free,True
+160390,Eric,White,ericwhite445@yahoo.com,N/A,2797 East Blvd,Omaha,,31736,2019-10-06,2023-01-27,null,Standard,False
+806988,Nicole,Brown,nicole.brown696@hotmail.com,819.411.7865,5765 Sunset Blvd,Austin,MD,45476,2021-12-06,,,Ultimate,False
+49849313,Christopher,Adams,christopher-adams@outlook.com,012.273.8544,9548 Spring St,Dallas,NJ ,67770,2022-02-21,2026-09-23,2754.73,Basic,False
+97295003,Gregory,Harris,gregory_harris449ATyahoo.com,+14809788555,4018 River Rd,Colorado Springs,OH,96598,2019-09-17,2024-12-01,,Standard,False
+028835,null,Mitchell,timothy_mitchell996@msn.com,632.815.1609,123,Portland,NaN,31515,2016-02-28,NULL,8755.56,Ultimate,true
+1459182,Samantha,Moore,samanthamoore44@me.com,n/a,6835 Elm St,null,VT,,2018-01-04,2024-08-03,5990.91,NULL,False
+543061,Ronald,Thomas,ronald_thomas202ATme.com,(878) 228-9571,5755 Valley Dr,"Oklahoma City, Oklahoma City",WV,91909,2021-01-10,NULL,6578.93,Starter,False
+3864269,Christopher,Wright,christopher.wright@yahoo.com,664.479.0450,6892 Washington Blvd,Charlotte,WY,69589,2023-07-04,2023-08-04,3509.38,N/A,
+36860994,Deborah,Smith,deborahsmith@hotmail.com,385.373.0637,NaN,seattle,WI,96303,2019-07-03,2025-07-16,6060.38,Premium,False
+260161,Gregory,White,gregorywhite@live.com,815-424-8747,1807 North Ave,Las Vegas,CA,89973,32/13/2022,1900-01-01,5465.12,Starter,True
+4556558,Donna,Adams,donna.adams771@me.com,(341) 055-1396,4853 Elm St,Denver,IL,98630,2023-11-17,2022-02-08,9103.86,Free,True
+432769,George,Torres,george-torres382@msn.com,951.097.9919,4843 NORTH AVE,Denver,WI,85199,2017-10-24,2025-06-23,$1127.59,Free,True
+74633487,Kenneth,Hill,kenneth-hill@yahoo.com,662-952-5707,9450 Spring St,Albuquerque,NY,33127,2017-01-16,2022-11-03,2157.51,Professional,True
+03375299,Amanda,Adams,amanda-adamsATprotonmail.com,+14147450389 ext.871,P.O. Box 3212,Virginia Beach,IN,105,2018-01-05,2026-06-07,1580.11,Free,True
+96027640,Michelle,Martin,michellemartin@,684.026.1929,4020 Oak Ave,San Jose,VT,00000,2016-08-24,2026-02-14,4717.4,basic,False
+4716329,Sarah,Lewis,sarah-lewis840AToutlook.com,(714) 967-5091,2261 SUNSET BLVD,New York,n/a,67805,32/13/2022,1900-01-01,2517.55,Ultimate,unknown
+671151,David,Baker,david-baker724@outlook.com,,NULL,Colorado Springs,NJ,42419,2017-04-23,2026-02-12,n/a,Professional,True
+NULL,Richard,Davis,richard_davis@aol.com,,492 Oak Ave,Louisville,NE,44O94,2018-06-25,2022-03-07T00:00:00Z,,Professional,True
+54006206,David,Thomas,NaN,+18743637557,6444 Elm St,Phoenix,NC,28168,2017-05-15,2026-11-21,0,Starter,False
+06271682,Matthew,Hill,matthewhill@msn.com,17218652223,7147 Church St,San Francisco,WA,14886,2023-07-25,2024-05-06,2846.36,Premium,False
+5506001,Nicholas,Lewis,nicholas.lewis310@protonmail.com,777-281-3947,7685 South St,Portland,null,57587,2019-02-16,2025-01-26,8161.82,Basic,True
+08967482,Raymond,Brown,raymond-brown@msn.com,406.996.0540,,Los Angeles,NC,98346,0000-00-00,2022-09-05,2413.48,Starter,False
+491350,harobeD,Anderson,deborah.anderson@gmail.com,119.014.7338,9539_Forest_Ln,NULL,OH,71911,2019-05-04,2022-03-24,5031.86,Starter,True
+03043476,Michael,,michael_king@,+14577174338,3268 Lake Dr,Denver,RI,36630,2015-06-08,2025-09-18,307.7,Enterprise,True
+73196761,Nicole,Garcia,nicole.garcia@hotmail.com,000-000-0000,113 Oak Ave,New York,FL,null,N/A,NULL,6655.48,Ultimate,NaN
+1888402,Kimberly,Flores,kimberly_flores84@outlook.com@extra.com,n/a,187 Main St,New York,null,93425,2017-10-16,2026-01-14,6380.45,Premium,False
+86506735,Kevin,Mitchell,kevinmitchell300@hotmail.com,NaN,3015 Lake Dr,Seattle,TN,93368,2024-11-27,2025-07-23,2481.61,Basic,True
+543773,Jacob,WRIGHT,invalid-email,225-060-3089,1740 Main St,Houston,AK,43863,2022-12-26,2022-10-25,2917.5,Ultimate,
+11323678,N/A,Allen,N/A,N/A,4821 Main St,Albuquerque,ME,21578,2017-04-23,2022-06-09,413.89,Starter Plan,False
+1227411,Jeffrey,NULL,jeffrey.carter@icloud.com,(533) 756-6338,4636 River Rd,Colorado Springs,WI,84518,2015-09-02,2023-08-03,9269.84,Premium,True
+39500543,Pamela,lewis,pamela.lewis@outlook.com,305-060-1865,9829 Valley Dr,,NC,29718,2022-12-25,2025-10-22,9302.49,Free,True
+04069409,Jonathan,King King,jonathan_king@gmail.com,(055) 437-4359,,Colorado Springs,WI,NULL,2019-06-02,1900-01-01,9087.77,Unknown,True

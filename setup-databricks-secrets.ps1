@@ -7,7 +7,8 @@
 #   .\setup-databricks-secrets.ps1 -ScopeName ingest-secrets
 
 param(
-    [string]$ScopeName = "ingest-secrets"
+    [string]$ScopeName = "ingest-secrets",
+    [string]$ProfileName = $(if ($env:DATABRICKS_CONFIG_PROFILE) { $env:DATABRICKS_CONFIG_PROFILE } else { "DEFAULT" })
 )
 
 Set-StrictMode -Version Latest
@@ -16,7 +17,8 @@ $ErrorActionPreference = "Stop"
 function Invoke-DatabricksCli {
     param(
         [Parameter(Mandatory = $true)]
-        [string[]]$Arguments
+        [string[]]$Arguments,
+        [string]$ProfileName
     )
 
     $previousPreference = $ErrorActionPreference
@@ -26,7 +28,12 @@ function Invoke-DatabricksCli {
         # Databricks CLI 0.18 can emit urllib3 FutureWarning on stderr; do not treat that as a hard failure.
         $ErrorActionPreference = "Continue"
         $env:PYTHONWARNINGS = "ignore::FutureWarning"
-        $rawOutput = & databricks @Arguments 2>&1
+        $cliArgs = @()
+        if (-not [string]::IsNullOrWhiteSpace($ProfileName)) {
+            $cliArgs += @("--profile", $ProfileName)
+        }
+        $cliArgs += $Arguments
+        $rawOutput = & databricks @cliArgs 2>&1
         $exitCode = $LASTEXITCODE
     }
     finally {
@@ -49,18 +56,18 @@ if (-not (Get-Command databricks -ErrorAction SilentlyContinue)) {
 
 # 2) Verify CLI auth by attempting to list scopes.
 Write-Host "Checking Databricks CLI authentication..." -ForegroundColor Cyan
-$scopesResult = Invoke-DatabricksCli -Arguments @("secrets", "list-scopes")
+$scopesResult = Invoke-DatabricksCli -Arguments @("secrets", "list-scopes") -ProfileName $ProfileName
 if ($scopesResult.ExitCode -ne 0) {
-    Write-Error "Databricks CLI is not authenticated. Configure DATABRICKS_HOST and DATABRICKS_TOKEN or ~/.databrickscfg first."
+    Write-Error "Databricks CLI profile '$ProfileName' is not authenticated. Configure it in ~/.databrickscfg or set DATABRICKS_CONFIG_PROFILE. Details: $($scopesResult.Output)"
     exit 1
 }
 
 # 3) Ensure secret scope exists.
 if ($scopesResult.Output -notmatch "\b$ScopeName\b") {
     Write-Host "Creating Databricks secret scope '$ScopeName'..." -ForegroundColor Cyan
-    $createScopeResult = Invoke-DatabricksCli -Arguments @("secrets", "create-scope", "--scope", $ScopeName)
+    $createScopeResult = Invoke-DatabricksCli -Arguments @("secrets", "create-scope", "--scope", $ScopeName) -ProfileName $ProfileName
     if ($createScopeResult.ExitCode -ne 0) {
-        Write-Error "Failed to create scope '$ScopeName'."
+        Write-Error "Failed to create scope '$ScopeName'. Details: $($createScopeResult.Output)"
         exit 1
     }
     Write-Host "Secret scope created." -ForegroundColor Green
@@ -89,16 +96,15 @@ if ([string]::IsNullOrWhiteSpace($hostname) -or [string]::IsNullOrWhiteSpace($ht
 Write-Host ""
 Write-Host "Storing secrets in Databricks scope '$ScopeName'..." -ForegroundColor Cyan
 
-$putHostResult = Invoke-DatabricksCli -Arguments @("secrets", "put", "--scope", $ScopeName, "--key", "DATABRICKS_SERVER_HOSTNAME", "--string-value", $hostname)
-if ($putHostResult.ExitCode -ne 0) { Write-Error "Failed storing DATABRICKS_SERVER_HOSTNAME"; exit 1 }
+$putHostResult = Invoke-DatabricksCli -Arguments @("secrets", "put", "--scope", $ScopeName, "--key", "DATABRICKS_SERVER_HOSTNAME", "--string-value", $hostname) -ProfileName $ProfileName
+if ($putHostResult.ExitCode -ne 0) { Write-Error "Failed storing DATABRICKS_SERVER_HOSTNAME. Details: $($putHostResult.Output)"; exit 1 }
 
-$putPathResult = Invoke-DatabricksCli -Arguments @("secrets", "put", "--scope", $ScopeName, "--key", "DATABRICKS_HTTP_PATH", "--string-value", $httpPath)
-if ($putPathResult.ExitCode -ne 0) { Write-Error "Failed storing DATABRICKS_HTTP_PATH"; exit 1 }
+$putPathResult = Invoke-DatabricksCli -Arguments @("secrets", "put", "--scope", $ScopeName, "--key", "DATABRICKS_HTTP_PATH", "--string-value", $httpPath) -ProfileName $ProfileName
+if ($putPathResult.ExitCode -ne 0) { Write-Error "Failed storing DATABRICKS_HTTP_PATH. Details: $($putPathResult.Output)"; exit 1 }
 
-$putTokenResult = Invoke-DatabricksCli -Arguments @("secrets", "put", "--scope", $ScopeName, "--key", "DATABRICKS_TOKEN", "--string-value", $tokenPlain)
-if ($putTokenResult.ExitCode -ne 0) { Write-Error "Failed storing DATABRICKS_TOKEN"; exit 1 }
+$putTokenResult = Invoke-DatabricksCli -Arguments @("secrets", "put", "--scope", $ScopeName, "--key", "DATABRICKS_TOKEN", "--string-value", $tokenPlain) -ProfileName $ProfileName
+if ($putTokenResult.ExitCode -ne 0) { Write-Error "Failed storing DATABRICKS_TOKEN. Details: $($putTokenResult.Output)"; exit 1 }
 
 Write-Host ""
 Write-Host "Done! Secrets stored in Databricks scope '$ScopeName'." -ForegroundColor Green
 Write-Host "Run '.\load-databricks-secrets.ps1' to load them and start the ingest script." -ForegroundColor Green
-

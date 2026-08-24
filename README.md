@@ -93,6 +93,38 @@ python .\databricks_healthcheck.py --vault-name kv-dbr-ingest-a06f24
 python .\databricks_healthcheck.py --query "SELECT current_timestamp()"
 ```
 
+## Flatten Nested JSON To Delta (PySpark)
+
+Use `flatten-json/flatten_to_delta.py` to flatten nested people JSON and write a Delta table.
+
+### Databricks/UC volume input example
+
+```powershell
+python .\flatten-json\flatten_to_delta.py --input-path "/Volumes/workspace/default/raw_filings/people_nested_1000.json" --catalog workspace --schema default --table people_flat_1000 --mode overwrite
+```
+
+### Local file input example
+
+```powershell
+python .\flatten-json\flatten_to_delta.py --input-path "C:\Users\desha\PycharmProjects\databricks-ingest-file\flatten-json\people_nested_1000.json" --catalog workspace --schema default --table people_flat_1000 --mode overwrite
+```
+
+Note: writing Delta tables requires Spark with Delta support (Databricks Runtime includes this).
+
+### Databricks notebook version
+
+Use `flatten-json/flatten_to_delta_notebook.py` as a Databricks notebook source file.
+
+1. In Databricks Workspace, create/import a notebook from this file.
+2. Set widget values at the top (input path, catalog, schema, table, mode).
+3. Run all cells.
+
+Default widget input path is:
+
+```text
+/Volumes/workspace/default/raw_filings/people_nested_1000.json
+```
+
 ## Run once
 
 ```powershell

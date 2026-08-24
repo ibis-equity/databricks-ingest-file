@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Databricks Ingest File Project Narrative</title>
+  <style>
+    :root {
+      --bg: #0b1020;
+      --panel: #121b2d;
+      --panel-alt: #192843;
+      --surface: #f5f7fb;
+      --text: #eaf1ff;
+      --muted: #b7c3dd;
+      --primary: #66c5ff;
+      --secondary: #8ef0c8;
+      --accent: #ffd166;
+      --danger: #ff8a80;
+      --border: rgba(255,255,255,0.08);
+      --shadow: rgba(5, 10, 24, 0.35);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      background: linear-gradient(180deg, #0a1224 0%, #111931 100%);
+      color: var(--text);
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      line-height: 1.7;
+    }
+
+    .page {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 40px 20px 80px;
+    }
+
+    .hero {
+      background: linear-gradient(135deg, rgba(102,197,255,0.12), rgba(142,240,200,0.08));
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 32px 28px;
+      box-shadow: 0 20px 45px var(--shadow);
+    }
+
+    h1, h2, h3 {
+      margin-top: 0;
+      line-height: 1.3;
+    }
+
+    h1 {
+      font-size: clamp(2.2rem, 4vw, 4rem);
+      margin-bottom: 12px;
+    }
+
+    .hero p {
+      color: var(--muted);
+      max-width: 900px;
+      font-size: 1.06rem;
+    }
+
+    .tag {
+      display: inline-block;
+      padding: 7px 12px;
+      border-radius: 999px;
+      background: rgba(102, 197, 255, 0.14);
+      border: 1px solid rgba(102,197,255,0.32);
+      color: var(--primary);
+      font-size: 0.8rem;
+      letter-spacing: 0.08em;
+      text-transform: uppercase;
+      margin-bottom: 16px;
+      font-weight: 700;
+    }
+
+    section {
+      margin-top: 34px;
+      background: rgba(18, 27, 45, 0.82);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 24px 24px 18px;
+      box-shadow: 0 12px 28px rgba(0,0,0,0.18);
+    }
+
+    section h2 {
+      font-size: clamp(1.5rem, 2vw, 2.2rem);
+      margin-bottom: 14px;
+    }
+
+    p, li {
+      color: var(--text);
+      font-size: 1.02rem;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 18px;
+      margin-top: 18px;
+    }
+
+    .card {
+      background: rgba(25, 40, 67, 0.9);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      padding: 18px;
+    }
+
+    .card h3 {
+      color: var(--secondary);
+      margin-bottom: 8px;
+      font-size: 1.1rem;
+    }
+
+    ul {
+      margin: 0;
+      padding-left: 22px;
+    }
+
+    code, pre {
+      font-family: "Consolas", "Courier New", monospace;
+    }
+
+    .code-block {
+      background: #0a1220;
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 16px;
+      overflow-x: auto;
+      color: #dfeeff;
+      margin-top: 14px;
+    }
+
+    .flow {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+      margin-top: 18px;
+    }
+
+    .step {
+      background: rgba(255,255,255,0.04);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 12px 14px;
+      min-width: 180px;
+      text-align: center;
+      font-weight: 600;
+    }
+
+    .arrow {
+      color: var(--accent);
+      font-size: 1.6rem;
+      font-weight: 700;
+      margin: 0 4px;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 14px;
+      background: rgba(10, 18, 32, 0.65);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      overflow: hidden;
+    }
+
+    th, td {
+      border-bottom: 1px solid var(--border);
+      padding: 12px 14px;
+      text-align: left;
+      vertical-align: top;
+    }
+
+    th {
+      background: rgba(102,197,255,0.09);
+      color: var(--primary);
+    }
+
+    .footnote {
+      color: var(--muted);
+      font-size: 0.94rem;
+    }
+
+    @media (max-width: 700px) {
+      .page { padding: 20px 12px 60px; }
+      section { padding: 18px 16px 14px; }
+      .step { min-width: 140px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header class="hero">
+      <div class="tag">Project Narrative</div>
+      <h1>Databricks Ingest File</h1>
+      <p>
+        This project is a practical file-ingestion utility designed to detect local source files,
+        normalize them into tabular data, and push them into Databricks Delta tables in a repeatable,
+        resilient, and operationally friendly way. It blends file-watching automation, schema-safe SQL
+        generation, secure credential handling, and an ingestion lifecycle that moves completed files into
+        a processed archive while tracking what was already uploaded.
+      </p>
+      <p style="margin-top: 18px;">
+        Repository: <a href="https://github.com/ibis-equity/databricks-ingest-file" target="_blank" rel="noopener noreferrer" style="color: var(--primary); text-decoration: none;">https://github.com/ibis-equity/databricks-ingest-file</a>
+      </p>
+    </header>
+
+    <section>
+      <h2>1. Functional overview</h2>
+      <p>
+        At a functional level, the project is not a generic ETL framework. It is a focused ingestion engine
+        for landing files from a watched directory into Databricks. The system watches a source directory,
+        looks for matching files (by name pattern such as <code>*.csv</code>), validates that the file is ready
+        to read, and then creates or updates a Delta table in Databricks to receive the file contents.
+      </p>
+      <p>
+        Once the file is processed, the script saves a local state record so the same file is not re-imported
+        on a later run, and then moves the file to a processed directory. This gives the project a clean batch
+        and event-driven operational model: it is safe for one-time ingestion, continuous ingestion, and file-drop workflows.
+      </p>
+
+      <div class="grid">
+        <div class="card">
+          <h3>Core business capability</h3>
+          <p>Auto-ingest new files into Databricks without manual API calls or manual table creation.</p>
+        </div>
+        <div class="card">
+          <h3>Supported input formats</h3>
+          <p>CSV, JSON Lines, and Parquet files, each read into a pandas DataFrame before being converted to SQL inserts.</p>
+        </div>
+        <div class="card">
+          <h3>Operational model</h3>
+          <p>Event-driven watching by default, with a polling fallback when needed.</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>2. What the system does in practice</h2>
+      <div class="flow">
+        <div class="step">Detect file</div>
+        <div class="arrow">→</div>
+        <div class="step">Validate readiness</div>
+        <div class="arrow">→</div>
+        <div class="step">Normalize columns</div>
+        <div class="arrow">→</div>
+        <div class="step">Create Delta table</div>
+        <div class="arrow">→</div>
+        <div class="step">Insert rows</div>
+        <div class="arrow">→</div>
+        <div class="step">Archive file</div>
+      </div>
+
+      <p>
+        The ingestion flow is intentionally simple but robust. It begins by discovering files in a configured source directory.
+        When a matching file is found, it confirms the file still exists, is a regular file, and is not locked by another process.
+        The script then reads the content into a DataFrame, sanitizes column names, adds metadata columns, and creates a unique
+        Delta table name based on the schema, timestamp, sanitized file stem, and a deterministic hash.
+      </p>
+      <p>
+        The resulting data is inserted in batches using generated SQL values. The file is then moved to a processed folder and logged in a JSON state file so future runs do not duplicate the ingestion.
+      </p>
+    </section>
+
+    <section>
+      <h2>3. Technical architecture</h2>
+      <div class="grid">
+        <div class="card">
+          <h3>Primary runtime</h3>
+          <p>The main runtime logic lives in <code>main.py</code> and consists of argument parsing, discovery, file processing, Databricks connection setup, and the watch loop.</p>
+        </div>
+        <div class="card">
+          <h3>Data access layer</h3>
+          <p>It relies on pandas for tabular parsing and the Databricks SQL connector for direct SQL execution against a warehouse.</p>
+        </div>
+        <div class="card">
+          <h3>Filesystem automation</h3>
+          <p>The watchdog library is used to listen for file events, with a polling fallback for environments where event watchers are unavailable or insufficient.</p>
+        </div>
+        <div class="card">
+          <h3>State management</h3>
+          <p>A JSON state file stores processed absolute paths, enabling idempotent behavior across application restarts.</p>
+        </div>
+      </div>
+
+      <h3 style="margin-top: 22px;">Key technical characteristics</h3>
+      <ul>
+        <li>It is a Python-based, script-first ingestion utility rather than a packaged service.</li>
+        <li>It creates a schema if it does not yet exist.</li>
+        <li>It creates a new Delta table for each file upload instead of appending to a single long-lived landing table.</li>
+        <li>It uses safe SQL quoting for identifiers and literal rendering for values.</li>
+        <li>It handles concurrency-sensitive file processing by waiting briefly when a file is still being written.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>4. File processing lifecycle</h2>
+      <p>The project’s operational lifecycle is deterministic and straightforward:</p>
+      <table>
+        <thead>
+          <tr>
+            <th>Stage</th>
+            <th>Behavior</th>
+            <th>Implementation detail</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Discovery</td>
+            <td>Searches the configured directory for matching files.</td>
+            <td><code>discover_files()</code> walks a directory tree or a single directory depending on recursive settings.</td>
+          </tr>
+          <tr>
+            <td>Filtering</td>
+            <td>Skips files that have already been processed.</td>
+            <td>Absolute path strings are kept in a JSON state set and compared before execution.</td>
+          </tr>
+          <tr>
+            <td>Read and normalize</td>
+            <td>Reads file content and standardizes column names.</td>
+            <td><code>read_input_file()</code> reads CSV/JSON/Parquet and applies <code>sanitize_column_name()</code>.</td>
+          </tr>
+          <tr>
+            <td>Metadata augmentation</td>
+            <td>Adds ingestion metadata to every row.</td>
+            <td><code>_ingested_at</code> and <code>_source_file</code> are appended before insert.</td>
+          </tr>
+          <tr>
+            <td>Table creation</td>
+            <td>Ensures the target schema and Delta table exist.</td>
+            <td><code>ensure_schema()</code> and <code>ensure_table()</code> execute <code>CREATE SCHEMA IF NOT EXISTS</code> and <code>CREATE TABLE IF NOT EXISTS</code>.</td>
+          </tr>
+          <tr>
+            <td>Batch insert</td>
+            <td>Rows are inserted into the table in manageable chunks.</td>
+            <td><code>batched()</code> splits row tuples before executing multi-row <code>INSERT INTO</code> statements.</td>
+          </tr>
+          <tr>
+            <td>Completion</td>
+            <td>Archives the file and persists state.</td>
+            <td><code>move_to_processed()</code> moves the file and <code>save_state()</code> writes the state ledger.</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section>
+      <h2>5. IT pipeline associated with file ingestion</h2>
+      <p>
+        The file pipeline in this project is the operational backbone of the ingestion process. It begins when a file arrives in a source directory and ends when that file has been transformed into a Databricks table and moved into a processed archive. The pipeline is intentionally simple but complete: it includes intake, validation, parsing, metadata enrichment, schema creation, data load, archival, and state tracking.
+      </p>
+
+      <div class="flow">
+        <div class="step">File lands in inbox</div>
+        <div class="arrow">→</div>
+        <div class="step">Discovery + filter</div>
+        <div class="arrow">→</div>
+        <div class="step">Validate readiness</div>
+        <div class="arrow">→</div>
+        <div class="step">Read + normalize</div>
+        <div class="arrow">→</div>
+        <div class="step">Create table</div>
+        <div class="arrow">→</div>
+        <div class="step">Batch insert</div>
+        <div class="arrow">→</div>
+        <div class="step">Archive file</div>
+      </div>
+
+      <p>
+        In practical IT terms, the pipeline behaves like a bronze ingestion workflow. Files are first detected either by a filesystem event or by periodic scanning. The application checks whether they are valid targets, ensures they are not partially written, and filters out duplicates already stored in the local state ledger. Once accepted, files are read into a DataFrame, their columns are sanitized, and additional metadata such as <code>_ingested_at</code> and <code>_source_file</code> is added to each row.
+      </p>
+      <p>
+        After parsing, the system prepares the landing area in Databricks. It ensures the schema exists, then creates a uniquely named Delta table and loads rows in chunks using generated SQL. This is designed to keep the process resilient, synchronized, and operationally safe. Once the upload succeeds, the original file is moved to a processed directory and the state file is updated so the same file is not picked up again on the next cycle.
+      </p>
+      <p>
+        This makes the project an IT pipeline for file-based data intake rather than a one-off utility: it is built to run repeatedly, handle incoming file drops reliably, and feed raw operational data into a lakehouse architecture with traceability and control.
+      </p>
+
+      <div class="card" style="margin-top:20px; background: rgba(25,40,67,0.9);">
+        <h3 style="color: var(--secondary);">Pipeline diagram</h3>
+        <div class="code-block">
+          <pre>Source folder / inbox
+    ↓
+File discovery (event or poll)
+    ↓
+Duplicate filter + file readiness check
+    ↓
+Read CSV / JSON / Parquet into DataFrame
+    ↓
+Normalize column names + add metadata
+    ↓
+Ensure target schema exists
+    ↓
+Create unique Delta table per file
+    ↓
+Insert rows in batches to Databricks
+    ↓
+Move file to processed archive
+    ↓
+Persist absolute path in state file</pre>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>6. Data normalization and SQL generation</h2>
+      <p>
+        One of the project’s most important technical details is how it turns arbitrary external files into safe transactional SQL.
+        This is not just a CSV copy utility. It deliberately normalizes column names and generates valid Databricks SQL for identifiers, types, and values.
+      </p>
+
+      <ul>
+        <li><strong>Column sanitization:</strong> spaces, punctuation, and mixed casing are collapsed into lowercase underscore-based names.</li>
+        <li><strong>Type mapping:</strong> pandas dtypes are interpreted into Databricks SQL types such as BIGINT, DOUBLE, BOOLEAN, TIMESTAMP, and STRING.</li>
+        <li><strong>Identifier quoting:</strong> schema names and table names are turned into quoted SQL identifiers to protect names with special characters.</li>
+        <li><strong>Literal conversion:</strong> strings, booleans, dates, datetimes, decimals, and nulls are rendered into valid SQL literals.</li>
+      </ul>
+
+      <div class="code-block">
+        <pre>sanitize_column_name(" Customer Name ") -> "customer_name"
+quote_ident("schema.table") -> "`schema`.`table`"
+to_sql_type("datetime64[ns]") -> "TIMESTAMP"
+sql_literal("O'Hare") -> "'O''Hare'"</pre>
+      </div>
+
+      <p>
+        This is especially important because input files may come from downstream systems with non-standard headers and inconsistent casing. Without this conversion layer, Delta table creation and row insertion would be fragile and error-prone.
+      </p>
+    </section>
+
+    <section>
+      <h2>7. Unique table naming design</h2>
+      <p>
+        Each file upload is assigned a unique Delta table name so that every file is isolated into its own table. The design is intentionally built to prevent collisions and preserve some traceability in naming.
+      </p>
+      <ul>
+        <li>Base schema: <code>etl-bronze-pipelne-data</code></li>
+        <li>Base table prefix: <code>bronze-ingest-</code></li>
+        <li>Timestamp: <code>YYYYMMDD_HHMMSS_microseconds</code></li>
+        <li>Sanitized file stem: a human-readable suffix</li>
+        <li>Hash: a deterministic 8-character SHA1 from the file stem</li>
+      </ul>
+
+      <p>
+        The pattern ensures that table names are unique even if multiple files are uploaded in the same second, and it also prevents names from exceeding the configured maximum using the <code>MAX_FULL_TABLE_NAME_LENGTH</code> guardrail.
+      </p>
+    </section>
+
+    <section>
+      <h2>8. Execution modes</h2>
+      <p>
+        The project supports two main execution modes, giving it flexibility across different operational scenarios.
+      </p>
+      <table>
+        <thead>
+          <tr>
+            <th>Mode</th>
+            <th>Purpose</th>
+            <th>Behavior</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><code>event</code></td>
+            <td>Continuous, file-drop-driven ingestion</td>
+            <td>Uses watchdog to react immediately when files are created or moved into the watched directory.</td>
+          </tr>
+          <tr>
+            <td><code>poll</code></td>
+            <td>Periodic scanning</td>
+            <td>Periodically discovers files and processes those that are new, useful when filesystem events are not available.</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <p>
+        Additional operational controls include <code>--once</code> for a single scan, <code>--dry-run</code> for parse-only workflows, recursive watching via <code>--watch-recursive</code>, and a subfolder depth limit through <code>--watch-depth</code>.
+      </p>
+    </section>
+
+    <section>
+      <h2>9. Reliability and safety features</h2>
+      <ul>
+        <li><strong>Idempotence:</strong> processed files are tracked so repeated runs do not re-import the same artifact.</li>
+        <li><strong>File lock handling:</strong> the script waits for a file to become available for exclusive access before reading it.</li>
+        <li><strong>Graceful failure:</strong> exceptions are caught and logged without crashing the monitoring loop.</li>
+        <li><strong>Batch inserts:</strong> prevents huge single statements from overwhelming Databricks or the SQL connector.</li>
+        <li><strong>Safe removal:</strong> completed files are moved to a processed directory rather than deleted immediately.</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>10. Databricks connectivity and secrets</h2>
+      <p>
+        The ingestion runtime depends on Databricks connection variables: server hostname, HTTP path, and access token. These are read from environment variables by default, but the repository also contains secure patterns for secret management.
+      </p>
+
+      <div class="grid">
+        <div class="card">
+          <h3>Environment-based configuration</h3>
+          <p>The fastest and most typical pattern is to load values such as <code>DATABRICKS_SERVER_HOSTNAME</code>, <code>DATABRICKS_HTTP_PATH</code>, and <code>DATABRICKS_TOKEN</code> from the local environment.</p>
+        </div>
+        <div class="card">
+          <h3>Databricks secret scope</h3>
+          <p>Scripts in the repo also support creating a Databricks secret scope and populating all required values for a repeatable deployment pattern.</p>
+        </div>
+        <div class="card">
+          <h3>Azure Key Vault</h3>
+          <p>An alternative path uses Azure CLI and Key Vault to resolve secrets when environment variables are missing.</p>
+        </div>
+      </div>
+
+      <p>
+        The project includes a healthcheck utility, <code>databricks_healthcheck.py</code>, which validates connectivity and optionally verifies cluster readiness before executing a query. This is useful for proving that the warehouse environment is alive and configured correctly before production loads begin.
+      </p>
+    </section>
+
+    <section>
+      <h2>11. Supporting utilities and adjacent capabilities</h2>
+      <p>The repository is not limited to the core ingestion script. It includes adjacent utilities that deepen the data engineering story.</p>
+
+      <div class="grid">
+        <div class="card">
+          <h3><code>databricks_healthcheck.py</code></h3>
+          <p>Performs SQL connectivity validation and cluster readiness checks using Databricks SQL and the Databricks Workspace API.</p>
+        </div>
+        <div class="card">
+          <h3><code>flatten-json/</code></h3>
+          <p>Contains code to flatten nested JSON payloads into Delta tables, especially useful for complex records like customer or product data.</p>
+        </div>
+        <div class="card">
+          <h3><code>shopify_salsify/</code></h3>
+          <p>Contains example ingestion logic for Shopify and Salsify sources using requests and Delta Live Tables (DLT) patterns.</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>12. Functional and technical summary</h2>
+      <p>
+        In essence, this project is a compact, practical bridge between local business files and Databricks Lakehouse storage. It automates the ingestion loop, handles multiple data formats, normalizes file content into a consistent schema, creates dedicated Delta tables for each upload, and tracks completion in a durable state store.
+      </p>
+      <p>
+        Technically, it is a Python utility built around pandas, SQL generation, Databricks connectors, file watcher automation, and operational safeguards. It is intentionally engineered for straightforward deployment in real-world ingestion pipelines where files appear at unpredictable times, metadata must be trusted, and table creation should be deterministic and resilient.
+      </p>
+      <p class="footnote">
+        The project is best understood as a focused ingestion toolkit: small enough to run locally or in an automation host, but robust enough to serve as a foundation for bronze-layer ingestion into Databricks.
+      </p>
+    </section>
+  </div>
+</body>
+</html>

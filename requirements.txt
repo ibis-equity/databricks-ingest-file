@@ -1,7 +1,9 @@
 databricks-sql-connector>=3.3.0
+pyspark>=3.5.0
 pandas>=2.0.0
 pyarrow>=16.0.0
 watchdog>=4.0.0
 
 
 databricks-sdk
+pyspark-stubs
